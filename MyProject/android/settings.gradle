@@ -1,0 +1,9 @@
+rootProject.name = 'MyProject'
+include ':@react-native-community_art'
+project(':@react-native-community_art').projectDir = new File(rootProject.projectDir, '../node_modules/@react-native-community/art/android')
+include ':react-native-datatable-report'
+project(':react-native-datatable-report').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-datatable-report/android')
+include ':react-native-datatable-report'
+project(':react-native-datatable-report').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-datatable-report/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
