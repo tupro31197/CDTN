@@ -5,18 +5,17 @@ import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 @Data
-@Document(collection = "student")
-public class Student {
+@Document(collection = "employee")
+public class Employee {
     @Id
     private String id;
-    private String studentId;
+    private String employeeId;
     private String name;
-    private String className;
-    private String departmentId;
+    private String groupSubjectId;
     private String email;
     private String password;
     private String phoneNumber;
     private String dayOfBirth;
     private String address;
-    private String lastVisitedGroup;
+    private String role;
 }

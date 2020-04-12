@@ -5,9 +5,11 @@ import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 @Data
-@Document(collection = "category")
-public class Category {
+@Document(collection = "lesson")
+public class Lesson {
     @Id
     private String id;
-    private String name;
+    private String shiftId;
+    private String roomId;
+    private String termId;
 }

@@ -1,0 +1,157 @@
+AD204,Ẩm thực Việt nam,Ẩm thực,3,20,20
+AD204A,Ẩm thực Việt Nam,Ẩm thực,3,20,20
+AD211,Văn hóa Hà Nội,Khoa học xã hội và nhân văn,2,20,20
+AD212,Phương pháp hùng biện và các thủ thuật tranh biện,Khoa học xã hội và nhân văn,3,20,20
+AD213,Hát – Nhạc,Âm nhạc và ứng dụng,3,20,20
+AD213A,Hát – Nhạc,Âm nhạc và ứng dụng,4,20,20
+AD214,Nâng cao chất lượng giọng hát,Âm nhạc và ứng dụng,3,20,20
+AD215,Ứng dụng PowerPoint,Tin,3,20,20
+AD216,Tâm lý và kỹ năng giao tiếp với người cao tuổi,Khoa học xã hội và nhân văn,3,20,40
+AD221,Kĩ năng giao lưu văn hóa,Khoa học xã hội và nhân văn,2,20,40
+AD222,Thực hành giao lưu văn hoá,Khoa học xã hội và nhân văn,3,,30
+AD231,Thể thao,Thể dục,3,,40
+AD312,Bóng đá,Thể dục,4,,40
+AD313,Bóng đá nâng cao,Thể dục,4,,40
+AD314,Nhảy hiện đại,Thể dục,4,,40
+AD315,Nhảy hiện đại nâng cao,Thể dục,4,,40
+AD414,Pháp luật đại cương,Thể dục,2,20,
+AD420,Khởi nghiệp,Khoa học xã hội và nhân văn,3,20,
+CF201,Lý thuyết thuật toán,Toán,3,30,20
+CF201A,Lý thuyết thuật toán 1,Toán,2,30,20
+CF201B,Lý thuyết thuật toán 2,Toán,2,30,20
+CF211,Phân tích và thiết kế thuật toán,Toán,2,20,20
+CF212,Cấu trúc dữ liệu,Tin,3,30,
+CF212A,Cấu trúc dữ liệu 1,Tin,2,30,
+CF212B,Cấu trúc dữ liệu 2,Tin,2,30,
+CF231,Lý thuyết thông tin và mã hóa,Tin,2,30,
+CF301,Ngôn ngữ hình thức và Otomat,Tin,3,30,
+CF302,"Văn phạm, ngôn ngữ hình thức, otomat và CT dịch",Tin,3,30,
+CF302B,Chương trình dịch,Tin,2,30,
+CF321,Xử lý tín hiệu số,Tin,3,30,
+CG101,Đồ họa căn bản,Tin,2,30,
+CG102,Đồ họa vector,Tin,2,30,
+CG103,Xử lý ảnh phục vụ in ấn và Web,Tin,3,30,10
+CG104,Quảng cáo và xuất bản truyền thông,Tin,3,30,20
+CG201,Thiết kế Web,Tin,3,30,
+CG202,Web động và tương tác,Tin,5,30,20
+CG203,Adobe Dream Weave CS6,Tin,2,30,
+CG251,Minh họa với Adobe Illustration,Tin,2,30,
+CG253,Xử lý ảnh với Adobe Photoshop,Tin,3,30,
+CG254,Thiết kế QC và XBTT với Adobe Indesign,Tin,2,30,10
+CG257,Thiết kế Web với Adobe Dream Weaver,Tin,2,30,10
+CG275,Thiết kế Web động với Adobe Flash,Tin,3,30,10
+CG277,Thiết kế Web động và HH với Adobe Flash,Tin,5,30,10
+CG283,Biên tập và Streaming Video,Tin,3,30,10
+CG285,Biên tập Audio - Video,Tin,4,30,10
+CG288,Visual Effects - After Effects,Tin,2,30,10
+CG428,CĐTN: Đồ họa QC và xuất bản TT,Tin,3,30,10
+CG429,CĐTN Thiết kế Web,Tin,3,30,20
+CS100,Tin đại cương,Tin,2,30,
+CS100A,Nhập môn khoa học máy tính,Tin,2,30,
+CS110,Kỹ thuật số,Tin,2,30,
+CS121,Ngôn ngữ lập trình,Tin,3,30,
+CS121A,Ngôn ngữ lập trình 1A,Tin,2,30,
+CS122,Lập trình hướng đối tượng,Tin,3,25,
+CS122A,Lập trình hướng đối tượng,Tin,2,25,
+CS122B,Lập trình hướng đối tượng nâng cao,Tin,2,25,
+CS211,Vi điều khiển và ứng dụng,Tin,3,25,
+CS212,Kiến trúc máy tính,Tin,3,25,
+CS212A,Kiến trúc máy tính 1,Tin,2,25,
+CS212B,Kiến trúc máy tính 2,Tin,2,25,
+CS223,Lập trình Java,Tin,3,25,
+CS223B,Lập trình Java nâng cao,Tin,2,25,
+CS224,Lập trình .Net,Tin,3,25,
+CS311,Lập trình ứng dụng di động,Tin,2,25,
+CS311A,Hợp ngữ,Tin,2,25,
+CS312,Lập trình hệ thống,Tin,3,25,
+CS312A,Lập trình hệ thống,Tin,2,25,
+CS315,Nguyên lý hệ điều hành,Tin,3,25,
+CS315A,Hệ điều hành Unix,Tin,3,25,
+CS316,Hệ điều hành Unix,Tin,3,25,
+CS322,Chương trình dịch,Tin,2,25,
+CS324,Kỹ thuật lập trình,Tin,2,25,
+CS325,Lập trình PHP,Tin,3,25,
+CS411,Ứng dụng KT vi xử lý trong đo lường và điều khiển,Tin,2,20,
+CS425,Một số vấn đề hiện đại trong khoa học máy tính,Tin,2,20,
+CS428,CĐTN: Công nghệ .Net,Tin,6,20,
+CS429,CĐTN: Công nghệ Java,Tin,6,20,
+CS499,KLTN ngành Khoa học máy tính,Tin,6,20,
+EC101,Kinh tế học đại cương,Quản trị kinh doanh,3,20,
+EC102,Nhập môn kinh tế học,Quản trị kinh doanh,2,20,
+ET220,Lý thuyết mạch,Kế toán,3,20,
+FN334,Đầu tư chứng khoán,Tài chính-ngân hàng,2,20,
+GE100,Tiếng Anh cho người mới bắt đầu,Tiếng Anh,2,20,
+GE100A,Tiếng Anh cho người mới bắt đầu,Tiếng Anh,0,20,
+GE101,Tiếng Anh sơ cấp 1,Tiếng Anh,2,20,
+GE101A,Tiếng Anh sơ cấp 1,Tiếng Anh,2,20,
+GE102,Tiếng Anh sơ cấp 2,Tiếng Anh,2,20,
+GE102A,Tiếng Anh sơ cấp 2,Tiếng Anh,2,20,
+GE103,Tiếng Anh sơ cấp 3,Tiếng Anh,2,20,
+GE201,Tiếng Anh sơ trung cấp 1,Tiếng Anh,2,20,
+GE201A,Tiếng Anh sơ trung cấp 1,Tiếng Anh,2,20,
+GE202,Tiếng Anh sơ trung cấp 2,Tiếng Anh,2,20,
+GE202A,Tiếng Anh sơ trung cấp 2,Tiếng Anh,2,20,
+GE203,Kỹ năng giao tiếp tiếng Anh 1,Tiếng Anh,2,20,
+GE203A,Kỹ năng giao tiếp tiếng anh 1,Tiếng Anh,2,20,
+GE204,Kỹ năng giao tiếp tiếng Anh 2,Tiếng Anh,2,20,
+GE205,Tiếng Anh sơ trung cấp 3,Tiếng Anh,2,20,
+GE301,Tiếng Anh trung cấp 1,Tiếng Anh,2,20,
+GE303,Tiếng Anh trung cấp 2,Tiếng Anh,2,20,
+GE305,Tiếng Anh trung cấp 3,Tiếng Anh,2,20,
+GE320A,TOEIC,Tiếng Anh,2,20,
+GF101,Tiếng Pháp 1,Tiếng Pháp,2,20,
+GF102,Tiếng Pháp 2,Tiếng Pháp,2,20,
+GF223,Tiếng Pháp 3,Tiếng Pháp,2,20,
+GI101,Tiếng Ý 1,Tiếng Ý,2,20,
+GI102,Tiếng Ý 2,Tiếng Ý,2,20,
+GJ101,Tiếng Nhật 1,Tiếng Nhật,2,20,
+GJ102,Tiếng Nhật 2,Tiếng Nhật,2,20,
+GK101,Tiếng Hàn 1,Tiếng Hàn,2,20,
+GK102,Tiếng Hàn 2,Tiếng Hàn,2,20,
+GZ101,Tiếng Trung 1,Tiếng Trung,2,20,
+GZ102,Tiếng Trung 2,Tiếng Trung,2,20,
+GZ103,Tiếng Trung 3,Tiếng Trung,2,20,
+IM001,Kỹ năng CNTT cơ bản,Tin,0,30,
+IM002,Kỹ năng soạn thảo VB(MS Office),Tin,3,20,
+IM003,Kỹ năng soạn thảo VB(open Office),Tin,3,20,
+IM004,Ứng dụng Excel,Tin,3,30,
+IM201,Kỹ năng soạn thảo VB (MS office),Tin,3,30,
+IM202,Kỹ năng soạn thảo văn bản (Open Office),Tin,3,30,
+IM203,Ứng dụng Excel,Tin,3,30,
+IM204,Ứng dụng Cal,Tin,3,30,
+IP401,Thực tập ngành Khoa học máy tính,Tin,2,30,
+IS009,Máy tính và Internet,Tin,1,30,
+IS101,Tin văn phòng,Tin,3,30,
+IS206,Kĩ năng soạn thảo văn bản,Tin,3,30,
+IS207,Ứng dụng Exel,Tin,3,30,
+IS222,Cơ sở dữ liệu,Tin,3,30,
+IS222A,Bài tập lớn về CSDL,Tin,2,30,
+IS223A,Cơ sở dữ liệu 2,Tin,2,30,
+IS224A,Cơ sở dữ liệu phân tán,Tin,2,30,
+IS301,Tin học văn phòng nâng cao,Tin,3,30,
+IS314,Hệ thống thông tin,Tin,3,30,
+IS316,Hạ tầng công nghệ thông tin,Tin,2,30,
+IS322,Hệ quản trị cơ sở dữ liệu,Tin,3,40,
+IS322A,Hệ quản trị cơ sở dữ liệu 1,Tin,2,40,
+IS322B,Hệ quản trị cơ sở dữ liệu 2,Tin,2,40,
+IS322C,Hệ quản trị cơ sở dữ liệu 3,Tin,2,40,
+IS322D,Hệ quản trị cơ sở dữ liệu 4,Tin,2,40,
+IS322E,Hệ quản trị cơ sở dữ liệu,Tin,4,40,
+IS325,Cơ sở dữ liệu phân tán,Tin,2,40,
+IS332,Phân tích thiết kế hướng đối tượng,Tin,3,40,
+IS333,Phân tích thiết kế hệ thống thông tin,Tin,2,40,
+IS345,An toàn thông tin,Tin,3,40,
+IS346,Pháp luật và chính sách an toàn thông tin,Tin,2,40,
+IS381,Hệ thống thông tin quản lý,Tin,3,40,
+IS383,Hệ thống thông tin nâng cao,Tin,2,40,
+IS385,Cơ sở dữ liệu phân tán,Tin,2,40,
+IS424,Lập trình cơ sở dữ liệu,Tin,3,40,
+IS424A,Lập trình cơ sở dữ liệu 1,Tin,4,40,10
+IS424B,Lập trình cơ sở dữ liệu 2,Tin,4,40,10
+IS424C,CĐTN: Phát triển ứng dụng trên Oracle,Tin,2,40,
+IS430,Công nghệ Blockchain,Tin,3,40,20
+IS480,Kiến trúc doanh nghiệp,Tin,3,40,10
+IS484,CĐTN: Cơ sở dữ liệu,Tin,6,40,
+IS487,CĐTN: Hệ thống thông tin quản lý,Tin,6,40,10
+IS489,CĐTN: Hệ thống thông tin ngân hàng,Tin,6,40,10
+MA100A,Toán 1,Toán,2,40,
