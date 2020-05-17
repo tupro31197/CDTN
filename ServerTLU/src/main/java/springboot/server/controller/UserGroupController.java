@@ -1,7 +1,6 @@
 package springboot.server.controller;
 
 import org.springframework.web.bind.annotation.*;
-import springboot.server.model.StudentTerm;
 import springboot.server.model.UserGroup;
 import springboot.server.repository.UserGroupRepository;
 

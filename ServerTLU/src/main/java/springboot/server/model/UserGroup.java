@@ -8,7 +8,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Document(collection = "userGroup")
 public class UserGroup {
     @Id
-    private String id;
+    private String _id;
     private String userId;
     private String groupId;
     private String isAdmin;

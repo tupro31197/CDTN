@@ -8,10 +8,11 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Document(collection = "semester")
 public class Semester {
     @Id
-    private String id;
+    private String _id;
     private String name;
-    private String group;
+    private int group;
     private String year;
     private String start;
     private String end;
+    private int status;
 }

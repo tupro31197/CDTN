@@ -8,8 +8,12 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Document(collection = "lesson")
 public class Lesson {
     @Id
-    private String id;
+    private String _id;
+    private String lessonName;
+    private String subjectId;
     private String shiftId;
     private String roomId;
-    private String termId;
+    private String teacherId;
+    private String status;
+    private String semesterId;
 }
