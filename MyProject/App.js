@@ -25,7 +25,7 @@ export default class TLUApp extends Component {
   render() {
     return (
       <MyApp />
-    )
+    );
   }
 }
 

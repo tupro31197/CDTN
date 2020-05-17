@@ -31,7 +31,7 @@ class CustomHeader extends Component {
 const styles = StyleSheet.create({
     wrapper: { 
         height: height / 16, 
-        backgroundColor: '#34B089', 
+        backgroundColor: 'red', 
         padding: 10, 
         justifyContent: 'space-around' 
     },
