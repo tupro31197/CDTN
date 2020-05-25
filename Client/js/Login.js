@@ -3,9 +3,17 @@ let userName = window.localStorage.getItem("userName");
 let userRole = window.localStorage.getItem("userRole");
 
 $(document).ready(function () {
+    hideElemnt();
     login();
     loadUser();
 });
+
+function hideElemnt() {
+    $("#DataManager").hide();
+    $("#GeneralInformation").hide();
+    $("#ScheduleManager").hide();
+    $("#RegisterManager").hide();
+}
 
 function login() {
     $("#submitLogin").click(function () {
@@ -33,13 +41,41 @@ function loadUser() {
         + '</a>';
     $("#user-info").append(out);
     if (userRole == "PDT") {
-
+        $("#DataManager").show();
+        $("#ScheduleManager").show();
+        $("#GeneralInformation").show();
+        $("#RegisterManager").show();
+        $("#GroupSubjectSchedule").hide();
+        $("#TeacherSchedule").hide();
+        $("#SubjectPlan").hide();
+        $("#CreateLesson").hide();
+        $("#StudentGrade").hide();
+        $("#RegisLesson").hide();
     } else if (userRole = "Trưởng bộ môn") {
-
+        $("#ScheduleManager").show();
+        $("#GeneralInformation").show();
+        $("#RegisterManager").show();
+        $("#SubjectPlan").hide();
+        $("#CreateLesson").hide();
+        $("#WaitingLesson").hide();
+        $("#NewYear").hide();
+        $("#StudentGrade").hide();
+        $("#StudentSchedule").hide();
+        $("#RegisLesson").hide();
     } else if (userRole = "Giảng viên") {
-
+        $("#ScheduleManager").show();
+        $("#GeneralInformation").hide();
+        $("#WaitingLesson").hide();
+        $("#NewYear").hide();
+        $("#StudentGrade").hide();
     } else if (userRole = "SV") {
-
+        $("#GeneralInformation").show();
+        $("#RegisterManager").show();
+        $("#TeacherManagement").hide();
+        $("#StudentManagement").hide();
+        $("#FinalGrade").hide();
+        $("#RegisterCondition").hide();
+        $("#SupportRegister").hide();
     }
 
 }

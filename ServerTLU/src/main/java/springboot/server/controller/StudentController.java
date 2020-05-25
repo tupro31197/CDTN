@@ -44,6 +44,12 @@ public class StudentController {
         this.roomRepository = roomRepository;
     }
 
+    @GetMapping(value = "/getInfo/{studentId}")
+    @ResponseBody
+    public Student getInfoByStudentId(@PathVariable String studentId) {
+        return studentRepository.findByStudentId(studentId);
+    }
+
     @GetMapping(value = "/")
     @ResponseBody
     public List<StudentResponse> getAllStudent() {

@@ -1,7 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Client" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6eb008ad-8325-4c7b-9e43-f8de3c2d7357" name="Default Changelist" comment="" />
+    <list default="true" id="6eb008ad-8325-4c7b-9e43-f8de3c2d7357" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/SupportRegister.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/CreateLesson.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/CreateLesson.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/DepartmentManagement.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/DepartmentManagement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/FinalGrade.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/FinalGrade.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/GroupSubjectManagement.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/GroupSubjectManagement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/GroupSubjectSchedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/GroupSubjectSchedule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/NewYear.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/NewYear.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/Profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/Profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/RegisLesson.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/RegisLesson.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/RegisterCondition.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/RegisterCondition.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/RoomManagement.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/RoomManagement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/SchoolSchedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/SchoolSchedule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/SemesterManagement.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/SemesterManagement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/ShiftManagement.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/ShiftManagement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/StudentGrade.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/StudentGrade.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/StudentManagement.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/StudentManagement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/StudentSchedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/StudentSchedule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/StudyProgram.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/StudyProgram.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/SubjectManagement.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/SubjectManagement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/SubjectPlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/SubjectPlan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/SupportRegister.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/SupportRegister.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/TeacherManagement.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/TeacherManagement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/TeacherSchedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/TeacherSchedule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdtnHTML/WaitingLesson.html" beforeDir="false" afterPath="$PROJECT_DIR$/cdtnHTML/WaitingLesson.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerTLU/src/main/java/springboot/server/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ServerTLU/src/main/java/springboot/server/controller/StudentController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,22 +83,28 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Xv2RgOxj81t3Oc4MYtZ0aofL1L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -47,18 +122,6 @@
       <recent name="C:\Users\HaAnhTU\Desktop\DKH\frontend\css" />
       <recent name="C:\Users\HaAnhTU\Desktop\DKH\frontend\js" />
     </key>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -178,11 +241,27 @@
       <workItem from="1589460339229" duration="2122000" />
       <workItem from="1589683222739" duration="13166000" />
       <workItem from="1589715886117" duration="6688000" />
+      <workItem from="1589761558008" duration="359000" />
+      <workItem from="1590240902607" duration="910000" />
+      <workItem from="1590241870526" duration="3350000" />
+      <workItem from="1590245326140" duration="764000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="592" y="217" key="FileChooserDialogImpl" timestamp="1586440885330">
