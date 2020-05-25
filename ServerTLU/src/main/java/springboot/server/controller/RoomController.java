@@ -88,18 +88,19 @@ public class RoomController {
         Semester semester = semesterRepository.findBy_id(semesterId); // Lấy ra học kì theo mã học kì truyền vào
         Date semesterStart = new SimpleDateFormat("dd/MM/yyyy").parse(semester.getStart()); // Lấy ra ngày bắt đầu của học kì
         Date semesterEnd = new SimpleDateFormat("dd/MM/yyyy").parse(semester.getEnd()); // Lấy ra ngày kết thúc của học kì
-        List<Room> listRoom = roomRepository.findAll(); // Lấy ra toàn bộ danh sách phòng học trong hệ thống
+        List<Room> listRoom = roomRepository.findBySize(size); // Lấy ra toàn bộ danh sách phòng học trong hệ thống
         Shift shift = shiftRepository.findBy_id(shiftId); // Lấy ra Ca học theo mã ca học truyền vào
         int s1 = Integer.parseInt(shift.getStartShift()); // Lấy ra ca bắt đầu của ca học hiện tại
         int s2 = Integer.parseInt(shift.getEndShift()); // Lấy ra ca kết thúc của ca học hiện tại
         List<Lesson> lessonList = lessonRepository.findAll(); // Lấy ra toàn bộ các lớp học đã mở
         for (Lesson lesson: lessonList) { // Duyệt toàn bộ các lớp học đã mở
-            if (roomRepository.findBy_id(lesson.getRoomId()) != null) {
-                if (!roomRepository.findBy_id(lesson.getRoomId()).getSize().equals(size)) {
+            Room room = roomRepository.findBy_id(lesson.getRoomId());
+            if (room != null) {
+                if (room.getSize().equals(size)) {
                     Semester openedSemester = semesterRepository.findBy_id(lesson.getSemesterId()); // Lấy ra học kì tương ứng ca học đã mở
-                    Date pickedSemesterStart = new SimpleDateFormat("dd/MM/yyyy").parse(openedSemester.getStart()); // Lấy ra ngày bắt đầu của học kì đang xét
-                    Date pickedSemesterEnd = new SimpleDateFormat("dd/MM/yyyy").parse(openedSemester.getEnd()); // Lấy ra ngày kết thúc của học kì đang xét
-                    if (semesterStart.before(pickedSemesterEnd) && semesterEnd.after(pickedSemesterStart)) { // Kiểm tra về thời gian của học kì
+                    Date currentSemesterStart = new SimpleDateFormat("dd/MM/yyyy").parse(openedSemester.getStart()); // Lấy ra ngày bắt đầu của học kì đang xét
+                    Date currentSemesterEnd = new SimpleDateFormat("dd/MM/yyyy").parse(openedSemester.getEnd()); // Lấy ra ngày kết thúc của học kì đang xét
+                    if (semesterStart.before(currentSemesterEnd) && semesterEnd.after(currentSemesterStart)) { // Kiểm tra về thời gian của học kì
                         Shift pickedShift = shiftRepository.findBy_id(lesson.getShiftId()); // Lấy ra ca học tương ứng với lớp học đã mở
                         int s3 = Integer.parseInt(pickedShift.getStartShift()); // Lấy ra ca bắt đầu của ca học đang xét
                         int s4 = Integer.parseInt(pickedShift.getEndShift()); // Lấy ra ca kết thúc của ca học đang xét
@@ -118,7 +119,7 @@ public class RoomController {
                 }
             }
         }
-        return listRoom; // Trả về ca học cần tìm
+        return listRoom; // Trả về danh sách phòng học còn trống
     }
 
     @PostMapping(value = "/import")
