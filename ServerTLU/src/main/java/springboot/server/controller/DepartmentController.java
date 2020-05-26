@@ -40,9 +40,9 @@ public class DepartmentController {
 
     @PostMapping(value = "/")
     @ResponseBody
-    public boolean saveDepartment(@RequestBody Department department) {
+    public Department saveDepartment(@RequestBody Department department) {
         departmentRepository.save(department);
-        return true;
+        return department;
     }
 
     @DeleteMapping(value = "/{id}")
@@ -57,6 +57,6 @@ public class DepartmentController {
     @GetMapping(value = "/isExist/{departmentId}")
     @ResponseBody
     public boolean isExist(@PathVariable String departmentId) {
-        return departmentRepository.findByDepartmentId(departmentId) != null;
+        return departmentRepository.findByDepartmentIdAndIsDeleted(departmentId, false) != null;
     }
 }

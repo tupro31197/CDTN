@@ -11,4 +11,5 @@ public interface RoomRepository extends MongoRepository<Room, String> {
     List<Room> findByIsDeleted(boolean isDeleted);
     Room findByName(String name);
     Room findBy_id(String id);
+    List<Room> findBySize(String size);
 }
