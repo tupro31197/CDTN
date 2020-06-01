@@ -8,8 +8,10 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Document(collection = "studyProgram")
 public class StudyProgram {
     @Id
-    private String id;
+    private String _id;
     private String subjectId;
     private String departmentId;
-    private String predictionCondition;
+    private String predictSubjectCondition;
+    private String predictCreditCondition;
+    private boolean isDeleted;
 }

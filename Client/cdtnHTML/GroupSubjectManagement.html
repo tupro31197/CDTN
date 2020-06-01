@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Thang Long University</title>
+
+    <!-- Custom fonts for this template -->
+    <link href="../vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="../css/sb-admin-2.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this page -->
+    <link href="../vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="../css/listTeacher.css">
+
+    <style>
+        table td {
+            width: 10%;
+        }
+        .nav-link {
+            font-weight: bold;
+        }
+    </style>
+
+</head>
+
+<body id="page-top" style="font-family: 'Helvetica Neue'">
+
+<!-- Page Wrapper -->
+<div id="wrapper">
+
+    <!-- Sidebar -->
+    <ul class="navbar-nav bg-primary sidebar sidebar-dark accordion" id="accordionSidebar">
+
+        <!-- Sidebar - Brand -->
+        <a class="sidebar-brand d-flex align-items-center justify-content-center" href="SubjectManagement.html"
+           style="padding: 0; margin-bottom: 10px">
+            <img src="../img/logo_tlu.png" style="width: 100%; height: 100%">
+        </a>
+
+        <!-- Divider -->
+        <hr class="sidebar-divider my-0">
+
+        <li class="nav-item">
+            <a class="nav-link" href="Home.html">
+                <i class="fas fa-home"></i>
+                <span>Home</span></a>
+        </li>
+
+        <hr class="sidebar-divider my-0">
+
+        <li class="nav-item ">
+            <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseTwo">
+                <i class="fas fa-university"></i>
+                <span>Toàn trường</span>
+            </a>
+            <div id="collapseOne" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+                <div class="bg-white py-2 collapse-inner rounded">
+                    <a class="collapse-item" href="SchoolSchedule.html">Thời khóa biểu toàn trường</a>
+                    <a class="collapse-item" href="StudyProgram.html" id="addTeacher">Chương trình học</a>
+                </div>
+            </div>
+        </li>
+
+        <hr class="sidebar-divider my-0">
+
+        <li class="nav-item" id="DataManager">
+            <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                <i class="fas fa-angle-double-down"></i>
+                <span>Quản lý dữ liệu</span>
+            </a>
+            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+                <div class="bg-white py-2 collapse-inner rounded">
+                    <a class="collapse-item" href="SubjectManagement.html">Quản lý môn học</a>
+                    <a class="collapse-item" href="GroupSubjectManagement.html">Quản lý bộ môn</a>
+                    <a class="collapse-item" href="RoomManagement.html">Quản lý phòng học</a>
+                    <a class="collapse-item" href="ShiftManagement.html">Quản lý ca học</a>
+                    <a class="collapse-item" href="DepartmentManagement.html">Quản lý chuyên ngành học</a>
+                    <a class="collapse-item" href="SemesterManagement.html">Quản lý học kì</a>
+                </div>
+            </div>
+        </li>
+
+        <hr class="sidebar-divider my-0">
+
+        <li class="nav-item" id="GeneralInformation">
+            <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseTwo">
+                <i class="fas fa-user-circle"></i>
+                <span>Thông tin chung</span>
+            </a>
+            <div id="collapseThree" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+                <div class="bg-white py-2 collapse-inner rounded">
+                    <a class="collapse-item" href="TeacherManagement.html">Danh sách giảng viên</a>
+                    <a class="collapse-item" href="StudentManagement.html">Danh sách sinh viên</a>
+                    <a class="collapse-item" href="FinalGrade.html">Điểm tổng kết</a>
+                    <a class="collapse-item" href="StudentGrade.html">Bảng điểm</a>
+                </div>
+            </div>
+        </li>
+
+        <hr class="sidebar-divider my-0">
+
+        <li class="nav-item" id="ScheduleManager">
+            <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseTwo">
+                <i class="fas fa-school"></i>
+                <span>Quản lý thời khóa biểu</span>
+            </a>
+            <div id="collapseFour" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+                <div class="bg-white py-2 collapse-inner rounded">
+                    <a class="collapse-item" href="GroupSubjectSchedule.html">Thời khóa biểu bộ môn</a>
+                    <a class="collapse-item" href="TeacherSchedule.html">Thời khóa biểu cá nhân</a>
+                    <a class="collapse-item" href="SubjectPlan.html">Học phần dự kiến mở</a>
+                    <a class="collapse-item" href="CreateLesson.html">Mở lớp học</a>
+                    <a class="collapse-item" href="WaitingLesson.html">Lớp chờ phê duyệt</a>
+                    <a class="collapse-item" href="NewYear.html">Thiết lập năm học mới</a>
+                </div>
+            </div>
+        </li>
+
+        <hr class="sidebar-divider my-0">
+
+        <li class="nav-item" id="RegisterManager">
+            <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseFive" aria-expanded="true" aria-controls="collapseTwo">
+                <i class="fas fa-book-reader"></i>
+                <span>Quản lý đăng ký học</span>
+            </a>
+            <div id="collapseFive" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+                <div class="bg-white py-2 collapse-inner rounded">
+                    <a class="collapse-item" href="RegisterCondition.html">Quản lý đợt đăng ký</a>
+                    <a class="collapse-item" href="SupportRegister.html">Ép cứng</a>
+                    <a class="collapse-item" href="StudentSchedule.html">Thời khoá biểu</a>
+                    <a class="collapse-item" href="RegisLesson.html">Đăng ký học</a>
+                </div>
+            </div>
+        </li>
+
+        <!-- Divider -->
+
+
+        <!-- Divider -->
+        <hr class="sidebar-divider d-none d-md-block">
+
+        <!-- Sidebar Toggler (Sidebar) -->
+        <div class="text-center d-none d-md-inline">
+            <button class="rounded-circle border-0" id="sidebarToggle"></button>
+        </div>
+
+    </ul>
+    <!-- End of Sidebar -->
+
+    <!-- Content Wrapper -->
+    <div id="content-wrapper" class="d-flex flex-column">
+
+        <!-- Main Content -->
+        <div id="content">
+
+            <!-- Topbar -->
+            <nav class="navbar navbar-expand navbar-light topbar mb-4 static-top shadow" style="background: white; padding-left: 0; margin-left: 0">
+
+                <!-- Sidebar Toggle (Topbar) -->
+                <h2 class="text-warning" style="font-weight: bold; margin-left: 400px; font-family: 'Helvetica Neue'">Hệ thống quản lý sinh viên</h2>
+
+                <!-- Topbar Navbar -->
+                <ul class="navbar-nav ml-auto">
+
+                    <!-- Nav Item - Search Dropdown (Visible Only XS) -->
+                    <li class="nav-item dropdown no-arrow d-sm-none">
+                        <a class="nav-link dropdown-toggle" href="#" id="searchDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <!-- Dropdown - Messages -->
+                        <div class="dropdown-menu dropdown-menu-right p-3 shadow animated--grow-in" aria-labelledby="searchDropdown">
+                            <form class="form-inline mr-auto w-100 navbar-search">
+                                <div class="input-group">
+                                    <input type="text" class="form-control bg-light border-0 small" placeholder="Search for..." aria-label="Search" aria-describedby="basic-addon2">
+                                    <div class="input-group-append">
+                                        <button class="btn btn-primary" type="button">
+                                            <i class="fas fa-search fa-sm"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </li>
+
+                    <div class="topbar-divider d-none d-sm-block"></div>
+
+                    <!-- Nav Item - User Information -->
+                    <li class="nav-item dropdown no-arrow" id="user-info">
+                        <!-- Dropdown - User Information -->
+                        <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in"
+                             aria-labelledby="userDropdown">
+                            <a class="dropdown-item" href="Profile.html">
+                                <i class="fas fa-user fa-sm fa-fw mr-2 text-gray-400"></i>
+                                Profile
+                            </a>
+                            <a class="dropdown-item" href="#">
+                                <i class="fas fa-cogs fa-sm fa-fw mr-2 text-gray-400"></i>
+                                Settings
+                            </a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#" data-toggle="modal" data-target="#logoutModal">
+                                <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
+                                Logout
+                            </a>
+                        </div>
+                    </li>
+
+                </ul>
+
+            </nav>
+            <!-- End of Topbar -->
+
+
+            <!-- Begin Page Content -->
+            <div class="container-fluid">
+
+                <!-- DataTales Example -->
+                <div class="card shadow mb-4">
+                    <div class="card-header py-3">
+                        <h3 class="m-0 font-weight-bold text-primary">Quản lý bộ môn</h3>
+                    </div>
+                    <div style="width: 100%">
+                        <a href="#" class="btn btn-primary btn-circle" style="margin: 20px" data-toggle="modal" data-target="#modalCreateGroupSubject">
+                            <i class="fa fa-plus"></i>
+                        </a>
+                        <a href="#" class="d-none d-sm-inline-block btn btn-sm btn-success shadow-sm"
+                           style="float:right; margin: 20px; width: 100px"><i
+                                class="fas fa-download fa-sm text-white-50"></i> Export</a>
+                        <a href="#" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"
+                           style="float:right; margin: 20px; width: 100px" id="import" data-toggle="modal" data-target="#modalImport"><i
+                                class="fas fa-upload fa-sm text-white-50"></i> Import</a>
+                    </div>
+                    <div class="card-body">
+                        <div class="table-striped table-responsive">
+                            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                                <thead>
+                                <tr>
+                                    <th style="width: 5%">STT</th>
+                                    <th>Bộ môn</th>
+                                    <th class="text-center">Action</th>
+                                </tr>
+                                </thead>
+                                <tbody id="listGroupSubject">
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <!-- /.container-fluid -->
+
+        </div>
+        <!-- End of Main Content -->
+
+        <!-- Footer -->
+        <footer class="sticky-footer bg-white" style="padding: 0">
+            <div class="container my-auto">
+                <div class="copyright text-center my-auto">
+           <span style="line-height: 1.5">
+                Trường Đại học Thăng Long
+                <br>
+                Địa chỉ: Đường Nghiêm Xuân Yêm - Đại Kim - Hoàng Mai - Hà Nội
+                <br>
+                Điện thoại hỗ trợ kỹ thuật:(04) 355 92 678 website http://www.thanglong.edu.vn mail:p.cntt@thanglong.edu.vn.
+            </span>
+                </div>
+            </div>
+        </footer>
+        <!-- End of Footer -->
+
+    </div>
+    <!-- End of Content Wrapper -->
+
+</div>
+<!-- End of Page Wrapper -->
+
+<!-- Scroll to Top Button-->
+<a class="scroll-to-top rounded" href="#page-top">
+    <i class="fas fa-angle-up"></i>
+</a>
+
+<!-- Logout Modal-->
+<div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
+                <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
+                <a class="btn btn-primary" href="Login.html">Logout</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="modalImport">
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+            <!-- Modal Header -->
+            <div class="modal-header">
+                <h4 class="modal-title">Import Bộ môn</h4>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+
+            <!-- Modal body -->
+            <div class="modal-body">
+                <div class="form-group">
+                    <input type="file" name="file" id="fileGroupSubject" class="input-file">
+                    <label for="fileGroupSubject" class="btn btn-tertiary js-labelFile">
+                        <i class="icon fa fa-check"></i>
+                        <span class="js-fileName">Choose a file</span>
+                    </label>
+                </div>
+            </div>
+
+            <!-- Modal footer -->
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-dismiss="modal" id="acceptImport">Import</button>
+                <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="modalCreateGroupSubject">
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+            <!-- Modal Header -->
+            <div class="modal-header">
+                <h4 class="modal-title text-primary" >Cập nhật thông tin bộ môn</h4>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+
+            <!-- Modal body -->
+            <div class="modal-body">
+                <div class="form-group">
+                    <div class="form-group">
+                        <label for="newGroupSubjectName" class="text-primary">Tên bộ môn</label>
+                        <input type="text" class="form-control" id="newGroupSubjectName" placeholder="Nhập tên bộ môn"
+                               value="">
+                    </div>
+                    <!--                            <div class="form-group">-->
+                    <br/>
+                </div>
+            </div>
+
+            <!-- Modal footer -->
+            <div class="modal-footer">
+                <button class="btn btn-lg btn-primary" type="submit" id="createGroupSubject"><i
+                        class="glyphicon glyphicon-ok-sign"></i> Save
+                </button>
+                <button class="btn btn-lg btn-secondary" type="reset" data-dismiss="modal"><i
+                        class="glyphicon glyphicon-repeat"></i> Close
+                </button>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="modalUpdateGroupSubject">
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+            <!-- Modal Header -->
+            <div class="modal-header">
+                <h4 class="modal-title text-primary" >Cập nhật thông tin bộ môn</h4>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+
+            <!-- Modal body -->
+            <div class="modal-body">
+                <div class="form-group">
+                    <div class="form-group">
+                        <label for="groupSubjectName" class="text-primary">Tên bộ môn</label>
+                        <input type="text" class="form-control" id="groupSubjectName" placeholder="Nhập tên bộ môn"
+                               value="">
+                    </div>
+                    <!--                            <div class="form-group">-->
+                    <br/>
+                </div>
+            </div>
+
+            <!-- Modal footer -->
+            <div class="modal-footer">
+                <button class="btn btn-lg btn-primary" type="submit" id="saveGroupSubject"><i
+                        class="glyphicon glyphicon-ok-sign"></i> Save
+                </button>
+                <button class="btn btn-lg btn-secondary" type="reset" data-dismiss="modal"><i
+                        class="glyphicon glyphicon-repeat"></i> Close
+                </button>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="modalDeleteGroupSubject">
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+            <!-- Modal Header -->
+            <div class="modal-header">
+                <h4 class="modal-title">Xóa bộ môn</h4>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+
+            <!-- Modal body -->
+            <div class="modal-body">Bạn có chắc là muốn xóa bỏ bộ môn này?</div>
+
+            <!-- Modal footer -->
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal" id="acceptDelete">Yes</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">No</button>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<!-- Bootstrap core JavaScript-->
+<script src="../vendor/jquery/jquery.min.js"></script>
+<script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Core plugin JavaScript-->
+<script src="../vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for all pages-->
+<script src="../js/sb-admin-2.min.js"></script>
+
+<!-- Page level plugins -->
+<script src="../vendor/datatables/jquery.dataTables.min.js"></script>
+<script src="../vendor/datatables/dataTables.bootstrap4.min.js"></script>
+
+<!-- Page level custom scripts -->
+<script src="../js/demo/datatables-demo.js"></script>
+<script src="../js/GroupSubjectManager.js"></script>
+<script src="../js/Login.js"></script>
+
+</body>
+
+</html>

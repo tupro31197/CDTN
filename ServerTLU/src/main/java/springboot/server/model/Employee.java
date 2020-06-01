@@ -8,7 +8,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Document(collection = "employee")
 public class Employee {
     @Id
-    private String id;
+    private String _id;
     private String employeeId;
     private String name;
     private String groupSubjectId;
@@ -18,4 +18,5 @@ public class Employee {
     private String dayOfBirth;
     private String address;
     private String role;
+    private boolean isDeleted;
 }

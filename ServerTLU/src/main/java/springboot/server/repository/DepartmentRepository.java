@@ -7,4 +7,8 @@ import java.util.List;
 
 public interface DepartmentRepository extends MongoRepository<Department, String> {
     List<Department> findAll();
+    List<Department> findByIsDeleted(boolean isDeleted);
+    Department findByDepartmentId(String departmentId);
+    Department findByDepartmentIdAndIsDeleted(String departmentId, boolean isDeleted);
+    Department findBy_id(String id);
 }

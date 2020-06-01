@@ -1,959 +1,960 @@
-"3","2","2019-2020","1","AD206","Ẩm thực Việt Nam","AMTHUCVN.3_LT","3","5-Mar","A606","3","Bùi Cẩm Phượng(CDL005)"
-"3","2","2019-2020","2","AD206","Ẩm thực Việt Nam","AMTHUCVN.2_LT","3","8-Jun","A606","3","Bùi Cẩm Phượng(CDL005)"
-"3","2","2019-2020","3","AD206","Ẩm thực Việt Nam","AMTHUCVN.2.1_BT","4","4-Jan","BOMON","3","Trần Quốc Hưng(MDL001)"
-"3","2","2019-2020","4","AD206","Ẩm thực Việt Nam","AMTHUCVN.2.2_BT","4","9-Jun","BOMON","3","Trần Quốc Hưng(MDL001)"
-"3","2","2019-2020","5","AD206","Ẩm thực Việt Nam","AMTHUCVN.4_LT","5","9-Jun","A606","3","Bùi Cẩm Phượng(CDL005)"
-"3","2","2019-2020","6","AD206","Ẩm thực Việt Nam","AMTHUCVN.3.1_BT","6","4-Jan","BOMON","3","Trần Quốc Hưng(MDL001)"
-"3","2","2019-2020","7","AD206","Ẩm thực Việt Nam","AMTHUCVN.3.2_BT","6","9-Jun","BOMON","3","Trần Quốc Hưng(MDL001)"
-"3","2","2019-2020","8","AD206","Ẩm thực Việt Nam","AMTHUCVN.4.1_BT","7","4-Jan","BOMON","3","Trần Quốc Hưng(MDL001)"
-"3","2","2019-2020","9","AD206","Ẩm thực Việt Nam","AMTHUCVN.4.2_BT","7","9-Jun","BOMON","3","Trần Quốc Hưng(MDL001)"
-"3","2","2019-2020","10","TC316","An ninh mạng truyền thông","ANNINHTRUYENTHONG.1","5","5-Jan","B206","3","Hoàng Trọng Minh(CTI030)"
-"3","2","2019-2020","11","NF217","An toàn vệ sinh thực phẩm","ANTOANVESINHTP.1","6","10-Jun","B110","3","Đào Tố Quyên(CSD002)"
-"3","2","2019-2020","12","VC204","Các dân tộc Việt Nam","DANTOCVN.1","6","5-Jan","B507","3","Nguyễn Anh Cường(MXV036)"
-"3","2","2019-2020","13","SH201","Các tôn giáo trên thế giới","TONGIAOTG.1","6","8-Jun","A607","2","Nguyễn Đức Khoa(CDL006)"
-"3","2","2019-2020","14","SH201","Các tôn giáo trên thế giới","TONGIAOTG.2","7","5-Mar","A506","2","Nguyễn Đức Khoa(CDL006)"
-"3","2","2019-2020","15","TC487","CĐTN : Truyền thông và mạng máy tính","CĐTN:TTHONG&MANGMT.1","1","5-Mar","BOMON1","6",""
-"3","2","2019-2020","16","NF450","CĐTN: An toàn thực phẩm","CDTN:ANTOANTP.1","7","10-Jun","BOMON","3","Đào Tố Quyên(CSD002)"
-"3","2","2019-2020","17","AJ449A","CĐTN: Cấu trúc và thành phần câu tiếng Nhật","CĐTN:BONGUCAUTNHAT.1","4","10-Jun","B408","3","Nguyễn Thùy Linh(CNJ008)"
-"3","2","2019-2020","18","IS484","CĐTN: Cơ sở dữ liệu","CÐTN:CSODULIEU.1","1","2-Jan","BOMON","6",""
-"3","2","2019-2020","19","NR472","CĐTN: Điều dưỡng Ngoại khoa","CÐTN:DIEUDUONGNGK.1","2","10-Jun","B108","3","Đỗ Quang Tuyển(CSN006)"
-"3","2","2019-2020","20","NR472","CĐTN: Điều dưỡng Ngoại khoa","CÐTN:DIEUDUONGNGK.2 (LTCĐ)","6","12-Oct","B106","3","Trần Hữu Vinh(CSN034)"
-"3","2","2019-2020","21","NR472","CĐTN: Điều dưỡng Ngoại khoa","CÐTN:DIEUDUONGNGK.2 (LTCĐ)","7","13-Dec","BOMON","3","Trần Hữu Vinh(CSN034)"
-"3","2","2019-2020","22","NR471","CĐTN: Điều dưỡng Nội khoa","CĐTN:DIEUDUONGNK.1","6","10-Jun","B206","3","Lê Thị Bình(CSN011)"
-"3","2","2019-2020","23","ND448","CĐTN: Dinh dưỡng tiết chế","CDTN:DDUONGTIETCHE.1","1","10-Jun","BOMON","3","Phạm Thị Thu Hương(CSD006)"
-"3","2","2019-2020","24","AK481","CĐTN: Hoạt động văn hoá- xã hội và kinh tế của người Hàn tại Việt Nam","CDTN: HOATDONGVHXHKTHAN.1","2","10-Sep","A602","3","Park Jeong Shin(MNK010)"
-"3","2","2019-2020","25","AK481","CĐTN: Hoạt động văn hoá- xã hội và kinh tế của người Hàn tại Việt Nam","CDTN: HOATDONGVHXHKTHAN.1","7","5-Mar","A406","3","Park Jeong Shin(MNK010)"
-"3","2","2019-2020","26","AZ458","CĐTN: Hợp tác kinh tế TM Việt Nam -Trung Quốc","CĐTN:HOPTACKTTMVIETTRUNG.1","7","10-Jun","B402","3","Nguyễn Mạnh Toàn(MNZ015)"
-"3","2","2019-2020","27","AE449","CĐTN: Ngôn ngữ và văn hoá","CÐTN:NNGU&VHOA.1","3","5-Jan","B605","3","Nguyễn Văn Độ(CNE020)"
-"3","2","2019-2020","28","AE449","CĐTN: Ngôn ngữ và văn hoá","CÐTN:NNGU&VHOA.2","7","5-Jan","B408","3","Nguyễn Văn Độ(CNE020)"
-"3","2","2019-2020","29","AZ459","CĐTN: Ngôn ngữ văn hóa Trung Quốc","CĐTN:NNGUVHOATQUOC.1","4","5-Jan","B308","3","Phạm Ngọc Hàm(MNZ003)"
-"3","2","2019-2020","30","AE450","CĐTN: Ngữ pháp tiếng Anh","CÐTN:NGUPHAPANH.1","4","5-Jan","B705","3","Ngô Hữu Hoàng(CNE046)"
-"3","2","2019-2020","31","AE450","CĐTN: Ngữ pháp tiếng Anh","CÐTN:NGUPHAPANH.2","6","10-Jun","B510","3","Phí Thị Thu Trang(CNE017)"
-"3","2","2019-2020","32","SE487","CĐTN: Phát triển phần mềm","CÐTN:PTPHANMEM.1","1","5-Mar","BOMON1","6",""
-"3","2","2019-2020","33","AJ428B","CĐTN: Quản trị sản xuất trong các DN Nhật Bản","CĐTN:QTRISXDNNHAT.2","5","10-Jun","B202","3","Đỗ Thị Phượng(CNJ001)"
-"3","2","2019-2020","34","PH439","CĐTN: Sức khỏe môi trường","CÐTN:SKHOEMT.1","1","10-Jun","BOMON","3","Ngô Thị Thu Hiền(CSP014)"
-"3","2","2019-2020","35","PH448","CĐTN: Sức khỏe nghề nghiệp","CÐTN:SKHOENNGHIEP.1","7","10-Jun","BOMON","3","Nguyễn Bạch Ngọc(CSP006)"
-"3","2","2019-2020","36","AJ428A","CĐTN: Tiếng Nhật trong xuất nhập khẩu","CĐTN:TIENGNHATXNK.1","4","10-Jun","B208","3","Hứa Thùy Trang(CNJ018)"
-"3","2","2019-2020","37","AK482","CĐTN: Ý thức của người Hàn trong thành ngữ và tục ngữ Hàn Quốc","CDTN:YTHUCNGHANTRONGTHNTUCN.1","3","4-Mar","B105","3","Lee Kye Sun(CNK006)"
-"3","2","2019-2020","38","AK482","CĐTN: Ý thức của người Hàn trong thành ngữ và tục ngữ Hàn Quốc","CDTN:YTHUCNGHANTRONGTHNTUCN.1","5","5-Mar","B105","3","Lee Kye Sun(CNK006)"
-"3","2","2019-2020","39","PK441","Chữ Hán trong tiếng Hàn 1","CHUHANTHAN1.1","6","5-Mar","B304","2","Jang HoJeong(MNK012)"
-"3","2","2019-2020","40","PK441","Chữ Hán trong tiếng Hàn 1","CHUHANTHAN1.2","6","8-Jun","B501","2","Jang HoJeong(MNK012)"
-"3","2","2019-2020","41","IS222","Cơ sở dữ liệu","CSODULIEU.1","5","10-Jun","B304","3","Đinh Thu Khánh(CTI015)"
-"3","2","2019-2020","42","SE302","Công nghệ phần mềm","CNPHANMEM.1","2","10-Jun","B308","2","Cao Kim Ánh(CTI022)"
-"3","2","2019-2020","43","SK356","Công tác xã hội với người khuyết tật","CTXHKHUYETTAT.1","6","5-Mar","B104","2","Nguyễn Thị Bùi Thành(CXW004)"
-"3","2","2019-2020","44","SK303","Công tác xã hội với sức khỏe tâm thần","CTXHSKHOETAMTHAN.1","3","8-Jun","B612","2","Nguyễn Thị Hải(CXW022)"
-"3","2","2019-2020","45","MA142","Đại số tuyến tính, giải tích và ứng dụng trong kinh tế","DSTTUDKTE.5_LT","2","10-Sep","B501","4","Ngô Thị Thanh Nga(CTM006)"
-"3","2","2019-2020","46","MA142","Đại số tuyến tính, giải tích và ứng dụng trong kinh tế","DSTTUDKTE.3_LT","3","5-Mar","B501","4","Nguyễn Hồng Châu(CTM004)"
-"3","2","2019-2020","47","MA142","Đại số tuyến tính, giải tích và ứng dụng trong kinh tế","DSTTUDKTE.4_LT","3","5-Apr","B503","4","Đỗ Thị Thuý Hằng(CTM009)"
-"3","2","2019-2020","48","MA142","Đại số tuyến tính, giải tích và ứng dụng trong kinh tế","DSTTUDKTE.4.1_BT","4","5-Mar","B410","4","Đỗ Thị Thuý Hằng(CTM009)"
-"3","2","2019-2020","49","MA142","Đại số tuyến tính, giải tích và ứng dụng trong kinh tế","DSTTUDKTE.4.2_BT","4","5-Mar","B404","4","Phan Thanh Hồng(CTM007)"
-"3","2","2019-2020","50","MA142","Đại số tuyến tính, giải tích và ứng dụng trong kinh tế","DSTTUDKTE.3_LT","4","5-Apr","B501","4","Nguyễn Hồng Châu(CTM004)"
-"3","2","2019-2020","51","MA142","Đại số tuyến tính, giải tích và ứng dụng trong kinh tế","DSTTUDKTE.5_LT","4","10-Aug","B501","4","Ngô Thị Thanh Nga(CTM006)"
-"3","2","2019-2020","52","MA142","Đại số tuyến tính, giải tích và ứng dụng trong kinh tế","DSTTUDKTE.3.1_BT","6","5-Mar","B404","4","Nguyễn Hồng Châu(CTM004)"
-"3","2","2019-2020","53","MA142","Đại số tuyến tính, giải tích và ứng dụng trong kinh tế","DSTTUDKTE.3.2_BT","6","5-Mar","B506","4","Phan Thanh Hồng(CTM007)"
-"3","2","2019-2020","54","MA142","Đại số tuyến tính, giải tích và ứng dụng trong kinh tế","DSTTUDKTE.4_LT","6","5-Mar","B501","4","Đỗ Thị Thuý Hằng(CTM009)"
-"3","2","2019-2020","55","MA142","Đại số tuyến tính, giải tích và ứng dụng trong kinh tế","DSTTUDKTE.5.2_BT","6","10-Aug","B404","4","Nguyễn Hồng Châu(CTM004)"
-"3","2","2019-2020","56","MA142","Đại số tuyến tính, giải tích và ứng dụng trong kinh tế","DSTTUDKTE.5.1_BT","7","10-Aug","B404","4","Dương Thị Hương(CTM011)"
-"3","2","2019-2020","57","AE211","Đất nước học Anh, Mỹ","DATNUOCANHMY.4","2","3-Jan","A401","4","Phạm Hồng Vân(CNE013)"
-"3","2","2019-2020","58","AE211","Đất nước học Anh, Mỹ","DATNUOCANHMY.1","3","5-Mar","A505","4","Nguyễn Thị Kiều Dung(CNE006)"
-"3","2","2019-2020","59","AE211","Đất nước học Anh, Mỹ","DATNUOCANHMY.3","3","10-Aug","A505","4","Nguyễn Thị Kiều Dung(CNE006)"
-"3","2","2019-2020","60","AE211","Đất nước học Anh, Mỹ","DATNUOCANHMY.2","4","3-Jan","B703","4","Trần Thị Phượng(CNE022)"
-"3","2","2019-2020","61","AE211","Đất nước học Anh, Mỹ","DATNUOCANHMY.4","4","3-Jan","A401","4","Nguyễn Vân Khánh(CNE018)"
-"3","2","2019-2020","62","AE211","Đất nước học Anh, Mỹ","DATNUOCANHMY.1","5","5-Mar","B601","4","Trần Thị Phượng(CNE022)"
-"3","2","2019-2020","63","AE211","Đất nước học Anh, Mỹ","DATNUOCANHMY.3","5","10-Aug","A505","4","Trần Thị Phượng(CNE022)"
-"3","2","2019-2020","64","AE211","Đất nước học Anh, Mỹ","DATNUOCANHMY.2","6","3-Jan","B606","4","Nguyễn Thị Kiều Dung(CNE006)"
-"3","2","2019-2020","65","AJ311","Đất nước học Nhật Bản","DATNUOCNHAT.2","3","8-Jun","B208","2","Đặng Thị Minh(CNJ004)"
-"3","2","2019-2020","66","AJ311","Đất nước học Nhật Bản","DATNUOCNHAT.1","5","5-Mar","B702","2","Đặng Thị Minh(CNJ004)"
-"3","2","2019-2020","67","FN334","Đầu tư chứng khoán","DAUTUCK.3","4","5-Jan","Afinance","2","Nguyễn Thị Thu Trang(CQB024)"
-"3","2","2019-2020","68","FN334","Đầu tư chứng khoán","DAUTUCK.2","6","5-Jan","Afinance","2","Nguyễn Thị Thu Trang(CQB024)"
-"3","2","2019-2020","69","TR221","Địa lý và tài nguyên du lịch","DIALY&TAINGUYENDL.2","2","8-Jun","B304","2","Phạm Trần Thăng Long(CDL004)"
-"3","2","2019-2020","70","TR221","Địa lý và tài nguyên du lịch","DIALY&TAINGUYENDL.1","7","5-Mar","A507","2","Phạm Trần Thăng Long(CDL004)"
-"3","2","2019-2020","71","TJ414","Dịch nói","DICHNOI(NHAT).1","4","9-Jun","B505","2","Đinh Thị Ngọc Linh (MNJ040)"
-"3","2","2019-2020","72","TJ414","Dịch nói","DICHNOI(NHAT).2","5","5-Feb","B305","2","Đinh Thị Ngọc Linh (MNJ040)"
-"3","2","2019-2020","73","TJ414","Dịch nói","DICHNOI(NHAT).3","7","5-Feb","B305","2","Phạm Thu Hương(MNJ016)"
-"3","2","2019-2020","74","AE405","Dịch nói 1","DICHNOI1(ANH).1","2","2-Jan","B607","3","Mai Lan(CNE028)"
-"3","2","2019-2020","75","AE405","Dịch nói 1","DICHNOI1(ANH).2","2","5-Mar","B706","3","Mai Lan(CNE028)"
-"3","2","2019-2020","76","AE405","Dịch nói 1","DICHNOI1(ANH).2","4","2-Jan","B605","3","Mai Lan(CNE028)"
-"3","2","2019-2020","77","AE405","Dịch nói 1","DICHNOI1(ANH).1","4","5-Mar","B712","3","Mai Lan(CNE028)"
-"3","2","2019-2020","78","AK308","Dịch nói 2","DICHNOI2.1","2","8-Jun","B602","3","Lee Kye Sun(CNK006)"
-"3","2","2019-2020","79","AK308","Dịch nói 2","DICHNOI2.1","3","4-Mar","B704","3","Trần Thị Lan Anh(CNK001)"
-"3","2","2019-2020","80","AK308","Dịch nói 2","DICHNOI2.2","3","8-Jun","B403","3","Lee Kye Sun(CNK006)"
-"3","2","2019-2020","81","AK308","Dịch nói 2","DICHNOI2.3","4","5-Apr","B704","3","Trần Thị Lan Anh(CNK001)"
-"3","2","2019-2020","82","AK308","Dịch nói 2","DICHNOI2.2","4","7-Jun","B403","3","Trần Thị Lan Anh(CNK001)"
-"3","2","2019-2020","83","AK308","Dịch nói 2","DICHNOI2.3","4","8-Jun","B604","3","Lee Kye Sun(CNK006)"
-"3","2","2019-2020","84","AZ306","Dịch nói 2","DICHNOI2(TRUNG).1","6","5-Mar","B110","2","Nguyễn Văn Đổng(MNZ004)"
-"3","2","2019-2020","85","AZ306","Dịch nói 2","DICHNOI2(TRUNG).2","6","8-Jun","B106","2","Nguyễn Văn Đổng(MNZ004)"
-"3","2","2019-2020","86","TJ314","Dịch viết","DICHVIET(NHAT).1","5","9-Jun","B408","2","Phạm Thu Hương(MNJ016)"
-"3","2","2019-2020","87","TJ314","Dịch viết","DICHVIET(NHAT).2","6","9-Jun","B410","2","Phạm Thu Hương(MNJ016)"
-"3","2","2019-2020","88","AE301","Dịch viết 1","DICHVIET1(ANH).1","3","10-Jun","B601","3","Hoàng Mai Phương(CNE053)"
-"3","2","2019-2020","89","AE301","Dịch viết 1","DICHVIET1(ANH).2","6","5-Jan","B607","3","Hoàng Mai Phương(CNE053)"
-"3","2","2019-2020","90","AK304","Dịch viết 2","DICHVIET2.3","3","5-Mar","B702","3","Lee Dong Koan(CNK010)"
-"3","2","2019-2020","91","AZ302","Dịch viết 2","DICHVIET2(TRUNG).1","4","5-Mar","B304","2","Nguyễn Văn Đổng(MNZ004)"
-"3","2","2019-2020","92","AZ302","Dịch viết 2","DICHVIET2(TRUNG).2","4","8-Jun","B110","2","Nguyễn Văn Đổng(MNZ004)"
-"3","2","2019-2020","93","AK304","Dịch viết 2","DICHVIET2.1","5","4-Mar","B502","3","Trần Thị Lan Anh(CNK001)"
-"3","2","2019-2020","94","AK304","Dịch viết 2","DICHVIET2.2","5","7-Jun","B510","3","Trần Thị Lan Anh(CNK001)"
-"3","2","2019-2020","95","AK304","Dịch viết 2","DICHVIET2.3","5","9-Aug","B606","3","Trần Thị Lan Anh(CNK001)"
-"3","2","2019-2020","96","AK304","Dịch viết 2","DICHVIET2.1","5","10-Aug","B502","3","Lee Dong Koan(CNK010)"
-"3","2","2019-2020","97","AK304","Dịch viết 2","DICHVIET2.2","6","5-Mar","B710","3","Lee Dong Koan(CNK010)"
-"3","2","2019-2020","98","NR413","Điều dưỡng các bệnh Nội khoa nâng cao","THBENHNOIKHOANC.1 (LTCĐ)","1","5-Jan","BENHVIEN","4","Vũ Dũng(CSN012)"
-"3","2","2019-2020","99","NR413","Điều dưỡng các bệnh Nội khoa nâng cao","THBENHNOIKHOANC.1 (LTCĐ)","1","10-Jun","BENHVIEN","4","Vũ Dũng(CSN012)"
-"3","2","2019-2020","100","NR413","Điều dưỡng các bệnh Nội khoa nâng cao","THBENHNOIKHOANC.1 (LTCĐ)","7","10-Jun","BENHVIEN","4","Vũ Dũng(CSN012)"
-"3","2","2019-2020","101","NR216","Dinh dưỡng - Tiết chế và an toàn thực phẩm","TIETCHEANTOANTP.1 (LTCĐ)","2","12-Oct","B106","2","Phạm Duy Tường(CSD001)"
-"3","2","2019-2020","102","NS220","Dinh dưỡng học đường","DDHOCDUONG.1","2","8-Jun","B110","2","Hoàng Thị Kim Thanh(CSD004)"
-"3","2","2019-2020","103","AD250","Dinh dưỡng và tiết chế","DINHDUONG&TIETCHE.1","5","10-Jun","B110","3","Hoàng Thị Kim Thanh(CSD004)"
-"3","2","2019-2020","104","ML203","Đường lối cách mạng của Đảng CS Việt Nam","DUONGLOICM.3","2","10-Jun","GD.Schwartz","3","Lê Thị Ninh(CGS007)"
-"3","2","2019-2020","105","ML203","Đường lối cách mạng của Đảng CS Việt Nam","DUONGLOICM.2","3","5-Jan","GD.Grothendieck","3","Lê Thị Ninh(CGS007)"
-"3","2","2019-2020","106","ML203","Đường lối cách mạng của Đảng CS Việt Nam","DUONGLOICM.1 (LL)","4","10-Jun","GD.Schwartz","3","Lê Thị Ninh(CGS007)"
-"3","2","2019-2020","107","GE245","English 5","ENGLISH5.3","2","2-Jan","A501","4","Nguyễn Thị Kim Phương(CNE041)"
-"3","2","2019-2020","108","GE245","English 5","ENGLISH5.1","2","2-Jan","A405","4","Dương Thị Thu(CNE058)"
-"3","2","2019-2020","109","GE245","English 5","ENGLISH5.2","2","2-Jan","B705","4","Rashmi Dash(MNE033)"
-"3","2","2019-2020","110","GE245","English 5","ENGLISH5.1","2","4-Mar","B605","4","Rashmi Dash(MNE033)"
-"3","2","2019-2020","111","GE245","English 5","ENGLISH5.3","2","4-Mar","A501","4","Ngô Thị Minh Trang(CNE047)"
-"3","2","2019-2020","112","GE245","English 5","ENGLISH5.2","2","4-Mar","A405","4","Dương Thị Thu(CNE058)"
-"3","2","2019-2020","113","GE245","English 5","ENGLISH5.3","4","2-Jan","A601","4","Lê Thị Phượng(CNE035)"
-"3","2","2019-2020","114","GE245","English 5","ENGLISH5.2","4","2-Jan","B706","4","Nguyễn Thị Kim Phương(CNE041)"
-"3","2","2019-2020","115","GE245","English 5","ENGLISH5.1","4","2-Jan","A405","4","Vũ Mỹ Hạnh(CNE060)"
-"3","2","2019-2020","116","GE245","English 5","ENGLISH5.1","4","4-Mar","B607","4","Nguyễn Thị Kim Phương(CNE041)"
-"3","2","2019-2020","117","GE245","English 5","ENGLISH5.3","4","4-Mar","A601","4","Dương Thị Thu(CNE058)"
-"3","2","2019-2020","118","GE245","English 5","ENGLISH5.2","4","4-Mar","A405","4","Vũ Mỹ Hạnh(CNE060)"
-"3","2","2019-2020","119","GE245","English 5","ENGLISH5.2","6","2-Jan","B703","4","Lê Thị Phượng(CNE035)"
-"3","2","2019-2020","120","GE245","English 5","ENGLISH5.3","6","2-Jan","A501","4","Lê Thị Tuyền(CNE019)"
-"3","2","2019-2020","121","GE245","English 5","ENGLISH5.1","6","2-Jan","A405","4","Ngô Thị Minh Trang(CNE047)"
-"3","2","2019-2020","122","GE245","English 5","ENGLISH5.1","6","4-Mar","B605","4","Lê Thị Phượng(CNE035)"
-"3","2","2019-2020","123","GE245","English 5","ENGLISH5.3","6","4-Mar","A501","4","Ngô Cẩm Tú(CNE045)"
-"3","2","2019-2020","124","GE245","English 5","ENGLISH5.2","6","4-Mar","A405","4","Ngô Thị Minh Trang(CNE047)"
-"3","2","2019-2020","125","GE246","English 6","ENGLISH6.1","2","2-Jan","A505","4","Phí Thị Thu Trang(CNE017)"
-"3","2","2019-2020","126","GE246","English 6","ENGLISH6.2","2","2-Jan","B706","4","Chu Thị Hương Giang(CNE059)"
-"3","2","2019-2020","127","GE246","English 6","ENGLISH6.2","2","4-Mar","A505","4","Phí Thị Thu Trang(CNE017)"
-"3","2","2019-2020","128","GE246","English 6","ENGLISH6.1","2","4-Mar","B603","4","Chu Thị Hương Giang(CNE059)"
-"3","2","2019-2020","129","GE246","English 6","ENGLISH6.3","2","7-Jun","A405","4","Nguyễn Thị Kim Phương(CNE041)"
-"3","2","2019-2020","130","GE246","English 6","ENGLISH6.4","2","7-Jun","B612","4","Chu Thị Hương Giang(CNE059)"
-"3","2","2019-2020","131","GE246","English 6","ENGLISH6.4","2","9-Aug","A405","4","Nguyễn Thị Kim Phương(CNE041)"
-"3","2","2019-2020","132","GE246","English 6","ENGLISH6.3","2","9-Aug","B611","4","Chu Thị Hương Giang(CNE059)"
-"3","2","2019-2020","133","GE246","English 6","ENGLISH6.5","3","2-Jan","A605","4","Trần Thị Phượng(CNE022)"
-"3","2","2019-2020","134","GE246","English 6","ENGLISH6.6","3","2-Jan","B607","4","Ngô Thị Minh Trang(CNE047)"
-"3","2","2019-2020","135","GE246","English 6","ENGLISH6.6","3","4-Mar","A405","4","Trần Thị Phượng(CNE022)"
-"3","2","2019-2020","136","GE246","English 6","ENGLISH6.5","3","4-Mar","B705","4","Ngô Thị Minh Trang(CNE047)"
-"3","2","2019-2020","137","GE246","English 6","ENGLISH6.8","3","7-Jun","B603","4","Ngô Thị Minh Trang(CNE047)"
-"3","2","2019-2020","138","GE246","English 6","ENGLISH6.7","3","7-Jun","A505","4","Trần Thị Phượng(CNE022)"
-"3","2","2019-2020","139","GE246","English 6","ENGLISH6.8","3","9-Aug","A405","4","Trần Thị Phượng(CNE022)"
-"3","2","2019-2020","140","GE246","English 6","ENGLISH6.7","3","9-Aug","B608","4","Ngô Thị Minh Trang(CNE047)"
-"3","2","2019-2020","141","GE246","English 6","ENGLISH6.1","4","2-Jan","B510","4","Ngô Cẩm Tú(CNE045)"
-"3","2","2019-2020","142","GE246","English 6","ENGLISH6.2","4","2-Jan","B708","4","Vũ Phương Hạnh(CNE057)"
-"3","2","2019-2020","143","GE246","English 6","ENGLISH6.2","4","4-Mar","B603","4","Ngô Cẩm Tú(CNE045)"
-"3","2","2019-2020","144","GE246","English 6","ENGLISH6.1","4","4-Mar","B605","4","Vũ Phương Hạnh(CNE057)"
-"3","2","2019-2020","145","GE246","English 6","ENGLISH6.3","4","7-Jun","A405","4","Trần Thị Mai Phương(CNE051)"
-"3","2","2019-2020","146","GE246","English 6","ENGLISH6.4","4","7-Jun","B704","4","Vũ Phương Hạnh(CNE057)"
-"3","2","2019-2020","147","GE246","English 6","ENGLISH6.4","4","9-Aug","A405","4","Trần Thị Mai Phương(CNE051)"
-"3","2","2019-2020","148","GE246","English 6","ENGLISH6.3","4","9-Aug","B603","4","Vũ Phương Hạnh(CNE057)"
-"3","2","2019-2020","149","GE246","English 6","ENGLISH6.5","5","2-Jan","A605","4","Trần Thị Mai Phương(CNE051)"
-"3","2","2019-2020","150","GE246","English 6","ENGLISH6.6","5","2-Jan","B601","4","Nguyễn Thị Bích Trâm(CNE061)"
-"3","2","2019-2020","151","GE246","English 6","ENGLISH6.5","5","4-Mar","B611","4","Nguyễn Thị Bích Trâm(CNE061)"
-"3","2","2019-2020","152","GE246","English 6","ENGLISH6.6","5","4-Mar","A505","4","Trần Thị Mai Phương(CNE051)"
-"3","2","2019-2020","153","GE246","English 6","ENGLISH6.7","5","7-Jun","A505","4","Trần Thị Mai Phương(CNE051)"
-"3","2","2019-2020","154","GE246","English 6","ENGLISH6.8","5","7-Jun","B605","4","Nguyễn Thị Bích Trâm(CNE061)"
-"3","2","2019-2020","155","GE246","English 6","ENGLISH6.8","5","9-Aug","A405","4","Trần Thị Mai Phương(CNE051)"
-"3","2","2019-2020","156","GE246","English 6","ENGLISH6.7","5","9-Aug","B607","4","Nguyễn Thị Bích Trâm(CNE061)"
-"3","2","2019-2020","157","GE246","English 6","ENGLISH6.1","6","2-Jan","A505","4","Ngô Huy Tú(CNE050)"
-"3","2","2019-2020","158","GE246","English 6","ENGLISH6.2","6","2-Jan","B704","4","Lê Thị Hoài Thương(CNE027)"
-"3","2","2019-2020","159","GE246","English 6","ENGLISH6.2","6","4-Mar","A505","4","Ngô Huy Tú(CNE050)"
-"3","2","2019-2020","160","GE246","English 6","ENGLISH6.1","6","4-Mar","B604","4","Lê Thị Hoài Thương(CNE027)"
-"3","2","2019-2020","161","GE246","English 6","ENGLISH6.3","6","7-Jun","A505","4","Nguyễn Thị Hải Oanh(CNE011)"
-"3","2","2019-2020","162","GE246","English 6","ENGLISH6.4","6","7-Jun","B705","4","Lê Thị Hoài Thương(CNE027)"
-"3","2","2019-2020","163","GE246","English 6","ENGLISH6.4","6","9-Aug","A505","4","Nguyễn Thị Hải Oanh(CNE011)"
-"3","2","2019-2020","164","GE246","English 6","ENGLISH6.3","6","9-Aug","B601","4","Lê Thị Hoài Thương(CNE027)"
-"3","2","2019-2020","165","GE246","English 6","ENGLISH6.5","7","2-Jan","B406","4","Nguyễn Ngọc Anh(CNE054)"
-"3","2","2019-2020","166","GE246","English 6","ENGLISH6.6","7","2-Jan","B602","4","Trần Thị Thanh Hương(CNE033)"
-"3","2","2019-2020","167","GE246","English 6","ENGLISH6.6","7","4-Mar","B406","4","Nguyễn Ngọc Anh(CNE054)"
-"3","2","2019-2020","168","GE246","English 6","ENGLISH6.5","7","4-Mar","B612","4","Trần Thị Thanh Hương(CNE033)"
-"3","2","2019-2020","169","GE246","English 6","ENGLISH6.7","7","7-Jun","A405","4","Ngô Huy Tú(CNE050)"
-"3","2","2019-2020","170","GE246","English 6","ENGLISH6.8","7","7-Jun","B601","4","Nguyễn Ngọc Anh(CNE054)"
-"3","2","2019-2020","171","GE246","English 6","ENGLISH6.7","7","9-Aug","B406","4","Nguyễn Ngọc Anh(CNE054)"
-"3","2","2019-2020","172","GE246","English 6","ENGLISH6.8","7","9-Aug","A405","4","Ngô Huy Tú(CNE050)"
-"3","2","2019-2020","173","GE351","English 7","ENGLISH7.4","2","7-Jun","B704","3","Lê Thị Phượng(CNE035)"
-"3","2","2019-2020","174","GE351","English 7","ENGLISH7.3","2","7-Jun","B508","3","Lê Thị Hoài Thương(CNE027)"
-"3","2","2019-2020","175","GE351","English 7","ENGLISH7.3","2","9-Aug","B612","3","Đặng Thị Kim Chung(CNE005)"
-"3","2","2019-2020","176","GE351","English 7","ENGLISH7.4","2","9-Aug","B704","3","Lê Thị Hoài Thương(CNE027)"
-"3","2","2019-2020","177","GE351","English 7","ENGLISH7.3","4","7-Jun","B601","3","Lê Thị Phượng(CNE035)"
-"3","2","2019-2020","178","GE351","English 7","ENGLISH7.4","4","7-Jun","B705","3","Đặng Thị Kim Chung(CNE005)"
-"3","2","2019-2020","179","GE351","English 7","ENGLISH7.3","4","10-Aug","B610","3","Trần Thị Hải Bình(CNE004)"
-"3","2","2019-2020","180","GE351","English 7","ENGLISH7.4","4","10-Aug","B705","3","Đỗ Thu Hằng(CNE008)"
-"3","2","2019-2020","181","GE351","English 7","ENGLISH7.2","5","2-Jan","B603","3","Đặng Thị Kim Chung(CNE005)"
-"3","2","2019-2020","182","GE351","English 7","ENGLISH7.1","5","2-Jan","B602","3","Hoàng Mai Phương(CNE053)"
-"3","2","2019-2020","183","GE351","English 7","ENGLISH7.1","5","5-Mar","B613","3","Nguyễn Thị Kim Phương(CNE041)"
-"3","2","2019-2020","184","GE351","English 7","ENGLISH7.2","5","5-Mar","B703","3","Đỗ Thu Hằng(CNE008)"
-"3","2","2019-2020","185","GE351","English 7","ENGLISH7.1","7","2-Jan","B605","3","Nguyễn Vân Khánh(CNE018)"
-"3","2","2019-2020","186","GE351","English 7","ENGLISH7.2","7","2-Jan","B606","3","Hoàng Mai Phương(CNE053)"
-"3","2","2019-2020","187","GE351","English 7","ENGLISH7.2","7","4-Mar","B703","3","Nguyễn Vân Khánh(CNE018)"
-"3","2","2019-2020","188","GE351","English 7","ENGLISH7.1","7","4-Mar","B702","3","Đặng Thị Kim Chung(CNE005)"
-"3","2","2019-2020","189","GE352","English 8","ENGLISH8.1","2","2-Jan","B601","3","Lê Thị Tuyền(CNE019)"
-"3","2","2019-2020","190","GE352","English 8","ENGLISH8.2","2","2-Jan","B605","3","Hoàng Thị Thu Dung(CNE007)"
-"3","2","2019-2020","191","GE352","English 8","ENGLISH8.2","2","4-Mar","B611","3","Lê Thị Tuyền(CNE019)"
-"3","2","2019-2020","192","GE352","English 8","ENGLISH8.1","2","5-Mar","B607","3","Lê Thị Hòa(CNE009)"
-"3","2","2019-2020","193","GE352","English 8","ENGLISH8.1","4","2-Jan","B603","3","Hoàng Thị Thu Dung(CNE007)"
-"3","2","2019-2020","194","GE352","English 8","ENGLISH8.2","4","2-Jan","B611","3","Phạm Thái Sơn(CNE014)"
-"3","2","2019-2020","195","GE352","English 8","ENGLISH8.2","4","5-Mar","B613","3","Lê Thị Hòa(CNE009)"
-"3","2","2019-2020","196","GE352","English 8","ENGLISH8.1","4","4-Mar","B611","3","Phạm Thái Sơn(CNE014)"
-"3","2","2019-2020","197","GE353","English 9","ENGLISH9.1","2","2-Jan","B510","2","Nguyễn Thị Bích Trâm(CNE061)"
-"3","2","2019-2020","198","GE353","English 9","ENGLISH9.2","2","2-Jan","B703","2","Mai Xuân Thể(CNE055)"
-"3","2","2019-2020","199","GE353","English 9","ENGLISH9.3","2","7-Jun","B510","2","Nguyễn Thị Kiều Dung(CNE006)"
-"3","2","2019-2020","200","GE353","English 9","ENGLISH9.4","2","9-Aug","A605","2","Lê Thị Tuyền(CNE019)"
-"3","2","2019-2020","201","GE353","English 9","ENGLISH9.2","4","2-Jan","B704","2","Mai Xuân Thể(CNE055)"
-"3","2","2019-2020","202","GE353","English 9","ENGLISH9.1","4","2-Jan","B601","2","Nguyễn Thị Bích Trâm(CNE061)"
-"3","2","2019-2020","203","GE353","English 9","ENGLISH9.3","4","7-Jun","B603","2","Nguyễn Thị Kiều Dung(CNE006)"
-"3","2","2019-2020","204","GE353","English 9","ENGLISH9.4","4","9-Aug","B601","2","Lê Thị Tuyền(CNE019)"
-"3","2","2019-2020","205","GE353","English 9","ENGLISH9.2","6","2-Jan","B702","2","Mai Xuân Thể(CNE055)"
-"3","2","2019-2020","206","GE353","English 9","ENGLISH9.1","6","2-Jan","B508","2","Nguyễn Thị Bích Trâm(CNE061)"
-"3","2","2019-2020","207","GE353","English 9","ENGLISH9.3","6","7-Jun","B508","2","Nguyễn Thị Kiều Dung(CNE006)"
-"3","2","2019-2020","208","GE353","English 9","ENGLISH9.4","6","9-Aug","B508","2","Lê Thị Tuyền(CNE019)"
-"3","2","2019-2020","209","PG118","GDTC: Thể dục cơ bản","GDTC:THEDUCCB.11","2","2-Jan","NHATC","1",""
-"3","2","2019-2020","210","PG118","GDTC: Thể dục cơ bản","GDTC:THEDUCCB.3","2","4-Mar","NHATC","1","Vũ Thị Huệ(CGP008)"
-"3","2","2019-2020","211","PG118","GDTC: Thể dục cơ bản","GDTC:THEDUCCB.4","2","7-Jun","NHATC","1","Vũ Thị Huệ(CGP008)"
-"3","2","2019-2020","212","PG118","GDTC: Thể dục cơ bản","GDTC:THEDUCCB.5","2","9-Aug","NHATC","1","Phạm Thị Trang(CGP009)"
-"3","2","2019-2020","213","PG118","GDTC: Thể dục cơ bản","GDTC:THEDUCCB.13","3","2-Jan","NHATC","1",""
-"3","2","2019-2020","214","PG118","GDTC: Thể dục cơ bản","GDTC:THEDUCCB.14","3","4-Mar","NHATC","1",""
-"3","2","2019-2020","215","PG118","GDTC: Thể dục cơ bản","GDTC:THEDUCCB.7","4","7-Jun","NHATC","1","Vũ Thị Huệ(CGP008)"
-"3","2","2019-2020","216","PG118","GDTC: Thể dục cơ bản","GDTC:THEDUCCB.8","4","9-Aug","NHATC","1","Vũ Thị Huệ(CGP008)"
-"3","2","2019-2020","217","PG118","GDTC: Thể dục cơ bản","GDTC:THEDUCCB.12","5","2-Jan","NHATC","1",""
-"3","2","2019-2020","218","PG118","GDTC: Thể dục cơ bản","GDTC:THEDUCCB.6","5","4-Mar","NHATC","1","Phạm Thị Trang(CGP009)"
-"3","2","2019-2020","219","PG118","GDTC: Thể dục cơ bản","GDTC:THEDUCCB.9","6","7-Jun","NHATC","1","Phạm Thị Trang(CGP009)"
-"3","2","2019-2020","220","PG118","GDTC: Thể dục cơ bản","GDTC:THEDUCCB.10","6","9-Aug","NHATC","1","Phạm Thị Trang(CGP009)"
-"3","2","2019-2020","221","PG102","GDTC: Thể dục cổ truyền cơ bản","GDTC:COTRUYENCB.3","2","2-Jan","NHATC","1","Nguyễn Minh Hải(CGP005)"
-"3","2","2019-2020","222","PG102","GDTC: Thể dục cổ truyền cơ bản","GDTC:COTRUYENCB.4","2","4-Mar","NHATC","1","Nguyễn Minh Hải(CGP005)"
-"3","2","2019-2020","223","PG102","GDTC: Thể dục cổ truyền cơ bản","GDTC:COTRUYENCB.11","2","7-Jun","NHATC","1",""
-"3","2","2019-2020","224","PG102","GDTC: Thể dục cổ truyền cơ bản","GDTC:COTRUYENCB.12","2","9-Aug","NHATC","1",""
-"3","2","2019-2020","225","PG102","GDTC: Thể dục cổ truyền cơ bản","GDTC:COTRUYENCB.5","3","2-Jan","NHATC","1","Nguyễn Minh Hải(CGP005)"
-"3","2","2019-2020","226","PG102","GDTC: Thể dục cổ truyền cơ bản","GDTC:COTRUYENCB.6","3","4-Mar","NHATC","1","Nguyễn Minh Hải(CGP005)"
-"3","2","2019-2020","227","PG102","GDTC: Thể dục cổ truyền cơ bản","GDTC:COTRUYENCB.7","4","7-Jun","NHATC","1","Nguyễn Ngọc Dũng(CGP004)"
-"3","2","2019-2020","228","PG102","GDTC: Thể dục cổ truyền cơ bản","GDTC:COTRUYENCB.8","4","9-Aug","NHATC","1","Nguyễn Ngọc Dũng(CGP004)"
-"3","2","2019-2020","229","PG102","GDTC: Thể dục cổ truyền cơ bản","GDTC:COTRUYENCB.9","6","7-Jun","NHATC","1","Nguyễn Minh Hải(CGP005)"
-"3","2","2019-2020","230","PG102","GDTC: Thể dục cổ truyền cơ bản","GDTC:COTRUYENCB.10","6","9-Aug","NHATC","1","Nguyễn Minh Hải(CGP005)"
-"3","2","2019-2020","231","MA110","Giải tích 1","GIAITICH1.1_LT","2","10-Aug","B408","3","Nguyễn Lâm Tùng(CTM008)"
-"3","2","2019-2020","232","MA110","Giải tích 1","GIAITICH1.1.1_BT","4","10-Sep","B406","3","Nguyễn Lâm Tùng(CTM008)"
-"3","2","2019-2020","233","MA110","Giải tích 1","GIAITICH1.1.2_BT","4","10-Sep","B104","3","Hoàng Ngọc Tùng(CTM010)"
-"3","2","2019-2020","234","MA110","Giải tích 1","GIAITICH1.1.2_BT","6","10-Sep","B108","3","Nguyễn Quốc Tuấn(CTM024)"
-"3","2","2019-2020","235","MA110","Giải tích 1","GIAITICH1.1.1_BT","6","10-Sep","B406","3","Nguyễn Lâm Tùng(CTM008)"
-"3","2","2019-2020","236","MA111","Giải tích 2","GIAITICH2.1_LT","2","5-Mar","B508","3","Nguyễn Quốc Tuấn(CTM024)"
-"3","2","2019-2020","237","MA111","Giải tích 2","GIAITICH2.1.1_BT","4","5-Apr","B408","3","Nguyễn Quốc Tuấn(CTM024)"
-"3","2","2019-2020","238","MA111","Giải tích 2","GIAITICH2.1.1_BT","6","5-Apr","B410","3","Nguyễn Quốc Tuấn(CTM024)"
-"3","2","2019-2020","239","MA342","Giải tích lồi","GIAITICHLOI.1_LT","5","9-Jun","BOMON","3",""
-"3","2","2019-2020","240","MA342","Giải tích lồi","GIAITICHLOI.1.1_BT","6","7-Jun","BOMON","3",""
-"3","2","2019-2020","241","PJ422","Giảng dạy Tiếng Nhật 2","GIANGDAYNHAT2.1","3","9-Jun","B305","2","Vũ Thị Kim Chi(CNJ003)"
-"3","2","2019-2020","242","PJ422","Giảng dạy Tiếng Nhật 2","GIANGDAYNHAT2.2","3","9-Jun","A305","2","Nguyễn Huyền Ngọc(CNJ021)"
-"3","2","2019-2020","243","AE415","Giao tiếp giữa các nền văn hoá","GIAOTIEPCACNENVH.1","2","3-Jan","B704","2","Ngô Hữu Hoàng(CNE046)"
-"3","2","2019-2020","244","AE415","Giao tiếp giữa các nền văn hoá","GIAOTIEPCACNENVH.3","2","5-Mar","A403","2","Nguyễn Văn Độ(CNE020)"
-"3","2","2019-2020","245","AE415","Giao tiếp giữa các nền văn hoá","GIAOTIEPCACNENVH.2","2","8-Jun","B603","2","Ngô Hữu Hoàng(CNE046)"
-"3","2","2019-2020","246","TR317","Giao tiếp và lễ tân du lịch","GIAOTIEP&LETANDL.1","4","10-Jun","B203","3","Bùi Thị Thu Huyền(MXV021)"
-"3","2","2019-2020","247","SO322","Giới và phát triển","GIOI&PT.1","5","8-Jun","B312","2","Nguyễn Thị Kim Dung(CXW016)"
-"3","2","2019-2020","248","MA313","Hàm biến phức","HAMBIENPHUC.1_LT","6","2-Jan","BOMON","2",""
-"3","2","2019-2020","249","MA313","Hàm biến phức","HAMBIENPHUC.1.1_BT","6","5-Mar","BOMON","2",""
-"3","2","2019-2020","250","AD213","Hát – Nhạc","HATNHAC.4","2","7-Jun","B814","3","Hoàng Bích Hà(CAN003)"
-"3","2","2019-2020","251","AD213","Hát – Nhạc","HATNHAC.5","2","7-Jun","B816","3","Nguyễn Văn Quang(MAN012)"
-"3","2","2019-2020","252","AD213","Hát – Nhạc","HATNHAC.6","3","7-Jun","B816","3","Trần Tuấn Hòa(CAN010)"
-"3","2","2019-2020","253","AD213","Hát – Nhạc","HATNHAC.4","4","5-Mar","B814","3","Hoàng Bích Hà(CAN003)"
-"3","2","2019-2020","254","AD213","Hát – Nhạc","HATNHAC.5","4","5-Mar","B816","3","Nguyễn Văn Quang(MAN012)"
-"3","2","2019-2020","255","AD213","Hát – Nhạc","HATNHAC.6","5","5-Mar","B816","3","Trần Tuấn Hòa(CAN010)"
-"3","2","2019-2020","256","IS322","Hệ quản trị cơ sở dữ liệu","QTRICSODULIEU.1","2","10-Jun","A707","3","Trần Quang Duy(CTI019)"
-"3","2","2019-2020","257","IS314","Hệ thống thông tin","HETHONGTTIN.1","2","10-Jun","A705","3","Mai Thuý Nga(CTI008)"
-"3","2","2019-2020","258","IS314","Hệ thống thông tin","HETHONGTTIN.2","6","10-Jun","A703","3",""
-"3","2","2019-2020","259","AN402","Hòa thanh ứng dụng","HOATHANH.1","2","4-Mar","B807","2","Lưu Quang Minh(MAN005)"
-"3","2","2019-2020","260","AN402","Hòa thanh ứng dụng","HOATHANH.2","2","7-Jun","B807","2","Lưu Quang Minh(MAN005)"
-"3","2","2019-2020","261","CS320","Học máy","HOCMAY.1_LT","3","5-Mar","B302","3",""
-"3","2","2019-2020","262","CS320","Học máy","HOCMAY.1.1_BT","5","5-Feb","B104","3",""
-"3","2","2019-2020","263","AC210","Kế toán doanh nghiệp","KETOANDN.3","5","10-Jun","B307","3","Nguyễn Thị Hồng Anh(CQA010)"
-"3","2","2019-2020","264","AC211","Kế toán tài chính 1","KETOANTC1.2","4","10-Jun","B205","3","Vũ Thị Kim Lan(CQA005)"
-"3","2","2019-2020","265","AC211","Kế toán tài chính 1","KETOANTC1.1","6","5-Jan","A402","3","Đào Diệu Hằng(CQA003)"
-"3","2","2019-2020","266","IS327","Kho dữ liệu","NHAKHODULIEU.1","3","5-Jan","A703","3","Đậu Hải Phong(CTI009)"
-"3","2","2019-2020","267","SK324","Kiểm huấn công tác xã hội","KIEMHUANCTXH1.1","2","8-Jun","B306","2","Nguyễn Nguyên Ngọc(CXW026)"
-"3","2","2019-2020","268","NF329","Kiểm nghiệm thực phẩm","KIEMNGHIEMTP.1","4","10-Jun","BENHVIEN","3","Trần Cao Sơn(MSD002)"
-"3","2","2019-2020","269","EC204","Kinh tế vi mô","MICRO.2","5","8-Jun","B302","3","Lê Thị Kim Chung(CQE004)"
-"3","2","2019-2020","270","EC204","Kinh tế vi mô","MICRO.2","6","5-Apr","B302","3","Lê Thị Kim Chung(CQE004)"
-"3","2","2019-2020","271","EC205","Kinh tế vĩ mô","MACRO.2","3","7-Jun","B203","3","Trần Thị Thùy Linh(CQE001)"
-"3","2","2019-2020","272","EC205","Kinh tế vĩ mô","MACRO.2","6","8-Jun","B203","3","Trần Thị Thùy Linh(CQE001)"
-"3","2","2019-2020","273","VC232","Kinh tế Việt Nam","KINHTEVN.1","2","5-Jan","B303","3","Nguyễn Văn Lịch(CXV014)"
-"3","2","2019-2020","274","SK499","KLTN ngành Công tác xã hội","KLTNCONGTACXAHOI.1","1","5-Jan","BOMON","6","Nguyễn Thị Hải(CXW022)"
-"3","2","2019-2020","275","NC499","KLTN ngành Dinh dưỡng","KLTNDINHDUONG.1","1","5-Jan","BOMON","6","Phạm Duy Tường(CSD001)"
-"3","2","2019-2020","276","NC499","KLTN ngành Dinh dưỡng","KLTNDINHDUONG.1","1","10-Jun","BOMON","6","Phạm Duy Tường(CSD001)"
-"3","2","2019-2020","277","IS499","KLTN ngành Hệ thống thông tin","KLTNNGANHHTTTQL.1","1","2-Jan","BOMON","6",""
-"3","2","2019-2020","278","CS499","KLTN ngành Khoa học máy tính","KLTNKHOAHOCMAYTINH.1","1","5-Mar","BOMON1","6",""
-"3","2","2019-2020","279","MI489","KLTN: Toán ứng dụng","KLTN:TOANTINUD.1","1","10-Feb","BOMON","6",""
-"3","2","2019-2020","280","AE320","Kỹ năng giao tiếp","KNGIAOTIEP.1","2","8-Jun","B604","2","Hoàng Kim Thúy(CNE012)"
-"3","2","2019-2020","281","AE320","Kỹ năng giao tiếp","KNGIAOTIEP.2","5","3-Jan","B508","2","Hoàng Kim Thúy(CNE012)"
-"3","2","2019-2020","282","AJ452","Kỹ năng giao tiếp tiếng Nhật","KNGIAOTIEPNHAT.1","5","5-Feb","B208","2","Đỗ Thị Phượng(CNJ001)"
-"3","2","2019-2020","283","AJ452","Kỹ năng giao tiếp tiếng Nhật","KNGIAOTIEPNHAT.2","7","5-Feb","B204","2","Hoàng Thị Hường(CNJ005)"
-"3","2","2019-2020","284","SC201","Kỹ năng giao tiếp và thuyết trình","KYNANGTTRINH.5","2","8-Jun","B205","2","Lê Huyền Trang(CQM011)"
-"3","2","2019-2020","285","SC201","Kỹ năng giao tiếp và thuyết trình","KYNANGTTRINH.6","4","5-Mar","B303","2","Lê Huyền Trang(CQM011)"
-"3","2","2019-2020","286","SC201","Kỹ năng giao tiếp và thuyết trình","KYNANGTTRINH.7","5","10-Aug","B503","2","Lê Huyền Trang(CQM011)"
-"3","2","2019-2020","287","SC201","Kỹ năng giao tiếp và thuyết trình","KYNANGTTRINH.3","6","5-Mar","A406","2","Nguyễn Bảo Tuấn(CQM009)"
-"3","2","2019-2020","288","SC201","Kỹ năng giao tiếp và thuyết trình","KYNANGTTRINH.4","6","8-Jun","B101","2","Nguyễn Bảo Tuấn(CQM009)"
-"3","2","2019-2020","289","GK263","Kỹ năng nghe, nói, đọc, viết Hàn 6","KNNND6(HAN).1","2","5-Mar","B606","3","Lee SuJung(MNK017)"
-"3","2","2019-2020","290","GK263","Kỹ năng nghe, nói, đọc, viết Hàn 6","KNNND6(HAN).4","2","5-Mar","B612","3","Trang Minh Thắng(MNK016)"
-"3","2","2019-2020","291","GK263","Kỹ năng nghe, nói, đọc, viết Hàn 6","KNNND6(HAN).2","2","5-Mar","B608","3","Vương Thị Năm(CNK005)"
-"3","2","2019-2020","292","GK263","Kỹ năng nghe, nói, đọc, viết Hàn 6","KNNND6(HAN).3","2","5-Mar","B610","3","Lee Hye Young(MNK005)"
-"3","2","2019-2020","293","GK263","Kỹ năng nghe, nói, đọc, viết Hàn 6","KNNND6(HAN).2","2","8-Jun","B710","3","Lee SuJung(MNK017)"
-"3","2","2019-2020","294","GK263","Kỹ năng nghe, nói, đọc, viết Hàn 6","KNNND6(HAN).5","2","10-Aug","B510","3","Lee Hye Young(MNK005)"
-"3","2","2019-2020","295","GK263","Kỹ năng nghe, nói, đọc, viết Hàn 6","KNNND6(HAN).3","2","10-Aug","B508","3","Vương Thị Năm(CNK005)"
-"3","2","2019-2020","296","GK263","Kỹ năng nghe, nói, đọc, viết Hàn 6","KNNND6(HAN).3","3","5-Mar","B608","3","Lee SuJung(MNK017)"
-"3","2","2019-2020","297","GK263","Kỹ năng nghe, nói, đọc, viết Hàn 6","KNNND6(HAN).4","3","5-Mar","B612","3","Lee Hye Young(MNK005)"
-"3","2","2019-2020","298","GK263","Kỹ năng nghe, nói, đọc, viết Hàn 6","KNNND6(HAN).1","3","5-Mar","B504","3","Vương Thị Năm(CNK005)"
-"3","2","2019-2020","299","GK263","Kỹ năng nghe, nói, đọc, viết Hàn 6","KNNND6(HAN).6","3","10-Aug","B512","3","Lee Hye Young(MNK005)"
-"3","2","2019-2020","300","GK263","Kỹ năng nghe, nói, đọc, viết Hàn 6","KNNND6(HAN).5","3","10-Aug","B508","3","Vương Thị Năm(CNK005)"
-"3","2","2019-2020","301","GK263","Kỹ năng nghe, nói, đọc, viết Hàn 6","KNNND6(HAN).4","4","5-Mar","B702","3","Vương Thị Năm(CNK005)"
-"3","2","2019-2020","302","GK263","Kỹ năng nghe, nói, đọc, viết Hàn 6","KNNND6(HAN).6","4","10-Aug","B502","3","Vương Thị Năm(CNK005)"
-"3","2","2019-2020","303","GK263","Kỹ năng nghe, nói, đọc, viết Hàn 6","KNNND6(HAN).5","5","5-Mar","B602","3","Lee SuJung(MNK017)"
-"3","2","2019-2020","304","GK263","Kỹ năng nghe, nói, đọc, viết Hàn 6","KNNND6(HAN).2","5","5-Mar","B512","3","Trang Minh Thắng(MNK016)"
-"3","2","2019-2020","305","GK263","Kỹ năng nghe, nói, đọc, viết Hàn 6","KNNND6(HAN).6","6","5-Mar","B406","3","Lee SuJung(MNK017)"
-"3","2","2019-2020","306","GK263","Kỹ năng nghe, nói, đọc, viết Hàn 6","KNNND6(HAN).1","6","5-Mar","A401","3","Trang Minh Thắng(MNK016)"
-"3","2","2019-2020","307","GZ253","Kỹ năng nghe, nói, đọc, viết Trung 6","NNÐV6(TRUNG).1","3","9-Jun","B106","4","Nguyễn Thị Trung Thu(CNZ002)"
-"3","2","2019-2020","308","GZ253","Kỹ năng nghe, nói, đọc, viết Trung 6","NNÐV6(TRUNG).2","3","9-Jun","B110","4","Nguyễn Lê Minh(CNZ005)"
-"3","2","2019-2020","309","GZ253","Kỹ năng nghe, nói, đọc, viết Trung 6","NNÐV6(TRUNG).3","3","9-Jun","B304","4","Tang Li Chun(MNZ020)"
-"3","2","2019-2020","310","GZ253","Kỹ năng nghe, nói, đọc, viết Trung 6","NNÐV6(TRUNG).3","5","9-Jun","B310","4","Nguyễn Lê Minh(CNZ005)"
-"3","2","2019-2020","311","GZ253","Kỹ năng nghe, nói, đọc, viết Trung 6","NNÐV6(TRUNG).2","5","9-Jun","B412","4","Tang Li Chun(MNZ020)"
-"3","2","2019-2020","312","GZ253","Kỹ năng nghe, nói, đọc, viết Trung 6","NNÐV6(TRUNG).1","5","9-Jun","B108","4","Nguyễn Thị Trung Thu(CNZ002)"
-"3","2","2019-2020","313","GZ253","Kỹ năng nghe, nói, đọc, viết Trung 6","NNÐV6(TRUNG).1","7","9-Jun","B106","4","Tang Li Chun(MNZ020)"
-"3","2","2019-2020","314","GZ253","Kỹ năng nghe, nói, đọc, viết Trung 6","NNÐV6(TRUNG).2","7","9-Jun","B108","4","Nguyễn Thùy Linh(CNZ004)"
-"3","2","2019-2020","315","GZ253","Kỹ năng nghe, nói, đọc, viết Trung 6","NNÐV6(TRUNG).3","7","9-Jun","B110","4","Nguyễn Thị Trung Thu(CNZ002)"
-"3","2","2019-2020","316","IM201","Kỹ năng soạn thảo VB (MS office)","KNSOANTHAOVB(MSOFFICE).7","2","10-Jun","A706A","3","Đậu Hải Phong(CTI009)"
-"3","2","2019-2020","317","IM201","Kỹ năng soạn thảo VB (MS office)","KNSOANTHAOVB(MSOFFICE).8","3","5-Jan","A707","3","Trần Thị Huệ(CTI014)"
-"3","2","2019-2020","318","IM201","Kỹ năng soạn thảo VB (MS office)","KNSOANTHAOVB(MSOFFICE).9","3","5-Jan","A709","3","Phạm Thị Kim Hoa(CTI003)"
-"3","2","2019-2020","319","IM201","Kỹ năng soạn thảo VB (MS office)","KNSOANTHAOVB(MSOFFICE).10","3","10-Jun","A703","3","Phạm Thị Kim Hoa(CTI003)"
-"3","2","2019-2020","320","IM201","Kỹ năng soạn thảo VB (MS office)","KNSOANTHAOVB(MSOFFICE).11","4","5-Jan","A705","3","Nguyễn Mạnh Hùng(CTI010)"
-"3","2","2019-2020","321","IM201","Kỹ năng soạn thảo VB (MS office)","KNSOANTHAOVB(MSOFFICE).12","4","10-Jun","A705","3","Phạm Thị Kim Hoa(CTI003)"
-"3","2","2019-2020","322","IM201","Kỹ năng soạn thảo VB (MS office)","KNSOANTHAOVB(MSOFFICE).13","5","5-Jan","A709","3","Trần Thị Huệ(CTI014)"
-"3","2","2019-2020","323","IM201","Kỹ năng soạn thảo VB (MS office)","KNSOANTHAOVB(MSOFFICE).14","6","10-Jun","A709","3","Phạm Phương Thanh(CTI018)"
-"3","2","2019-2020","324","AN242C","Kỹ thuật biểu diễn (vũ đạo) 2C","KYTHUATVUDAO2C.1","3","9-Aug","B809","1","Nguyễn Tuấn Linh(CAN008)"
-"3","2","2019-2020","325","AN242C","Kỹ thuật biểu diễn (vũ đạo) 2C","KYTHUATVUDAO2C.2","5","9-Aug","B809","1","Nguyễn Tuấn Linh(CAN008)"
-"3","2","2019-2020","326","TC314","Kỹ thuật kết nối mạng","KTHUATKNOIMANG.1","7","5-Jan","B402","3","Trần Công Nam(CTI037)"
-"3","2","2019-2020","327","AN413C","Kỹ thuật Phòng thu C","KTPHONGTHUC.1","4","4-Mar","B805","1","Nguyễn Văn Thuấn(MAN007)"
-"3","2","2019-2020","328","AN413C","Kỹ thuật Phòng thu C","KTPHONGTHUC.2","4","7-Jun","B805","1","Nguyễn Văn Thuấn(MAN007)"
-"3","2","2019-2020","329","AN232C","Kỹ thuật thanh nhạc 2C","KYTHUATTHANHNHAC2C.3","2","2-Jan","B808","1","Ngô Thị Thanh Huyền(CAN005)"
-"3","2","2019-2020","330","AN232C","Kỹ thuật thanh nhạc 2C","KYTHUATTHANHNHAC2C.4","2","4-Mar","B810","1","Phạm Đức Thành(CAN002)"
-"3","2","2019-2020","331","AN232C","Kỹ thuật thanh nhạc 2C","KYTHUATTHANHNHAC2C.1","2","4-Apr","B804","1","Trần Thị Ngọc Lan(CAN001)"
-"3","2","2019-2020","332","AN232C","Kỹ thuật thanh nhạc 2C","KYTHUATTHANHNHAC2C.1","2","9-Jun","B804","1","Trần Thị Ngọc Lan(CAN001)"
-"3","2","2019-2020","333","AN232C","Kỹ thuật thanh nhạc 2C","KYTHUATTHANHNHAC2C.4","2","8-Aug","B810","1","Phạm Đức Thành(CAN002)"
-"3","2","2019-2020","334","AN232C","Kỹ thuật thanh nhạc 2C","KYTHUATTHANHNHAC2C.5","3","4-Jan","B812","1","Đoàn Thị Thúy Trang(MAN006)"
-"3","2","2019-2020","335","AN232C","Kỹ thuật thanh nhạc 2C","KYTHUATTHANHNHAC2C.2","3","5-Feb","B806","1","Mai Thị Xuân Hương(MAN002)"
-"3","2","2019-2020","336","AN232C","Kỹ thuật thanh nhạc 2C","KYTHUATTHANHNHAC2C.4","4","7-Jun","B810","1","Phạm Đức Thành(CAN002)"
-"3","2","2019-2020","337","AN232C","Kỹ thuật thanh nhạc 2C","KYTHUATTHANHNHAC2C.3","4","9-Jun","B808","1","Ngô Thị Thanh Huyền(CAN005)"
-"3","2","2019-2020","338","AN232C","Kỹ thuật thanh nhạc 2C","KYTHUATTHANHNHAC2C.1","4","9-Jun","B804","1","Trần Thị Ngọc Lan(CAN001)"
-"3","2","2019-2020","339","AN232C","Kỹ thuật thanh nhạc 2C","KYTHUATTHANHNHAC2C.3","5","2-Jan","B808","1","Ngô Thị Thanh Huyền(CAN005)"
-"3","2","2019-2020","340","AN232C","Kỹ thuật thanh nhạc 2C","KYTHUATTHANHNHAC2C.2","5","5-Feb","B806","1","Mai Thị Xuân Hương(MAN002)"
-"3","2","2019-2020","341","AN232C","Kỹ thuật thanh nhạc 2C","KYTHUATTHANHNHAC2C.4","5","4-Mar","B810","1","Phạm Đức Thành(CAN002)"
-"3","2","2019-2020","342","AN232C","Kỹ thuật thanh nhạc 2C","KYTHUATTHANHNHAC2C.1","5","4-Apr","B804","1","Trần Thị Ngọc Lan(CAN001)"
-"3","2","2019-2020","343","AN232C","Kỹ thuật thanh nhạc 2C","KYTHUATTHANHNHAC2C.5","6","4-Jan","B812","1","Đoàn Thị Thúy Trang(MAN006)"
-"3","2","2019-2020","344","AN232C","Kỹ thuật thanh nhạc 2C","KYTHUATTHANHNHAC2C.4","6","10-Oct","B810","1","Phạm Đức Thành(CAN002)"
-"3","2","2019-2020","345","AN232C","Kỹ thuật thanh nhạc 2C","KYTHUATTHANHNHAC2C.3","6","9-Jun","B808","1","Ngô Thị Thanh Huyền(CAN005)"
-"3","2","2019-2020","346","AN333C","Kỹ thuật thanh nhạc 3C","KTTHANHNHAC3C.1","2","2-Jan","B804","1","Trần Thị Ngọc Lan(CAN001)"
-"3","2","2019-2020","347","AN333C","Kỹ thuật thanh nhạc 3C","KTTHANHNHAC3C.4","2","5-May","B810","1","Phạm Đức Thành(CAN002)"
-"3","2","2019-2020","348","AN333C","Kỹ thuật thanh nhạc 3C","KTTHANHNHAC3C.4","2","7-Jul","B810","1","Phạm Đức Thành(CAN002)"
-"3","2","2019-2020","349","AN333C","Kỹ thuật thanh nhạc 3C","KTTHANHNHAC3C.3","2","10-Sep","B808","1","Ngô Thị Thanh Huyền(CAN005)"
-"3","2","2019-2020","350","AN333C","Kỹ thuật thanh nhạc 3C","KTTHANHNHAC3C.5","3","5-May","B812","1","Đoàn Thị Thúy Trang(MAN006)"
-"3","2","2019-2020","351","AN333C","Kỹ thuật thanh nhạc 3C","KTTHANHNHAC3C.5","3","7-Jun","B812","1","Đoàn Thị Thúy Trang(MAN006)"
-"3","2","2019-2020","352","AN333C","Kỹ thuật thanh nhạc 3C","KTTHANHNHAC3C.1","3","7-Jun","B804","1","Trần Thị Ngọc Lan(CAN001)"
-"3","2","2019-2020","353","AN333C","Kỹ thuật thanh nhạc 3C","KTTHANHNHAC3C.3","4","5-Apr","B808","1","Ngô Thị Thanh Huyền(CAN005)"
-"3","2","2019-2020","354","AN333C","Kỹ thuật thanh nhạc 3C","KTTHANHNHAC3C.1","5","2-Jan","B804","1","Trần Thị Ngọc Lan(CAN001)"
-"3","2","2019-2020","355","AN333C","Kỹ thuật thanh nhạc 3C","KTTHANHNHAC3C.4","5","2-Feb","B810","1","Phạm Đức Thành(CAN002)"
-"3","2","2019-2020","356","AN333C","Kỹ thuật thanh nhạc 3C","KTTHANHNHAC3C.1","5","7-Jun","B804","1","Trần Thị Ngọc Lan(CAN001)"
-"3","2","2019-2020","357","AN333C","Kỹ thuật thanh nhạc 3C","KTTHANHNHAC3C.5","6","5-May","B812","1","Đoàn Thị Thúy Trang(MAN006)"
-"3","2","2019-2020","358","AN333C","Kỹ thuật thanh nhạc 3C","KTTHANHNHAC3C.5","6","7-Jun","B812","1","Đoàn Thị Thúy Trang(MAN006)"
-"3","2","2019-2020","359","AN333C","Kỹ thuật thanh nhạc 3C","KTTHANHNHAC3C.4","6","9-Sep","B810","1","Phạm Đức Thành(CAN002)"
-"3","2","2019-2020","360","AN434C","Kỹ thuật thanh nhạc 4C","KYTHUATTHANHNHAC4C.2","2","1-Jan","B806","1","Mai Thị Xuân Hương(MAN002)"
-"3","2","2019-2020","361","AN434C","Kỹ thuật thanh nhạc 4C","KYTHUATTHANHNHAC4C.3","2","3-Mar","B808","1","Ngô Thị Thanh Huyền(CAN005)"
-"3","2","2019-2020","362","AN434C","Kỹ thuật thanh nhạc 4C","KYTHUATTHANHNHAC4C.3","2","8-Jun","B808","1","Ngô Thị Thanh Huyền(CAN005)"
-"3","2","2019-2020","363","AN434C","Kỹ thuật thanh nhạc 4C","KYTHUATTHANHNHAC4C.4","2","6-Jun","B810","1","Phạm Đức Thành(CAN002)"
-"3","2","2019-2020","364","AN434C","Kỹ thuật thanh nhạc 4C","KYTHUATTHANHNHAC4C.4","3","10-Aug","B810","1","Phạm Đức Thành(CAN002)"
-"3","2","2019-2020","365","AN434C","Kỹ thuật thanh nhạc 4C","KYTHUATTHANHNHAC4C.1","3","10-Aug","B804","1","Trần Thị Ngọc Lan(CAN001)"
-"3","2","2019-2020","366","AN434C","Kỹ thuật thanh nhạc 4C","KYTHUATTHANHNHAC4C.3","4","3-Jan","B808","1","Ngô Thị Thanh Huyền(CAN005)"
-"3","2","2019-2020","367","AN434C","Kỹ thuật thanh nhạc 4C","KYTHUATTHANHNHAC4C.2","4","1-Jan","B806","1","Mai Thị Xuân Hương(MAN002)"
-"3","2","2019-2020","368","AN434C","Kỹ thuật thanh nhạc 4C","KYTHUATTHANHNHAC4C.3","4","6-Jun","B808","1","Ngô Thị Thanh Huyền(CAN005)"
-"3","2","2019-2020","369","AN434C","Kỹ thuật thanh nhạc 4C","KYTHUATTHANHNHAC4C.4","5","1-Jan","B810","1","Phạm Đức Thành(CAN002)"
-"3","2","2019-2020","370","AN434C","Kỹ thuật thanh nhạc 4C","KYTHUATTHANHNHAC4C.1","5","10-Aug","B804","1","Trần Thị Ngọc Lan(CAN001)"
-"3","2","2019-2020","371","AN434C","Kỹ thuật thanh nhạc 4C","KYTHUATTHANHNHAC4C.4","6","8-Jun","B810","1","Phạm Đức Thành(CAN002)"
-"3","2","2019-2020","372","AN212C","Ký xướng âm 2C","KYXUONGAM2B.2","4","4-Mar","B803","1","Trần Bá Huy(CAN007)"
-"3","2","2019-2020","373","AN212C","Ký xướng âm 2C","KYXUONGAM2B.1","6","4-Mar","B803","1","Nguyễn Như Cường(CAN009)"
-"3","2","2019-2020","374","CS224","Lập trình .Net","LAPTRINHNET.1","6","10-Jun","A705","3","Nguyễn Đức Dân(CTI011)"
-"3","2","2019-2020","375","CS223","Lập trình Java","JAVACOBAN.1","4","10-Jun","A706A","3",""
-"3","2","2019-2020","376","AJ413","Lịch sử Nhật Bản","LICHSUNHAT.1","6","5-Mar","B402","2","Đặng Thị Minh(CNJ004)"
-"3","2","2019-2020","377","SH111","Lịch sử văn minh thế giới","LSUVANMINHTG.2","2","8-Jun","B303","2","Nguyễn Cảnh Toàn(CXV016)"
-"3","2","2019-2020","378","SH111","Lịch sử văn minh thế giới","LSUVANMINHTG.3","3","5-Mar","B208","2","Nguyễn Cảnh Toàn(CXV016)"
-"3","2","2019-2020","379","MA100","Logic và suy luận toán học","LOGICSLTOAN.2_LT","2","2-Jan","B501","2","Bùi Huy Hiền(CTM003)"
-"3","2","2019-2020","380","MA100","Logic và suy luận toán học","LOGICSLTOAN.1_LT","2","7-Jun","B301","2","Bùi Huy Hiền(CTM003)"
-"3","2","2019-2020","381","MA100","Logic và suy luận toán học","LOGICSLTOAN.2.2_BT","3","3-Jan","B512","2","Lê Thị Yên Hồng(CTM016)"
-"3","2","2019-2020","382","MA100","Logic và suy luận toán học","LOGICSLTOAN.3.2_BT","3","5-Mar","B312","2","Lê Thị Hường(CTM017)"
-"3","2","2019-2020","383","MA100","Logic và suy luận toán học","LOGICSLTOAN.1.1_BT","3","8-Jun","B404","2","Nhâm Ngọc Tần(CTM013)"
-"3","2","2019-2020","384","MA100","Logic và suy luận toán học","LOGICSLTOAN.3_LT","4","7-Jun","B501","2","Bùi Huy Hiền(CTM003)"
-"3","2","2019-2020","385","MA100","Logic và suy luận toán học","LOGICSLTOAN.3.1_BT","5","5-Mar","B408","2","Lê Thị Yên Hồng(CTM016)"
-"3","2","2019-2020","386","MA101","Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)","LOGICDEM (Tiếng Anh).7.1_BT","2","2-Jan","B404","3","Nguyễn Thị Trà My(PAI003)"
-"3","2","2019-2020","387","MA101","Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)","LOGICDEM (Tiếng Anh).5_LT","2","5-Mar","B506","3","Phan Thanh Hồng(CTM007)"
-"3","2","2019-2020","388","MA101","Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)","LOGICDEM (Tiếng Anh).6.1_BT","2","5-Apr","B406","3","Lê Thị Hường(CTM017)"
-"3","2","2019-2020","389","MA101","Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)","LOGICDEM (Tiếng Anh).7_LT","3","5-Mar","B404","3","Đỗ Ngọc Diệp(CVT004)"
-"3","2","2019-2020","390","MA101","Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)","LOGICDEM (Tiếng Anh).7.1_BT","4","2-Jan","B406","3","Nguyễn Thị Trà My(PAI003)"
-"3","2","2019-2020","391","MA101","Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)","LOGICDEM (Tiếng Anh).6_LT","4","5-Mar","B406","3","Nguyễn Thị Nhung(CTM005)"
-"3","2","2019-2020","392","MA101","Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)","LOGICDEM (Tiếng Anh).5.1_BT","5","7-Jun","B404","3","Trần Minh Nguyệt(CTM012)"
-"3","2","2019-2020","393","MA101","Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)","LOGICDEM (Tiếng Anh).6.1_BT","6","5-Apr","B408","3","Lê Thị Hường(CTM017)"
-"3","2","2019-2020","394","MA101","Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)","LOGICDEM (Tiếng Anh).5.1_BT","7","7-Jun","B404","3","Trần Minh Nguyệt(CTM012)"
-"3","2","2019-2020","395","NR332C","LT điều dưỡng các bệnh ngoại khoa 2","LTDDBENHNGOAIKHOA2.1","6","9-Jun","A402","2","Đỗ Quang Tuyển(CSN006)"
-"3","2","2019-2020","396","NR212C","LT điều dưỡng các bệnh nội khoa 2","LTDDBENHNOIKHOA2.1","4","9-Jun","A406","2","Lê Thị Bình(CSN011)"
-"3","2","2019-2020","397","NR415A","LT điều dưỡng các bệnh tâm thần","LTSKHOETAMTHAN.1","4","9-Aug","A407","1",""
-"3","2","2019-2020","398","EC221","Luật kinh tế","LUATKTE.3","3","3-Jan","B201","2","Nguyễn Thị Huế(MQE021)"
-"3","2","2019-2020","399","EC221","Luật kinh tế","LUATKTE.4","4","3-Jan","B101","2","Nguyễn Thị Huế(MQE021)"
-"3","2","2019-2020","400","EC221","Luật kinh tế","LUATKTE.2","5","5-Mar","A602","2","Nguyễn Đình Tài(CGS005)"
-"3","2","2019-2020","401","EC221","Luật kinh tế","LUATKTE.5","6","5-Mar","B103","2","Trần Thị Thu Hà(PTL006)"
-"3","2","2019-2020","402","SK241","Lý thuyết công tác xã hội","LTCTXH.1","4","5-Mar","B104","2","Lê Thị Quý(CXW013)"
-"3","2","2019-2020","403","AE300","Lý thuyết dịch","LTHUYETDICH.1","2","5-Mar","B613","2","Phạm Thái Sơn(CNE014)"
-"3","2","2019-2020","404","AE300","Lý thuyết dịch","LTHUYETDICH.2","3","3-Jan","B601","2","Phạm Thái Sơn(CNE014)"
-"3","2","2019-2020","405","NR321A","Lý thuyết điều dưỡng các bệnh nhi khoa","LTBENHNHI.1","2","10-Jun","B507","3",""
-"3","2","2019-2020","406","NR303A","Lý thuyết điều dưỡng phục hồi chức năng","LTPHUCHOICN.1","4","7-Jun","A407","1",""
-"3","2","2019-2020","407","FN201","Lý thuyết tài chính tiền tệ","LTTAICHINHTTE.4","2","5-Jan","B203","3","Phạm Thị Bảo Oanh(CQB006)"
-"3","2","2019-2020","408","FN201","Lý thuyết tài chính tiền tệ","LTTAICHINHTTE.6","2","10-Jun","A507","3","Nguyễn Thị Tuyết(CQB022)"
-"3","2","2019-2020","409","FN201","Lý thuyết tài chính tiền tệ","LTTAICHINHTTE.3","3","10-Jun","A407","3","Nguyễn Thị Thúy(CQB005)"
-"3","2","2019-2020","410","FN201","Lý thuyết tài chính tiền tệ","LTTAICHINHTTE.5","5","5-Jan","A407","3","Phạm Thị Bảo Oanh(CQB006)"
-"3","2","2019-2020","411","MK333","Marketing dịch vụ","MARKETINGDV.2","6","3-Jan","B407","2","Nguyễn Thị Liên Hương(CQM014)"
-"3","2","2019-2020","412","MK333","Marketing dịch vụ","MARKETINGDV.3","6","8-Jun","B507","2","Nguyễn Thị Liên Hương(CQM014)"
-"3","2","2019-2020","413","MK337","Marketing trong kinh doanh du lịch","MARKETINGDULICH.3","6","5-Mar","A606","2","Trương Đức Thao(CQL002)"
-"3","2","2019-2020","414","MK337","Marketing trong kinh doanh du lịch","MARKETINGDULICH.4","6","8-Jun","A606","2","Trương Đức Thao(CQL002)"
-"3","2","2019-2020","415","TC300","Mô hình hóa và mô phỏng","MOHHOA&MOPHONG.1","3","10-Jun","B312","3","Đinh Thị Thái Mai(MTI027)"
-"3","2","2019-2020","416","CS425","Một số vấn đề hiện đại trong khoa học máy tính","VANDETRONGKHMT.1_LT","5","7-Jun","A705","2","Trần Thị Huệ(CTI014)"
-"3","2","2019-2020","417","CS425","Một số vấn đề hiện đại trong khoa học máy tính","VANDETRONGKHMT.1.1_BT","5","10-Aug","A705","2","Trần Thị Huệ(CTI014)"
-"3","2","2019-2020","418","TR324","Nghệ thuật đàm phán trong kinh doanh du lịch","NTĐPKDDLICH.1","2","10-Jun","A601","3","Nguyễn Duy Thành(CQM015)"
-"3","2","2019-2020","419","PH424","Nghiên cứu định tính","NGHIENCUUDINHTINH.1","3","8-Jun","B412","2","Trần Thị Thanh Huệ(CSP020)"
-"3","2","2019-2020","420","TR335","Nghiệp vụ chế biến các món ăn","NVUCHEBIENMONAN.3","5","10-Jun","BOMON","3","Trần Quốc Hưng(MDL001)"
-"3","2","2019-2020","421","TR333","Nghiệp vụ phục vụ Bàn","NVUBAN.4","7","5-Jan","B106","3","Đỗ Thiện Dụng(CDL010)"
-"3","2","2019-2020","422","TR333","Nghiệp vụ phục vụ Bàn","NVUBAN.5","7","10-Jun","BOMON","3","Đỗ Thiện Dụng(CDL010)"
-"3","2","2019-2020","423","TR334","Nghiệp vụ phục vụ Bar","NGHIEPVUBAR.4","6","5-Jan","BOMON","3","Nguyễn Thị Thanh Hương(CDL011)"
-"3","2","2019-2020","424","TR334","Nghiệp vụ phục vụ Bar","NGHIEPVUBAR.5","7","5-Jan","BOMON","3","Nguyễn Thị Thanh Hương(CDL011)"
-"3","2","2019-2020","425","TR332","Nghiệp vụ phục vụ buồng","NVUBUONG.5","2","5-Jan","BOMON","3","Trần Thu Nga(MDL007)"
-"3","2","2019-2020","426","TR332","Nghiệp vụ phục vụ buồng","NVUBUONG.4","5","5-Jan","BOMON","3","Trần Thu Nga(MDL007)"
-"3","2","2019-2020","427","CF301","Ngôn ngữ hình thức và Otomat","NGONNGUHT&OTOMAT.1","3","10-Jun","B611","3","Phạm Phương Thanh(CTI018)"
-"3","2","2019-2020","428","VL100","Ngôn ngữ học đại cương","NGONNGUHOCDC.1","4","5-Mar","B506","2","Vũ Linh Chi(CXV015)"
-"3","2","2019-2020","429","VL100","Ngôn ngữ học đại cương","NGONNGUHOCDC.2","4","8-Jun","B302","2","Vũ Linh Chi(CXV015)"
-"3","2","2019-2020","430","EL401","Ngôn ngữ học đối chiếu","NNDOICHIEU.1","2","8-Jun","B605","2","Trần Thị Thanh Hương(CNE033)"
-"3","2","2019-2020","431","EL401","Ngôn ngữ học đối chiếu","NNDOICHIEU.2","5","8-Jun","B601","2","Trần Thị Thanh Hương(CNE033)"
-"3","2","2019-2020","432","EL322","Ngữ âm","NGUAM.1","3","10-Aug","A605","2","Hoàng Thị Thu Dung(CNE007)"
-"3","2","2019-2020","433","EL322","Ngữ âm","NGUAM.2","6","10-Aug","B512","2","Hoàng Thị Thu Dung(CNE007)"
-"3","2","2019-2020","434","VJ321","Ngữ âm học tiếng Nhật","NGUAMHOCNHAT.1","5","8-Jun","B402","2","Đỗ Hoàng Ngân(MNJ030)"
-"3","2","2019-2020","435","EL425","Ngữ dụng","NGUDUNG.1","3","10-Aug","B603","2","Phạm Hồng Vân(CNE013)"
-"3","2","2019-2020","436","EL425","Ngữ dụng","NGUDUNG.2","5","10-Aug","B510","2","Phạm Hồng Vân(CNE013)"
-"3","2","2019-2020","437","VJ425","Ngữ dụng học tiếng Nhật","NGUDUNGHOCNHAT.1","3","8-Jun","B402","2","Đỗ Hoàng Ngân(MNJ030)"
-"3","2","2019-2020","438","EL321","Ngữ pháp","NGUPHAP.1","2","2-Jan","B606","3","Trần Thị Hải Bình(CNE004)"
-"3","2","2019-2020","439","EL321","Ngữ pháp","NGUPHAP.2","2","5-Mar","B705","3","Trần Thị Hải Bình(CNE004)"
-"3","2","2019-2020","440","EL321","Ngữ pháp","NGUPHAP.4","3","5-Jan","A403","3","Phí Thị Thu Trang(CNE017)"
-"3","2","2019-2020","441","EL321","Ngữ pháp","NGUPHAP.2","4","2-Jan","B604","3","Trần Thị Hải Bình(CNE004)"
-"3","2","2019-2020","442","EL321","Ngữ pháp","NGUPHAP.1","4","5-Mar","B708","3","Trần Thị Hải Bình(CNE004)"
-"3","2","2019-2020","443","EL321","Ngữ pháp","NGUPHAP.3","5","10-Jun","B512","3","Đỗ Thị Hồng Hà(CNE015)"
-"3","2","2019-2020","444","AJ201","Ngữ pháp tiếng Nhật 1","NGUPHAPNHAT1.1","3","3-Jan","B506","2","Vũ Thị Kim Chi(CNJ003)"
-"3","2","2019-2020","445","AJ201","Ngữ pháp tiếng Nhật 1","NGUPHAPNHAT1.2","3","3-Jan","B508","2","Trương Phương Thúy(CNJ007)"
-"3","2","2019-2020","446","AJ201","Ngữ pháp tiếng Nhật 1","NGUPHAPNHAT1.4","5","3-Jan","A401","2","Trương Phương Thúy(CNJ007)"
-"3","2","2019-2020","447","AJ201","Ngữ pháp tiếng Nhật 1","NGUPHAPNHAT1.3","5","5-Mar","B202","2","Vũ Thị Kim Chi(CNJ003)"
-"3","2","2019-2020","448","AC201","Nguyên lý kế toán","NLKETOAN.8","2","5-Jan","A407","3","Đào Diệu Hằng(CQA003)"
-"3","2","2019-2020","449","AC201","Nguyên lý kế toán","NLKETOAN.4","2","5-Jan","B205","3","Đoàn Thị Hồng Nhung(CQA001)"
-"3","2","2019-2020","450","AC201","Nguyên lý kế toán","NLKETOAN.5","3","5-Jan","B407","3","Đoàn Thị Hồng Nhung(CQA001)"
-"3","2","2019-2020","451","AC201","Nguyên lý kế toán","NLKETOAN.9","3","10-Jun","B407","3","Mai Thanh Thủy(CQA006)"
-"3","2","2019-2020","452","AC201","Nguyên lý kế toán","NLKETOAN.10","4","10-Jun","A507","3","Mai Thanh Thủy(CQA006)"
-"3","2","2019-2020","453","AC201","Nguyên lý kế toán","NLKETOAN.6","6","5-Jan","B201","3","Đoàn Thị Hồng Nhung(CQA001)"
-"3","2","2019-2020","454","AC201","Nguyên lý kế toán","NLKETOAN.11","6","10-Jun","B403","3","Nguyễn Thu Hoài(CQA007)"
-"3","2","2019-2020","455","AC201","Nguyên lý kế toán","NLKETOAN.7","7","5-Jan","B203","3","Nguyễn Thị Hồng Anh(CQA010)"
-"3","2","2019-2020","456","MK201","Nguyên lý marketing","NLYMARKETING.3","5","8-Jun","B204","2","Nguyễn Tường Minh(CQM016)"
-"3","2","2019-2020","457","MK201","Nguyên lý marketing","NLYMARKETING.5","7","5-Mar","A502","2","Nguyễn Tường Minh(CQM016)"
-"3","2","2019-2020","458","TR111","Nhập môn du lịch","NHAPMONDL.1","2","5-Jan","A402","3","Bùi Cẩm Phượng(CDL005)"
-"3","2","2019-2020","459","EC102","Nhập môn kinh tế học","NMONKTEHOC.2","2","5-Mar","B201","2","Vũ Đức Hiếu(CQE008)"
-"3","2","2019-2020","460","EC102","Nhập môn kinh tế học","NMONKTEHOC.4","5","5-Mar","B406","2","Nguyễn Thị Phương(CQE019)"
-"3","2","2019-2020","461","EC102","Nhập môn kinh tế học","NMONKTEHOC.1","6","8-Jun","B105","2","Lê Việt Đức(CQE021)"
-"3","2","2019-2020","462","EC315","Nhập môn kinh tế quốc tế","KINHTEQUOCTE(NNGU).2","5","5-Mar","B201","2","Nguyễn Phương Mai(CQE002)"
-"3","2","2019-2020","463","EC315","Nhập môn kinh tế quốc tế","KINHTEQUOCTE(NNGU).1","6","5-Mar","B101","2","Nguyễn Phương Mai(CQE002)"
-"3","2","2019-2020","464","EM315","Nhập môn Marketing","NMONMARKETING.1","3","5-Jan","A402","3","Nguyễn Tường Minh(CQM016)"
-"3","2","2019-2020","465","VC441","Nhập môn thư pháp chữ Hán 1","NMTHUPHAPHAN1.1","2","8-Jun","B712","2","Trần Tiến Khôi(CXV003)"
-"3","2","2019-2020","466","VC441","Nhập môn thư pháp chữ Hán 1","NMTHUPHAPHAN1.3","4","5-Mar","B709","2","Trần Tiến Khôi(CXV003)"
-"3","2","2019-2020","467","VC442","Nhập môn thư pháp chữ Hán 2","NMTHUPHAPHAN2.1","5","5-Mar","B608","2","Trần Tiến Khôi(CXV003)"
-"3","2","2019-2020","468","VC442","Nhập môn thư pháp chữ Hán 2","NMTHUPHAPHAN2.2","7","8-Jun","B712","2","Trần Tiến Khôi(CXV003)"
-"3","2","2019-2020","469","AD314","Nhảy hiện đại","NHAYHIENDAI.1","2","7-Jun","NHATC","4",""
-"3","2","2019-2020","470","AD314","Nhảy hiện đại","NHAYHIENDAI.2","2","9-Aug","NHATC","4",""
-"3","2","2019-2020","471","AD314","Nhảy hiện đại","NHAYHIENDAI.3","3","7-Jun","NHATC","4",""
-"3","2","2019-2020","472","AD314","Nhảy hiện đại","NHAYHIENDAI.4","3","9-Aug","NHATC","4",""
-"3","2","2019-2020","473","AD314","Nhảy hiện đại","NHAYHIENDAI.1","4","7-Jun","NHATC","4",""
-"3","2","2019-2020","474","AD314","Nhảy hiện đại","NHAYHIENDAI.2","4","9-Aug","NHATC","4",""
-"3","2","2019-2020","475","AD314","Nhảy hiện đại","NHAYHIENDAI.3","5","7-Jun","NHATC","4",""
-"3","2","2019-2020","476","AD314","Nhảy hiện đại","NHAYHIENDAI.4","5","9-Aug","NHATC","4",""
-"3","2","2019-2020","477","AD314","Nhảy hiện đại","NHAYHIENDAI.1","6","7-Jun","NHATC","4",""
-"3","2","2019-2020","478","AD314","Nhảy hiện đại","NHAYHIENDAI.2","6","9-Aug","NHATC","4",""
-"3","2","2019-2020","479","AD314","Nhảy hiện đại","NHAYHIENDAI.3","7","7-Jun","NHATC","4",""
-"3","2","2019-2020","480","AD314","Nhảy hiện đại","NHAYHIENDAI.4","7","9-Aug","NHATC","4",""
-"3","2","2019-2020","481","MA431","Phân tích số liệu bằng STATA","PHANTICHSOLIEUSTATA.1","5","8-Jun","A305","2","Nguyễn Thị Huyền Trang(CSP018)"
-"3","2","2019-2020","482","TR231","Pháp luật trong kinh doanh du lịch","PLUATKDDL.1","6","5-Mar","B303","2","Trịnh Xuân Dũng(CDL001)"
-"3","2","2019-2020","483","SK337","Phát triển cộng đồng 2","PTCONGDONG2(TIENGANH).1","7","5-Mar","B502","2","Se Gun Song(CXW027)"
-"3","2","2019-2020","484","AN404","Phối khí 2","PHOIKHI.2","3","4-Mar","B805","2","Nguyễn Văn Thuấn(MAN007)"
-"3","2","2019-2020","485","AN404","Phối khí 2","PHOIKHI.1","3","7-Jun","B805","2","Nguyễn Văn Thuấn(MAN007)"
-"3","2","2019-2020","486","AD212","Phương pháp hùng biện và các thủ thuật tranh biện","PPHAPHUNGBIEN.1","5","5-Jan","GD.Grothendieck","3","Hoàng Thái(MGS019)"
-"3","2","2019-2020","487","SM201","Phương pháp luận nghiên cứu khoa học","PPNCKHOAHOC.1","5","10-Jun","B103","3","Hồ Xuân Ngọc(PDT043)"
-"3","2","2019-2020","488","SM201","Phương pháp luận nghiên cứu khoa học","PPNCKHOAHOC.2","7","10-Jun","A402","3","Hồ Xuân Ngọc(PDT043)"
-"3","2","2019-2020","489","PH334","Phương pháp nghiên cứu khoa học trong y tế","PPNCKHOAHOCYTE.1","6","10-Jun","B301","3","Hoàng Thị Thanh(CSN031)"
-"3","2","2019-2020","490","AN222C","Piano ứng dụng 1C","PIANO1C.1","3","4-Mar","B807","1","Phạm Thanh Hà(MAN003)"
-"3","2","2019-2020","491","AN222C","Piano ứng dụng 1C","PIANO1C.2","3","7-Jun","B807","1","Phạm Thanh Hà(MAN003)"
-"3","2","2019-2020","492","AN323C","Piano ứng dụng 2C","PIANOUD2C.1","4","7-Jun","B807","1","Nguyễn Văn Thái(CAN011)"
-"3","2","2019-2020","493","SE380","Project","PROJECT.1","6","5-Jan","A305","3","Mai Thuý Nga(CTI008)"
-"3","2","2019-2020","494","MK425","Quan hệ công chúng","QHECONGCHUNG.3","4","5-Jan","B312","3","Phạm Long Châu(CQM006)"
-"3","2","2019-2020","495","MK425","Quan hệ công chúng","QHECONGCHUNG.2","5","10-Jun","A406","3","Nguyễn Bảo Tuấn(CQM009)"
-"3","2","2019-2020","496","BA217","Quản lí nguồn nhân lực trong du lịch","QLNHANLUCDULICH.2","5","10-Jun","A506","3","Phùng Đức Thiện(CDL007)"
-"3","2","2019-2020","497","SE422","Quản lý dự án phần mềm","QLDUANPHANMEM.1","3","10-Jun","A706A","3","Trần Quang Duy(CTI019)"
-"3","2","2019-2020","498","NR404","Quản lý y tế và Quản lý điều dưỡng","QLDIEUDUONG.1 (LTCĐ)","1","13-Dec","BOMON","3","Lê Thị Bình(CSN011)"
-"3","2","2019-2020","499","NR404","Quản lý y tế và Quản lý điều dưỡng","QLDIEUDUONG.1 (LTCĐ)","4","12-Oct","B106","3","Lê Thị Bình(CSN011)"
-"3","2","2019-2020","500","BA342","Quản trị các DV bổ trợ trong khách sạn","QTKDDVBOTROKSAN.3","5","5-Jan","A506","3","Trương Đức Thao(CQL002)"
-"3","2","2019-2020","501","BA313","Quản trị chiến lược","QTRICHIENLUOC.3","6","10-Jun","A502","3","Nguyễn Duy Thành(CQM015)"
-"3","2","2019-2020","502","BA313","Quản trị chiến lược","QTRICHIENLUOC.2","7","5-Jan","B407","3","Nguyễn Duy Thành(CQM015)"
-"3","2","2019-2020","503","BA102","Quản trị học đại cương","QUANTRIHOCDC.2","4","5-Jan","B302","3","Lê Thị Hạnh(CQM008)"
-"3","2","2019-2020","504","BA339","Quản trị kinh doanh các sự kiện","QTKDSUKIEN.1","6","5-Jan","B301","3","Phùng Đức Thiện(CDL007)"
-"3","2","2019-2020","505","BA339","Quản trị kinh doanh các sự kiện","QTKDSUKIEN.2","6","10-Jun","A506","3","Phùng Đức Thiện(CDL007)"
-"3","2","2019-2020","506","BA236","Quản trị kinh doanh điểm đến","QTRIKDDIEMDEN.4","2","10-Jun","B105","3","Phạm Trần Thăng Long(CDL004)"
-"3","2","2019-2020","507","BA236","Quản trị kinh doanh điểm đến","QTRIKDDIEMDEN.3","3","10-Jun","B303","3","Phạm Trần Thăng Long(CDL004)"
-"3","2","2019-2020","508","BA236","Quản trị kinh doanh điểm đến","QTRIKDDIEMDEN.5","6","10-Jun","A507","3","Phạm Trần Thăng Long(CDL004)"
-"3","2","2019-2020","509","BA332","Quản trị kinh doanh lữ hành","QTRIKDLUHANH.1","5","5-Jan","A507","3","Nguyễn Đức Khoa(CDL006)"
-"3","2","2019-2020","510","BA314","Quản trị nguồn nhân lực","QTRINHANLUC.4","4","10-Jun","B301","3","Vương Thị Thanh Trì(CQM004)"
-"3","2","2019-2020","511","BA314","Quản trị nguồn nhân lực","QTRINHANLUC.2","5","10-Jun","B201","3","Vương Thị Thanh Trì(CQM004)"
-"3","2","2019-2020","512","BA314","Quản trị nguồn nhân lực","QTRINHANLUC.5","6","5-Jan","B307","3","Lê Thị Hạnh(CQM008)"
-"3","2","2019-2020","513","BA314","Quản trị nguồn nhân lực","QTRINHANLUC.3","6","10-Jun","B407","3","Lê Thị Hạnh(CQM008)"
-"3","2","2019-2020","514","BA211","Quản trị sản xuất và tác nghiệp","QLSXTACNGHIEP.3","2","10-Jun","B201","3","Vũ Lệ Hằng(CQM001)"
-"3","2","2019-2020","515","BA211","Quản trị sản xuất và tác nghiệp","QLSXTACNGHIEP.4","3","10-Jun","B201","3","Vương Thị Thanh Trì(CQM004)"
-"3","2","2019-2020","516","MK313","Quản trị thương hiệu","QTRITHUONGHIEU.3","2","10-Jun","A402","3","Nguyễn Thị Liên Hương(CQM014)"
-"3","2","2019-2020","517","MK313","Quản trị thương hiệu","QTRITHUONGHIEU.2","4","5-Jan","A502","3","Phạm Long Châu(CQM006)"
-"3","2","2019-2020","518","AN311C","Sáng tác ca khúc 1C","SANGTACCAKHUC1C.1","6","4-Mar","B807","1","Phạm Thanh Hà(MAN003)"
-"3","2","2019-2020","519","HB212","Sinh lý - Sinh lý bệnh - Miễn dịch","SINHLYMIENDICH.1","4","9-Jun","B108","4","Trịnh Hùng Cường(CSP005)"
-"3","2","2019-2020","520","HB212","Sinh lý - Sinh lý bệnh - Miễn dịch","SINHLYMIENDICH.1","6","8-Jun","B108","4","Trịnh Hùng Cường(CSP005)"
-"3","2","2019-2020","521","PH337","Sơ cấp cứu trong quá trình phục vụ du lịch","SOCUUTRONGDL.1","3","10-Jun","BOMON","3","Vũ Dũng(CSN012)"
-"3","2","2019-2020","522","PH212","Sức khoẻ môi trường cơ bản và phòng chống thảm hoạ","SKMT&THAMHOA.1","2","10-Jun","B312","3","Ngô Thị Thu Hiền(CSP014)"
-"3","2","2019-2020","523","PH343","Sức khoẻ nghề nghiệp cơ bản","SUCKHOENNCB.1","3","8-Jun","B613","2","Ngô Thị Thu Hiền(CSP014)"
-"3","2","2019-2020","524","FN211","Tài chính doanh nghiệp","TAICHINHDN.5","3","5-Jan","A407","3","Lê Thanh Nhàn(CQB019)"
-"3","2","2019-2020","525","FN211","Tài chính doanh nghiệp","TAICHINHDN.8","3","10-Jun","A602","3","Thân Thế Sơn Tùng(CQB026)"
-"3","2","2019-2020","526","FN211","Tài chính doanh nghiệp","TAICHINHDN.4","4","5-Jan","B307","3","Chu Thị Thu Thủy(CQB010)"
-"3","2","2019-2020","527","FN211","Tài chính doanh nghiệp","TAICHINHDN.7","5","5-Jan","A502","3","Thân Thế Sơn Tùng(CQB026)"
-"3","2","2019-2020","528","FN211","Tài chính doanh nghiệp","TAICHINHDN.6","5","10-Jun","A407","3","Lê Thanh Nhàn(CQB019)"
-"3","2","2019-2020","529","FN211","Tài chính doanh nghiệp","TAICHINHDN.9","7","5-Jan","B105","3","Chu Thị Thu Thủy(CQB010)"
-"3","2","2019-2020","530","MK305","Tâm lý hành vi người tiêu dùng","TAMLYTIEUDUNG.2","7","5-Jan","B501","3","Nguyễn Thị Liên Hương(CQM014)"
-"3","2","2019-2020","531","PS200","Tâm lý học đại cương","TAMLYHOCDC.1","2","10-Jul","B401","2","Trần Hoàng Thị Diễm Ngọc(MXW056)"
-"3","2","2019-2020","532","PS200","Tâm lý học đại cương","TAMLYHOCDC.2","5","10-Jul","B401","2","Trần Hoàng Thị Diễm Ngọc(MXW056)"
-"3","2","2019-2020","533","SM421","Tập dượt nghiên cứu khoa học","TAPDUOTNCKH.1","7","3-Jan","B506","2","Trần Thị Phương Thu(CNE001)"
-"3","2","2019-2020","534","NR211B","TH Điều dưỡng các bệnh nội khoa 1","THBENHNOIKHOA1.1","3","4-Jan","BENHVIEN","2","Lê Đức Sang(CSN017)"
-"3","2","2019-2020","535","NR211B","TH Điều dưỡng các bệnh nội khoa 1","THBENHNOIKHOA1.2","3","4-Jan","BENHVIEN","2","Vũ Dũng(CSN012)"
-"3","2","2019-2020","536","NR211B","TH Điều dưỡng các bệnh nội khoa 1","THBENHNOIKHOA1.3","3","4-Jan","BENHVIEN","2","Nguyễn Khánh Huyền(CSN030)"
-"3","2","2019-2020","537","NR211B","TH Điều dưỡng các bệnh nội khoa 1","THBENHNOIKHOA1.3","4","4-Jan","BENHVIEN","2","Nguyễn Khánh Huyền(CSN030)"
-"3","2","2019-2020","538","NR211B","TH Điều dưỡng các bệnh nội khoa 1","THBENHNOIKHOA1.1","4","4-Jan","BENHVIEN","2","Lê Đức Sang(CSN017)"
-"3","2","2019-2020","539","NR211B","TH Điều dưỡng các bệnh nội khoa 1","THBENHNOIKHOA1.2","4","4-Jan","BENHVIEN","2","Vũ Dũng(CSN012)"
-"3","2","2019-2020","540","NR314B","TH Điều dưỡng các bệnh truyền nhiễm","THTRUYENNHIEM.4","2","4-Jan","BENHVIEN","1","Lê Đức Sang(CSN017)"
-"3","2","2019-2020","541","NR314B","TH Điều dưỡng các bệnh truyền nhiễm","THTRUYENNHIEM.1","3","4-Jan","BENHVIEN","1","Lê Đức Sang(CSN017)"
-"3","2","2019-2020","542","NR314B","TH Điều dưỡng các bệnh truyền nhiễm","THTRUYENNHIEM.2","4","4-Jan","BENHVIEN","1","Nguyễn Thị Như Mai(CSN003)"
-"3","2","2019-2020","543","NR314B","TH Điều dưỡng các bệnh truyền nhiễm","THTRUYENNHIEM.3","5","4-Jan","BENHVIEN","1","Nguyễn Thị Như Mai(CSN003)"
-"3","2","2019-2020","544","NR310B","TH Điều dưỡng hồi sức cấp cứu","THHOISUCCAPCUU.1","2","4-Jan","BENHVIEN","1","Phạm Thành Đồng(CSN020)"
-"3","2","2019-2020","545","NR310B","TH Điều dưỡng hồi sức cấp cứu","THHOISUCCAPCUU.2","3","4-Jan","BENHVIEN","1","Phạm Thành Đồng(CSN020)"
-"3","2","2019-2020","546","NR310B","TH Điều dưỡng hồi sức cấp cứu","THHOISUCCAPCUU.3","4","4-Jan","BENHVIEN","1","Phạm Thành Đồng(CSN020)"
-"3","2","2019-2020","547","NR310B","TH Điều dưỡng hồi sức cấp cứu","THHOISUCCAPCUU.4","5","4-Jan","BENHVIEN","1","Phạm Thành Đồng(CSN020)"
-"3","2","2019-2020","548","NC211B","TH kiểm soát nhiễm khuẩn trong thực hành điều dưỡng","THKSNHIEMKHUANDD.1","2","4-Jan","BENHVIEN","1","Nguyễn Thị Như Mai(CSN003)"
-"3","2","2019-2020","549","NC211B","TH kiểm soát nhiễm khuẩn trong thực hành điều dưỡng","THKSNHIEMKHUANDD.2","2","4-Jan","BENHVIEN","1","Nguyễn Khánh Huyền(CSN030)"
-"3","2","2019-2020","550","NC211B","TH kiểm soát nhiễm khuẩn trong thực hành điều dưỡng","THKSNHIEMKHUANDD.3","2","4-Jan","BENHVIEN","1","Nguyễn Thị Thùy Trang(CSN021)"
-"3","2","2019-2020","551","AN234C","Thanh nhạc ứng dụng 1C","THANHNHACUNGDUNG1C.4","2","2-Jan","B810","1","Phạm Đức Thành(CAN002)"
-"3","2","2019-2020","552","AN234C","Thanh nhạc ứng dụng 1C","THANHNHACUNGDUNG1C.2","3","7-Jun","B806","1","Mai Thị Xuân Hương(MAN002)"
-"3","2","2019-2020","553","AN234C","Thanh nhạc ứng dụng 1C","THANHNHACUNGDUNG1C.5","5","7-Jun","B812","1","Đoàn Thị Thúy Trang(MAN006)"
-"3","2","2019-2020","554","AN234C","Thanh nhạc ứng dụng 1C","THANHNHACUNGDUNG1C.1","6","2-Jan","B804","1","Trần Thị Ngọc Lan(CAN001)"
-"3","2","2019-2020","555","AN234C","Thanh nhạc ứng dụng 1C","THANHNHACUNGDUNG1C.3","7","2-Jan","B808","1","Ngô Thị Thanh Huyền(CAN005)"
-"3","2","2019-2020","556","AN235C","Thanh nhạc ứng dụng 2B","THANHNHACUNGDUNG2C.2","5","7-Jun","B806","1","Mai Thị Xuân Hương(MAN002)"
-"3","2","2019-2020","557","AN235C","Thanh nhạc ứng dụng 2B","THANHNHACUNGDUNG2C.5","5","9-Aug","B812","1","Đoàn Thị Thúy Trang(MAN006)"
-"3","2","2019-2020","558","AN235C","Thanh nhạc ứng dụng 2B","THANHNHACUNGDUNG2C.1","7","2-Jan","B804","1","Trần Thị Ngọc Lan(CAN001)"
-"3","2","2019-2020","559","AN235C","Thanh nhạc ứng dụng 2B","THANHNHACUNGDUNG2C.4","7","2-Jan","B810","1","Phạm Đức Thành(CAN002)"
-"3","2","2019-2020","560","AN235C","Thanh nhạc ứng dụng 2B","THANHNHACUNGDUNG2C.3","7","4-Mar","B808","1","Ngô Thị Thanh Huyền(CAN005)"
-"3","2","2019-2020","561","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.1","2","2-Jan","NHATC","1",""
-"3","2","2019-2020","562","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.3","2","4-Mar","NHATC","1",""
-"3","2","2019-2020","563","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.4","2","7-Jun","NHATC","1",""
-"3","2","2019-2020","564","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.5","2","9-Aug","NHATC","1",""
-"3","2","2019-2020","565","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.6","3","2-Jan","NHATC","1",""
-"3","2","2019-2020","566","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.7","3","4-Mar","NHATC","1",""
-"3","2","2019-2020","567","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.8","3","7-Jun","NHATC","1",""
-"3","2","2019-2020","568","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.9","3","9-Aug","NHATC","1",""
-"3","2","2019-2020","569","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.10","4","2-Jan","NHATC","1",""
-"3","2","2019-2020","570","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.11","4","4-Mar","NHATC","1",""
-"3","2","2019-2020","571","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.12","4","7-Jun","NHATC","1",""
-"3","2","2019-2020","572","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.13","4","9-Aug","NHATC","1",""
-"3","2","2019-2020","573","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.14","5","2-Jan","NHATC","1",""
-"3","2","2019-2020","574","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.15","5","4-Mar","NHATC","1",""
-"3","2","2019-2020","575","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.16","5","7-Jun","NHATC","1",""
-"3","2","2019-2020","576","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.17","5","9-Aug","NHATC","1",""
-"3","2","2019-2020","577","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.18","6","2-Jan","NHATC","1",""
-"3","2","2019-2020","578","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.19","6","4-Mar","NHATC","1",""
-"3","2","2019-2020","579","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.20","6","7-Jun","NHATC","1",""
-"3","2","2019-2020","580","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.21","6","9-Aug","NHATC","1",""
-"3","2","2019-2020","581","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.22","7","2-Jan","NHATC","1",""
-"3","2","2019-2020","582","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.23","7","4-Mar","NHATC","1",""
-"3","2","2019-2020","583","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.24","7","7-Jun","NHATC","1",""
-"3","2","2019-2020","584","PG120","Thể dục cơ bản nâng cao","THEDUCCBNANHCAO.25","7","9-Aug","NHATC","1",""
-"3","2","2019-2020","585","MA232","Thống kê xã hội học","TKEXHHOC.2.1_BT","3","2-Jan","A702","3","Nhâm Ngọc Tần(CTM013)"
-"3","2","2019-2020","586","MA232","Thống kê xã hội học","TKEXHHOC.1_LT","3","5-Mar","B307","3","Ngô Thị Thanh Nga(CTM006)"
-"3","2","2019-2020","587","MA232","Thống kê xã hội học","TKEXHHOC.3_LT","3","10-Aug","B610","3","Trần Minh Nguyệt(CTM012)"
-"3","2","2019-2020","588","MA232","Thống kê xã hội học","TKEXHHOC.2_LT","4","5-Mar","B403","3","Nhâm Ngọc Tần(CTM013)"
-"3","2","2019-2020","589","MA232","Thống kê xã hội học","TKEXHHOC.3.1_BT","4","9-Jun","A707","3","Trần Minh Nguyệt(CTM012)"
-"3","2","2019-2020","590","MA232","Thống kê xã hội học","TKEXHHOC.2.1_BT","5","2-Jan","A702","3","Nhâm Ngọc Tần(CTM013)"
-"3","2","2019-2020","591","MA232","Thống kê xã hội học","TKEXHHOC.1.1_BT","5","5-Feb","A704","3","Đỗ Thị Thuý Hằng(CTM009)"
-"3","2","2019-2020","592","MA232","Thống kê xã hội học","TKEXHHOC.1.2_BT","5","5-Feb","A705","3","Trần Minh Nguyệt(CTM012)"
-"3","2","2019-2020","593","MA232","Thống kê xã hội học","TKEXHHOC.2.2_BT","7","5-Feb","A704","3","Ngô Thị Thanh Nga(CTM006)"
-"3","2","2019-2020","594","AE322","Thư tín thương mại 1","THUTINTM1.1","4","5-Mar","B710","2","Hoàng Kim Thúy(CNE012)"
-"3","2","2019-2020","595","AE323","Thư tín thương mại 2","THUTINTM2.1","3","5-Mar","B607","2","Trần Thị Phương Thu(CNE001)"
-"3","2","2019-2020","596","AE323","Thư tín thương mại 2","THUTINTM2.2","3","8-Jun","B605","2","Trần Thị Phương Thu(CNE001)"
-"3","2","2019-2020","597","AN352C","Thực hành biểu diễn 2C","THBIEUDIEN2C.3","2","9-Aug","BOMON","1","Phạm Đức Thành(CAN002)"
-"3","2","2019-2020","598","AN352C","Thực hành biểu diễn 2C","THBIEUDIEN2C.1","3","7-Jun","BOMON","1","Phạm Đức Thành(CAN002)"
-"3","2","2019-2020","599","AN352C","Thực hành biểu diễn 2C","THBIEUDIEN2C.2","4","4-Mar","BOMON","1","Phạm Đức Thành(CAN002)"
-"3","2","2019-2020","600","AN352C","Thực hành biểu diễn 2C","THBIEUDIEN2C.4","5","7-Jun","BOMON","1","Phạm Đức Thành(CAN002)"
-"3","2","2019-2020","601","NR416B","Thực hành chăm sóc SK người cao tuổi và BN hấp hối","THSKNCAOTUOI.1 (LTCĐ)","7","4-Jan","BENHVIEN","1","Đỗ Quang Tuyển(CSN006)"
-"3","2","2019-2020","602","NR331B","Thực hành điều dưỡng các bệnh ngoại khoa 1","THNGOAIKHOA1.1","5","4-Jan","BENHVIEN","2","Đỗ Quang Tuyển(CSN006)"
-"3","2","2019-2020","603","NR331B","Thực hành điều dưỡng các bệnh ngoại khoa 1","THNGOAIKHOA1.2","5","4-Jan","BENHVIEN","2","Nguyễn Thị Thùy Trang(CSN021)"
-"3","2","2019-2020","604","NR331B","Thực hành điều dưỡng các bệnh ngoại khoa 1","THNGOAIKHOA1.3","5","4-Jan","BENHVIEN","2","Nguyễn Thị Như Mai(CSN003)"
-"3","2","2019-2020","605","NR331B","Thực hành điều dưỡng các bệnh ngoại khoa 1","THNGOAIKHOA1.3","6","4-Jan","BENHVIEN","2","Nguyễn Thị Như Mai(CSN003)"
-"3","2","2019-2020","606","NR331B","Thực hành điều dưỡng các bệnh ngoại khoa 1","THNGOAIKHOA1.2","6","4-Jan","BENHVIEN","2","Nguyễn Thị Thùy Trang(CSN021)"
-"3","2","2019-2020","607","NR331B","Thực hành điều dưỡng các bệnh ngoại khoa 1","THNGOAIKHOA1.1","6","4-Jan","BENHVIEN","2","Đỗ Quang Tuyển(CSN006)"
-"3","2","2019-2020","608","PH236","Thực tập cộng đồng 1","THUCTAPCÐ1.1","1","4-Jan","BOMON","2","Nguyễn Ngọc Phương(CSP021)"
-"3","2","2019-2020","609","PH336","Thực tập cộng đồng 2","TTCONGDONG2.1","1","10-Jun","BOMON","3","Nguyễn Ngọc Phương(CSP021)"
-"3","2","2019-2020","610","VC429","Thực tập du lịch","THUCTAPDULICH.1","1","3-Jan","BOMON","4","Nguyễn Thị Hoa(CXV004)"
-"3","2","2019-2020","611","VC429","Thực tập du lịch","THUCTAPDULICH.1","1","8-Jun","BOMON","4","Trần Tiến Khôi(CXV003)"
-"3","2","2019-2020","612","IP403","Thực tập ngành Hệ thống thông tin","TTHTTHONGTINQLY.1","1","9-Jun","BOMON1","2",""
-"3","2","2019-2020","613","IP401","Thực tập ngành Khoa học máy tính","TTKHMAYTINH.1","1","9-Jun","BOMON1","2",""
-"3","2","2019-2020","614","NS448","Thực tập tốt nghiệp","TTTN(DINHDUONG).1","2","7-Jun","BENHVIEN","3","Phạm Thị Diệp(CSD005)"
-"3","2","2019-2020","615","NS448","Thực tập tốt nghiệp","TTTN(DINHDUONG).1","3","7-Jun","BENHVIEN","3","Phạm Thị Diệp(CSD005)"
-"3","2","2019-2020","616","NS448","Thực tập tốt nghiệp","TTTN(DINHDUONG).1","3","9-Aug","BENHVIEN","3","Nguyễn Minh Trang(CSD007)"
-"3","2","2019-2020","617","NS448","Thực tập tốt nghiệp","TTTN(DINHDUONG).1","4","7-Jun","BENHVIEN","3","Nguyễn Minh Trang(CSD007)"
-"3","2","2019-2020","618","NS448","Thực tập tốt nghiệp","TTTN(DINHDUONG).1","5","8-Jun","BENHVIEN","3","Nguyễn Minh Trang(CSD007)"
-"3","2","2019-2020","619","NS448","Thực tập tốt nghiệp","TTTN(DINHDUONG).1","6","8-Jun","BENHVIEN","3","Phạm Thị Diệp(CSD005)"
-"3","2","2019-2020","620","VP412","Thực tập văn hóa - truyền thông","TTVHOATRUYENTHONG.1","1","3-Jan","BOMON","4","Trần Tiến Khôi(CXV003)"
-"3","2","2019-2020","621","VP412","Thực tập văn hóa - truyền thông","TTVHOATRUYENTHONG.1","1","8-Jun","BOMON","4","Nguyễn Thị Hoa(CXV004)"
-"3","2","2019-2020","622","AE426","Tiếng Anh kinh tế 1","ANHKTE1.2","4","10-Jun","B607","3","Lê Thị Hòa(CNE009)"
-"3","2","2019-2020","623","AE427","Tiếng Anh kinh tế 2","ANHKTE2.2","2","10-Jun","B607","3","Đỗ Thu Hằng(CNE008)"
-"3","2","2019-2020","624","AE427","Tiếng Anh kinh tế 2","ANHKTE2.1","6","5-Jan","B610","3","Đỗ Thu Hằng(CNE008)"
-"3","2","2019-2020","625","GE201","Tiếng Anh sơ trung cấp 1","ANHSTC1.2 (TC)","2","12-Oct","B202","2",""
-"3","2","2019-2020","626","GE201","Tiếng Anh sơ trung cấp 1","ANHSTC1.2 (TC)","4","12-Oct","B202","2",""
-"3","2","2019-2020","627","GE202","Tiếng Anh sơ trung cấp 2","ANHSTC2.3","2","2-Jan","B608","2","Đỗ Thị Hồng Hà(CNE015)"
-"3","2","2019-2020","628","GE202","Tiếng Anh sơ trung cấp 2","ANHSTC2.5","2","5-Apr","B602","2","Đỗ Thị Hồng Hà(CNE015)"
-"3","2","2019-2020","629","GE202","Tiếng Anh sơ trung cấp 2","ANHSTC2.4","3","2-Jan","B604","2","Tô Hoài An(CNE021)"
-"3","2","2019-2020","630","GE202","Tiếng Anh sơ trung cấp 2","ANHSTC2.6","3","5-Apr","B510","2","Tô Hoài An(CNE021)"
-"3","2","2019-2020","631","GE202","Tiếng Anh sơ trung cấp 2","ANHSTC2.3","4","2-Jan","B607","2","Đỗ Thị Hồng Hà(CNE015)"
-"3","2","2019-2020","632","GE202","Tiếng Anh sơ trung cấp 2","ANHSTC2.5","4","5-Apr","B703","2","Đỗ Thị Hồng Hà(CNE015)"
-"3","2","2019-2020","633","GE202","Tiếng Anh sơ trung cấp 2","ANHSTC2.4","5","2-Jan","B410","2","Tô Hoài An(CNE021)"
-"3","2","2019-2020","634","GE202","Tiếng Anh sơ trung cấp 2","ANHSTC2.6","5","5-Apr","B605","2","Tô Hoài An(CNE021)"
-"3","2","2019-2020","635","GE202","Tiếng Anh sơ trung cấp 2","ANHSTC2.3","6","2-Jan","B603","2","Đỗ Thị Hồng Hà(CNE015)"
-"3","2","2019-2020","636","GE202","Tiếng Anh sơ trung cấp 2","ANHSTC2.5","6","5-Apr","B606","2","Đỗ Thị Hồng Hà(CNE015)"
-"3","2","2019-2020","637","GE202","Tiếng Anh sơ trung cấp 2","ANHSTC2.4","7","2-Jan","B510","2","Lê Thị Hòa(CNE009)"
-"3","2","2019-2020","638","GE202","Tiếng Anh sơ trung cấp 2","ANHSTC2.6","7","5-Apr","B506","2","Lê Thị Hòa(CNE009)"
-"3","2","2019-2020","639","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.11","2","2-Jan","B610","2","Nguyễn Vân Khánh(CNE018)"
-"3","2","2019-2020","640","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.3","2","5-Apr","B704","2","Nguyễn Thị Bích Trâm(CNE061)"
-"3","2","2019-2020","641","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.8","2","7-Jun","B610","2","Nguyễn Thị Hải Oanh(CNE011)"
-"3","2","2019-2020","642","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.7","2","7-Jun","B608","2","Đặng Thị Kim Chung(CNE005)"
-"3","2","2019-2020","643","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.22","2","7-Jun","B613","2","Lê Thị Tuyền(CNE019)"
-"3","2","2019-2020","644","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.15","2","7-Jun","B611","2","Ngô Thị Minh Trang(CNE047)"
-"3","2","2019-2020","645","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.17","2","10-Sep","B604","2","Nguyễn Thị Hải Oanh(CNE011)"
-"3","2","2019-2020","646","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.13","3","3-Jan","B703","2","Nguyễn Thị Kim Phương(CNE041)"
-"3","2","2019-2020","647","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.10","3","2-Jan","B606","2","Trần Thị Mai Phương(CNE051)"
-"3","2","2019-2020","648","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.4","3","2-Jan","B704","2","Mai Lan(CNE028)"
-"3","2","2019-2020","649","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.20","3","5-Apr","B710","2","Phạm Thái Sơn(CNE014)"
-"3","2","2019-2020","650","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.19","3","5-Apr","B708","2","Nguyễn Thị Kim Phương(CNE041)"
-"3","2","2019-2020","651","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.16","3","5-Apr","B611","2","Lê Thị Hoài Thương(CNE027)"
-"3","2","2019-2020","652","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.9","3","5-Apr","B601","2","Mai Lan(CNE028)"
-"3","2","2019-2020","653","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.6","3","7-Jun","B408","2","Tô Hoài An(CNE021)"
-"3","2","2019-2020","654","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.14","3","7-Jun","B608","2","Mai Xuân Thể(CNE055)"
-"3","2","2019-2020","655","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.12","3","7-Jun","B604","2","Trần Thị Thanh Hương(CNE033)"
-"3","2","2019-2020","656","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.11","4","2-Jan","B608","2","Trần Thị Thanh Hương(CNE033)"
-"3","2","2019-2020","657","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.3","4","5-Apr","B711","2","Nguyễn Thị Bích Trâm(CNE061)"
-"3","2","2019-2020","658","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.8","4","7-Jun","B610","2","Nguyễn Thị Hải Oanh(CNE011)"
-"3","2","2019-2020","659","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.7","4","7-Jun","B608","2","Đỗ Thu Hằng(CNE008)"
-"3","2","2019-2020","660","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.21","4","7-Jun","B611","2","Nguyễn Ngọc Anh(CNE054)"
-"3","2","2019-2020","661","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.15","4","7-Jun","B702","2","Ngô Thị Minh Trang(CNE047)"
-"3","2","2019-2020","662","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.22","4","7-Jun","B612","2","Lê Thị Tuyền(CNE019)"
-"3","2","2019-2020","663","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.17","4","10-Sep","B604","2","Nguyễn Thị Hải Oanh(CNE011)"
-"3","2","2019-2020","664","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.10","5","2-Jan","B506","2","Trần Thị Phượng(CNE022)"
-"3","2","2019-2020","665","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.4","5","2-Jan","B510","2","Nguyễn Thị Hải Oanh(CNE011)"
-"3","2","2019-2020","666","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.20","5","5-Apr","B708","2","Phạm Thái Sơn(CNE014)"
-"3","2","2019-2020","667","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.9","5","5-Apr","B610","2","Nguyễn Thị Hải Oanh(CNE011)"
-"3","2","2019-2020","668","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.6","5","7-Jun","B410","2","Tô Hoài An(CNE021)"
-"3","2","2019-2020","669","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.21","5","7-Jun","B610","2","Nguyễn Ngọc Anh(CNE054)"
-"3","2","2019-2020","670","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.12","5","7-Jun","B603","2","Vũ Mỹ Hạnh(CNE060)"
-"3","2","2019-2020","671","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.14","5","7-Jun","B606","2","Ngô Cẩm Tú(CNE045)"
-"3","2","2019-2020","672","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.10","6","2-Jan","B604","2","Trần Thị Phượng(CNE022)"
-"3","2","2019-2020","673","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.11","6","2-Jan","B612","2","Trần Thị Thanh Hương(CNE033)"
-"3","2","2019-2020","674","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.16","6","5-Apr","B613","2","Lê Thị Tuyền(CNE019)"
-"3","2","2019-2020","675","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.3","6","5-Apr","B612","2","Nguyễn Thị Bích Trâm(CNE061)"
-"3","2","2019-2020","676","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.15","6","7-Jun","B606","2","Vũ Mỹ Hạnh(CNE060)"
-"3","2","2019-2020","677","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.21","6","7-Jun","B612","2","Vũ Phương Hạnh(CNE057)"
-"3","2","2019-2020","678","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.22","6","7-Jun","B703","2","Lê Thị Tuyền(CNE019)"
-"3","2","2019-2020","679","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.8","6","7-Jun","B604","2","Chu Thị Hương Giang(CNE059)"
-"3","2","2019-2020","680","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.7","6","7-Jun","B603","2","Đỗ Thu Hằng(CNE008)"
-"3","2","2019-2020","681","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.17","6","10-Sep","B506","2","Vũ Mỹ Hạnh(CNE060)"
-"3","2","2019-2020","682","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.13","7","3-Jan","B604","2","Vũ Mỹ Hạnh(CNE060)"
-"3","2","2019-2020","683","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.19","7","2-Jan","B603","2","Vũ Phương Hạnh(CNE057)"
-"3","2","2019-2020","684","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.4","7","2-Jan","B611","2","Mai Lan(CNE028)"
-"3","2","2019-2020","685","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.19","7","4-Mar","B608","2","Vũ Phương Hạnh(CNE057)"
-"3","2","2019-2020","686","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.20","7","5-Apr","B610","2","Lê Thị Hoài Thương(CNE027)"
-"3","2","2019-2020","687","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.16","7","5-Apr","B606","2","Lê Thị Tuyền(CNE019)"
-"3","2","2019-2020","688","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.9","7","5-Apr","B510","2","Mai Lan(CNE028)"
-"3","2","2019-2020","689","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.6","7","7-Jun","A505","2","Lê Thị Hoài Thương(CNE027)"
-"3","2","2019-2020","690","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.14","7","7-Jun","B510","2","Ngô Cẩm Tú(CNE045)"
-"3","2","2019-2020","691","GE205","Tiếng Anh sơ trung cấp 3","ANHSTC3.12","7","7-Jun","B506","2","Vũ Mỹ Hạnh(CNE060)"
-"3","2","2019-2020","692","GE301","Tiếng Anh trung cấp 1","ANHTC1.15","2","2-Jan","B611","2","Đặng Thị Kim Chung(CNE005)"
-"3","2","2019-2020","693","GE301","Tiếng Anh trung cấp 1","ANHTC1.19","2","5-Mar","B712","2","Đặng Thị Kim Chung(CNE005)"
-"3","2","2019-2020","694","GE301","Tiếng Anh trung cấp 1","ANHTC1.10","2","10-Aug","B608","2","Nguyễn Thị Kiều Dung(CNE006)"
-"3","2","2019-2020","695","GE301","Tiếng Anh trung cấp 1","ANHTC1.8","3","2-Jan","B705","2","Nguyễn Thị Kiều Dung(CNE006)"
-"3","2","2019-2020","696","GE301","Tiếng Anh trung cấp 1","ANHTC1.16","3","2-Jan","B702","2","Lê Thị Hoài Thương(CNE027)"
-"3","2","2019-2020","697","GE301","Tiếng Anh trung cấp 1","ANHTC1.7","3","5-Mar","B712","2","Đặng Thị Kim Chung(CNE005)"
-"3","2","2019-2020","698","GE301","Tiếng Anh trung cấp 1","ANHTC1.12","3","7-Jun","B607","2","Hoàng Thị Thu Dung(CNE007)"
-"3","2","2019-2020","699","GE301","Tiếng Anh trung cấp 1","ANHTC1.9","3","10-Aug","B606","2","Hoàng Kim Thúy(CNE012)"
-"3","2","2019-2020","700","GE301","Tiếng Anh trung cấp 1","ANHTC1.11","3","10-Aug","B607","2","Mai Xuân Thể(CNE055)"
-"3","2","2019-2020","701","GE301","Tiếng Anh trung cấp 1","ANHTC1.15","4","2-Jan","B610","2","Nguyễn Ngọc Anh(CNE054)"
-"3","2","2019-2020","702","GE301","Tiếng Anh trung cấp 1","ANHTC1.18","4","3-Jan","B711","2","Chu Thị Hương Giang(CNE059)"
-"3","2","2019-2020","703","GE301","Tiếng Anh trung cấp 1","ANHTC1.13","4","10-Aug","B608","2","Lê Thị Phượng(CNE035)"
-"3","2","2019-2020","704","GE301","Tiếng Anh trung cấp 1","ANHTC1.10","4","10-Aug","B606","2","Đặng Thị Kim Chung(CNE005)"
-"3","2","2019-2020","705","GE301","Tiếng Anh trung cấp 1","ANHTC1.16","5","2-Jan","B604","2","Ngô Cẩm Tú(CNE045)"
-"3","2","2019-2020","706","GE301","Tiếng Anh trung cấp 1","ANHTC1.8","5","2-Jan","B605","2","Nguyễn Vân Khánh(CNE018)"
-"3","2","2019-2020","707","GE301","Tiếng Anh trung cấp 1","ANHTC1.20","5","5-Mar","B612","2","Chu Thị Hương Giang(CNE059)"
-"3","2","2019-2020","708","GE301","Tiếng Anh trung cấp 1","ANHTC1.12","5","7-Jun","B607","2","Hoàng Thị Thu Dung(CNE007)"
-"3","2","2019-2020","709","GE301","Tiếng Anh trung cấp 1","ANHTC1.9","5","10-Aug","B603","2","Vũ Mỹ Hạnh(CNE060)"
-"3","2","2019-2020","710","GE301","Tiếng Anh trung cấp 1","ANHTC1.11","5","10-Aug","B604","2","Mai Lan(CNE028)"
-"3","2","2019-2020","711","GE301","Tiếng Anh trung cấp 1","ANHTC1.15","6","2-Jan","B613","2","Hoàng Thị Thu Dung(CNE007)"
-"3","2","2019-2020","712","GE301","Tiếng Anh trung cấp 1","ANHTC1.19","6","5-Mar","B703","2","Trần Thị Mai Phương(CNE051)"
-"3","2","2019-2020","713","GE301","Tiếng Anh trung cấp 1","ANHTC1.13","6","10-Aug","B604","2","Vũ Phương Hạnh(CNE057)"
-"3","2","2019-2020","714","GE301","Tiếng Anh trung cấp 1","ANHTC1.16","7","2-Jan","B608","2","Phạm Hồng Vân(CNE013)"
-"3","2","2019-2020","715","GE301","Tiếng Anh trung cấp 1","ANHTC1.18","7","3-Jan","B610","2","Dương Thị Thu(CNE058)"
-"3","2","2019-2020","716","GE301","Tiếng Anh trung cấp 1","ANHTC1.8","7","2-Jan","B705","2","Đặng Thị Kim Chung(CNE005)"
-"3","2","2019-2020","717","GE301","Tiếng Anh trung cấp 1","ANHTC1.20","7","5-Mar","B704","2","Phạm Hồng Vân(CNE013)"
-"3","2","2019-2020","718","GE301","Tiếng Anh trung cấp 1","ANHTC1.7","7","5-Mar","B613","2","Trần Thị Hải Bình(CNE004)"
-"3","2","2019-2020","719","GE301","Tiếng Anh trung cấp 1","ANHTC1.12","7","7-Jun","B602","2","Phạm Hồng Vân(CNE013)"
-"3","2","2019-2020","720","GE303","Tiếng Anh trung cấp 2","ANHTC2.6","2","2-Jan","B612","2","Lê Thị Phượng(CNE035)"
-"3","2","2019-2020","721","GE303","Tiếng Anh trung cấp 2","ANHTC2.14","2","2-Jan","B702","2","Lê Thị Hòa(CNE009)"
-"3","2","2019-2020","722","GE303","Tiếng Anh trung cấp 2","ANHTC2.9","2","2-Jan","B613","2","Hoàng Kim Thúy(CNE012)"
-"3","2","2019-2020","723","GE303","Tiếng Anh trung cấp 2","ANHTC2.15","2","5-Apr","B708","2","Phạm Hồng Vân(CNE013)"
-"3","2","2019-2020","724","GE303","Tiếng Anh trung cấp 2","ANHTC2.7","2","5-Apr","B710","2","Mai Xuân Thể(CNE055)"
-"3","2","2019-2020","725","GE303","Tiếng Anh trung cấp 2","ANHTC2.20","2","7-Jun","B708","2","Đỗ Thị Hồng Hà(CNE015)"
-"3","2","2019-2020","726","GE303","Tiếng Anh trung cấp 2","ANHTC2.10","3","2-Jan","B608","2","Phạm Hồng Vân(CNE013)"
-"3","2","2019-2020","727","GE303","Tiếng Anh trung cấp 2","ANHTC2.18","3","5-Apr","B703","2","Mai Xuân Thể(CNE055)"
-"3","2","2019-2020","728","GE303","Tiếng Anh trung cấp 2","ANHTC2.12","3","7-Jun","B610","2","Lê Thị Hoài Thương(CNE027)"
-"3","2","2019-2020","729","GE303","Tiếng Anh trung cấp 2","ANHTC2.8","3","7-Jun","B512","2","Phạm Thái Sơn(CNE014)"
-"3","2","2019-2020","730","GE303","Tiếng Anh trung cấp 2","ANHTC2.16","3","7-Jun","B706","2","Phạm Hồng Vân(CNE013)"
-"3","2","2019-2020","731","GE303","Tiếng Anh trung cấp 2","ANHTC2.13","3","10-Sep","B404","2","Lê Thị Hòa(CNE009)"
-"3","2","2019-2020","732","GE303","Tiếng Anh trung cấp 2","ANHTC2.14","4","2-Jan","B702","2","Hoàng Kim Thúy(CNE012)"
-"3","2","2019-2020","733","GE303","Tiếng Anh trung cấp 2","ANHTC2.9","4","2-Jan","B613","2","Dương Thị Thu(CNE058)"
-"3","2","2019-2020","734","GE303","Tiếng Anh trung cấp 2","ANHTC2.15","4","5-Apr","A401","2","Nguyễn Vân Khánh(CNE018)"
-"3","2","2019-2020","735","GE303","Tiếng Anh trung cấp 2","ANHTC2.20","4","7-Jun","B703","2","Ngô Cẩm Tú(CNE045)"
-"3","2","2019-2020","736","GE303","Tiếng Anh trung cấp 2","ANHTC2.6","5","2-Jan","B611","2","Chu Thị Hương Giang(CNE059)"
-"3","2","2019-2020","737","GE303","Tiếng Anh trung cấp 2","ANHTC2.10","5","2-Jan","B512","2","Đỗ Thu Hằng(CNE008)"
-"3","2","2019-2020","738","GE303","Tiếng Anh trung cấp 2","ANHTC2.7","5","5-Apr","B704","2","Hoàng Kim Thúy(CNE012)"
-"3","2","2019-2020","739","GE303","Tiếng Anh trung cấp 2","ANHTC2.18","5","5-Apr","B711","2","Hoàng Mai Phương(CNE053)"
-"3","2","2019-2020","740","GE303","Tiếng Anh trung cấp 2","ANHTC2.12","5","7-Jun","B613","2","Nguyễn Thị Hải Oanh(CNE011)"
-"3","2","2019-2020","741","GE303","Tiếng Anh trung cấp 2","ANHTC2.8","5","7-Jun","B612","2","Phạm Hồng Vân(CNE013)"
-"3","2","2019-2020","742","GE303","Tiếng Anh trung cấp 2","ANHTC2.16","5","7-Jun","B702","2","Nguyễn Vân Khánh(CNE018)"
-"3","2","2019-2020","743","GE303","Tiếng Anh trung cấp 2","ANHTC2.13","5","10-Sep","B508","2","Nguyễn Ngọc Anh(CNE054)"
-"3","2","2019-2020","744","GE303","Tiếng Anh trung cấp 2","ANHTC2.14","6","2-Jan","B611","2","Tô Hoài An(CNE021)"
-"3","2","2019-2020","745","GE303","Tiếng Anh trung cấp 2","ANHTC2.9","6","2-Jan","B608","2","Nguyễn Thị Kim Phương(CNE041)"
-"3","2","2019-2020","746","GE303","Tiếng Anh trung cấp 2","ANHTC2.6","6","2-Jan","B605","2","Trần Thị Mai Phương(CNE051)"
-"3","2","2019-2020","747","GE303","Tiếng Anh trung cấp 2","ANHTC2.7","6","5-Apr","B708","2","Nguyễn Thị Kim Phương(CNE041)"
-"3","2","2019-2020","748","GE303","Tiếng Anh trung cấp 2","ANHTC2.15","6","5-Apr","B711","2","Mai Xuân Thể(CNE055)"
-"3","2","2019-2020","749","GE303","Tiếng Anh trung cấp 2","ANHTC2.20","6","7-Jun","B704","2","Hoàng Thị Thu Dung(CNE007)"
-"3","2","2019-2020","750","GE303","Tiếng Anh trung cấp 2","ANHTC2.10","7","2-Jan","B512","2","Ngô Cẩm Tú(CNE045)"
-"3","2","2019-2020","751","GE303","Tiếng Anh trung cấp 2","ANHTC2.18","7","5-Apr","B601","2","Dương Thị Thu(CNE058)"
-"3","2","2019-2020","752","GE303","Tiếng Anh trung cấp 2","ANHTC2.12","7","7-Jun","B605","2","Phạm Thái Sơn(CNE014)"
-"3","2","2019-2020","753","GE303","Tiếng Anh trung cấp 2","ANHTC2.8","7","7-Jun","B608","2","Hoàng Mai Phương(CNE053)"
-"3","2","2019-2020","754","GE303","Tiếng Anh trung cấp 2","ANHTC2.16","7","7-Jun","B606","2","Lê Thị Hòa(CNE009)"
-"3","2","2019-2020","755","GE303","Tiếng Anh trung cấp 2","ANHTC2.13","7","10-Sep","B611","2","Lê Thị Phượng(CNE035)"
-"3","2","2019-2020","756","GE305","Tiếng Anh trung cấp 3","ANHTC3.13","2","8-Jun","B702","2","Vũ Phương Hạnh(CNE057)"
-"3","2","2019-2020","757","GE305","Tiếng Anh trung cấp 3","ANHTC3.12","3","3-Jan","B613","2","Dương Thị Thu(CNE058)"
-"3","2","2019-2020","758","GE305","Tiếng Anh trung cấp 3","ANHTC3.1 (TC)","3","12-Oct","B108","2","Tô Hoài An(CNE021)"
-"3","2","2019-2020","759","GE305","Tiếng Anh trung cấp 3","ANHTC3.15","4","2-Jan","B710","2","Nguyễn Thị Kiều Dung(CNE006)"
-"3","2","2019-2020","760","GE305","Tiếng Anh trung cấp 3","ANHTC3.18","5","3-Jan","B610","2","Lê Thị Phượng(CNE035)"
-"3","2","2019-2020","761","GE305","Tiếng Anh trung cấp 3","ANHTC3.12","5","3-Jan","B607","2","Nguyễn Ngọc Anh(CNE054)"
-"3","2","2019-2020","762","GE305","Tiếng Anh trung cấp 3","ANHTC3.1 (TC)","5","12-Oct","B108","2","Nguyễn Vân Khánh(CNE018)"
-"3","2","2019-2020","763","GE305","Tiếng Anh trung cấp 3","ANHTC3.23","5","5-Mar","B710","2","Trần Thị Phương Thu(CNE001)"
-"3","2","2019-2020","764","GE305","Tiếng Anh trung cấp 3","ANHTC3.20","5","5-Mar","B705","2","Đỗ Thị Hồng Hà(CNE015)"
-"3","2","2019-2020","765","GE305","Tiếng Anh trung cấp 3","ANHTC3.13","5","8-Jun","B611","2","Trần Thị Mai Phương(CNE051)"
-"3","2","2019-2020","766","GE305","Tiếng Anh trung cấp 3","ANHTC3.21","6","5-Mar","B706","2","Tô Hoài An(CNE021)"
-"3","2","2019-2020","767","GE305","Tiếng Anh trung cấp 3","ANHTC3.23","6","5-Mar","B705","2","Dương Thị Thu(CNE058)"
-"3","2","2019-2020","768","GE305","Tiếng Anh trung cấp 3","ANHTC3.18","6","8-Jun","B613","2","Tô Hoài An(CNE021)"
-"3","2","2019-2020","769","GE305","Tiếng Anh trung cấp 3","ANHTC3.15","7","2-Jan","B612","2","Phạm Thái Sơn(CNE014)"
-"3","2","2019-2020","770","GE305","Tiếng Anh trung cấp 3","ANHTC3.15","7","4-Mar","B512","2","Hoàng Mai Phương(CNE053)"
-"3","2","2019-2020","771","GE305","Tiếng Anh trung cấp 3","ANHTC3.20","7","5-Mar","B602","2","Phạm Thái Sơn(CNE014)"
-"3","2","2019-2020","772","GE305","Tiếng Anh trung cấp 3","ANHTC3.21","7","5-Mar","B603","2","Ngô Cẩm Tú(CNE045)"
-"3","2","2019-2020","773","GK101","Tiếng Hàn 1","TIENGHAN1.2","2","2-Jan","B502","2","Nguyễn Thị Tô Vân(CNK012)"
-"3","2","2019-2020","774","GK101","Tiếng Hàn 1","TIENGHAN1.2","4","2-Jan","B502","2","Nguyễn Thị Tô Vân(CNK012)"
-"3","2","2019-2020","775","GK101","Tiếng Hàn 1","TIENGHAN1.2","6","2-Jan","B402","2","Nguyễn Thị Tô Vân(CNK012)"
-"3","2","2019-2020","776","GK102","Tiếng Hàn 2","TIENGHAN2.2","2","4-Mar","B702","2","Nguyễn Thị Tô Vân(CNK012)"
-"3","2","2019-2020","777","GK102","Tiếng Hàn 2","TIENGHAN2.1 (LL)","2","9-Aug","B106","2","Nguyễn Thị Tô Vân(CNK012)"
-"3","2","2019-2020","778","GK102","Tiếng Hàn 2","TIENGHAN2.2","4","4-Mar","B606","2","Nguyễn Thị Tô Vân(CNK012)"
-"3","2","2019-2020","779","GK102","Tiếng Hàn 2","TIENGHAN2.1 (LL)","4","9-Aug","B412","2","Nguyễn Thị Tô Vân(CNK012)"
-"3","2","2019-2020","780","GK102","Tiếng Hàn 2","TIENGHAN2.1 (LL)","5","9-Aug","B208","2","Nguyễn Thị Tô Vân(CNK012)"
-"3","2","2019-2020","781","GK102","Tiếng Hàn 2","TIENGHAN2.2","6","4-Mar","B504","2","Nguyễn Thị Tô Vân(CNK012)"
-"3","2","2019-2020","782","AK315","Tiếng Hàn cao cấp 2","HANCC2.5","2","5-Mar","B504","3","Hoàng Thị Thanh Hoa(CNK013)"
-"3","2","2019-2020","783","AK315","Tiếng Hàn cao cấp 2","HANCC2.6","2","4-Mar","B512","3","Đinh Mai Thu Thủy(CNK003)"
-"3","2","2019-2020","784","AK315","Tiếng Hàn cao cấp 2","HANCC2.6","2","7-Jun","B504","3","Đinh Mai Thu Thủy(CNK003)"
-"3","2","2019-2020","785","AK315","Tiếng Hàn cao cấp 2","HANCC2.1","2","8-Jun","B502","3","Yang Jae Sik(MNK006)"
-"3","2","2019-2020","786","AK315","Tiếng Hàn cao cấp 2","HANCC2.3","2","7-Jun","B706","3","Hoàng Thị Thanh Hoa(CNK013)"
-"3","2","2019-2020","787","AK315","Tiếng Hàn cao cấp 2","HANCC2.5","3","5-Mar","B502","3","Đinh Mai Thu Thủy(CNK003)"
-"3","2","2019-2020","788","AK315","Tiếng Hàn cao cấp 2","HANCC2.2","3","5-Mar","B406","3","Hoàng Thị Thanh Hoa(CNK013)"
-"3","2","2019-2020","789","AK315","Tiếng Hàn cao cấp 2","HANCC2.2","3","8-Jun","B504","3","Yang Jae Sik(MNK006)"
-"3","2","2019-2020","790","AK315","Tiếng Hàn cao cấp 2","HANCC2.4","3","7-Jun","B508","3","Đinh Mai Thu Thủy(CNK003)"
-"3","2","2019-2020","791","AK315","Tiếng Hàn cao cấp 2","HANCC2.1","3","7-Jun","B502","3","Hoàng Thị Thanh Hoa(CNK013)"
-"3","2","2019-2020","792","AK315","Tiếng Hàn cao cấp 2","HANCC2.3","3","9-Aug","B502","3","Hoàng Thị Thanh Hoa(CNK013)"
-"3","2","2019-2020","793","AK315","Tiếng Hàn cao cấp 2","HANCC2.3","4","4-Mar","B504","3","Đinh Mai Thu Thủy(CNK003)"
-"3","2","2019-2020","794","AK315","Tiếng Hàn cao cấp 2","HANCC2.6","4","4-Mar","B512","3","Hoàng Thị Thanh Hoa(CNK013)"
-"3","2","2019-2020","795","AK315","Tiếng Hàn cao cấp 2","HANCC2.4","4","7-Jun","B504","3","Đinh Mai Thu Thủy(CNK003)"
-"3","2","2019-2020","796","AK315","Tiếng Hàn cao cấp 2","HANCC2.1","4","7-Jun","B502","3","Hoàng Thị Thanh Hoa(CNK013)"
-"3","2","2019-2020","797","AK315","Tiếng Hàn cao cấp 2","HANCC2.3","4","8-Jun","B410","3","Yang Jae Sik(MNK006)"
-"3","2","2019-2020","798","AK315","Tiếng Hàn cao cấp 2","HANCC2.4","4","9-Aug","B504","3","Hoàng Thị Thanh Hoa(CNK013)"
-"3","2","2019-2020","799","AK315","Tiếng Hàn cao cấp 2","HANCC2.2","4","10-Aug","B702","3","Đinh Mai Thu Thủy(CNK003)"
-"3","2","2019-2020","800","AK315","Tiếng Hàn cao cấp 2","HANCC2.1","5","4-Mar","B504","3","Đinh Mai Thu Thủy(CNK003)"
-"3","2","2019-2020","801","AK315","Tiếng Hàn cao cấp 2","HANCC2.4","5","8-Jun","B504","3","Yang Jae Sik(MNK006)"
-"3","2","2019-2020","802","AK315","Tiếng Hàn cao cấp 2","HANCC2.5","6","8-Jun","B502","3","Yang Jae Sik(MNK006)"
-"3","2","2019-2020","803","AK315","Tiếng Hàn cao cấp 2","HANCC2.6","7","8-Jun","B410","3","Yang Jae Sik(MNK006)"
-"3","2","2019-2020","804","AK323","Tiếng Hàn cao cấp 4","HANCC4.1","2","5-Mar","B407","2","Yu Do Ib(MNK019)"
-"3","2","2019-2020","805","AK323","Tiếng Hàn cao cấp 4","HANCC4.2","3","5-Mar","A305","2","Lee Won Ju(MNK007)"
-"3","2","2019-2020","806","AK323","Tiếng Hàn cao cấp 4","HANCC4.2","4","5-Mar","B502","2","Yu Do Ib(MNK019)"
-"3","2","2019-2020","807","AK323","Tiếng Hàn cao cấp 4","HANCC4.1","4","5-Mar","B407","2","Lee Won Ju(MNK007)"
-"3","2","2019-2020","808","AK323","Tiếng Hàn cao cấp 4","HANCC4.3","6","5-Mar","B502","2","Yu Do Ib(MNK019)"
-"3","2","2019-2020","809","AK323","Tiếng Hàn cao cấp 4","HANCC4.3","6","8-Jun","A305","2","Lee Won Ju(MNK007)"
-"3","2","2019-2020","810","GJ101","Tiếng Nhật 1","NHAT1.1","2","5-Mar","B404","2","Hứa Thùy Trang(CNJ018)"
-"3","2","2019-2020","811","GJ101","Tiếng Nhật 1","NHAT1.2","3","5-Mar","B402","2","Trần Dung Hạnh(CNJ024)"
-"3","2","2019-2020","812","GJ101","Tiếng Nhật 1","NHAT1.1","4","5-Mar","B510","2","Đinh Trung Hiếu(CNJ038)"
-"3","2","2019-2020","813","GJ101","Tiếng Nhật 1","NHAT1.2","5","5-Mar","B402","2","Đinh Huyền Phương(CNJ036)"
-"3","2","2019-2020","814","GJ102","Tiếng Nhật 2","NHAT2.2","2","5-Mar","B604","2","Vũ Thị Thu Hương(CNJ025)"
-"3","2","2019-2020","815","GJ102","Tiếng Nhật 2","NHAT2.3","3","5-Mar","B604","2","Trần Thị Lan Hương(CNJ035)"
-"3","2","2019-2020","816","GJ102","Tiếng Nhật 2","NHAT2.1 (LL)","3","5-Mar","B204","2","Vũ Thị Thu Hương(CNJ025)"
-"3","2","2019-2020","817","GJ102","Tiếng Nhật 2","NHAT2.4","3","10-Aug","B408","2","Đinh Huyền Phương(CNJ036)"
-"3","2","2019-2020","818","GJ102","Tiếng Nhật 2","NHAT2.2","4","5-Mar","B604","2","Nguyễn Huyền Ngọc(CNJ021)"
-"3","2","2019-2020","819","GJ102","Tiếng Nhật 2","NHAT2.3","5","5-Mar","B506","2","Trần Dung Hạnh(CNJ024)"
-"3","2","2019-2020","820","GJ102","Tiếng Nhật 2","NHAT2.1 (LL)","5","5-Mar","B604","2","Vũ Thị Thu Hương(CNJ025)"
-"3","2","2019-2020","821","GJ102","Tiếng Nhật 2","NHAT2.4","5","10-Aug","B410","2","Trần Dung Hạnh(CNJ024)"
-"3","2","2019-2020","822","GJ341","Tiếng Nhật cao cấp 1","NHATCC1.1","2","7-Jun","B202","3","Nguyễn Quỳnh Trang(CNJ020)"
-"3","2","2019-2020","823","GJ341","Tiếng Nhật cao cấp 1","NHATCC1.2","2","7-Jun","B204","3","Mori Yasuaki(CNJ037)"
-"3","2","2019-2020","824","GJ341","Tiếng Nhật cao cấp 1","NHATCC1.2","2","9-Aug","B204","3","Nguyễn Quỳnh Trang(CNJ020)"
-"3","2","2019-2020","825","GJ341","Tiếng Nhật cao cấp 1","NHATCC1.1","2","9-Aug","B202","3","Mori Yasuaki(CNJ037)"
-"3","2","2019-2020","826","GJ341","Tiếng Nhật cao cấp 1","NHATCC1.2","6","10-Jun","B204","3","Nguyễn Quỳnh Trang(CNJ020)"
-"3","2","2019-2020","827","GJ341","Tiếng Nhật cao cấp 1","NHATCC1.1","6","10-Jun","B202","3","Hoàng Thị Hường(CNJ005)"
-"3","2","2019-2020","828","GJ342","Tiếng Nhật cao cấp 2","NHATCC2.3","2","10-Jun","B210","3","Đỗ Thị Phượng(CNJ001)"
-"3","2","2019-2020","829","GJ342","Tiếng Nhật cao cấp 2","NHATCC2.1","2","10-Jun","B402","3","Đinh Trung Hiếu(CNJ038)"
-"3","2","2019-2020","830","GJ342","Tiếng Nhật cao cấp 2","NHATCC2.2","2","10-Jun","B208","3","Vũ Ngọc Anh(CNJ031)"
-"3","2","2019-2020","831","GJ342","Tiếng Nhật cao cấp 2","NHATCC2.3","4","7-Jun","B506","3","Mori Yasuaki(CNJ037)"
-"3","2","2019-2020","832","GJ342","Tiếng Nhật cao cấp 2","NHATCC2.2","4","7-Jun","B204","3","Nabeta Naoko(CNJ039)"
-"3","2","2019-2020","833","GJ342","Tiếng Nhật cao cấp 2","NHATCC2.4","4","7-Jun","B508","3","Đinh Trung Hiếu(CNJ038)"
-"3","2","2019-2020","834","GJ342","Tiếng Nhật cao cấp 2","NHATCC2.1","4","7-Jun","B202","3","Hoàng Thị Hường(CNJ005)"
-"3","2","2019-2020","835","GJ342","Tiếng Nhật cao cấp 2","NHATCC2.1","4","9-Aug","B202","3","Nabeta Naoko(CNJ039)"
-"3","2","2019-2020","836","GJ342","Tiếng Nhật cao cấp 2","NHATCC2.4","4","9-Aug","B508","3","Mori Yasuaki(CNJ037)"
-"3","2","2019-2020","837","GJ342","Tiếng Nhật cao cấp 2","NHATCC2.2","4","9-Aug","B204","3","Vũ Ngọc Anh(CNJ031)"
-"3","2","2019-2020","838","GJ342","Tiếng Nhật cao cấp 2","NHATCC2.3","4","9-Aug","B506","3","Đinh Trung Hiếu(CNJ038)"
-"3","2","2019-2020","839","GJ342","Tiếng Nhật cao cấp 2","NHATCC2.4","6","10-Jun","B402","3","Đinh Trung Hiếu(CNJ038)"
-"3","2","2019-2020","840","GJ441","Tiếng Nhật cao cấp 3","NHATCC3.1","2","10-Jun","B412","3","Nguyễn Huyền Ngọc(CNJ021)"
-"3","2","2019-2020","841","GJ441","Tiếng Nhật cao cấp 3","NHATCC3.1","6","7-Jun","B210","3","Nabeta Naoko(CNJ039)"
-"3","2","2019-2020","842","GJ441","Tiếng Nhật cao cấp 3","NHATCC3.1","6","9-Aug","B210","3","Nguyễn Huyền Ngọc(CNJ021)"
-"3","2","2019-2020","843","AJ404","Tiếng Nhật giao tiếp doanh nghiệp","NHATGIAOTIEPDN.1","6","8-Jun","B506","2","Đỗ Thị Phượng(CNJ001)"
-"3","2","2019-2020","844","PJ325","Tiếng Nhật kinh tế 1","NHATKTE1.1","4","5-Mar","B706","2","Đỗ Thị Phượng(CNJ001)"
-"3","2","2019-2020","845","PJ424","Tiếng Nhật kinh tế 2","NHATKTE2.1","7","3-Jan","B104","2","Đỗ Thị Phượng(CNJ001)"
-"3","2","2019-2020","846","PJ321","Tiếng Nhật marketing 1","NHATMARKETING1.1","3","3-Jan","B206","2","Hoàng Thị Hường(CNJ005)"
-"3","2","2019-2020","847","PJ321","Tiếng Nhật marketing 1","NHATMARKETING1.2","6","5-Mar","B508","2","Hoàng Thị Hường(CNJ005)"
-"3","2","2019-2020","848","PJ425","Tiếng Nhật marketing 2","NHATMARKETING2.1","3","8-Jun","B702","2","Hoàng Thị Hường(CNJ005)"
-"3","2","2019-2020","849","GJ243","Tiếng Nhật trung cấp 3","NHATTC3.1","2","2-Jan","B202","4","Hứa Thùy Trang(CNJ018)"
-"3","2","2019-2020","850","GJ243","Tiếng Nhật trung cấp 3","NHATTC3.2","2","2-Jan","B204","4","Vũ Ngọc Anh(CNJ031)"
-"3","2","2019-2020","851","GJ243","Tiếng Nhật trung cấp 3","NHATTC3.4","2","5-Feb","B210","4","Nguyễn Thùy Linh(CNJ008)"
-"3","2","2019-2020","852","GJ243","Tiếng Nhật trung cấp 3","NHATTC3.3","2","5-Feb","B208","4","Đặng Thị Minh(CNJ004)"
-"3","2","2019-2020","853","GJ243","Tiếng Nhật trung cấp 3","NHATTC3.1","2","4-Mar","B202","4","Mori Yasuaki(CNJ037)"
-"3","2","2019-2020","854","GJ243","Tiếng Nhật trung cấp 3","NHATTC3.2","2","4-Mar","B204","4","Đinh Trung Hiếu(CNJ038)"
-"3","2","2019-2020","855","GJ243","Tiếng Nhật trung cấp 3","NHATTC3.1","4","5-Feb","B202","4","Hứa Thùy Trang(CNJ018)"
-"3","2","2019-2020","856","GJ243","Tiếng Nhật trung cấp 3","NHATTC3.3","4","5-Feb","B208","4","Đặng Thị Minh(CNJ004)"
-"3","2","2019-2020","857","GJ243","Tiếng Nhật trung cấp 3","NHATTC3.4","4","5-Feb","B210","4","Nguyễn Thùy Linh(CNJ008)"
-"3","2","2019-2020","858","GJ243","Tiếng Nhật trung cấp 3","NHATTC3.2","4","5-Feb","B204","4","Nguyễn Quỳnh Trang(CNJ020)"
-"3","2","2019-2020","859","GJ243","Tiếng Nhật trung cấp 3","NHATTC3.3","6","2-Jan","B208","4","Đinh Trung Hiếu(CNJ038)"
-"3","2","2019-2020","860","GJ243","Tiếng Nhật trung cấp 3","NHATTC3.4","6","2-Jan","B210","4","Vũ Ngọc Anh(CNJ031)"
-"3","2","2019-2020","861","GJ243","Tiếng Nhật trung cấp 3","NHATTC3.1","6","5-Feb","B202","4","Hứa Thùy Trang(CNJ018)"
-"3","2","2019-2020","862","GJ243","Tiếng Nhật trung cấp 3","NHATTC3.2","6","5-Feb","B204","4","Nguyễn Thùy Linh(CNJ008)"
-"3","2","2019-2020","863","GJ243","Tiếng Nhật trung cấp 3","NHATTC3.3","6","4-Mar","B208","4","Mori Yasuaki(CNJ037)"
-"3","2","2019-2020","864","GJ243","Tiếng Nhật trung cấp 3","NHATTC3.4","6","4-Mar","B210","4","Nabeta Naoko(CNJ039)"
-"3","2","2019-2020","865","AJ461","Tiếng Nhật truyền thông","NHATTTHONG.2","4","5-Jan","B508","3","Hoàng Thị Hường(CNJ005)"
-"3","2","2019-2020","866","GF101","Tiếng Pháp 1","PHAP1.4","2","5-Mar","B106","2","Dương Viết Trung(PDT009)"
-"3","2","2019-2020","867","GF101","Tiếng Pháp 1","PHAP1.8","3","10-Aug","B308","2","Võ Thị Hải Đường(CNF004)"
-"3","2","2019-2020","868","GF101","Tiếng Pháp 1","PHAP1.4","4","5-Mar","A501","2","Dương Viết Trung(PDT009)"
-"3","2","2019-2020","869","GF101","Tiếng Pháp 1","PHAP1.8","5","10-Aug","B206","2","Võ Thị Hải Đường(CNF004)"
-"3","2","2019-2020","870","GF102","Tiếng Pháp 2","PHAP2.4","2","5-Mar","B308","2","Phan Thị Liên Châu(CNF001)"
-"3","2","2019-2020","871","GF102","Tiếng Pháp 2","PHAP2.8","3","10-Aug","B206","2","Trương Thị Nguyệt(MNF006)"
-"3","2","2019-2020","872","GF102","Tiếng Pháp 2","PHAP2.4","4","5-Mar","A503","2","Nguyễn Thị Thu Hà(CNF003)"
-"3","2","2019-2020","873","GF102","Tiếng Pháp 2","PHAP2.8","5","10-Aug","B308","2","Trương Thị Nguyệt(MNF006)"
-"3","2","2019-2020","874","GZ101","Tiếng Trung 1","TRUNG1.7","2","5-Mar","B110","2","Lý Hoàng Anh(CNZ001)"
-"3","2","2019-2020","875","GZ101","Tiếng Trung 1","TRUNG1.1","3","5-Mar","B106","2","Nguyễn Lê Minh(CNZ005)"
-"3","2","2019-2020","876","GZ101","Tiếng Trung 1","TRUNG1.7","4","5-Mar","B306","2","Lý Hoàng Anh(CNZ001)"
-"3","2","2019-2020","877","GZ101","Tiếng Trung 1","TRUNG1.1","5","5-Mar","B110","2","Nguyễn Lê Minh(CNZ005)"
-"3","2","2019-2020","878","GZ101","Tiếng Trung 1","TRUNG1.3","6","5-Mar","B206","2","Nguyễn Lê Minh(CNZ005)"
-"3","2","2019-2020","879","GZ101","Tiếng Trung 1","TRUNG1.3","7","5-Mar","B110","2","Nguyễn Lê Minh(CNZ005)"
-"3","2","2019-2020","880","GZ102","Tiếng Trung 2","TRUNG2.1","2","5-Mar","B412","2","Nguyễn Thị Trung Thu(CNZ002)"
-"3","2","2019-2020","881","GZ102","Tiếng Trung 2","TRUNG2.6","3","2-Jan","B202","2","Nguyễn Thị Trung Thu(CNZ002)"
-"3","2","2019-2020","882","GZ102","Tiếng Trung 2","TRUNG2.5","3","5-Mar","B210","2","Nguyễn Thị Trung Thu(CNZ002)"
-"3","2","2019-2020","883","GZ102","Tiếng Trung 2","TRUNG2.3","3","7-Jun","B310","2","Nguyễn Thùy Linh(CNZ004)"
-"3","2","2019-2020","884","GZ102","Tiếng Trung 2","TRUNG2.4","3","10-Aug","B306","2","Nguyễn Thùy Linh(CNZ004)"
-"3","2","2019-2020","885","GZ102","Tiếng Trung 2","TRUNG2.1","4","5-Mar","B310","2","Nguyễn Thị Trung Thu(CNZ002)"
-"3","2","2019-2020","886","GZ102","Tiếng Trung 2","TRUNG2.6","5","2-Jan","B108","2","Nguyễn Thị Trung Thu(CNZ002)"
-"3","2","2019-2020","887","GZ102","Tiếng Trung 2","TRUNG2.5","5","5-Mar","B210","2","Nguyễn Thị Trung Thu(CNZ002)"
-"3","2","2019-2020","888","GZ102","Tiếng Trung 2","TRUNG2.3","5","7-Jun","B502","2","Nguyễn Thùy Linh(CNZ004)"
-"3","2","2019-2020","889","GZ102","Tiếng Trung 2","TRUNG2.4","5","10-Aug","B106","2","Nguyễn Thùy Linh(CNZ004)"
-"3","2","2019-2020","890","GZ102","Tiếng Trung 2","TRUNG2.2","6","5-Mar","B310","2","Lý Hoàng Anh(CNZ001)"
-"3","2","2019-2020","891","GZ102","Tiếng Trung 2","TRUNG2.6","7","2-Jan","B110","2","Nguyễn Thị Trung Thu(CNZ002)"
-"3","2","2019-2020","892","GZ102","Tiếng Trung 2","TRUNG2.2","7","5-Mar","B108","2","Lý Hoàng Anh(CNZ001)"
-"3","2","2019-2020","893","GZ102","Tiếng Trung 2","TRUNG2.3","7","7-Jun","B412","2","Nguyễn Thùy Linh(CNZ004)"
-"3","2","2019-2020","894","GZ243","Tiếng Trung trung cấp 3","TRUNGTC3.1","2","9-Jun","B206","4","Nguyễn Lê Minh(CNZ005)"
-"3","2","2019-2020","895","GZ243","Tiếng Trung trung cấp 3","TRUNGTC3.2","2","9-Jun","B310","4","Lý Hoàng Anh(CNZ001)"
-"3","2","2019-2020","896","GZ243","Tiếng Trung trung cấp 3","TRUNGTC3.3","2","9-Jun","B512","4","Nguyễn Thùy Linh(CNZ004)"
-"3","2","2019-2020","897","GZ243","Tiếng Trung trung cấp 3","TRUNGTC3.3","4","9-Jun","B512","4","Nguyễn Thùy Linh(CNZ004)"
-"3","2","2019-2020","898","GZ243","Tiếng Trung trung cấp 3","TRUNGTC3.2","4","9-Jun","B308","4","Lý Hoàng Anh(CNZ001)"
-"3","2","2019-2020","899","GZ243","Tiếng Trung trung cấp 3","TRUNGTC3.1","4","9-Jun","B210","4","Nguyễn Lê Minh(CNZ005)"
-"3","2","2019-2020","900","GZ243","Tiếng Trung trung cấp 3","TRUNGTC3.1","6","9-Jun","B412","4","Nguyễn Lê Minh(CNZ005)"
-"3","2","2019-2020","901","GZ243","Tiếng Trung trung cấp 3","TRUNGTC3.2","6","9-Jun","B306","4","Lý Hoàng Anh(CNZ001)"
-"3","2","2019-2020","902","GZ243","Tiếng Trung trung cấp 3","TRUNGTC3.3","6","9-Jun","B608","4","Nguyễn Thùy Linh(CNZ004)"
-"3","2","2019-2020","903","GI101","Tiếng Ý 1","TIENGY1.2","3","13-Nov","B106","2",""
-"3","2","2019-2020","904","GI101","Tiếng Ý 1","TIENGY1.2","5","13-Nov","B106","2",""
-"3","2","2019-2020","905","GI102","Tiếng Ý 2","TIENGY2.2","4","13-Nov","B108","2",""
-"3","2","2019-2020","906","GI102","Tiếng Ý 2","TIENGY2.2","6","13-Nov","B108","2",""
-"3","2","2019-2020","907","CF320","Tín hiệu và hệ thống","TINHIEU&HETHONG.1","5","5-Jan","B308","3","Cao Minh Khánh(CTI017)"
-"3","2","2019-2020","908","IM210","Tin học âm nhạc","TINHOCAMNHAC.1","4","10-Aug","B805","3","Nguyễn Tuấn Anh(CAN012)"
-"3","2","2019-2020","909","MI201","Toán rời rạc","TOANROIRAC.1","4","5-Jan","B106","3","Phạm Phương Thanh(CTI018)"
-"3","2","2019-2020","910","MI201","Toán rời rạc","TOANROIRAC.2","6","5-Jan","B108","3","Phạm Phương Thanh(CTI018)"
-"3","2","2019-2020","911","MA241","Toán tài chính","TOANTAICHINH.2_LT","3","7-Jun","B406","2","Nguyễn Hồng Châu(CTM004)"
-"3","2","2019-2020","912","MA241","Toán tài chính","TOANTAICHINH.2.1_BT","5","5-Mar","B410","2","Nguyễn Hồng Châu(CTM004)"
-"3","2","2019-2020","913","SF320","Trị liệu gia đình","TRILIEUGIADINH.1","2","5-Mar","B101","2","Lê Thị Quý(CXW013)"
-"3","2","2019-2020","914","MI322","Trí tuệ nhân tạo và công nghệ tri thức","TRITUENT&CNTRITHUC.1","4","10-Jun","B306","3","Vũ Đức Thi(CTI036)"
-"3","2","2019-2020","915","IP402","TT ngành Truyền thông và mạng máy tính","TTTTHONG&MANGMT.1","1","9-Jun","BOMON1","2",""
-"3","2","2019-2020","916","ML202","Tư tưởng Hồ Chí Minh","TUTUONGHCM.2","2","8-Jun","GD.Grothendieck","2","Lê Thị Ninh(CGS007)"
-"3","2","2019-2020","917","ML202","Tư tưởng Hồ Chí Minh","TUTUONGHCM.1 (LL)","3","10-Aug","GD.Grothendieck","2","Lê Thị Ninh(CGS007)"
-"3","2","2019-2020","918","EL323","Từ vựng và ngữ nghĩa","TVUNGNGUNGHIA.1","3","10-Aug","B602","2","Trần Thị Thanh Hương(CNE033)"
-"3","2","2019-2020","919","EL323","Từ vựng và ngữ nghĩa","TVUNGNGUNGHIA.2","6","5-Mar","B611","2","Trần Thị Thanh Hương(CNE033)"
-"3","2","2019-2020","920","AD215","Ứng dụng PowerPoint","UNGDUNGPOWERPOINT.3","4","10-Jun","A703","3","Khuất Hoàng Huệ Anh(MTI021)"
-"3","2","2019-2020","921","AD215","Ứng dụng PowerPoint","UNGDUNGPOWERPOINT.4","6","5-Jan","A703","3","Phạm Thị Kim Hoa(CTI003)"
-"3","2","2019-2020","922","AJ315","Văn bản tiếng Nhật","VANBANNHAT.1","2","2-Jan","B402","3","Nabeta Naoko(CNJ039)"
-"3","2","2019-2020","923","AJ315","Văn bản tiếng Nhật","VANBANNHAT.1","2","5-Mar","B402","3","Đỗ Thị Phượng(CNJ001)"
-"3","2","2019-2020","924","AJ315","Văn bản tiếng Nhật","VANBANNHAT.2","3","7-Jun","B202","3","Nabeta Naoko(CNJ039)"
-"3","2","2019-2020","925","AJ315","Văn bản tiếng Nhật","VANBANNHAT.2","3","10-Aug","B202","3","Đỗ Thị Phượng(CNJ001)"
-"3","2","2019-2020","926","VC212","Văn hóa ẩm thực Việt Nam","VHOAAMTHUCVN.2","4","5-Mar","A506","2","Bùi Cẩm Phượng(CDL005)"
-"3","2","2019-2020","927","VC212","Văn hóa ẩm thực Việt Nam","VHOAAMTHUCVN.1","5","5-Mar","A606","2","Bùi Cẩm Phượng(CDL005)"
-"3","2","2019-2020","928","CJ401","Văn hoá doanh nghiệp Nhật Bản","VHOADNNHAT.1","3","3-Jan","B602","2","Đỗ Thị Phượng(CNJ001)"
-"3","2","2019-2020","929","BA315","Văn hóa doanh nghiệp và đạo đức kinh doanh","VHOADN&DDUCKD.3","5","5-Jan","B103","3","Lê Huyền Trang(CQM011)"
-"3","2","2019-2020","930","BA315","Văn hóa doanh nghiệp và đạo đức kinh doanh","VHOADN&DDUCKD.2","7","5-Jan","B205","3","Lê Huyền Trang(CQM011)"
-"3","2","2019-2020","931","SH113","Văn hóa Đông Nam Á","VHDONGNAMA.1","3","10-Jun","B507","3","Nguyễn Văn Lịch(CXV014)"
-"3","2","2019-2020","932","VC215","Văn hóa tộc người Việt Nam","VHOATOCNGUOIVN.2","5","8-Jun","A602","2","Nguyễn Đức Khoa(CDL006)"
-"3","2","2019-2020","933","VC215","Văn hóa tộc người Việt Nam","VHOATOCNGUOIVN.1","7","8-Jun","A506","2","Nguyễn Đức Khoa(CDL006)"
-"3","2","2019-2020","934","VC200","Văn hoá Việt Nam","VHOAVN.3","4","8-Jun","B307","2","Trần Tiến Khôi(CXV003)"
-"3","2","2019-2020","935","VC200","Văn hoá Việt Nam","VHOAVN.4","5","8-Jun","B301","2","Trần Tiến Khôi(CXV003)"
-"3","2","2019-2020","936","VC200","Văn hoá Việt Nam","VHOAVN.2","6","5-Mar","B105","2","Trần Tiến Khôi(CXV003)"
-"3","2","2019-2020","937","AE313","Văn học Anh, Mỹ","VHOCANHMY.1","2","5-Mar","B703","4","Nguyễn Vân Khánh(CNE018)"
-"3","2","2019-2020","938","AE313","Văn học Anh, Mỹ","VHOCANHMY.2","2","10-Aug","B601","4","Nguyễn Vân Khánh(CNE018)"
-"3","2","2019-2020","939","AE313","Văn học Anh, Mỹ","VHOCANHMY.3","3","5-Mar","B603","4","Trần Thị Hải Bình(CNE004)"
-"3","2","2019-2020","940","AE313","Văn học Anh, Mỹ","VHOCANHMY.4","4","3-Jan","A403","4","Rashmi Dash(MNE033)"
-"3","2","2019-2020","941","AE313","Văn học Anh, Mỹ","VHOCANHMY.1","5","5-Mar","B603","4","Phí Thị Thu Trang(CNE017)"
-"3","2","2019-2020","942","AE313","Văn học Anh, Mỹ","VHOCANHMY.2","5","10-Aug","A605","4","Phí Thị Thu Trang(CNE017)"
-"3","2","2019-2020","943","AE313","Văn học Anh, Mỹ","VHOCANHMY.4","6","3-Jan","A403","4","Trần Thị Hải Bình(CNE004)"
-"3","2","2019-2020","944","AE313","Văn học Anh, Mỹ","VHOCANHMY.3","6","5-Mar","B608","4","Rashmi Dash(MNE033)"
-"3","2","2019-2020","945","AJ400","Văn học Nhật Bản","VANHOCNHAT.1","2","5-Mar","B306","2","Vũ Minh Chi(MNJ001)"
-"3","2","2019-2020","946","AJ400","Văn học Nhật Bản","VANHOCNHAT.2","3","8-Jun","B104","2","Vũ Minh Chi(MNJ001)"
-"3","2","2019-2020","947","AJ400","Văn học Nhật Bản","VANHOCNHAT.3","5","8-Jun","B104","2","Vũ Minh Chi(MNJ001)"
-"3","2","2019-2020","948","AZ312","Văn học Trung Quốc","VHOCTQUOC.1","7","5-Feb","B210","2","Phạm Ngọc Hàm(MNZ003)"
-"3","2","2019-2020","949","AZ312","Văn học Trung Quốc","VHOCTQUOC.2","7","9-Jun","B210","2","Phạm Ngọc Hàm(MNZ003)"
-"3","2","2019-2020","950","AJ313","Văn minh Nhật Bản","VANMINHNHAT.1","3","3-Jan","B510","2","Đặng Thị Minh(CNJ004)"
-"3","2","2019-2020","951","AJ313","Văn minh Nhật Bản","VANMINHNHAT.2","6","5-Mar","B702","2","Vũ Ngọc Anh(CNJ031)"
-"3","2","2019-2020","952","IS203","Vi tính tiếng Nhật","VITINHNHAT.1","2","10-Jun","B305","3","Vũ Thị Kim Chi(CNJ003)"
-"3","2","2019-2020","953","IS203","Vi tính tiếng Nhật","VITINHNHAT.2","4","10-Jun","B305","3","Trương Phương Thúy(CNJ007)"
-"3","2","2019-2020","954","IS203","Vi tính tiếng Nhật","VITINHNHAT.3","5","10-Jun","B305","3","Vũ Thị Kim Chi(CNJ003)"
-"3","2","2019-2020","955","IS203","Vi tính tiếng Nhật","VITINHNHAT.4","6","10-Jun","B305","3","Trương Phương Thúy(CNJ007)"
-"3","2","2019-2020","956","MA231","Xác suất thống kê ứng dụng","XSTKEUDUNG.3_LT","3","8-Jun","B503","4","Nguyễn Công Sứ(CTM021)"
-"3","2","2019-2020","957","MA231","Xác suất thống kê ứng dụng","XSTKEUDUNG.3.1_BT","4","8-Jun","A704","4","Nguyễn Lâm Tùng(CTM008)"
-"3","2","2019-2020","958","MA231","Xác suất thống kê ứng dụng","XSTKEUDUNG.3.2_BT","4","8-Jun","A305","4","Đỗ Thị Thuý Hằng(CTM009)"
-"3","2","2019-2020","959","MA231","Xác suất thống kê ứng dụng","XSTKEUDUNG.3_LT","5","7-Jun","B503","4","Nguyễn Công Sứ(CTM021)"
+AD206,Ẩm thực Việt Nam,AMTHUCVN.3_LT,3,3-5,A606,3,Bùi Cẩm Phượng(CDL005)
+AD206,Ẩm thực Việt Nam,AMTHUCVN.2_LT,3,6-8,A606,3,Bùi Cẩm Phượng(CDL005)
+AD206,Ẩm thực Việt Nam,AMTHUCVN.2.1_BT,4,1-4,BOMON,3,Trần Quốc Hưng(MDL001)
+AD206,Ẩm thực Việt Nam,AMTHUCVN.2.2_BT,4,6-9,BOMON,3,Trần Quốc Hưng(MDL001)
+AD206,Ẩm thực Việt Nam,AMTHUCVN.4_LT,5,6-9,A606,3,Bùi Cẩm Phượng(CDL005)
+AD206,Ẩm thực Việt Nam,AMTHUCVN.3.1_BT,6,1-4,BOMON,3,Trần Quốc Hưng(MDL001)
+AD206,Ẩm thực Việt Nam,AMTHUCVN.3.2_BT,6,6-9,BOMON,3,Trần Quốc Hưng(MDL001)
+AD206,Ẩm thực Việt Nam,AMTHUCVN.4.1_BT,7,1-4,BOMON,3,Trần Quốc Hưng(MDL001)
+AD206,Ẩm thực Việt Nam,AMTHUCVN.4.2_BT,7,6-9,BOMON,3,Trần Quốc Hưng(MDL001)
+TC316,An ninh mạng truyền thông,ANNINHTRUYENTHONG.1,5,1-5,B206,3,Hoàng Trọng Minh(CTI030)
+NF217,An toàn vệ sinh thực phẩm,ANTOANVESINHTP.1,6,6-10,B110,3,Đào Tố Quyên(CSD002)
+VC204,Các dân tộc Việt Nam,DANTOCVN.1,6,1-5,B507,3,Nguyễn Anh Cường(MXV036)
+SH201,Các tôn giáo trên thế giới,TONGIAOTG.1,6,6-8,A607,2,Nguyễn Đức Khoa(CDL006)
+SH201,Các tôn giáo trên thế giới,TONGIAOTG.2,7,3-5,A506,2,Nguyễn Đức Khoa(CDL006)
+TC487,CĐTN : Truyền thông và mạng máy tính,CĐTN:TTHONG&MANGMT.1,1,3-5,BOMON1,6,
+NF450,CĐTN: An toàn thực phẩm,CDTN:ANTOANTP.1,7,6-10,BOMON,3,Đào Tố Quyên(CSD002)
+AJ449A,CĐTN: Cấu trúc và thành phần câu tiếng Nhật,CĐTN:BONGUCAUTNHAT.1,4,6-10,B408,3,Nguyễn Thùy Linh(CNJ008)
+IS484,CĐTN: Cơ sở dữ liệu,CÐTN:CSODULIEU.1,1,1-2,BOMON,6,
+NR472,CĐTN: Điều dưỡng Ngoại khoa,CÐTN:DIEUDUONGNGK.1,2,6-10,B108,3,Đỗ Quang Tuyển(CSN006)
+NR472,CĐTN: Điều dưỡng Ngoại khoa,CÐTN:DIEUDUONGNGK.2 (LTCĐ),6,10-12,B106,3,Trần Hữu Vinh(CSN034)
+NR472,CĐTN: Điều dưỡng Ngoại khoa,CÐTN:DIEUDUONGNGK.2 (LTCĐ),7,12-13,BOMON,3,Trần Hữu Vinh(CSN034)
+NR471,CĐTN: Điều dưỡng Nội khoa,CĐTN:DIEUDUONGNK.1,6,6-10,B206,3,Lê Thị Bình(CSN011)
+ND448,CĐTN: Dinh dưỡng tiết chế,CDTN:DDUONGTIETCHE.1,1,6-10,BOMON,3,Phạm Thị Thu Hương(CSD006)
+AK481,CĐTN: Hoạt động văn hoá- xã hội và kinh tế của người Hàn tại Việt Nam,CDTN: HOATDONGVHXHKTHAN.1,2,9-10,A602,3,Park Jeong Shin(MNK010)
+AK481,CĐTN: Hoạt động văn hoá- xã hội và kinh tế của người Hàn tại Việt Nam,CDTN: HOATDONGVHXHKTHAN.1,7,3-5,A406,3,Park Jeong Shin(MNK010)
+AZ458,CĐTN: Hợp tác kinh tế TM Việt Nam -Trung Quốc,CĐTN:HOPTACKTTMVIETTRUNG.1,7,6-10,B402,3,Nguyễn Mạnh Toàn(MNZ015)
+AE449,CĐTN: Ngôn ngữ và văn hoá,CÐTN:NNGU&VHOA.1,3,1-5,B605,3,Nguyễn Văn Độ(CNE020)
+AE449,CĐTN: Ngôn ngữ và văn hoá,CÐTN:NNGU&VHOA.2,7,1-5,B408,3,Nguyễn Văn Độ(CNE020)
+AZ459,CĐTN: Ngôn ngữ văn hóa Trung Quốc,CĐTN:NNGUVHOATQUOC.1,4,1-5,B308,3,Phạm Ngọc Hàm(MNZ003)
+AE450,CĐTN: Ngữ pháp tiếng Anh,CÐTN:NGUPHAPANH.1,4,1-5,B705,3,Ngô Hữu Hoàng(CNE046)
+AE450,CĐTN: Ngữ pháp tiếng Anh,CÐTN:NGUPHAPANH.2,6,6-10,B510,3,Phí Thị Thu Trang(CNE017)
+SE487,CĐTN: Phát triển phần mềm,CÐTN:PTPHANMEM.1,1,3-5,BOMON1,6,
+AJ428B,CĐTN: Quản trị sản xuất trong các DN Nhật Bản,CĐTN:QTRISXDNNHAT.2,5,6-10,B202,3,Đỗ Thị Phượng(CNJ001)
+PH439,CĐTN: Sức khỏe môi trường,CÐTN:SKHOEMT.1,1,6-10,BOMON,3,Ngô Thị Thu Hiền(CSP014)
+PH448,CĐTN: Sức khỏe nghề nghiệp,CÐTN:SKHOENNGHIEP.1,7,6-10,BOMON,3,Nguyễn Bạch Ngọc(CSP006)
+AJ428A,CĐTN: Tiếng Nhật trong xuất nhập khẩu,CĐTN:TIENGNHATXNK.1,4,6-10,B208,3,Hứa Thùy Trang(CNJ018)
+AK482,CĐTN: Ý thức của người Hàn trong thành ngữ và tục ngữ Hàn Quốc,CDTN:YTHUCNGHANTRONGTHNTUCN.1,3,3-4,B105,3,Lee Kye Sun(CNK006)
+AK482,CĐTN: Ý thức của người Hàn trong thành ngữ và tục ngữ Hàn Quốc,CDTN:YTHUCNGHANTRONGTHNTUCN.1,5,3-5,B105,3,Lee Kye Sun(CNK006)
+PK441,Chữ Hán trong tiếng Hàn 1,CHUHANTHAN1.1,6,3-5,B304,2,Jang HoJeong(MNK012)
+PK441,Chữ Hán trong tiếng Hàn 1,CHUHANTHAN1.2,6,6-8,B501,2,Jang HoJeong(MNK012)
+IS222,Cơ sở dữ liệu,CSODULIEU.1,5,6-10,B304,3,Đậu Hải Phong(CTI009)
+SE302,Công nghệ phần mềm,CNPHANMEM.1,2,6-10,B308,2,Cao Kim Ánh(CTI022)
+SK356,Công tác xã hội với người khuyết tật,CTXHKHUYETTAT.1,6,3-5,B104,2,Nguyễn Thị Bùi Thành(CXW004)
+SK303,Công tác xã hội với sức khỏe tâm thần,CTXHSKHOETAMTHAN.1,3,6-8,B612,2,Nguyễn Thị Hải(CXW022)
+MA142,"Đại số tuyến tính, giải tích và ứng dụng trong kinh tế",DSTTUDKTE.5_LT,2,9-10,B501,4,Ngô Thị Thanh Nga(CTM006)
+MA142,"Đại số tuyến tính, giải tích và ứng dụng trong kinh tế",DSTTUDKTE.3_LT,3,3-5,B501,4,Nguyễn Hồng Châu(CTM004)
+MA142,"Đại số tuyến tính, giải tích và ứng dụng trong kinh tế",DSTTUDKTE.4_LT,3,4-5,B503,4,Đỗ Thị Thuý Hằng(CTM009)
+MA142,"Đại số tuyến tính, giải tích và ứng dụng trong kinh tế",DSTTUDKTE.4.1_BT,4,3-5,B410,4,Đỗ Thị Thuý Hằng(CTM009)
+MA142,"Đại số tuyến tính, giải tích và ứng dụng trong kinh tế",DSTTUDKTE.4.2_BT,4,3-5,B404,4,Phan Thanh Hồng(CTM007)
+MA142,"Đại số tuyến tính, giải tích và ứng dụng trong kinh tế",DSTTUDKTE.3_LT,4,4-5,B501,4,Nguyễn Hồng Châu(CTM004)
+MA142,"Đại số tuyến tính, giải tích và ứng dụng trong kinh tế",DSTTUDKTE.5_LT,4,8-10,B501,4,Ngô Thị Thanh Nga(CTM006)
+MA142,"Đại số tuyến tính, giải tích và ứng dụng trong kinh tế",DSTTUDKTE.4_LT,6,3-5,B501,4,Đỗ Thị Thuý Hằng(CTM009)
+MA142,"Đại số tuyến tính, giải tích và ứng dụng trong kinh tế",DSTTUDKTE.3.1_BT,6,3-5,B404,4,Nguyễn Hồng Châu(CTM004)
+MA142,"Đại số tuyến tính, giải tích và ứng dụng trong kinh tế",DSTTUDKTE.3.2_BT,6,3-5,B506,4,Phan Thanh Hồng(CTM007)
+MA142,"Đại số tuyến tính, giải tích và ứng dụng trong kinh tế",DSTTUDKTE.5.2_BT,6,8-10,B404,4,Nguyễn Hồng Châu(CTM004)
+MA142,"Đại số tuyến tính, giải tích và ứng dụng trong kinh tế",DSTTUDKTE.5.1_BT,7,8-10,B404,4,Dương Thị Hương(CTM011)
+AE211,"Đất nước học Anh, Mỹ",DATNUOCANHMY.4,2,1-3,A401,4,Phạm Hồng Vân(CNE013)
+AE211,"Đất nước học Anh, Mỹ",DATNUOCANHMY.1,3,3-5,A505,4,Nguyễn Thị Kiều Dung(CNE006)
+AE211,"Đất nước học Anh, Mỹ",DATNUOCANHMY.3,3,8-10,A505,4,Nguyễn Thị Kiều Dung(CNE006)
+AE211,"Đất nước học Anh, Mỹ",DATNUOCANHMY.2,4,1-3,B703,4,Trần Thị Phượng(CNE022)
+AE211,"Đất nước học Anh, Mỹ",DATNUOCANHMY.4,4,1-3,A401,4,Nguyễn Vân Khánh(CNE018)
+AE211,"Đất nước học Anh, Mỹ",DATNUOCANHMY.1,5,3-5,B601,4,Trần Thị Phượng(CNE022)
+AE211,"Đất nước học Anh, Mỹ",DATNUOCANHMY.3,5,8-10,A505,4,Trần Thị Phượng(CNE022)
+AE211,"Đất nước học Anh, Mỹ",DATNUOCANHMY.2,6,1-3,B606,4,Nguyễn Thị Kiều Dung(CNE006)
+AJ311,Đất nước học Nhật Bản,DATNUOCNHAT.2,3,6-8,B208,2,Đặng Thị Minh(CNJ004)
+AJ311,Đất nước học Nhật Bản,DATNUOCNHAT.1,5,3-5,B702,2,Đặng Thị Minh(CNJ004)
+FN334,Đầu tư chứng khoán,DAUTUCK.3,4,1-5,Afinance,2,Nguyễn Thị Thu Trang(CQB024)
+FN334,Đầu tư chứng khoán,DAUTUCK.2,6,1-5,Afinance,2,Nguyễn Thị Thu Trang(CQB024)
+TR221,Địa lý và tài nguyên du lịch,DIALY&TAINGUYENDL.2,2,6-8,B304,2,Phạm Trần Thăng Long(CDL004)
+TR221,Địa lý và tài nguyên du lịch,DIALY&TAINGUYENDL.1,7,3-5,A507,2,Phạm Trần Thăng Long(CDL004)
+TJ414,Dịch nói,DICHNOI(NHAT).1,4,6-9,B505,2,Đinh Thị Ngọc Linh (MNJ040)
+TJ414,Dịch nói,DICHNOI(NHAT).2,5,2-5,B305,2,Đinh Thị Ngọc Linh (MNJ040)
+TJ414,Dịch nói,DICHNOI(NHAT).3,7,2-5,B305,2,Phạm Thu Hương(MNJ016)
+AE405,Dịch nói 1,DICHNOI1(ANH).1,2,1-2,B607,3,Mai Lan(CNE028)
+AE405,Dịch nói 1,DICHNOI1(ANH).2,2,3-5,B706,3,Mai Lan(CNE028)
+AE405,Dịch nói 1,DICHNOI1(ANH).2,4,1-2,B605,3,Mai Lan(CNE028)
+AE405,Dịch nói 1,DICHNOI1(ANH).1,4,3-5,B712,3,Mai Lan(CNE028)
+AK308,Dịch nói 2,DICHNOI2.1,2,6-8,B602,3,Lee Kye Sun(CNK006)
+AK308,Dịch nói 2,DICHNOI2.1,3,3-4,B704,3,Trần Thị Lan Anh(CNK001)
+AK308,Dịch nói 2,DICHNOI2.2,3,6-8,B403,3,Lee Kye Sun(CNK006)
+AK308,Dịch nói 2,DICHNOI2.3,4,4-5,B704,3,Trần Thị Lan Anh(CNK001)
+AK308,Dịch nói 2,DICHNOI2.2,4,6-7,B403,3,Trần Thị Lan Anh(CNK001)
+AK308,Dịch nói 2,DICHNOI2.3,4,6-8,B604,3,Lee Kye Sun(CNK006)
+AZ306,Dịch nói 2,DICHNOI2(TRUNG).1,6,3-5,B110,2,Nguyễn Văn Đổng(MNZ004)
+AZ306,Dịch nói 2,DICHNOI2(TRUNG).2,6,6-8,B106,2,Nguyễn Văn Đổng(MNZ004)
+TJ314,Dịch viết,DICHVIET(NHAT).1,5,6-9,B408,2,Phạm Thu Hương(MNJ016)
+TJ314,Dịch viết,DICHVIET(NHAT).2,6,6-9,B410,2,Phạm Thu Hương(MNJ016)
+AE301,Dịch viết 1,DICHVIET1(ANH).1,3,6-10,B601,3,Hoàng Mai Phương(CNE053)
+AE301,Dịch viết 1,DICHVIET1(ANH).2,6,1-5,B607,3,Hoàng Mai Phương(CNE053)
+AK304,Dịch viết 2,DICHVIET2.3,3,3-5,B702,3,Lee Dong Koan(CNK010)
+AZ302,Dịch viết 2,DICHVIET2(TRUNG).1,4,3-5,B304,2,Nguyễn Văn Đổng(MNZ004)
+AZ302,Dịch viết 2,DICHVIET2(TRUNG).2,4,6-8,B110,2,Nguyễn Văn Đổng(MNZ004)
+AK304,Dịch viết 2,DICHVIET2.1,5,3-4,B502,3,Trần Thị Lan Anh(CNK001)
+AK304,Dịch viết 2,DICHVIET2.2,5,6-7,B510,3,Trần Thị Lan Anh(CNK001)
+AK304,Dịch viết 2,DICHVIET2.3,5,8-9,B606,3,Trần Thị Lan Anh(CNK001)
+AK304,Dịch viết 2,DICHVIET2.1,5,8-10,B502,3,Lee Dong Koan(CNK010)
+AK304,Dịch viết 2,DICHVIET2.2,6,3-5,B710,3,Lee Dong Koan(CNK010)
+NR413,Điều dưỡng các bệnh Nội khoa nâng cao,THBENHNOIKHOANC.1 (LTCĐ),1,1-5,BENHVIEN,4,Vũ Dũng(CSN012)
+NR413,Điều dưỡng các bệnh Nội khoa nâng cao,THBENHNOIKHOANC.1 (LTCĐ),1,6-10,BENHVIEN,4,Vũ Dũng(CSN012)
+NR413,Điều dưỡng các bệnh Nội khoa nâng cao,THBENHNOIKHOANC.1 (LTCĐ),7,6-10,BENHVIEN,4,Vũ Dũng(CSN012)
+NR216,Dinh dưỡng - Tiết chế và an toàn thực phẩm,TIETCHEANTOANTP.1 (LTCĐ),2,10-12,B106,2,Phạm Duy Tường(CSD001)
+NS220,Dinh dưỡng học đường,DDHOCDUONG.1,2,6-8,B110,2,Hoàng Thị Kim Thanh(CSD004)
+AD250,Dinh dưỡng và tiết chế,DINHDUONG&TIETCHE.1,5,6-10,B110,3,Hoàng Thị Kim Thanh(CSD004)
+ML203,Đường lối cách mạng của Đảng CS Việt Nam,DUONGLOICM.3,2,6-10,GD.Schwartz,3,Lê Thị Ninh(CGS007)
+ML203,Đường lối cách mạng của Đảng CS Việt Nam,DUONGLOICM.2,3,1-5,GD.Grothendieck,3,Lê Thị Ninh(CGS007)
+ML203,Đường lối cách mạng của Đảng CS Việt Nam,DUONGLOICM.1 (LL),4,6-10,GD.Schwartz,3,Lê Thị Ninh(CGS007)
+GE245,English 5,ENGLISH5.1,2,1-2,A405,4,Dương Thị Thu(CNE058)
+GE245,English 5,ENGLISH5.3,2,1-2,A501,4,Nguyễn Thị Kim Phương(CNE041)
+GE245,English 5,ENGLISH5.2,2,1-2,B705,4,Rashmi Dash(MNE033)
+GE245,English 5,ENGLISH5.1,2,3-4,B605,4,Rashmi Dash(MNE033)
+GE245,English 5,ENGLISH5.2,2,3-4,A405,4,Dương Thị Thu(CNE058)
+GE245,English 5,ENGLISH5.3,2,3-4,A501,4,Ngô Thị Minh Trang(CNE047)
+GE245,English 5,ENGLISH5.3,4,1-2,A601,4,Lê Thị Phượng(CNE035)
+GE245,English 5,ENGLISH5.1,4,1-2,A405,4,Vũ Mỹ Hạnh(CNE060)
+GE245,English 5,ENGLISH5.2,4,1-2,B706,4,Nguyễn Thị Kim Phương(CNE041)
+GE245,English 5,ENGLISH5.1,4,3-4,B607,4,Nguyễn Thị Kim Phương(CNE041)
+GE245,English 5,ENGLISH5.2,4,3-4,A405,4,Vũ Mỹ Hạnh(CNE060)
+GE245,English 5,ENGLISH5.3,4,3-4,A601,4,Dương Thị Thu(CNE058)
+GE245,English 5,ENGLISH5.3,6,1-2,A501,4,Lê Thị Tuyền(CNE019)
+GE245,English 5,ENGLISH5.1,6,1-2,A405,4,Ngô Thị Minh Trang(CNE047)
+GE245,English 5,ENGLISH5.2,6,1-2,B703,4,Lê Thị Phượng(CNE035)
+GE245,English 5,ENGLISH5.1,6,3-4,B605,4,Lê Thị Phượng(CNE035)
+GE245,English 5,ENGLISH5.2,6,3-4,A405,4,Ngô Thị Minh Trang(CNE047)
+GE245,English 5,ENGLISH5.3,6,3-4,A501,4,Ngô Cẩm Tú(CNE045)
+GE246,English 6,ENGLISH6.1,2,1-2,A505,4,Phí Thị Thu Trang(CNE017)
+GE246,English 6,ENGLISH6.2,2,1-2,B706,4,Chu Thị Hương Giang(CNE059)
+GE246,English 6,ENGLISH6.1,2,3-4,B603,4,Chu Thị Hương Giang(CNE059)
+GE246,English 6,ENGLISH6.2,2,3-4,A505,4,Phí Thị Thu Trang(CNE017)
+GE246,English 6,ENGLISH6.3,2,6-7,A405,4,Nguyễn Thị Kim Phương(CNE041)
+GE246,English 6,ENGLISH6.4,2,6-7,B612,4,Chu Thị Hương Giang(CNE059)
+GE246,English 6,ENGLISH6.3,2,8-9,B611,4,Chu Thị Hương Giang(CNE059)
+GE246,English 6,ENGLISH6.4,2,8-9,A405,4,Nguyễn Thị Kim Phương(CNE041)
+GE246,English 6,ENGLISH6.5,3,1-2,A605,4,Trần Thị Phượng(CNE022)
+GE246,English 6,ENGLISH6.6,3,1-2,B607,4,Ngô Thị Minh Trang(CNE047)
+GE246,English 6,ENGLISH6.5,3,3-4,B705,4,Ngô Thị Minh Trang(CNE047)
+GE246,English 6,ENGLISH6.6,3,3-4,A405,4,Trần Thị Phượng(CNE022)
+GE246,English 6,ENGLISH6.7,3,6-7,A505,4,Trần Thị Phượng(CNE022)
+GE246,English 6,ENGLISH6.8,3,6-7,B603,4,Ngô Thị Minh Trang(CNE047)
+GE246,English 6,ENGLISH6.7,3,8-9,B608,4,Ngô Thị Minh Trang(CNE047)
+GE246,English 6,ENGLISH6.8,3,8-9,A405,4,Trần Thị Phượng(CNE022)
+GE246,English 6,ENGLISH6.1,4,1-2,B510,4,Ngô Cẩm Tú(CNE045)
+GE246,English 6,ENGLISH6.2,4,1-2,B708,4,Vũ Phương Hạnh(CNE057)
+GE246,English 6,ENGLISH6.1,4,3-4,B605,4,Vũ Phương Hạnh(CNE057)
+GE246,English 6,ENGLISH6.2,4,3-4,B603,4,Ngô Cẩm Tú(CNE045)
+GE246,English 6,ENGLISH6.3,4,6-7,A405,4,Trần Thị Mai Phương(CNE051)
+GE246,English 6,ENGLISH6.4,4,6-7,B704,4,Vũ Phương Hạnh(CNE057)
+GE246,English 6,ENGLISH6.3,4,8-9,B603,4,Vũ Phương Hạnh(CNE057)
+GE246,English 6,ENGLISH6.4,4,8-9,A405,4,Trần Thị Mai Phương(CNE051)
+GE246,English 6,ENGLISH6.5,5,1-2,A605,4,Trần Thị Mai Phương(CNE051)
+GE246,English 6,ENGLISH6.6,5,1-2,B601,4,Nguyễn Thị Bích Trâm(CNE061)
+GE246,English 6,ENGLISH6.5,5,3-4,B611,4,Nguyễn Thị Bích Trâm(CNE061)
+GE246,English 6,ENGLISH6.6,5,3-4,A505,4,Trần Thị Mai Phương(CNE051)
+GE246,English 6,ENGLISH6.7,5,6-7,A505,4,Trần Thị Mai Phương(CNE051)
+GE246,English 6,ENGLISH6.8,5,6-7,B605,4,Nguyễn Thị Bích Trâm(CNE061)
+GE246,English 6,ENGLISH6.7,5,8-9,B607,4,Nguyễn Thị Bích Trâm(CNE061)
+GE246,English 6,ENGLISH6.8,5,8-9,A405,4,Trần Thị Mai Phương(CNE051)
+GE246,English 6,ENGLISH6.1,6,1-2,A505,4,Ngô Huy Tú(CNE050)
+GE246,English 6,ENGLISH6.2,6,1-2,B704,4,Lê Thị Hoài Thương(CNE027)
+GE246,English 6,ENGLISH6.1,6,3-4,B604,4,Lê Thị Hoài Thương(CNE027)
+GE246,English 6,ENGLISH6.2,6,3-4,A505,4,Ngô Huy Tú(CNE050)
+GE246,English 6,ENGLISH6.3,6,6-7,A505,4,Nguyễn Thị Hải Oanh(CNE011)
+GE246,English 6,ENGLISH6.4,6,6-7,B705,4,Lê Thị Hoài Thương(CNE027)
+GE246,English 6,ENGLISH6.3,6,8-9,B601,4,Lê Thị Hoài Thương(CNE027)
+GE246,English 6,ENGLISH6.4,6,8-9,A505,4,Nguyễn Thị Hải Oanh(CNE011)
+GE246,English 6,ENGLISH6.5,7,1-2,B406,4,Nguyễn Ngọc Anh(CNE054)
+GE246,English 6,ENGLISH6.6,7,1-2,B602,4,Trần Thị Thanh Hương(CNE033)
+GE246,English 6,ENGLISH6.5,7,3-4,B612,4,Trần Thị Thanh Hương(CNE033)
+GE246,English 6,ENGLISH6.6,7,3-4,B406,4,Nguyễn Ngọc Anh(CNE054)
+GE246,English 6,ENGLISH6.7,7,6-7,A405,4,Ngô Huy Tú(CNE050)
+GE246,English 6,ENGLISH6.8,7,6-7,B601,4,Nguyễn Ngọc Anh(CNE054)
+GE246,English 6,ENGLISH6.7,7,8-9,B406,4,Nguyễn Ngọc Anh(CNE054)
+GE246,English 6,ENGLISH6.8,7,8-9,A405,4,Ngô Huy Tú(CNE050)
+GE351,English 7,ENGLISH7.3,2,6-7,B508,3,Lê Thị Hoài Thương(CNE027)
+GE351,English 7,ENGLISH7.4,2,6-7,B704,3,Lê Thị Phượng(CNE035)
+GE351,English 7,ENGLISH7.3,2,8-9,B612,3,Đặng Thị Kim Chung(CNE005)
+GE351,English 7,ENGLISH7.4,2,8-9,B704,3,Lê Thị Hoài Thương(CNE027)
+GE351,English 7,ENGLISH7.3,4,6-7,B601,3,Lê Thị Phượng(CNE035)
+GE351,English 7,ENGLISH7.4,4,6-7,B705,3,Đặng Thị Kim Chung(CNE005)
+GE351,English 7,ENGLISH7.3,4,8-10,B610,3,Trần Thị Hải Bình(CNE004)
+GE351,English 7,ENGLISH7.4,4,8-10,B705,3,Đỗ Thu Hằng(CNE008)
+GE351,English 7,ENGLISH7.1,5,1-2,B602,3,Hoàng Mai Phương(CNE053)
+GE351,English 7,ENGLISH7.2,5,1-2,B603,3,Đặng Thị Kim Chung(CNE005)
+GE351,English 7,ENGLISH7.2,5,3-5,B703,3,Đỗ Thu Hằng(CNE008)
+GE351,English 7,ENGLISH7.1,5,3-5,B613,3,Nguyễn Thị Kim Phương(CNE041)
+GE351,English 7,ENGLISH7.2,7,1-2,B606,3,Hoàng Mai Phương(CNE053)
+GE351,English 7,ENGLISH7.1,7,1-2,B605,3,Nguyễn Vân Khánh(CNE018)
+GE351,English 7,ENGLISH7.2,7,3-4,B703,3,Nguyễn Vân Khánh(CNE018)
+GE351,English 7,ENGLISH7.1,7,3-4,B702,3,Đặng Thị Kim Chung(CNE005)
+GE352,English 8,ENGLISH8.1,2,1-2,B601,3,Lê Thị Tuyền(CNE019)
+GE352,English 8,ENGLISH8.2,2,1-2,B605,3,Hoàng Thị Thu Dung(CNE007)
+GE352,English 8,ENGLISH8.2,2,3-4,B611,3,Lê Thị Tuyền(CNE019)
+GE352,English 8,ENGLISH8.1,2,3-5,B607,3,Lê Thị Hòa(CNE009)
+GE352,English 8,ENGLISH8.1,4,1-2,B603,3,Hoàng Thị Thu Dung(CNE007)
+GE352,English 8,ENGLISH8.2,4,1-2,B611,3,Phạm Thái Sơn(CNE014)
+GE352,English 8,ENGLISH8.2,4,3-5,B613,3,Lê Thị Hòa(CNE009)
+GE352,English 8,ENGLISH8.1,4,3-4,B611,3,Phạm Thái Sơn(CNE014)
+GE353,English 9,ENGLISH9.2,2,1-2,B703,2,Mai Xuân Thể(CNE055)
+GE353,English 9,ENGLISH9.1,2,1-2,B510,2,Nguyễn Thị Bích Trâm(CNE061)
+GE353,English 9,ENGLISH9.3,2,6-7,B510,2,Nguyễn Thị Kiều Dung(CNE006)
+GE353,English 9,ENGLISH9.4,2,8-9,A605,2,Lê Thị Tuyền(CNE019)
+GE353,English 9,ENGLISH9.2,4,1-2,B704,2,Mai Xuân Thể(CNE055)
+GE353,English 9,ENGLISH9.1,4,1-2,B601,2,Nguyễn Thị Bích Trâm(CNE061)
+GE353,English 9,ENGLISH9.3,4,6-7,B603,2,Nguyễn Thị Kiều Dung(CNE006)
+GE353,English 9,ENGLISH9.4,4,8-9,B601,2,Lê Thị Tuyền(CNE019)
+GE353,English 9,ENGLISH9.2,6,1-2,B702,2,Mai Xuân Thể(CNE055)
+GE353,English 9,ENGLISH9.1,6,1-2,B508,2,Nguyễn Thị Bích Trâm(CNE061)
+GE353,English 9,ENGLISH9.3,6,6-7,B508,2,Nguyễn Thị Kiều Dung(CNE006)
+GE353,English 9,ENGLISH9.4,6,8-9,B508,2,Lê Thị Tuyền(CNE019)
+PG118,GDTC: Thể dục cơ bản,GDTC:THEDUCCB.11,2,1-2,NHATC,1,
+PG118,GDTC: Thể dục cơ bản,GDTC:THEDUCCB.3,2,3-4,NHATC,1,Vũ Thị Huệ(CGP008)
+PG118,GDTC: Thể dục cơ bản,GDTC:THEDUCCB.4,2,6-7,NHATC,1,Vũ Thị Huệ(CGP008)
+PG118,GDTC: Thể dục cơ bản,GDTC:THEDUCCB.5,2,8-9,NHATC,1,Phạm Thị Trang(CGP009)
+PG118,GDTC: Thể dục cơ bản,GDTC:THEDUCCB.13,3,1-2,NHATC,1,
+PG118,GDTC: Thể dục cơ bản,GDTC:THEDUCCB.14,3,3-4,NHATC,1,
+PG118,GDTC: Thể dục cơ bản,GDTC:THEDUCCB.7,4,6-7,NHATC,1,Vũ Thị Huệ(CGP008)
+PG118,GDTC: Thể dục cơ bản,GDTC:THEDUCCB.8,4,8-9,NHATC,1,Vũ Thị Huệ(CGP008)
+PG118,GDTC: Thể dục cơ bản,GDTC:THEDUCCB.12,5,1-2,NHATC,1,
+PG118,GDTC: Thể dục cơ bản,GDTC:THEDUCCB.6,5,3-4,NHATC,1,Phạm Thị Trang(CGP009)
+PG118,GDTC: Thể dục cơ bản,GDTC:THEDUCCB.9,6,6-7,NHATC,1,Phạm Thị Trang(CGP009)
+PG118,GDTC: Thể dục cơ bản,GDTC:THEDUCCB.10,6,8-9,NHATC,1,Phạm Thị Trang(CGP009)
+PG102,GDTC: Thể dục cổ truyền cơ bản,GDTC:COTRUYENCB.3,2,1-2,NHATC,1,Nguyễn Minh Hải(CGP005)
+PG102,GDTC: Thể dục cổ truyền cơ bản,GDTC:COTRUYENCB.4,2,3-4,NHATC,1,Nguyễn Minh Hải(CGP005)
+PG102,GDTC: Thể dục cổ truyền cơ bản,GDTC:COTRUYENCB.11,2,6-7,NHATC,1,
+PG102,GDTC: Thể dục cổ truyền cơ bản,GDTC:COTRUYENCB.12,2,8-9,NHATC,1,
+PG102,GDTC: Thể dục cổ truyền cơ bản,GDTC:COTRUYENCB.5,3,1-2,NHATC,1,Nguyễn Minh Hải(CGP005)
+PG102,GDTC: Thể dục cổ truyền cơ bản,GDTC:COTRUYENCB.6,3,3-4,NHATC,1,Nguyễn Minh Hải(CGP005)
+PG102,GDTC: Thể dục cổ truyền cơ bản,GDTC:COTRUYENCB.7,4,6-7,NHATC,1,Nguyễn Ngọc Dũng(CGP004)
+PG102,GDTC: Thể dục cổ truyền cơ bản,GDTC:COTRUYENCB.8,4,8-9,NHATC,1,Nguyễn Ngọc Dũng(CGP004)
+PG102,GDTC: Thể dục cổ truyền cơ bản,GDTC:COTRUYENCB.9,6,6-7,NHATC,1,Nguyễn Minh Hải(CGP005)
+PG102,GDTC: Thể dục cổ truyền cơ bản,GDTC:COTRUYENCB.10,6,8-9,NHATC,1,Nguyễn Minh Hải(CGP005)
+MA110,Giải tích 1,GIAITICH1.1_LT,2,8-10,B408,3,Nguyễn Lâm Tùng(CTM008)
+MA110,Giải tích 1,GIAITICH1.1.1_BT,4,9-10,B406,3,Nguyễn Lâm Tùng(CTM008)
+MA110,Giải tích 1,GIAITICH1.1.2_BT,4,9-10,B104,3,Hoàng Ngọc Tùng(CTM010)
+MA110,Giải tích 1,GIAITICH1.1.2_BT,6,9-10,B108,3,Nguyễn Quốc Tuấn(CTM024)
+MA110,Giải tích 1,GIAITICH1.1.1_BT,6,9-10,B406,3,Nguyễn Lâm Tùng(CTM008)
+MA111,Giải tích 2,GIAITICH2.1_LT,2,3-5,B508,3,Nguyễn Quốc Tuấn(CTM024)
+MA111,Giải tích 2,GIAITICH2.1.1_BT,4,4-5,B408,3,Nguyễn Quốc Tuấn(CTM024)
+MA111,Giải tích 2,GIAITICH2.1.1_BT,6,4-5,B410,3,Nguyễn Quốc Tuấn(CTM024)
+MA342,Giải tích lồi,GIAITICHLOI.1_LT,5,6-9,BOMON,3,
+MA342,Giải tích lồi,GIAITICHLOI.1.1_BT,6,6-7,BOMON,3,
+PJ422,Giảng dạy Tiếng Nhật 2,GIANGDAYNHAT2.1,3,6-9,B305,2,Vũ Thị Kim Chi(CNJ003)
+PJ422,Giảng dạy Tiếng Nhật 2,GIANGDAYNHAT2.2,3,6-9,A305,2,Nguyễn Huyền Ngọc(CNJ021)
+AE415,Giao tiếp giữa các nền văn hoá,GIAOTIEPCACNENVH.1,2,1-3,B704,2,Ngô Hữu Hoàng(CNE046)
+AE415,Giao tiếp giữa các nền văn hoá,GIAOTIEPCACNENVH.3,2,3-5,A403,2,Nguyễn Văn Độ(CNE020)
+AE415,Giao tiếp giữa các nền văn hoá,GIAOTIEPCACNENVH.2,2,6-8,B603,2,Ngô Hữu Hoàng(CNE046)
+TR317,Giao tiếp và lễ tân du lịch,GIAOTIEP&LETANDL.1,4,6-10,B203,3,Bùi Thị Thu Huyền(MXV021)
+SO322,Giới và phát triển,GIOI&PT.1,5,6-8,B312,2,Nguyễn Thị Kim Dung(CXW016)
+MA313,Hàm biến phức,HAMBIENPHUC.1_LT,6,1-2,BOMON,2,
+MA313,Hàm biến phức,HAMBIENPHUC.1.1_BT,6,3-5,BOMON,2,
+AD213,Hát – Nhạc,HATNHAC.5,2,6-7,B816,3,Nguyễn Văn Quang(MAN012)
+AD213,Hát – Nhạc,HATNHAC.4,2,6-7,B814,3,Hoàng Bích Hà(CAN003)
+AD213,Hát – Nhạc,HATNHAC.6,3,6-7,B816,3,Trần Tuấn Hòa(CAN010)
+AD213,Hát – Nhạc,HATNHAC.5,4,3-5,B816,3,Nguyễn Văn Quang(MAN012)
+AD213,Hát – Nhạc,HATNHAC.4,4,3-5,B814,3,Hoàng Bích Hà(CAN003)
+AD213,Hát – Nhạc,HATNHAC.6,5,3-5,B816,3,Trần Tuấn Hòa(CAN010)
+IS322,Hệ quản trị cơ sở dữ liệu,QTRICSODULIEU.1,2,6-10,A707,3,Trần Quang Duy(CTI019)
+IS314,Hệ thống thông tin,HETHONGTTIN.1,2,6-10,A705,3,Mai Thuý Nga(CTI008)
+IS314,Hệ thống thông tin,HETHONGTTIN.2,6,6-10,A703,3,Mai Thuý Nga(CTI008)
+AN402,Hòa thanh ứng dụng,HOATHANH.1,2,3-4,B807,2,Lưu Quang Minh(MAN005)
+AN402,Hòa thanh ứng dụng,HOATHANH.2,2,6-7,B807,2,Lưu Quang Minh(MAN005)
+CS320,Học máy,HOCMAY.1_LT,3,3-5,B302,3,
+CS320,Học máy,HOCMAY.1.1_BT,5,2-5,B104,3,
+AC210,Kế toán doanh nghiệp,KETOANDN.3,5,6-10,B307,3,Nguyễn Thị Hồng Anh(CQA010)
+AC211,Kế toán tài chính 1,KETOANTC1.2,4,6-10,B205,3,Vũ Thị Kim Lan(CQA005)
+AC211,Kế toán tài chính 1,KETOANTC1.1,6,1-5,A402,3,Đào Diệu Hằng(CQA003)
+IS327,Kho dữ liệu,NHAKHODULIEU.1,3,1-5,A703,3,Đậu Hải Phong(CTI009)
+SK324,Kiểm huấn công tác xã hội,KIEMHUANCTXH1.1,2,6-8,B306,2,Nguyễn Nguyên Ngọc(CXW026)
+NF329,Kiểm nghiệm thực phẩm,KIEMNGHIEMTP.1,4,6-10,BENHVIEN,3,Trần Cao Sơn(MSD002)
+EC204,Kinh tế vi mô,MICRO.2,5,6-8,B302,3,Lê Thị Kim Chung(CQE004)
+EC204,Kinh tế vi mô,MICRO.2,6,4-5,B302,3,Lê Thị Kim Chung(CQE004)
+EC205,Kinh tế vĩ mô,MACRO.2,3,6-7,B203,3,Trần Thị Thùy Linh(CQE001)
+EC205,Kinh tế vĩ mô,MACRO.2,6,6-8,B203,3,Trần Thị Thùy Linh(CQE001)
+VC232,Kinh tế Việt Nam,KINHTEVN.1,2,1-5,B303,3,Nguyễn Văn Lịch(CXV014)
+SK499,KLTN ngành Công tác xã hội,KLTNCONGTACXAHOI.1,1,1-5,BOMON,6,Nguyễn Thị Hải(CXW022)
+NC499,KLTN ngành Dinh dưỡng,KLTNDINHDUONG.1,1,1-5,BOMON,6,Phạm Duy Tường(CSD001)
+NC499,KLTN ngành Dinh dưỡng,KLTNDINHDUONG.1,1,6-10,BOMON,6,Phạm Duy Tường(CSD001)
+IS499,KLTN ngành Hệ thống thông tin,KLTNNGANHHTTTQL.1,1,1-2,BOMON,6,
+CS499,KLTN ngành Khoa học máy tính,KLTNKHOAHOCMAYTINH.1,1,3-5,BOMON1,6,
+MI489,KLTN: Toán ứng dụng,KLTN:TOANTINUD.1,1,2-10,BOMON,6,
+AE320,Kỹ năng giao tiếp,KNGIAOTIEP.1,2,6-8,B604,2,Hoàng Kim Thúy(CNE012)
+AE320,Kỹ năng giao tiếp,KNGIAOTIEP.2,5,1-3,B508,2,Hoàng Kim Thúy(CNE012)
+AJ452,Kỹ năng giao tiếp tiếng Nhật,KNGIAOTIEPNHAT.1,5,2-5,B208,2,Đỗ Thị Phượng(CNJ001)
+AJ452,Kỹ năng giao tiếp tiếng Nhật,KNGIAOTIEPNHAT.2,7,2-5,B204,2,Hoàng Thị Hường(CNJ005)
+SC201,Kỹ năng giao tiếp và thuyết trình,KYNANGTTRINH.5,2,6-8,B205,2,Lê Huyền Trang(CQM011)
+SC201,Kỹ năng giao tiếp và thuyết trình,KYNANGTTRINH.6,4,3-5,B303,2,Lê Huyền Trang(CQM011)
+SC201,Kỹ năng giao tiếp và thuyết trình,KYNANGTTRINH.7,5,8-10,B503,2,Lê Huyền Trang(CQM011)
+SC201,Kỹ năng giao tiếp và thuyết trình,KYNANGTTRINH.3,6,3-5,A406,2,Nguyễn Bảo Tuấn(CQM009)
+SC201,Kỹ năng giao tiếp và thuyết trình,KYNANGTTRINH.4,6,6-8,B101,2,Nguyễn Bảo Tuấn(CQM009)
+GK263,"Kỹ năng nghe, nói, đọc, viết Hàn 6",KNNND6(HAN).4,2,3-5,B612,3,Nguyễn Thị Hồng(CNK009)
+GK263,"Kỹ năng nghe, nói, đọc, viết Hàn 6",KNNND6(HAN).2,2,3-5,B608,3,Vương Thị Năm(CNK005)
+GK263,"Kỹ năng nghe, nói, đọc, viết Hàn 6",KNNND6(HAN).3,2,3-5,B610,3,Lee Hye Young(MNK005)
+GK263,"Kỹ năng nghe, nói, đọc, viết Hàn 6",KNNND6(HAN).1,2,3-5,B606,3,Lee SuJung(MNK017)
+GK263,"Kỹ năng nghe, nói, đọc, viết Hàn 6",KNNND6(HAN).2,2,6-8,B710,3,Lee SuJung(MNK017)
+GK263,"Kỹ năng nghe, nói, đọc, viết Hàn 6",KNNND6(HAN).3,2,8-10,B508,3,Vương Thị Năm(CNK005)
+GK263,"Kỹ năng nghe, nói, đọc, viết Hàn 6",KNNND6(HAN).5,2,8-10,B510,3,Lee Hye Young(MNK005)
+GK263,"Kỹ năng nghe, nói, đọc, viết Hàn 6",KNNND6(HAN).4,3,3-5,B612,3,Lee Hye Young(MNK005)
+GK263,"Kỹ năng nghe, nói, đọc, viết Hàn 6",KNNND6(HAN).3,3,3-5,B608,3,Lee SuJung(MNK017)
+GK263,"Kỹ năng nghe, nói, đọc, viết Hàn 6",KNNND6(HAN).1,3,3-5,B504,3,Vương Thị Năm(CNK005)
+GK263,"Kỹ năng nghe, nói, đọc, viết Hàn 6",KNNND6(HAN).5,3,8-10,B508,3,Vương Thị Năm(CNK005)
+GK263,"Kỹ năng nghe, nói, đọc, viết Hàn 6",KNNND6(HAN).6,3,8-10,B512,3,Lee Hye Young(MNK005)
+GK263,"Kỹ năng nghe, nói, đọc, viết Hàn 6",KNNND6(HAN).4,4,3-5,B702,3,Vương Thị Năm(CNK005)
+GK263,"Kỹ năng nghe, nói, đọc, viết Hàn 6",KNNND6(HAN).6,4,8-10,B502,3,Vương Thị Năm(CNK005)
+GK263,"Kỹ năng nghe, nói, đọc, viết Hàn 6",KNNND6(HAN).5,5,3-5,B602,3,Lee SuJung(MNK017)
+GK263,"Kỹ năng nghe, nói, đọc, viết Hàn 6",KNNND6(HAN).2,5,3-5,B512,3,Nguyễn Thị Hồng(CNK009)
+GK263,"Kỹ năng nghe, nói, đọc, viết Hàn 6",KNNND6(HAN).1,6,3-5,A401,3,Nguyễn Thị Hồng(CNK009)
+GK263,"Kỹ năng nghe, nói, đọc, viết Hàn 6",KNNND6(HAN).6,6,3-5,B406,3,Lee SuJung(MNK017)
+GZ253,"Kỹ năng nghe, nói, đọc, viết Trung 6",NNÐV6(TRUNG).1,3,6-9,B106,4,Nguyễn Thị Trung Thu(CNZ002)
+GZ253,"Kỹ năng nghe, nói, đọc, viết Trung 6",NNÐV6(TRUNG).2,3,6-9,B110,4,Nguyễn Lê Minh(CNZ005)
+GZ253,"Kỹ năng nghe, nói, đọc, viết Trung 6",NNÐV6(TRUNG).3,3,6-9,B304,4,Tang Li Chun(MNZ020)
+GZ253,"Kỹ năng nghe, nói, đọc, viết Trung 6",NNÐV6(TRUNG).3,5,6-9,B310,4,Nguyễn Lê Minh(CNZ005)
+GZ253,"Kỹ năng nghe, nói, đọc, viết Trung 6",NNÐV6(TRUNG).2,5,6-9,B412,4,Tang Li Chun(MNZ020)
+GZ253,"Kỹ năng nghe, nói, đọc, viết Trung 6",NNÐV6(TRUNG).1,5,6-9,B108,4,Nguyễn Thị Trung Thu(CNZ002)
+GZ253,"Kỹ năng nghe, nói, đọc, viết Trung 6",NNÐV6(TRUNG).2,7,6-9,B108,4,Nguyễn Lê Minh(CNZ005)
+GZ253,"Kỹ năng nghe, nói, đọc, viết Trung 6",NNÐV6(TRUNG).1,7,6-9,B106,4,Tang Li Chun(MNZ020)
+GZ253,"Kỹ năng nghe, nói, đọc, viết Trung 6",NNÐV6(TRUNG).3,7,6-9,B110,4,Nguyễn Thị Trung Thu(CNZ002)
+IM201,Kỹ năng soạn thảo VB (MS office),KNSOANTHAOVB(MSOFFICE).15,2,6-10,A706B,3,Cao Minh Khánh(CTI017)
+IM201,Kỹ năng soạn thảo VB (MS office),KNSOANTHAOVB(MSOFFICE).7,2,6-10,A706A,3,Đậu Hải Phong(CTI009)
+IM201,Kỹ năng soạn thảo VB (MS office),KNSOANTHAOVB(MSOFFICE).8,3,1-5,A707,3,Trần Thị Huệ(CTI014)
+IM201,Kỹ năng soạn thảo VB (MS office),KNSOANTHAOVB(MSOFFICE).9,3,1-5,A709,3,Phạm Thị Kim Hoa(CTI003)
+IM201,Kỹ năng soạn thảo VB (MS office),KNSOANTHAOVB(MSOFFICE).10,3,6-10,A703,3,Phạm Thị Kim Hoa(CTI003)
+IM201,Kỹ năng soạn thảo VB (MS office),KNSOANTHAOVB(MSOFFICE).11,4,1-5,A705,3,Nguyễn Mạnh Hùng(CTI010)
+IM201,Kỹ năng soạn thảo VB (MS office),KNSOANTHAOVB(MSOFFICE).12,4,6-10,A705,3,Phạm Thị Kim Hoa(CTI003)
+IM201,Kỹ năng soạn thảo VB (MS office),KNSOANTHAOVB(MSOFFICE).13,5,1-5,A709,3,Trần Thị Huệ(CTI014)
+IM201,Kỹ năng soạn thảo VB (MS office),KNSOANTHAOVB(MSOFFICE).14,6,6-10,A709,3,Phạm Phương Thanh(CTI018)
+AN242C,Kỹ thuật biểu diễn (vũ đạo) 2C,KYTHUATVUDAO2C.1,3,8-9,B809,1,Nguyễn Tuấn Linh(CAN008)
+AN242C,Kỹ thuật biểu diễn (vũ đạo) 2C,KYTHUATVUDAO2C.2,5,8-9,B809,1,Nguyễn Tuấn Linh(CAN008)
+TC314,Kỹ thuật kết nối mạng,KTHUATKNOIMANG.1,7,1-5,B402,3,Trần Công Nam(CTI037)
+AN413C,Kỹ thuật Phòng thu C,KTPHONGTHUC.1,4,3-4,B805,1,Nguyễn Văn Thuấn(MAN007)
+AN413C,Kỹ thuật Phòng thu C,KTPHONGTHUC.2,4,6-7,B805,1,Nguyễn Văn Thuấn(MAN007)
+AN232C,Kỹ thuật thanh nhạc 2C,KYTHUATTHANHNHAC2C.3,2,1-2,B808,1,Ngô Thị Thanh Huyền(CAN005)
+AN232C,Kỹ thuật thanh nhạc 2C,KYTHUATTHANHNHAC2C.4,2,3-4,B810,1,Phạm Đức Thành(CAN002)
+AN232C,Kỹ thuật thanh nhạc 2C,KYTHUATTHANHNHAC2C.1,2,4-4,B804,1,Trần Thị Ngọc Lan(CAN001)
+AN232C,Kỹ thuật thanh nhạc 2C,KYTHUATTHANHNHAC2C.1,2,6-9,B804,1,Trần Thị Ngọc Lan(CAN001)
+AN232C,Kỹ thuật thanh nhạc 2C,KYTHUATTHANHNHAC2C.4,2,8-8,B810,1,Phạm Đức Thành(CAN002)
+AN232C,Kỹ thuật thanh nhạc 2C,KYTHUATTHANHNHAC2C.5,3,1-4,B812,1,Đoàn Thị Thúy Trang(MAN006)
+AN232C,Kỹ thuật thanh nhạc 2C,KYTHUATTHANHNHAC2C.2,3,2-5,B806,1,Mai Thị Xuân Hương(MAN002)
+AN232C,Kỹ thuật thanh nhạc 2C,KYTHUATTHANHNHAC2C.1,4,6-9,B804,1,Trần Thị Ngọc Lan(CAN001)
+AN232C,Kỹ thuật thanh nhạc 2C,KYTHUATTHANHNHAC2C.3,4,6-9,B808,1,Ngô Thị Thanh Huyền(CAN005)
+AN232C,Kỹ thuật thanh nhạc 2C,KYTHUATTHANHNHAC2C.4,4,6-7,B810,1,Phạm Đức Thành(CAN002)
+AN232C,Kỹ thuật thanh nhạc 2C,KYTHUATTHANHNHAC2C.3,5,1-2,B808,1,Ngô Thị Thanh Huyền(CAN005)
+AN232C,Kỹ thuật thanh nhạc 2C,KYTHUATTHANHNHAC2C.2,5,2-5,B806,1,Mai Thị Xuân Hương(MAN002)
+AN232C,Kỹ thuật thanh nhạc 2C,KYTHUATTHANHNHAC2C.4,5,3-4,B810,1,Phạm Đức Thành(CAN002)
+AN232C,Kỹ thuật thanh nhạc 2C,KYTHUATTHANHNHAC2C.1,5,4-4,B804,1,Trần Thị Ngọc Lan(CAN001)
+AN232C,Kỹ thuật thanh nhạc 2C,KYTHUATTHANHNHAC2C.5,6,1-4,B812,1,Đoàn Thị Thúy Trang(MAN006)
+AN232C,Kỹ thuật thanh nhạc 2C,KYTHUATTHANHNHAC2C.4,6,10-10,B810,1,Phạm Đức Thành(CAN002)
+AN232C,Kỹ thuật thanh nhạc 2C,KYTHUATTHANHNHAC2C.3,6,6-9,B808,1,Ngô Thị Thanh Huyền(CAN005)
+AN333C,Kỹ thuật thanh nhạc 3C,KTTHANHNHAC3C.1,2,1-2,B804,1,Trần Thị Ngọc Lan(CAN001)
+AN333C,Kỹ thuật thanh nhạc 3C,KTTHANHNHAC3C.4,2,5-5,B810,1,Phạm Đức Thành(CAN002)
+AN333C,Kỹ thuật thanh nhạc 3C,KTTHANHNHAC3C.4,2,7-7,B810,1,Phạm Đức Thành(CAN002)
+AN333C,Kỹ thuật thanh nhạc 3C,KTTHANHNHAC3C.3,2,9-10,B808,1,Ngô Thị Thanh Huyền(CAN005)
+AN333C,Kỹ thuật thanh nhạc 3C,KTTHANHNHAC3C.5,3,5-5,B812,1,Đoàn Thị Thúy Trang(MAN006)
+AN333C,Kỹ thuật thanh nhạc 3C,KTTHANHNHAC3C.5,3,6-7,B812,1,Đoàn Thị Thúy Trang(MAN006)
+AN333C,Kỹ thuật thanh nhạc 3C,KTTHANHNHAC3C.1,3,6-7,B804,1,Trần Thị Ngọc Lan(CAN001)
+AN333C,Kỹ thuật thanh nhạc 3C,KTTHANHNHAC3C.3,4,4-5,B808,1,Ngô Thị Thanh Huyền(CAN005)
+AN333C,Kỹ thuật thanh nhạc 3C,KTTHANHNHAC3C.1,5,1-2,B804,1,Trần Thị Ngọc Lan(CAN001)
+AN333C,Kỹ thuật thanh nhạc 3C,KTTHANHNHAC3C.4,5,2-2,B810,1,Phạm Đức Thành(CAN002)
+AN333C,Kỹ thuật thanh nhạc 3C,KTTHANHNHAC3C.1,5,6-7,B804,1,Trần Thị Ngọc Lan(CAN001)
+AN333C,Kỹ thuật thanh nhạc 3C,KTTHANHNHAC3C.5,6,5-5,B812,1,Đoàn Thị Thúy Trang(MAN006)
+AN333C,Kỹ thuật thanh nhạc 3C,KTTHANHNHAC3C.5,6,6-7,B812,1,Đoàn Thị Thúy Trang(MAN006)
+AN333C,Kỹ thuật thanh nhạc 3C,KTTHANHNHAC3C.4,6,9-9,B810,1,Phạm Đức Thành(CAN002)
+AN434C,Kỹ thuật thanh nhạc 4C,KYTHUATTHANHNHAC4C.2,2,1-1,B806,1,Mai Thị Xuân Hương(MAN002)
+AN434C,Kỹ thuật thanh nhạc 4C,KYTHUATTHANHNHAC4C.3,2,3-3,B808,1,Ngô Thị Thanh Huyền(CAN005)
+AN434C,Kỹ thuật thanh nhạc 4C,KYTHUATTHANHNHAC4C.3,2,6-8,B808,1,Ngô Thị Thanh Huyền(CAN005)
+AN434C,Kỹ thuật thanh nhạc 4C,KYTHUATTHANHNHAC4C.4,2,6-6,B810,1,Phạm Đức Thành(CAN002)
+AN434C,Kỹ thuật thanh nhạc 4C,KYTHUATTHANHNHAC4C.4,3,8-10,B810,1,Phạm Đức Thành(CAN002)
+AN434C,Kỹ thuật thanh nhạc 4C,KYTHUATTHANHNHAC4C.1,3,8-10,B804,1,Trần Thị Ngọc Lan(CAN001)
+AN434C,Kỹ thuật thanh nhạc 4C,KYTHUATTHANHNHAC4C.3,4,1-3,B808,1,Ngô Thị Thanh Huyền(CAN005)
+AN434C,Kỹ thuật thanh nhạc 4C,KYTHUATTHANHNHAC4C.2,4,1-1,B806,1,Mai Thị Xuân Hương(MAN002)
+AN434C,Kỹ thuật thanh nhạc 4C,KYTHUATTHANHNHAC4C.3,4,6-6,B808,1,Ngô Thị Thanh Huyền(CAN005)
+AN434C,Kỹ thuật thanh nhạc 4C,KYTHUATTHANHNHAC4C.4,5,1-1,B810,1,Phạm Đức Thành(CAN002)
+AN434C,Kỹ thuật thanh nhạc 4C,KYTHUATTHANHNHAC4C.1,5,8-10,B804,1,Trần Thị Ngọc Lan(CAN001)
+AN434C,Kỹ thuật thanh nhạc 4C,KYTHUATTHANHNHAC4C.4,6,6-8,B810,1,Phạm Đức Thành(CAN002)
+AN212C,Ký xướng âm 2C,KYXUONGAM2B.2,4,3-4,B803,1,Trần Bá Huy(CAN007)
+AN212C,Ký xướng âm 2C,KYXUONGAM2B.1,6,3-4,B803,1,Nguyễn Như Cường(CAN009)
+CS224,Lập trình .Net,LAPTRINHNET.1,6,6-10,A705,3,Nguyễn Đức Dân(CTI011)
+CS223,Lập trình Java,JAVACOBAN.1,4,6-10,A706A,3,Trần Đức Minh(CTI012)
+AJ413,Lịch sử Nhật Bản,LICHSUNHAT.1,6,3-5,B402,2,Đặng Thị Minh(CNJ004)
+SH111,Lịch sử văn minh thế giới,LSUVANMINHTG.2,2,6-8,B303,2,Nguyễn Cảnh Toàn(CXV016)
+SH111,Lịch sử văn minh thế giới,LSUVANMINHTG.3,3,3-5,B208,2,Nguyễn Cảnh Toàn(CXV016)
+MA100,Logic và suy luận toán học,LOGICSLTOAN.2_LT,2,1-2,B501,2,Bùi Huy Hiền(CTM003)
+MA100,Logic và suy luận toán học,LOGICSLTOAN.1_LT,2,6-7,B301,2,Bùi Huy Hiền(CTM003)
+MA100,Logic và suy luận toán học,LOGICSLTOAN.2.2_BT,3,1-3,B512,2,Lê Thị Yên Hồng(CTM016)
+MA100,Logic và suy luận toán học,LOGICSLTOAN.3.2_BT,3,3-5,B312,2,Lê Thị Hường(CTM017)
+MA100,Logic và suy luận toán học,LOGICSLTOAN.1.1_BT,3,6-8,B404,2,Nhâm Ngọc Tần(CTM013)
+MA100,Logic và suy luận toán học,LOGICSLTOAN.3_LT,4,6-7,B501,2,Bùi Huy Hiền(CTM003)
+MA100,Logic và suy luận toán học,LOGICSLTOAN.3.1_BT,5,3-5,B408,2,Lê Thị Yên Hồng(CTM016)
+MA101,"Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)",LOGICDEM (Tiếng Anh).7.1_BT,2,1-2,B404,3,Nguyễn Thị Trà My(PAI003)
+MA101,"Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)",LOGICDEM (Tiếng Anh).5_LT,2,3-5,B506,3,Phan Thanh Hồng(CTM007)
+MA101,"Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)",LOGICDEM (Tiếng Anh).6.1_BT,2,4-5,B406,3,Lê Thị Hường(CTM017)
+MA101,"Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)",LOGICDEM (Tiếng Anh).7_LT,3,3-5,B404,3,Đỗ Ngọc Diệp(CVT004)
+MA101,"Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)",LOGICDEM (Tiếng Anh).7.1_BT,4,1-2,B406,3,Nguyễn Thị Trà My(PAI003)
+MA101,"Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)",LOGICDEM (Tiếng Anh).6_LT,4,3-5,B406,3,Nguyễn Thị Nhung(CTM005)
+MA101,"Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)",LOGICDEM (Tiếng Anh).5.1_BT,5,6-7,B404,3,Trần Minh Nguyệt(CTM012)
+MA101,"Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)",LOGICDEM (Tiếng Anh).6.1_BT,6,4-5,B408,3,Lê Thị Hường(CTM017)
+MA101,"Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)",LOGICDEM (Tiếng Anh).5.1_BT,7,6-7,B404,3,Trần Minh Nguyệt(CTM012)
+NR332C,LT điều dưỡng các bệnh ngoại khoa 2,LTDDBENHNGOAIKHOA2.1,6,6-9,A402,2,Đỗ Quang Tuyển(CSN006)
+NR212C,LT điều dưỡng các bệnh nội khoa 2,LTDDBENHNOIKHOA2.1,4,6-9,A406,2,Lê Thị Bình(CSN011)
+NR415A,LT điều dưỡng các bệnh tâm thần,LTSKHOETAMTHAN.1,4,8-9,A407,1,
+EC221,Luật kinh tế,LUATKTE.3,3,1-3,B201,2,Nguyễn Thị Huế(MQE021)
+EC221,Luật kinh tế,LUATKTE.4,4,1-3,B101,2,Nguyễn Thị Huế(MQE021)
+EC221,Luật kinh tế,LUATKTE.2,5,3-5,A602,2,Nguyễn Đình Tài(CGS005)
+EC221,Luật kinh tế,LUATKTE.5,6,3-5,B103,2,Trần Thị Thu Hà(PTL006)
+SK241,Lý thuyết công tác xã hội,LTCTXH.1,4,3-5,B104,2,Lê Thị Quý(CXW013)
+AE300,Lý thuyết dịch,LTHUYETDICH.1,2,3-5,B613,2,Phạm Thái Sơn(CNE014)
+AE300,Lý thuyết dịch,LTHUYETDICH.2,3,1-3,B601,2,Phạm Thái Sơn(CNE014)
+NR321A,Lý thuyết điều dưỡng các bệnh nhi khoa,LTBENHNHI.1,2,6-10,B507,3,
+NR303A,Lý thuyết điều dưỡng phục hồi chức năng,LTPHUCHOICN.1,4,6-7,A407,1,
+FN201,Lý thuyết tài chính tiền tệ,LTTAICHINHTTE.4,2,1-5,B203,3,Phạm Thị Bảo Oanh(CQB006)
+FN201,Lý thuyết tài chính tiền tệ,LTTAICHINHTTE.6,2,6-10,A507,3,Nguyễn Thị Tuyết(CQB022)
+FN201,Lý thuyết tài chính tiền tệ,LTTAICHINHTTE.3,3,6-10,A407,3,Nguyễn Thị Thúy(CQB005)
+FN201,Lý thuyết tài chính tiền tệ,LTTAICHINHTTE.5,5,1-5,A407,3,Phạm Thị Bảo Oanh(CQB006)
+MK333,Marketing dịch vụ,MARKETINGDV.2,6,1-3,B407,2,Nguyễn Thị Liên Hương(CQM014)
+MK333,Marketing dịch vụ,MARKETINGDV.3,6,6-8,B507,2,Nguyễn Thị Liên Hương(CQM014)
+MK337,Marketing trong kinh doanh du lịch,MARKETINGDULICH.3,6,3-5,A606,2,Trương Đức Thao(CQL002)
+MK337,Marketing trong kinh doanh du lịch,MARKETINGDULICH.4,6,6-8,A606,2,Trương Đức Thao(CQL002)
+TC300,Mô hình hóa và mô phỏng,MOHHOA&MOPHONG.1,3,6-10,B312,3,Đinh Thị Thái Mai(MTI027)
+CS425,Một số vấn đề hiện đại trong khoa học máy tính,VANDETRONGKHMT.1_LT,5,6-7,A705,2,Trần Thị Huệ(CTI014)
+CS425,Một số vấn đề hiện đại trong khoa học máy tính,VANDETRONGKHMT.1.1_BT,5,8-10,A705,2,Trần Thị Huệ(CTI014)
+TR324,Nghệ thuật đàm phán trong kinh doanh du lịch,NTĐPKDDLICH.1,2,6-10,A601,3,Nguyễn Duy Thành(CQM015)
+PH424,Nghiên cứu định tính,NGHIENCUUDINHTINH.1,3,6-8,B412,2,Trần Thị Thanh Huệ(CSP020)
+TR335,Nghiệp vụ chế biến các món ăn,NVUCHEBIENMONAN.3,5,6-10,BOMON,3,Trần Quốc Hưng(MDL001)
+TR333,Nghiệp vụ phục vụ Bàn,NVUBAN.4,7,1-5,B106,3,Đỗ Thiện Dụng(CDL010)
+TR333,Nghiệp vụ phục vụ Bàn,NVUBAN.5,7,6-10,BOMON,3,Đỗ Thiện Dụng(CDL010)
+TR334,Nghiệp vụ phục vụ Bar,NGHIEPVUBAR.4,6,1-5,BOMON,3,Nguyễn Thị Thanh Hương(CDL011)
+TR334,Nghiệp vụ phục vụ Bar,NGHIEPVUBAR.5,7,1-5,BOMON,3,Nguyễn Thị Thanh Hương(CDL011)
+TR332,Nghiệp vụ phục vụ buồng,NVUBUONG.5,2,1-5,BOMON,3,Trần Thu Nga(MDL007)
+TR332,Nghiệp vụ phục vụ buồng,NVUBUONG.4,5,1-5,BOMON,3,Trần Thu Nga(MDL007)
+CF301,Ngôn ngữ hình thức và Otomat,NGONNGUHT&OTOMAT.1,3,6-10,B611,3,Phạm Phương Thanh(CTI018)
+VL100,Ngôn ngữ học đại cương,NGONNGUHOCDC.1,4,3-5,B506,2,Vũ Linh Chi(CXV015)
+VL100,Ngôn ngữ học đại cương,NGONNGUHOCDC.2,4,6-8,B302,2,Vũ Linh Chi(CXV015)
+EL401,Ngôn ngữ học đối chiếu,NNDOICHIEU.1,2,6-8,B605,2,Trần Thị Thanh Hương(CNE033)
+EL401,Ngôn ngữ học đối chiếu,NNDOICHIEU.2,5,6-8,B601,2,Trần Thị Thanh Hương(CNE033)
+EL322,Ngữ âm,NGUAM.1,3,8-10,A605,2,Hoàng Thị Thu Dung(CNE007)
+EL322,Ngữ âm,NGUAM.2,6,8-10,B512,2,Hoàng Thị Thu Dung(CNE007)
+VJ321,Ngữ âm học tiếng Nhật,NGUAMHOCNHAT.1,5,6-8,B402,2,Đỗ Hoàng Ngân(MNJ030)
+EL425,Ngữ dụng,NGUDUNG.1,3,8-10,B603,2,Phạm Hồng Vân(CNE013)
+EL425,Ngữ dụng,NGUDUNG.2,5,8-10,B510,2,Phạm Hồng Vân(CNE013)
+VJ425,Ngữ dụng học tiếng Nhật,NGUDUNGHOCNHAT.1,3,6-8,B402,2,Đỗ Hoàng Ngân(MNJ030)
+EL321,Ngữ pháp,NGUPHAP.1,2,1-2,B606,3,Trần Thị Hải Bình(CNE004)
+EL321,Ngữ pháp,NGUPHAP.2,2,3-5,B705,3,Trần Thị Hải Bình(CNE004)
+EL321,Ngữ pháp,NGUPHAP.4,3,1-5,A403,3,Phí Thị Thu Trang(CNE017)
+EL321,Ngữ pháp,NGUPHAP.2,4,1-2,B604,3,Trần Thị Hải Bình(CNE004)
+EL321,Ngữ pháp,NGUPHAP.1,4,3-5,B708,3,Trần Thị Hải Bình(CNE004)
+EL321,Ngữ pháp,NGUPHAP.3,5,6-10,B512,3,Đỗ Thị Hồng Hà(CNE015)
+AJ201,Ngữ pháp tiếng Nhật 1,NGUPHAPNHAT1.1,3,1-3,B506,2,Vũ Thị Kim Chi(CNJ003)
+AJ201,Ngữ pháp tiếng Nhật 1,NGUPHAPNHAT1.2,3,1-3,B508,2,Trương Phương Thúy(CNJ007)
+AJ201,Ngữ pháp tiếng Nhật 1,NGUPHAPNHAT1.4,5,1-3,A401,2,Trương Phương Thúy(CNJ007)
+AJ201,Ngữ pháp tiếng Nhật 1,NGUPHAPNHAT1.3,5,3-5,B202,2,Vũ Thị Kim Chi(CNJ003)
+AC201,Nguyên lý kế toán,NLKETOAN.4,2,1-5,B205,3,Đoàn Thị Hồng Nhung(CQA001)
+AC201,Nguyên lý kế toán,NLKETOAN.8,2,1-5,A407,3,Đào Diệu Hằng(CQA003)
+AC201,Nguyên lý kế toán,NLKETOAN.5,3,1-5,B407,3,Đoàn Thị Hồng Nhung(CQA001)
+AC201,Nguyên lý kế toán,NLKETOAN.9,3,6-10,B407,3,Mai Thanh Thủy(CQA006)
+AC201,Nguyên lý kế toán,NLKETOAN.10,4,6-10,A507,3,Mai Thanh Thủy(CQA006)
+AC201,Nguyên lý kế toán,NLKETOAN.6,6,1-5,B201,3,Đoàn Thị Hồng Nhung(CQA001)
+AC201,Nguyên lý kế toán,NLKETOAN.11,6,6-10,B403,3,Nguyễn Thu Hoài(CQA007)
+AC201,Nguyên lý kế toán,NLKETOAN.7,7,1-5,B203,3,Nguyễn Thị Hồng Anh(CQA010)
+MK201,Nguyên lý marketing,NLYMARKETING.3,5,6-8,B204,2,Nguyễn Tường Minh(CQM016)
+MK201,Nguyên lý marketing,NLYMARKETING.5,7,3-5,A502,2,Nguyễn Tường Minh(CQM016)
+TR111,Nhập môn du lịch,NHAPMONDL.1,2,1-5,A402,3,Bùi Cẩm Phượng(CDL005)
+EC102,Nhập môn kinh tế học,NMONKTEHOC.2,2,3-5,B201,2,Vũ Đức Hiếu(CQE008)
+EC102,Nhập môn kinh tế học,NMONKTEHOC.4,5,3-5,B406,2,Nguyễn Thị Phương(CQE019)
+EC102,Nhập môn kinh tế học,NMONKTEHOC.1,6,6-8,B105,2,Lê Việt Đức(CQE021)
+EC315,Nhập môn kinh tế quốc tế,KINHTEQUOCTE(NNGU).2,5,3-5,B201,2,Nguyễn Phương Mai(CQE002)
+EC315,Nhập môn kinh tế quốc tế,KINHTEQUOCTE(NNGU).1,6,3-5,B101,2,Nguyễn Phương Mai(CQE002)
+EM315,Nhập môn Marketing,NMONMARKETING.1,3,1-5,A402,3,Nguyễn Tường Minh(CQM016)
+VC441,Nhập môn thư pháp chữ Hán 1,NMTHUPHAPHAN1.1,2,6-8,B712,2,Trần Tiến Khôi(CXV003)
+VC441,Nhập môn thư pháp chữ Hán 1,NMTHUPHAPHAN1.3,4,3-5,B709,2,Trần Tiến Khôi(CXV003)
+VC442,Nhập môn thư pháp chữ Hán 2,NMTHUPHAPHAN2.1,5,3-5,B608,2,Trần Tiến Khôi(CXV003)
+VC442,Nhập môn thư pháp chữ Hán 2,NMTHUPHAPHAN2.2,7,6-8,B712,2,Trần Tiến Khôi(CXV003)
+AD314,Nhảy hiện đại,NHAYHIENDAI.1,2,6-7,NHATC,4,
+AD314,Nhảy hiện đại,NHAYHIENDAI.2,2,8-9,NHATC,4,
+AD314,Nhảy hiện đại,NHAYHIENDAI.3,3,6-7,NHATC,4,
+AD314,Nhảy hiện đại,NHAYHIENDAI.4,3,8-9,NHATC,4,
+AD314,Nhảy hiện đại,NHAYHIENDAI.1,4,6-7,NHATC,4,
+AD314,Nhảy hiện đại,NHAYHIENDAI.2,4,8-9,NHATC,4,
+AD314,Nhảy hiện đại,NHAYHIENDAI.3,5,6-7,NHATC,4,
+AD314,Nhảy hiện đại,NHAYHIENDAI.4,5,8-9,NHATC,4,
+AD314,Nhảy hiện đại,NHAYHIENDAI.1,6,6-7,NHATC,4,
+AD314,Nhảy hiện đại,NHAYHIENDAI.2,6,8-9,NHATC,4,
+AD314,Nhảy hiện đại,NHAYHIENDAI.3,7,6-7,NHATC,4,
+AD314,Nhảy hiện đại,NHAYHIENDAI.4,7,8-9,NHATC,4,
+MA431,Phân tích số liệu bằng STATA,PHANTICHSOLIEUSTATA.1,5,6-8,A305,2,Nguyễn Thị Huyền Trang(CSP018)
+TR231,Pháp luật trong kinh doanh du lịch,PLUATKDDL.1,6,3-5,B303,2,Trịnh Xuân Dũng(CDL001)
+SK337,Phát triển cộng đồng 2,PTCONGDONG2(TIENGANH).1,7,3-5,B502,2,Se Gun Song(CXW027)
+AN404,Phối khí 2,PHOIKHI.2,3,3-4,B805,2,Nguyễn Văn Thuấn(MAN007)
+AN404,Phối khí 2,PHOIKHI.1,3,6-7,B805,2,Nguyễn Văn Thuấn(MAN007)
+AD212,Phương pháp hùng biện và các thủ thuật tranh biện,PPHAPHUNGBIEN.1,5,1-5,GD.Grothendieck,3,Hoàng Thái(MGS019)
+SM201,Phương pháp luận nghiên cứu khoa học,PPNCKHOAHOC.1,5,6-10,B103,3,Hồ Xuân Ngọc(PDT043)
+SM201,Phương pháp luận nghiên cứu khoa học,PPNCKHOAHOC.2,7,6-10,A402,3,Hồ Xuân Ngọc(PDT043)
+PH334,Phương pháp nghiên cứu khoa học trong y tế,PPNCKHOAHOCYTE.1,6,6-10,B301,3,Hoàng Thị Thanh(CSN031)
+AN222C,Piano ứng dụng 1C,PIANO1C.1,3,3-4,B807,1,Phạm Thanh Hà(MAN003)
+AN222C,Piano ứng dụng 1C,PIANO1C.2,3,6-7,B807,1,Phạm Thanh Hà(MAN003)
+AN323C,Piano ứng dụng 2C,PIANOUD2C.1,4,6-7,B807,1,Nguyễn Văn Thái(CAN011)
+SE380,Project,PROJECT.1,6,1-5,A305,3,Mai Thuý Nga(CTI008)
+MK425,Quan hệ công chúng,QHECONGCHUNG.3,4,1-5,B312,3,Phạm Long Châu(CQM006)
+MK425,Quan hệ công chúng,QHECONGCHUNG.2,5,6-10,A406,3,Nguyễn Bảo Tuấn(CQM009)
+BA217,Quản lí nguồn nhân lực trong du lịch,QLNHANLUCDULICH.2,5,6-10,A506,3,Phùng Đức Thiện(CDL007)
+SE422,Quản lý dự án phần mềm,QLDUANPHANMEM.1,3,6-10,A706A,3,Trần Quang Duy(CTI019)
+NR404,Quản lý y tế và Quản lý điều dưỡng,QLDIEUDUONG.1 (LTCĐ),1,12-13,BOMON,3,Lê Thị Bình(CSN011)
+NR404,Quản lý y tế và Quản lý điều dưỡng,QLDIEUDUONG.1 (LTCĐ),4,10-12,B106,3,Lê Thị Bình(CSN011)
+BA342,Quản trị các DV bổ trợ trong khách sạn,QTKDDVBOTROKSAN.3,5,1-5,A506,3,Trương Đức Thao(CQL002)
+BA313,Quản trị chiến lược,QTRICHIENLUOC.3,6,6-10,A502,3,Nguyễn Duy Thành(CQM015)
+BA313,Quản trị chiến lược,QTRICHIENLUOC.2,7,1-5,B407,3,Nguyễn Duy Thành(CQM015)
+BA102,Quản trị học đại cương,QUANTRIHOCDC.2,4,1-5,B302,3,Lê Thị Hạnh(CQM008)
+BA339,Quản trị kinh doanh các sự kiện,QTKDSUKIEN.1,6,1-5,B301,3,Phùng Đức Thiện(CDL007)
+BA339,Quản trị kinh doanh các sự kiện,QTKDSUKIEN.2,6,6-10,A506,3,Phùng Đức Thiện(CDL007)
+BA236,Quản trị kinh doanh điểm đến,QTRIKDDIEMDEN.4,2,6-10,B105,3,Phạm Trần Thăng Long(CDL004)
+BA236,Quản trị kinh doanh điểm đến,QTRIKDDIEMDEN.3,3,6-10,B303,3,Phạm Trần Thăng Long(CDL004)
+BA236,Quản trị kinh doanh điểm đến,QTRIKDDIEMDEN.5,6,6-10,A507,3,Phạm Trần Thăng Long(CDL004)
+BA332,Quản trị kinh doanh lữ hành,QTRIKDLUHANH.1,5,1-5,A507,3,Nguyễn Đức Khoa(CDL006)
+BA314,Quản trị nguồn nhân lực,QTRINHANLUC.4,4,6-10,B301,3,Vương Thị Thanh Trì(CQM004)
+BA314,Quản trị nguồn nhân lực,QTRINHANLUC.2,5,6-10,B201,3,Vương Thị Thanh Trì(CQM004)
+BA314,Quản trị nguồn nhân lực,QTRINHANLUC.5,6,1-5,B307,3,Lê Thị Hạnh(CQM008)
+BA314,Quản trị nguồn nhân lực,QTRINHANLUC.3,6,6-10,B407,3,Lê Thị Hạnh(CQM008)
+BA211,Quản trị sản xuất và tác nghiệp,QLSXTACNGHIEP.3,2,6-10,B201,3,Vũ Lệ Hằng(CQM001)
+BA211,Quản trị sản xuất và tác nghiệp,QLSXTACNGHIEP.4,3,6-10,B201,3,Vương Thị Thanh Trì(CQM004)
+MK313,Quản trị thương hiệu,QTRITHUONGHIEU.3,2,6-10,A402,3,Nguyễn Thị Liên Hương(CQM014)
+MK313,Quản trị thương hiệu,QTRITHUONGHIEU.2,4,1-5,A502,3,Nguyễn Thị Liên Hương(CQM014)
+AN311C,Sáng tác ca khúc 1C,SANGTACCAKHUC1C.1,6,3-4,B807,1,Phạm Thanh Hà(MAN003)
+HB212,Sinh lý - Sinh lý bệnh - Miễn dịch,SINHLYMIENDICH.1,4,6-9,B108,4,Trịnh Hùng Cường(CSP005)
+HB212,Sinh lý - Sinh lý bệnh - Miễn dịch,SINHLYMIENDICH.1,6,6-8,B108,4,Trịnh Hùng Cường(CSP005)
+PH337,Sơ cấp cứu trong quá trình phục vụ du lịch,SOCUUTRONGDL.1,3,6-10,BOMON,3,Vũ Dũng(CSN012)
+PH212,Sức khoẻ môi trường cơ bản và phòng chống thảm hoạ,SKMT&THAMHOA.1,2,6-10,B312,3,Ngô Thị Thu Hiền(CSP014)
+PH343,Sức khoẻ nghề nghiệp cơ bản,SUCKHOENNCB.1,3,6-8,B613,2,Ngô Thị Thu Hiền(CSP014)
+FN211,Tài chính doanh nghiệp,TAICHINHDN.5,3,1-5,A407,3,Lê Thanh Nhàn(CQB019)
+FN211,Tài chính doanh nghiệp,TAICHINHDN.8,3,6-10,A602,3,Thân Thế Sơn Tùng(CQB026)
+FN211,Tài chính doanh nghiệp,TAICHINHDN.4,4,1-5,B307,3,Chu Thị Thu Thủy(CQB010)
+FN211,Tài chính doanh nghiệp,TAICHINHDN.7,5,1-5,A502,3,Thân Thế Sơn Tùng(CQB026)
+FN211,Tài chính doanh nghiệp,TAICHINHDN.6,5,6-10,A407,3,Lê Thanh Nhàn(CQB019)
+FN211,Tài chính doanh nghiệp,TAICHINHDN.9,7,1-5,B105,3,Chu Thị Thu Thủy(CQB010)
+MK305,Tâm lý hành vi người tiêu dùng,TAMLYTIEUDUNG.2,7,1-5,B501,3,Nguyễn Thị Liên Hương(CQM014)
+PS200,Tâm lý học đại cương,TAMLYHOCDC.1,2,7-10,B401,2,Trần Hoàng Thị Diễm Ngọc(MXW056)
+PS200,Tâm lý học đại cương,TAMLYHOCDC.2,5,7-10,B401,2,Trần Hoàng Thị Diễm Ngọc(MXW056)
+SM421,Tập dượt nghiên cứu khoa học,TAPDUOTNCKH.1,7,1-3,B506,2,Trần Thị Phương Thu(CNE001)
+NR211B,TH Điều dưỡng các bệnh nội khoa 1,THBENHNOIKHOA1.1,3,1-4,BENHVIEN,2,Lê Đức Sang(CSN017)
+NR211B,TH Điều dưỡng các bệnh nội khoa 1,THBENHNOIKHOA1.2,3,1-4,BENHVIEN,2,Vũ Dũng(CSN012)
+NR211B,TH Điều dưỡng các bệnh nội khoa 1,THBENHNOIKHOA1.3,3,1-4,BENHVIEN,2,Nguyễn Khánh Huyền(CSN030)
+NR211B,TH Điều dưỡng các bệnh nội khoa 1,THBENHNOIKHOA1.3,4,1-4,BENHVIEN,2,Nguyễn Khánh Huyền(CSN030)
+NR211B,TH Điều dưỡng các bệnh nội khoa 1,THBENHNOIKHOA1.1,4,1-4,BENHVIEN,2,Lê Đức Sang(CSN017)
+NR211B,TH Điều dưỡng các bệnh nội khoa 1,THBENHNOIKHOA1.2,4,1-4,BENHVIEN,2,Vũ Dũng(CSN012)
+NR314B,TH Điều dưỡng các bệnh truyền nhiễm,THTRUYENNHIEM.4,2,1-4,BENHVIEN,1,Lê Đức Sang(CSN017)
+NR314B,TH Điều dưỡng các bệnh truyền nhiễm,THTRUYENNHIEM.1,3,1-4,BENHVIEN,1,Lê Đức Sang(CSN017)
+NR314B,TH Điều dưỡng các bệnh truyền nhiễm,THTRUYENNHIEM.2,4,1-4,BENHVIEN,1,Nguyễn Thị Như Mai(CSN003)
+NR314B,TH Điều dưỡng các bệnh truyền nhiễm,THTRUYENNHIEM.3,5,1-4,BENHVIEN,1,Nguyễn Thị Như Mai(CSN003)
+NR310B,TH Điều dưỡng hồi sức cấp cứu,THHOISUCCAPCUU.1,2,1-4,BENHVIEN,1,Phạm Thành Đồng(CSN020)
+NR310B,TH Điều dưỡng hồi sức cấp cứu,THHOISUCCAPCUU.2,3,1-4,BENHVIEN,1,Phạm Thành Đồng(CSN020)
+NR310B,TH Điều dưỡng hồi sức cấp cứu,THHOISUCCAPCUU.3,4,1-4,BENHVIEN,1,Phạm Thành Đồng(CSN020)
+NR310B,TH Điều dưỡng hồi sức cấp cứu,THHOISUCCAPCUU.4,5,1-4,BENHVIEN,1,Phạm Thành Đồng(CSN020)
+NC211B,TH kiểm soát nhiễm khuẩn trong thực hành điều dưỡng,THKSNHIEMKHUANDD.1,2,1-4,BENHVIEN,1,Nguyễn Thị Như Mai(CSN003)
+NC211B,TH kiểm soát nhiễm khuẩn trong thực hành điều dưỡng,THKSNHIEMKHUANDD.2,2,1-4,BENHVIEN,1,Nguyễn Khánh Huyền(CSN030)
+NC211B,TH kiểm soát nhiễm khuẩn trong thực hành điều dưỡng,THKSNHIEMKHUANDD.3,2,1-4,BENHVIEN,1,Nguyễn Thị Thùy Trang(CSN021)
+AN234C,Thanh nhạc ứng dụng 1C,THANHNHACUNGDUNG1C.4,2,1-2,B810,1,Phạm Đức Thành(CAN002)
+AN234C,Thanh nhạc ứng dụng 1C,THANHNHACUNGDUNG1C.2,3,6-7,B806,1,Mai Thị Xuân Hương(MAN002)
+AN234C,Thanh nhạc ứng dụng 1C,THANHNHACUNGDUNG1C.5,5,6-7,B812,1,Đoàn Thị Thúy Trang(MAN006)
+AN234C,Thanh nhạc ứng dụng 1C,THANHNHACUNGDUNG1C.1,6,1-2,B804,1,Trần Thị Ngọc Lan(CAN001)
+AN234C,Thanh nhạc ứng dụng 1C,THANHNHACUNGDUNG1C.3,7,1-2,B808,1,Ngô Thị Thanh Huyền(CAN005)
+AN235C,Thanh nhạc ứng dụng 2B,THANHNHACUNGDUNG2C.2,5,6-7,B806,1,Mai Thị Xuân Hương(MAN002)
+AN235C,Thanh nhạc ứng dụng 2B,THANHNHACUNGDUNG2C.5,5,8-9,B812,1,Đoàn Thị Thúy Trang(MAN006)
+AN235C,Thanh nhạc ứng dụng 2B,THANHNHACUNGDUNG2C.4,7,1-2,B810,1,Phạm Đức Thành(CAN002)
+AN235C,Thanh nhạc ứng dụng 2B,THANHNHACUNGDUNG2C.1,7,1-2,B804,1,Trần Thị Ngọc Lan(CAN001)
+AN235C,Thanh nhạc ứng dụng 2B,THANHNHACUNGDUNG2C.3,7,3-4,B808,1,Ngô Thị Thanh Huyền(CAN005)
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.1,2,1-2,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.3,2,3-4,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.4,2,6-7,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.5,2,8-9,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.6,3,1-2,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.7,3,3-4,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.8,3,6-7,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.9,3,8-9,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.10,4,1-2,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.11,4,3-4,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.12,4,6-7,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.13,4,8-9,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.14,5,1-2,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.15,5,3-4,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.16,5,6-7,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.17,5,8-9,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.18,6,1-2,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.19,6,3-4,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.20,6,6-7,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.21,6,8-9,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.22,7,1-2,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.23,7,3-4,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.24,7,6-7,NHATC,1,
+PG120,Thể dục cơ bản nâng cao,THEDUCCBNANHCAO.25,7,8-9,NHATC,1,
+MA232,Thống kê xã hội học,TKEXHHOC.2.1_BT,3,1-2,A702,3,Nhâm Ngọc Tần(CTM013)
+MA232,Thống kê xã hội học,TKEXHHOC.1_LT,3,3-5,B307,3,Ngô Thị Thanh Nga(CTM006)
+MA232,Thống kê xã hội học,TKEXHHOC.3_LT,3,8-10,B610,3,Trần Minh Nguyệt(CTM012)
+MA232,Thống kê xã hội học,TKEXHHOC.2_LT,4,3-5,B403,3,Nhâm Ngọc Tần(CTM013)
+MA232,Thống kê xã hội học,TKEXHHOC.3.1_BT,4,6-9,A707,3,Trần Minh Nguyệt(CTM012)
+MA232,Thống kê xã hội học,TKEXHHOC.2.1_BT,5,1-2,A702,3,Nhâm Ngọc Tần(CTM013)
+MA232,Thống kê xã hội học,TKEXHHOC.1.1_BT,5,2-5,A704,3,Đỗ Thị Thuý Hằng(CTM009)
+MA232,Thống kê xã hội học,TKEXHHOC.1.2_BT,5,2-5,A705,3,Trần Minh Nguyệt(CTM012)
+MA232,Thống kê xã hội học,TKEXHHOC.2.2_BT,7,2-5,A704,3,Ngô Thị Thanh Nga(CTM006)
+AE322,Thư tín thương mại 1,THUTINTM1.1,4,3-5,B710,2,Hoàng Kim Thúy(CNE012)
+AE323,Thư tín thương mại 2,THUTINTM2.1,3,3-5,B607,2,Trần Thị Phương Thu(CNE001)
+AE323,Thư tín thương mại 2,THUTINTM2.2,3,6-8,B605,2,Trần Thị Phương Thu(CNE001)
+AN352C,Thực hành biểu diễn 2C,THBIEUDIEN2C.3,2,8-9,BOMON,1,Phạm Đức Thành(CAN002)
+AN352C,Thực hành biểu diễn 2C,THBIEUDIEN2C.1,3,6-7,BOMON,1,Phạm Đức Thành(CAN002)
+AN352C,Thực hành biểu diễn 2C,THBIEUDIEN2C.2,4,3-4,BOMON,1,Phạm Đức Thành(CAN002)
+AN352C,Thực hành biểu diễn 2C,THBIEUDIEN2C.4,5,6-7,BOMON,1,Phạm Đức Thành(CAN002)
+NR416B,Thực hành chăm sóc SK người cao tuổi và BN hấp hối,THSKNCAOTUOI.1 (LTCĐ),7,1-4,BENHVIEN,1,Đỗ Quang Tuyển(CSN006)
+NR331B,Thực hành điều dưỡng các bệnh ngoại khoa 1,THNGOAIKHOA1.1,5,1-4,BENHVIEN,2,Đỗ Quang Tuyển(CSN006)
+NR331B,Thực hành điều dưỡng các bệnh ngoại khoa 1,THNGOAIKHOA1.2,5,1-4,BENHVIEN,2,Nguyễn Thị Thùy Trang(CSN021)
+NR331B,Thực hành điều dưỡng các bệnh ngoại khoa 1,THNGOAIKHOA1.3,5,1-4,BENHVIEN,2,Nguyễn Thị Như Mai(CSN003)
+NR331B,Thực hành điều dưỡng các bệnh ngoại khoa 1,THNGOAIKHOA1.3,6,1-4,BENHVIEN,2,Nguyễn Thị Như Mai(CSN003)
+NR331B,Thực hành điều dưỡng các bệnh ngoại khoa 1,THNGOAIKHOA1.2,6,1-4,BENHVIEN,2,Nguyễn Thị Thùy Trang(CSN021)
+NR331B,Thực hành điều dưỡng các bệnh ngoại khoa 1,THNGOAIKHOA1.1,6,1-4,BENHVIEN,2,Đỗ Quang Tuyển(CSN006)
+PH236,Thực tập cộng đồng 1,THUCTAPCÐ1.1,1,1-4,BOMON,2,Nguyễn Ngọc Phương(CSP021)
+PH336,Thực tập cộng đồng 2,TTCONGDONG2.1,1,6-10,BOMON,3,Nguyễn Ngọc Phương(CSP021)
+VC429,Thực tập du lịch,THUCTAPDULICH.1,1,1-3,BOMON,4,Nguyễn Thị Hoa(CXV004)
+VC429,Thực tập du lịch,THUCTAPDULICH.1,1,6-8,BOMON,4,Trần Tiến Khôi(CXV003)
+IP403,Thực tập ngành Hệ thống thông tin,TTHTTHONGTINQLY.1,1,6-9,BOMON1,2,
+IP401,Thực tập ngành Khoa học máy tính,TTKHMAYTINH.1,1,6-9,BOMON1,2,
+NS448,Thực tập tốt nghiệp,TTTN(DINHDUONG).1,2,6-7,BENHVIEN,3,Phạm Thị Diệp(CSD005)
+NS448,Thực tập tốt nghiệp,TTTN(DINHDUONG).1,3,6-7,BENHVIEN,3,Phạm Thị Diệp(CSD005)
+NS448,Thực tập tốt nghiệp,TTTN(DINHDUONG).1,3,8-9,BENHVIEN,3,Nguyễn Minh Trang(CSD007)
+NS448,Thực tập tốt nghiệp,TTTN(DINHDUONG).1,4,6-7,BENHVIEN,3,Nguyễn Minh Trang(CSD007)
+NS448,Thực tập tốt nghiệp,TTTN(DINHDUONG).1,5,6-8,BENHVIEN,3,Nguyễn Minh Trang(CSD007)
+NS448,Thực tập tốt nghiệp,TTTN(DINHDUONG).1,6,6-8,BENHVIEN,3,Phạm Thị Diệp(CSD005)
+VP412,Thực tập văn hóa - truyền thông,TTVHOATRUYENTHONG.1,1,1-3,BOMON,4,Trần Tiến Khôi(CXV003)
+VP412,Thực tập văn hóa - truyền thông,TTVHOATRUYENTHONG.1,1,6-8,BOMON,4,Nguyễn Thị Hoa(CXV004)
+AE426,Tiếng Anh kinh tế 1,ANHKTE1.2,4,6-10,B607,3,Lê Thị Hòa(CNE009)
+AE427,Tiếng Anh kinh tế 2,ANHKTE2.2,2,6-10,B607,3,Đỗ Thu Hằng(CNE008)
+AE427,Tiếng Anh kinh tế 2,ANHKTE2.1,6,1-5,B610,3,Đỗ Thu Hằng(CNE008)
+GE201,Tiếng Anh sơ trung cấp 1,ANHSTC1.2 (TC),2,10-12,B202,2,
+GE201,Tiếng Anh sơ trung cấp 1,ANHSTC1.2 (TC),4,10-12,B202,2,
+GE202,Tiếng Anh sơ trung cấp 2,ANHSTC2.3,2,1-2,B608,2,Đỗ Thị Hồng Hà(CNE015)
+GE202,Tiếng Anh sơ trung cấp 2,ANHSTC2.5,2,4-5,B602,2,Đỗ Thị Hồng Hà(CNE015)
+GE202,Tiếng Anh sơ trung cấp 2,ANHSTC2.4,3,1-2,B604,2,Tô Hoài An(CNE021)
+GE202,Tiếng Anh sơ trung cấp 2,ANHSTC2.6,3,4-5,B510,2,Tô Hoài An(CNE021)
+GE202,Tiếng Anh sơ trung cấp 2,ANHSTC2.3,4,1-2,B607,2,Đỗ Thị Hồng Hà(CNE015)
+GE202,Tiếng Anh sơ trung cấp 2,ANHSTC2.5,4,4-5,B703,2,Đỗ Thị Hồng Hà(CNE015)
+GE202,Tiếng Anh sơ trung cấp 2,ANHSTC2.4,5,1-2,B410,2,Tô Hoài An(CNE021)
+GE202,Tiếng Anh sơ trung cấp 2,ANHSTC2.6,5,4-5,B605,2,Tô Hoài An(CNE021)
+GE202,Tiếng Anh sơ trung cấp 2,ANHSTC2.3,6,1-2,B603,2,Đỗ Thị Hồng Hà(CNE015)
+GE202,Tiếng Anh sơ trung cấp 2,ANHSTC2.5,6,4-5,B606,2,Đỗ Thị Hồng Hà(CNE015)
+GE202,Tiếng Anh sơ trung cấp 2,ANHSTC2.4,7,1-2,B510,2,Lê Thị Hòa(CNE009)
+GE202,Tiếng Anh sơ trung cấp 2,ANHSTC2.6,7,4-5,B506,2,Lê Thị Hòa(CNE009)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.11,2,1-2,B610,2,Nguyễn Vân Khánh(CNE018)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.3,2,4-5,B704,2,Nguyễn Thị Bích Trâm(CNE061)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.15,2,6-7,B611,2,Ngô Thị Minh Trang(CNE047)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.7,2,6-7,B608,2,Đặng Thị Kim Chung(CNE005)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.8,2,6-7,B610,2,Nguyễn Thị Hải Oanh(CNE011)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.22,2,6-7,B613,2,Lê Thị Tuyền(CNE019)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.17,2,9-10,B604,2,Nguyễn Thị Hải Oanh(CNE011)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.10,3,1-2,B606,2,Trần Thị Mai Phương(CNE051)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.4,3,1-2,B704,2,Mai Lan(CNE028)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.13,3,1-3,B703,2,Nguyễn Thị Kim Phương(CNE041)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.9,3,4-5,B601,2,Mai Lan(CNE028)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.16,3,4-5,B611,2,Lê Thị Hoài Thương(CNE027)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.19,3,4-5,B708,2,Nguyễn Thị Kim Phương(CNE041)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.20,3,4-5,B710,2,Phạm Thái Sơn(CNE014)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.14,3,6-7,B608,2,Mai Xuân Thể(CNE055)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.12,3,6-7,B604,2,Trần Thị Thanh Hương(CNE033)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.6,3,6-7,B408,2,Tô Hoài An(CNE021)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.11,4,1-2,B608,2,Trần Thị Thanh Hương(CNE033)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.3,4,4-5,B711,2,Nguyễn Thị Bích Trâm(CNE061)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.15,4,6-7,B702,2,Ngô Thị Minh Trang(CNE047)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.8,4,6-7,B610,2,Nguyễn Thị Hải Oanh(CNE011)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.7,4,6-7,B608,2,Đỗ Thu Hằng(CNE008)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.22,4,6-7,B612,2,Lê Thị Tuyền(CNE019)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.21,4,6-7,B611,2,Nguyễn Ngọc Anh(CNE054)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.17,4,9-10,B604,2,Nguyễn Thị Hải Oanh(CNE011)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.10,5,1-2,B506,2,Trần Thị Phượng(CNE022)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.4,5,1-2,B510,2,Nguyễn Thị Hải Oanh(CNE011)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.9,5,4-5,B610,2,Nguyễn Thị Hải Oanh(CNE011)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.20,5,4-5,B708,2,Phạm Thái Sơn(CNE014)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.21,5,6-7,B610,2,Nguyễn Ngọc Anh(CNE054)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.14,5,6-7,B606,2,Ngô Cẩm Tú(CNE045)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.12,5,6-7,B603,2,Vũ Mỹ Hạnh(CNE060)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.6,5,6-7,B410,2,Tô Hoài An(CNE021)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.11,6,1-2,B612,2,Trần Thị Thanh Hương(CNE033)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.10,6,1-2,B604,2,Trần Thị Phượng(CNE022)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.3,6,4-5,B612,2,Nguyễn Thị Bích Trâm(CNE061)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.16,6,4-5,B613,2,Lê Thị Tuyền(CNE019)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.21,6,6-7,B612,2,Vũ Phương Hạnh(CNE057)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.22,6,6-7,B703,2,Lê Thị Tuyền(CNE019)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.7,6,6-7,B603,2,Đỗ Thu Hằng(CNE008)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.8,6,6-7,B604,2,Chu Thị Hương Giang(CNE059)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.15,6,6-7,B606,2,Vũ Mỹ Hạnh(CNE060)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.17,6,9-10,B506,2,Vũ Mỹ Hạnh(CNE060)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.4,7,1-2,B611,2,Mai Lan(CNE028)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.13,7,1-3,B604,2,Vũ Mỹ Hạnh(CNE060)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.19,7,1-2,B603,2,Vũ Phương Hạnh(CNE057)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.19,7,3-4,B608,2,Vũ Phương Hạnh(CNE057)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.9,7,4-5,B510,2,Mai Lan(CNE028)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.16,7,4-5,B606,2,Lê Thị Tuyền(CNE019)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.20,7,4-5,B610,2,Lê Thị Hoài Thương(CNE027)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.14,7,6-7,B510,2,Ngô Cẩm Tú(CNE045)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.12,7,6-7,B506,2,Vũ Mỹ Hạnh(CNE060)
+GE205,Tiếng Anh sơ trung cấp 3,ANHSTC3.6,7,6-7,A505,2,Lê Thị Hoài Thương(CNE027)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.15,2,1-2,B611,2,Đặng Thị Kim Chung(CNE005)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.19,2,3-5,B712,2,Đặng Thị Kim Chung(CNE005)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.10,2,8-10,B608,2,Nguyễn Thị Kiều Dung(CNE006)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.8,3,1-2,B705,2,Nguyễn Thị Kiều Dung(CNE006)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.16,3,1-2,B702,2,Lê Thị Hoài Thương(CNE027)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.7,3,3-5,B712,2,Đặng Thị Kim Chung(CNE005)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.12,3,6-7,B607,2,Hoàng Thị Thu Dung(CNE007)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.9,3,8-10,B606,2,Hoàng Kim Thúy(CNE012)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.11,3,8-10,B607,2,Mai Xuân Thể(CNE055)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.18,4,1-3,B711,2,Chu Thị Hương Giang(CNE059)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.15,4,1-2,B610,2,Nguyễn Ngọc Anh(CNE054)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.13,4,8-10,B608,2,Lê Thị Phượng(CNE035)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.10,4,8-10,B606,2,Đặng Thị Kim Chung(CNE005)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.8,5,1-2,B605,2,Nguyễn Vân Khánh(CNE018)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.16,5,1-2,B604,2,Ngô Cẩm Tú(CNE045)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.20,5,3-5,B612,2,Chu Thị Hương Giang(CNE059)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.12,5,6-7,B607,2,Hoàng Thị Thu Dung(CNE007)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.11,5,8-10,B604,2,Mai Lan(CNE028)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.9,5,8-10,B603,2,Vũ Mỹ Hạnh(CNE060)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.15,6,1-2,B613,2,Hoàng Thị Thu Dung(CNE007)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.19,6,3-5,B703,2,Trần Thị Mai Phương(CNE051)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.13,6,8-10,B604,2,Vũ Phương Hạnh(CNE057)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.16,7,1-2,B608,2,Phạm Hồng Vân(CNE013)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.18,7,1-3,B610,2,Dương Thị Thu(CNE058)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.8,7,1-2,B705,2,Đặng Thị Kim Chung(CNE005)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.7,7,3-5,B613,2,Trần Thị Hải Bình(CNE004)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.20,7,3-5,B704,2,Phạm Hồng Vân(CNE013)
+GE301,Tiếng Anh trung cấp 1,ANHTC1.12,7,6-7,B602,2,Phạm Hồng Vân(CNE013)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.9,2,1-2,B613,2,Hoàng Kim Thúy(CNE012)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.6,2,1-2,B612,2,Lê Thị Phượng(CNE035)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.14,2,1-2,B702,2,Lê Thị Hòa(CNE009)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.7,2,4-5,B710,2,Mai Xuân Thể(CNE055)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.15,2,4-5,B708,2,Phạm Hồng Vân(CNE013)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.20,2,6-7,B708,2,Đỗ Thị Hồng Hà(CNE015)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.10,3,1-2,B608,2,Phạm Hồng Vân(CNE013)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.18,3,4-5,B703,2,Mai Xuân Thể(CNE055)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.8,3,6-7,B512,2,Phạm Thái Sơn(CNE014)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.16,3,6-7,B706,2,Phạm Hồng Vân(CNE013)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.12,3,6-7,B610,2,Lê Thị Hoài Thương(CNE027)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.13,3,9-10,B404,2,Lê Thị Hòa(CNE009)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.14,4,1-2,B702,2,Hoàng Kim Thúy(CNE012)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.9,4,1-2,B613,2,Dương Thị Thu(CNE058)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.15,4,4-5,A401,2,Nguyễn Vân Khánh(CNE018)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.20,4,6-7,B703,2,Ngô Cẩm Tú(CNE045)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.10,5,1-2,B512,2,Đỗ Thu Hằng(CNE008)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.6,5,1-2,B611,2,Chu Thị Hương Giang(CNE059)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.7,5,4-5,B704,2,Hoàng Kim Thúy(CNE012)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.18,5,4-5,B711,2,Hoàng Mai Phương(CNE053)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.16,5,6-7,B702,2,Nguyễn Vân Khánh(CNE018)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.12,5,6-7,B613,2,Nguyễn Thị Hải Oanh(CNE011)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.8,5,6-7,B612,2,Phạm Hồng Vân(CNE013)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.13,5,9-10,B508,2,Nguyễn Ngọc Anh(CNE054)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.14,6,1-2,B611,2,Tô Hoài An(CNE021)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.6,6,1-2,B605,2,Trần Thị Mai Phương(CNE051)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.9,6,1-2,B608,2,Nguyễn Thị Kim Phương(CNE041)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.7,6,4-5,B708,2,Nguyễn Thị Kim Phương(CNE041)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.15,6,4-5,B711,2,Mai Xuân Thể(CNE055)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.20,6,6-7,B704,2,Hoàng Thị Thu Dung(CNE007)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.10,7,1-2,B512,2,Ngô Cẩm Tú(CNE045)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.18,7,4-5,B601,2,Dương Thị Thu(CNE058)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.16,7,6-7,B606,2,Lê Thị Hòa(CNE009)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.12,7,6-7,B605,2,Phạm Thái Sơn(CNE014)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.8,7,6-7,B608,2,Hoàng Mai Phương(CNE053)
+GE303,Tiếng Anh trung cấp 2,ANHTC2.13,7,9-10,B611,2,Lê Thị Phượng(CNE035)
+GE305,Tiếng Anh trung cấp 3,ANHTC3.13,2,6-8,B702,2,Vũ Phương Hạnh(CNE057)
+GE305,Tiếng Anh trung cấp 3,ANHTC3.12,3,1-3,B613,2,Dương Thị Thu(CNE058)
+GE305,Tiếng Anh trung cấp 3,ANHTC3.1 (TC),3,10-12,B108,2,Tô Hoài An(CNE021)
+GE305,Tiếng Anh trung cấp 3,ANHTC3.15,4,1-2,B710,2,Nguyễn Thị Kiều Dung(CNE006)
+GE305,Tiếng Anh trung cấp 3,ANHTC3.12,5,1-3,B607,2,Nguyễn Ngọc Anh(CNE054)
+GE305,Tiếng Anh trung cấp 3,ANHTC3.18,5,1-3,B610,2,Lê Thị Phượng(CNE035)
+GE305,Tiếng Anh trung cấp 3,ANHTC3.1 (TC),5,10-12,B108,2,Nguyễn Vân Khánh(CNE018)
+GE305,Tiếng Anh trung cấp 3,ANHTC3.20,5,3-5,B705,2,Đỗ Thị Hồng Hà(CNE015)
+GE305,Tiếng Anh trung cấp 3,ANHTC3.23,5,3-5,B710,2,Trần Thị Phương Thu(CNE001)
+GE305,Tiếng Anh trung cấp 3,ANHTC3.13,5,6-8,B611,2,Trần Thị Mai Phương(CNE051)
+GE305,Tiếng Anh trung cấp 3,ANHTC3.23,6,3-5,B705,2,Dương Thị Thu(CNE058)
+GE305,Tiếng Anh trung cấp 3,ANHTC3.21,6,3-5,B706,2,Tô Hoài An(CNE021)
+GE305,Tiếng Anh trung cấp 3,ANHTC3.18,6,6-8,B613,2,Tô Hoài An(CNE021)
+GE305,Tiếng Anh trung cấp 3,ANHTC3.15,7,1-2,B612,2,Phạm Thái Sơn(CNE014)
+GE305,Tiếng Anh trung cấp 3,ANHTC3.20,7,3-5,B602,2,Phạm Thái Sơn(CNE014)
+GE305,Tiếng Anh trung cấp 3,ANHTC3.21,7,3-5,B603,2,Ngô Cẩm Tú(CNE045)
+GE305,Tiếng Anh trung cấp 3,ANHTC3.15,7,3-4,B512,2,Hoàng Mai Phương(CNE053)
+GK101,Tiếng Hàn 1,TIENGHAN1.2,2,1-2,B502,2,Nguyễn Thị Tô Vân(CNK012)
+GK101,Tiếng Hàn 1,TIENGHAN1.2,4,1-2,B502,2,Nguyễn Thị Tô Vân(CNK012)
+GK101,Tiếng Hàn 1,TIENGHAN1.2,6,1-2,B402,2,Nguyễn Thị Tô Vân(CNK012)
+GK102,Tiếng Hàn 2,TIENGHAN2.2,2,3-4,B702,2,Khổng Minh Ngọc(MNK023)
+GK102,Tiếng Hàn 2,TIENGHAN2.1 (LL),2,8-9,B106,2,Khổng Minh Ngọc(MNK023)
+GK102,Tiếng Hàn 2,TIENGHAN2.2,4,3-4,B606,2,Khổng Minh Ngọc(MNK023)
+GK102,Tiếng Hàn 2,TIENGHAN2.1 (LL),4,8-9,B412,2,Khổng Minh Ngọc(MNK023)
+GK102,Tiếng Hàn 2,TIENGHAN2.1 (LL),5,8-9,B208,2,Khổng Minh Ngọc(MNK023)
+GK102,Tiếng Hàn 2,TIENGHAN2.2,6,3-4,B504,2,Khổng Minh Ngọc(MNK023)
+AK315,Tiếng Hàn cao cấp 2,HANCC2.5,2,3-5,B504,3,Hoàng Thị Thanh Hoa(CNK013)
+AK315,Tiếng Hàn cao cấp 2,HANCC2.6,2,3-4,B512,3,Đinh Mai Thu Thủy(CNK003)
+AK315,Tiếng Hàn cao cấp 2,HANCC2.6,2,6-7,B504,3,Đinh Mai Thu Thủy(CNK003)
+AK315,Tiếng Hàn cao cấp 2,HANCC2.3,2,6-7,B706,3,Hoàng Thị Thanh Hoa(CNK013)
+AK315,Tiếng Hàn cao cấp 2,HANCC2.1,2,6-8,B502,3,Yang Jae Sik(MNK006)
+AK315,Tiếng Hàn cao cấp 2,HANCC2.5,3,3-5,B502,3,Đinh Mai Thu Thủy(CNK003)
+AK315,Tiếng Hàn cao cấp 2,HANCC2.2,3,3-5,B406,3,Hoàng Thị Thanh Hoa(CNK013)
+AK315,Tiếng Hàn cao cấp 2,HANCC2.2,3,6-8,B504,3,Yang Jae Sik(MNK006)
+AK315,Tiếng Hàn cao cấp 2,HANCC2.4,3,6-7,B508,3,Đinh Mai Thu Thủy(CNK003)
+AK315,Tiếng Hàn cao cấp 2,HANCC2.1,3,6-7,B502,3,Hoàng Thị Thanh Hoa(CNK013)
+AK315,Tiếng Hàn cao cấp 2,HANCC2.3,3,8-9,B502,3,Hoàng Thị Thanh Hoa(CNK013)
+AK315,Tiếng Hàn cao cấp 2,HANCC2.3,4,3-4,B504,3,Đinh Mai Thu Thủy(CNK003)
+AK315,Tiếng Hàn cao cấp 2,HANCC2.6,4,3-4,B512,3,Hoàng Thị Thanh Hoa(CNK013)
+AK315,Tiếng Hàn cao cấp 2,HANCC2.3,4,6-8,B410,3,Yang Jae Sik(MNK006)
+AK315,Tiếng Hàn cao cấp 2,HANCC2.4,4,6-7,B504,3,Đinh Mai Thu Thủy(CNK003)
+AK315,Tiếng Hàn cao cấp 2,HANCC2.1,4,6-7,B502,3,Hoàng Thị Thanh Hoa(CNK013)
+AK315,Tiếng Hàn cao cấp 2,HANCC2.4,4,8-9,B504,3,Hoàng Thị Thanh Hoa(CNK013)
+AK315,Tiếng Hàn cao cấp 2,HANCC2.2,4,8-10,B702,3,Đinh Mai Thu Thủy(CNK003)
+AK315,Tiếng Hàn cao cấp 2,HANCC2.1,5,3-4,B504,3,Đinh Mai Thu Thủy(CNK003)
+AK315,Tiếng Hàn cao cấp 2,HANCC2.4,5,6-8,B504,3,Yang Jae Sik(MNK006)
+AK315,Tiếng Hàn cao cấp 2,HANCC2.5,6,6-8,B502,3,Yang Jae Sik(MNK006)
+AK315,Tiếng Hàn cao cấp 2,HANCC2.6,7,6-8,B410,3,Yang Jae Sik(MNK006)
+AK323,Tiếng Hàn cao cấp 4,HANCC4.1,2,3-5,B407,2,Yu Do Ib(MNK019)
+AK323,Tiếng Hàn cao cấp 4,HANCC4.2,3,3-5,A305,2,Lee Won Ju(MNK007)
+AK323,Tiếng Hàn cao cấp 4,HANCC4.2,4,3-5,B502,2,Yu Do Ib(MNK019)
+AK323,Tiếng Hàn cao cấp 4,HANCC4.1,4,3-5,B407,2,Lee Won Ju(MNK007)
+AK323,Tiếng Hàn cao cấp 4,HANCC4.3,6,3-5,B502,2,Yu Do Ib(MNK019)
+AK323,Tiếng Hàn cao cấp 4,HANCC4.3,6,6-8,A305,2,Lee Won Ju(MNK007)
+GJ101,Tiếng Nhật 1,NHAT1.1,2,3-5,B404,2,Hứa Thùy Trang(CNJ018)
+GJ101,Tiếng Nhật 1,NHAT1.2,3,3-5,B402,2,Trần Dung Hạnh(CNJ024)
+GJ101,Tiếng Nhật 1,NHAT1.1,4,3-5,B510,2,Đinh Trung Hiếu(CNJ038)
+GJ101,Tiếng Nhật 1,NHAT1.2,5,3-5,B402,2,Đinh Huyền Phương(CNJ036)
+GJ102,Tiếng Nhật 2,NHAT2.2,2,3-5,B604,2,Vũ Thị Thu Hương(CNJ025)
+GJ102,Tiếng Nhật 2,NHAT2.3,3,3-5,B604,2,Trần Thị Lan Hương(CNJ035)
+GJ102,Tiếng Nhật 2,NHAT2.1 (LL),3,3-5,B204,2,Vũ Thị Thu Hương(CNJ025)
+GJ102,Tiếng Nhật 2,NHAT2.4,3,8-10,B408,2,Đinh Huyền Phương(CNJ036)
+GJ102,Tiếng Nhật 2,NHAT2.2,4,3-5,B604,2,Nguyễn Huyền Ngọc(CNJ021)
+GJ102,Tiếng Nhật 2,NHAT2.3,5,3-5,B506,2,Trần Dung Hạnh(CNJ024)
+GJ102,Tiếng Nhật 2,NHAT2.1 (LL),5,3-5,B604,2,Vũ Thị Thu Hương(CNJ025)
+GJ102,Tiếng Nhật 2,NHAT2.4,5,8-10,B410,2,Trần Dung Hạnh(CNJ024)
+GJ341,Tiếng Nhật cao cấp 1,NHATCC1.1,2,6-7,B202,3,Nguyễn Quỳnh Trang(CNJ020)
+GJ341,Tiếng Nhật cao cấp 1,NHATCC1.2,2,6-7,B204,3,Mori Yasuaki(CNJ037)
+GJ341,Tiếng Nhật cao cấp 1,NHATCC1.2,2,8-9,B204,3,Nguyễn Quỳnh Trang(CNJ020)
+GJ341,Tiếng Nhật cao cấp 1,NHATCC1.1,2,8-9,B202,3,Mori Yasuaki(CNJ037)
+GJ341,Tiếng Nhật cao cấp 1,NHATCC1.1,6,6-10,B202,3,Hoàng Thị Hường(CNJ005)
+GJ341,Tiếng Nhật cao cấp 1,NHATCC1.2,6,6-10,B204,3,Nguyễn Quỳnh Trang(CNJ020)
+GJ342,Tiếng Nhật cao cấp 2,NHATCC2.1,2,6-10,B402,3,Đinh Trung Hiếu(CNJ038)
+GJ342,Tiếng Nhật cao cấp 2,NHATCC2.2,2,6-10,B208,3,Vũ Ngọc Anh(CNJ031)
+GJ342,Tiếng Nhật cao cấp 2,NHATCC2.3,2,6-10,B210,3,Đỗ Thị Phượng(CNJ001)
+GJ342,Tiếng Nhật cao cấp 2,NHATCC2.1,4,6-7,B202,3,Hoàng Thị Hường(CNJ005)
+GJ342,Tiếng Nhật cao cấp 2,NHATCC2.2,4,6-7,B204,3,Nabeta Naoko(CNJ039)
+GJ342,Tiếng Nhật cao cấp 2,NHATCC2.3,4,6-7,B506,3,Mori Yasuaki(CNJ037)
+GJ342,Tiếng Nhật cao cấp 2,NHATCC2.4,4,6-7,B508,3,Đinh Trung Hiếu(CNJ038)
+GJ342,Tiếng Nhật cao cấp 2,NHATCC2.4,4,8-9,B508,3,Mori Yasuaki(CNJ037)
+GJ342,Tiếng Nhật cao cấp 2,NHATCC2.3,4,8-9,B506,3,Đinh Trung Hiếu(CNJ038)
+GJ342,Tiếng Nhật cao cấp 2,NHATCC2.2,4,8-9,B204,3,Vũ Ngọc Anh(CNJ031)
+GJ342,Tiếng Nhật cao cấp 2,NHATCC2.1,4,8-9,B202,3,Nabeta Naoko(CNJ039)
+GJ342,Tiếng Nhật cao cấp 2,NHATCC2.4,6,6-10,B402,3,Đinh Trung Hiếu(CNJ038)
+GJ441,Tiếng Nhật cao cấp 3,NHATCC3.1,2,6-10,B412,3,Nguyễn Huyền Ngọc(CNJ021)
+GJ441,Tiếng Nhật cao cấp 3,NHATCC3.1,6,6-7,B210,3,Nabeta Naoko(CNJ039)
+GJ441,Tiếng Nhật cao cấp 3,NHATCC3.1,6,8-9,B210,3,Nguyễn Huyền Ngọc(CNJ021)
+AJ404,Tiếng Nhật giao tiếp doanh nghiệp,NHATGIAOTIEPDN.1,6,6-8,B506,2,Đỗ Thị Phượng(CNJ001)
+PJ325,Tiếng Nhật kinh tế 1,NHATKTE1.1,4,3-5,B706,2,Đỗ Thị Phượng(CNJ001)
+PJ424,Tiếng Nhật kinh tế 2,NHATKTE2.1,7,1-3,B104,2,Đỗ Thị Phượng(CNJ001)
+PJ321,Tiếng Nhật marketing 1,NHATMARKETING1.1,3,1-3,B206,2,Hoàng Thị Hường(CNJ005)
+PJ321,Tiếng Nhật marketing 1,NHATMARKETING1.2,6,3-5,B508,2,Hoàng Thị Hường(CNJ005)
+PJ425,Tiếng Nhật marketing 2,NHATMARKETING2.1,3,6-8,B702,2,Hoàng Thị Hường(CNJ005)
+GJ243,Tiếng Nhật trung cấp 3,NHATTC3.2,2,1-2,B204,4,Vũ Ngọc Anh(CNJ031)
+GJ243,Tiếng Nhật trung cấp 3,NHATTC3.1,2,1-2,B202,4,Hứa Thùy Trang(CNJ018)
+GJ243,Tiếng Nhật trung cấp 3,NHATTC3.3,2,2-5,B208,4,Đặng Thị Minh(CNJ004)
+GJ243,Tiếng Nhật trung cấp 3,NHATTC3.4,2,2-5,B210,4,Nguyễn Thùy Linh(CNJ008)
+GJ243,Tiếng Nhật trung cấp 3,NHATTC3.1,2,3-4,B202,4,Mori Yasuaki(CNJ037)
+GJ243,Tiếng Nhật trung cấp 3,NHATTC3.2,2,3-4,B204,4,Đinh Trung Hiếu(CNJ038)
+GJ243,Tiếng Nhật trung cấp 3,NHATTC3.1,4,2-5,B202,4,Hứa Thùy Trang(CNJ018)
+GJ243,Tiếng Nhật trung cấp 3,NHATTC3.2,4,2-5,B204,4,Nguyễn Quỳnh Trang(CNJ020)
+GJ243,Tiếng Nhật trung cấp 3,NHATTC3.3,4,2-5,B208,4,Đặng Thị Minh(CNJ004)
+GJ243,Tiếng Nhật trung cấp 3,NHATTC3.4,4,2-5,B210,4,Nguyễn Thùy Linh(CNJ008)
+GJ243,Tiếng Nhật trung cấp 3,NHATTC3.3,6,1-2,B208,4,Đinh Trung Hiếu(CNJ038)
+GJ243,Tiếng Nhật trung cấp 3,NHATTC3.4,6,1-2,B210,4,Vũ Ngọc Anh(CNJ031)
+GJ243,Tiếng Nhật trung cấp 3,NHATTC3.1,6,2-5,B202,4,Hứa Thùy Trang(CNJ018)
+GJ243,Tiếng Nhật trung cấp 3,NHATTC3.2,6,2-5,B204,4,Nguyễn Thùy Linh(CNJ008)
+GJ243,Tiếng Nhật trung cấp 3,NHATTC3.3,6,3-4,B208,4,Mori Yasuaki(CNJ037)
+GJ243,Tiếng Nhật trung cấp 3,NHATTC3.4,6,3-4,B210,4,Nabeta Naoko(CNJ039)
+AJ461,Tiếng Nhật truyền thông,NHATTTHONG.2,4,1-5,B508,3,Hoàng Thị Hường(CNJ005)
+GF101,Tiếng Pháp 1,PHAP1.4,2,3-5,B106,2,Dương Viết Trung(PDT009)
+GF101,Tiếng Pháp 1,PHAP1.8,3,8-10,B308,2,Võ Thị Hải Đường(CNF004)
+GF101,Tiếng Pháp 1,PHAP1.4,4,3-5,A501,2,Dương Viết Trung(PDT009)
+GF101,Tiếng Pháp 1,PHAP1.8,5,8-10,B206,2,Võ Thị Hải Đường(CNF004)
+GF102,Tiếng Pháp 2,PHAP2.4,2,3-5,B308,2,Phan Thị Liên Châu(CNF001)
+GF102,Tiếng Pháp 2,PHAP2.8,3,8-10,B206,2,Trương Thị Nguyệt(MNF006)
+GF102,Tiếng Pháp 2,PHAP2.4,4,3-5,A503,2,Nguyễn Thị Thu Hà(CNF003)
+GF102,Tiếng Pháp 2,PHAP2.8,5,8-10,B308,2,Trương Thị Nguyệt(MNF006)
+GZ101,Tiếng Trung 1,TRUNG1.7,2,3-5,B110,2,Lý Hoàng Anh(CNZ001)
+GZ101,Tiếng Trung 1,TRUNG1.1,3,3-5,B106,2,Nguyễn Lê Minh(CNZ005)
+GZ101,Tiếng Trung 1,TRUNG1.7,4,3-5,B306,2,Lý Hoàng Anh(CNZ001)
+GZ101,Tiếng Trung 1,TRUNG1.1,5,3-5,B110,2,Nguyễn Lê Minh(CNZ005)
+GZ101,Tiếng Trung 1,TRUNG1.3,6,3-5,B206,2,Nguyễn Thị Trung Thu(CNZ002)
+GZ101,Tiếng Trung 1,TRUNG1.3,7,3-5,B110,2,Nguyễn Thị Trung Thu(CNZ002)
+GZ102,Tiếng Trung 2,TRUNG2.1,2,3-5,B412,2,Nguyễn Thị Trung Thu(CNZ002)
+GZ102,Tiếng Trung 2,TRUNG2.6,3,1-2,B202,2,Nguyễn Thị Trung Thu(CNZ002)
+GZ102,Tiếng Trung 2,TRUNG2.5,3,3-5,B210,2,Nguyễn Thùy Linh(CNZ004)
+GZ102,Tiếng Trung 2,TRUNG2.3,3,6-7,B310,2,Nguyễn Thùy Linh(CNZ004)
+GZ102,Tiếng Trung 2,TRUNG2.4,3,8-10,B306,2,Nguyễn Thùy Linh(CNZ004)
+GZ102,Tiếng Trung 2,TRUNG2.1,4,3-5,B310,2,Nguyễn Thị Trung Thu(CNZ002)
+GZ102,Tiếng Trung 2,TRUNG2.6,5,1-2,B108,2,Nguyễn Thị Trung Thu(CNZ002)
+GZ102,Tiếng Trung 2,TRUNG2.5,5,3-5,B210,2,Nguyễn Thùy Linh(CNZ004)
+GZ102,Tiếng Trung 2,TRUNG2.3,5,6-7,B502,2,Nguyễn Thùy Linh(CNZ004)
+GZ102,Tiếng Trung 2,TRUNG2.4,5,8-10,B106,2,Nguyễn Thùy Linh(CNZ004)
+GZ102,Tiếng Trung 2,TRUNG2.2,6,3-5,B310,2,Lý Hoàng Anh(CNZ001)
+GZ102,Tiếng Trung 2,TRUNG2.6,7,1-2,B110,2,Nguyễn Thị Trung Thu(CNZ002)
+GZ102,Tiếng Trung 2,TRUNG2.2,7,3-5,B108,2,Lý Hoàng Anh(CNZ001)
+GZ102,Tiếng Trung 2,TRUNG2.3,7,6-7,B412,2,Nguyễn Thùy Linh(CNZ004)
+GZ243,Tiếng Trung trung cấp 3,TRUNGTC3.1,2,6-9,B206,4,Nguyễn Lê Minh(CNZ005)
+GZ243,Tiếng Trung trung cấp 3,TRUNGTC3.3,2,6-9,B512,4,Nguyễn Thùy Linh(CNZ004)
+GZ243,Tiếng Trung trung cấp 3,TRUNGTC3.2,2,6-9,B310,4,Lý Hoàng Anh(CNZ001)
+GZ243,Tiếng Trung trung cấp 3,TRUNGTC3.2,4,6-9,B308,4,Lý Hoàng Anh(CNZ001)
+GZ243,Tiếng Trung trung cấp 3,TRUNGTC3.3,4,6-9,B512,4,Nguyễn Thùy Linh(CNZ004)
+GZ243,Tiếng Trung trung cấp 3,TRUNGTC3.1,4,6-9,B210,4,Nguyễn Lê Minh(CNZ005)
+GZ243,Tiếng Trung trung cấp 3,TRUNGTC3.1,6,6-9,B412,4,Nguyễn Lê Minh(CNZ005)
+GZ243,Tiếng Trung trung cấp 3,TRUNGTC3.3,6,6-9,B608,4,Nguyễn Thùy Linh(CNZ004)
+GZ243,Tiếng Trung trung cấp 3,TRUNGTC3.2,6,6-9,B306,4,Lý Hoàng Anh(CNZ001)
+GI101,Tiếng Ý 1,TIENGY1.2,3,11-13,B106,2,
+GI101,Tiếng Ý 1,TIENGY1.2,5,11-13,B106,2,
+GI102,Tiếng Ý 2,TIENGY2.2,4,11-13,B108,2,
+GI102,Tiếng Ý 2,TIENGY2.2,6,11-13,B108,2,
+CF320,Tín hiệu và hệ thống,TINHIEU&HETHONG.1,5,1-5,B308,3,Cao Minh Khánh(CTI017)
+IM210,Tin học âm nhạc,TINHOCAMNHAC.1,4,8-10,B805,3,Nguyễn Tuấn Anh(CAN012)
+MI201,Toán rời rạc,TOANROIRAC.1,4,1-5,B106,3,Phạm Phương Thanh(CTI018)
+MI201,Toán rời rạc,TOANROIRAC.2,6,1-5,B108,3,Phạm Phương Thanh(CTI018)
+MA241,Toán tài chính,TOANTAICHINH.2_LT,3,6-7,B406,2,Nguyễn Hồng Châu(CTM004)
+MA241,Toán tài chính,TOANTAICHINH.2.1_BT,5,3-5,B410,2,Nguyễn Hồng Châu(CTM004)
+SF320,Trị liệu gia đình,TRILIEUGIADINH.1,2,3-5,B101,2,Lê Thị Quý(CXW013)
+MI322,Trí tuệ nhân tạo và công nghệ tri thức,TRITUENT&CNTRITHUC.1,4,6-10,B306,3,Vũ Đức Thi(CTI036)
+IP402,TT ngành Truyền thông và mạng máy tính,TTTTHONG&MANGMT.1,1,6-9,BOMON1,2,
+ML202,Tư tưởng Hồ Chí Minh,TUTUONGHCM.2,2,6-8,GD.Grothendieck,2,Nguyễn Văn Nguyên(MGS029)
+ML202,Tư tưởng Hồ Chí Minh,TUTUONGHCM.1 (LL),3,8-10,GD.Grothendieck,2,Nguyễn Văn Nguyên(MGS029)
+EL323,Từ vựng và ngữ nghĩa,TVUNGNGUNGHIA.1,3,8-10,B602,2,Trần Thị Thanh Hương(CNE033)
+EL323,Từ vựng và ngữ nghĩa,TVUNGNGUNGHIA.2,6,3-5,B611,2,Trần Thị Thanh Hương(CNE033)
+AD215,Ứng dụng PowerPoint,UNGDUNGPOWERPOINT.3,4,6-10,A703,3,Khuất Hoàng Huệ Anh(MTI021)
+AD215,Ứng dụng PowerPoint,UNGDUNGPOWERPOINT.4,6,1-5,A703,3,Phạm Thị Kim Hoa(CTI003)
+AJ315,Văn bản tiếng Nhật,VANBANNHAT.1,2,1-2,B402,3,Nabeta Naoko(CNJ039)
+AJ315,Văn bản tiếng Nhật,VANBANNHAT.1,2,3-5,B402,3,Đỗ Thị Phượng(CNJ001)
+AJ315,Văn bản tiếng Nhật,VANBANNHAT.2,3,6-7,B202,3,Nabeta Naoko(CNJ039)
+AJ315,Văn bản tiếng Nhật,VANBANNHAT.2,3,8-10,B202,3,Đỗ Thị Phượng(CNJ001)
+VC212,Văn hóa ẩm thực Việt Nam,VHOAAMTHUCVN.2,4,3-5,A506,2,Bùi Cẩm Phượng(CDL005)
+VC212,Văn hóa ẩm thực Việt Nam,VHOAAMTHUCVN.1,5,3-5,A606,2,Bùi Cẩm Phượng(CDL005)
+CJ401,Văn hoá doanh nghiệp Nhật Bản,VHOADNNHAT.1,3,1-3,B602,2,Đỗ Thị Phượng(CNJ001)
+BA315,Văn hóa doanh nghiệp và đạo đức kinh doanh,VHOADN&DDUCKD.3,5,1-5,B103,3,Lê Huyền Trang(CQM011)
+BA315,Văn hóa doanh nghiệp và đạo đức kinh doanh,VHOADN&DDUCKD.2,7,1-5,B205,3,Lê Huyền Trang(CQM011)
+SH113,Văn hóa Đông Nam Á,VHDONGNAMA.1,3,6-10,B507,3,Nguyễn Văn Lịch(CXV014)
+VC215,Văn hóa tộc người Việt Nam,VHOATOCNGUOIVN.2,5,6-8,A602,2,Nguyễn Đức Khoa(CDL006)
+VC215,Văn hóa tộc người Việt Nam,VHOATOCNGUOIVN.1,7,6-8,A506,2,Nguyễn Đức Khoa(CDL006)
+VC200,Văn hoá Việt Nam,VHOAVN.3,4,6-8,B307,2,Trần Tiến Khôi(CXV003)
+VC200,Văn hoá Việt Nam,VHOAVN.4,5,6-8,B301,2,Trần Tiến Khôi(CXV003)
+VC200,Văn hoá Việt Nam,VHOAVN.2,6,3-5,B105,2,Trần Tiến Khôi(CXV003)
+AE313,"Văn học Anh, Mỹ",VHOCANHMY.1,2,3-5,B703,4,Nguyễn Vân Khánh(CNE018)
+AE313,"Văn học Anh, Mỹ",VHOCANHMY.2,2,8-10,B601,4,Nguyễn Vân Khánh(CNE018)
+AE313,"Văn học Anh, Mỹ",VHOCANHMY.3,3,3-5,B603,4,Trần Thị Hải Bình(CNE004)
+AE313,"Văn học Anh, Mỹ",VHOCANHMY.4,4,1-3,A403,4,Rashmi Dash(MNE033)
+AE313,"Văn học Anh, Mỹ",VHOCANHMY.1,5,3-5,B603,4,Phí Thị Thu Trang(CNE017)
+AE313,"Văn học Anh, Mỹ",VHOCANHMY.2,5,8-10,A605,4,Phí Thị Thu Trang(CNE017)
+AE313,"Văn học Anh, Mỹ",VHOCANHMY.4,6,1-3,A403,4,Trần Thị Hải Bình(CNE004)
+AE313,"Văn học Anh, Mỹ",VHOCANHMY.3,6,3-5,B608,4,Rashmi Dash(MNE033)
+AJ400,Văn học Nhật Bản,VANHOCNHAT.1,2,3-5,B306,2,Vũ Minh Chi(MNJ001)
+AJ400,Văn học Nhật Bản,VANHOCNHAT.2,3,6-8,B104,2,Vũ Minh Chi(MNJ001)
+AJ400,Văn học Nhật Bản,VANHOCNHAT.3,5,6-8,B104,2,Vũ Minh Chi(MNJ001)
+AZ312,Văn học Trung Quốc,VHOCTQUOC.1,7,2-5,B210,2,Phạm Ngọc Hàm(MNZ003)
+AZ312,Văn học Trung Quốc,VHOCTQUOC.2,7,6-9,B210,2,Phạm Ngọc Hàm(MNZ003)
+AJ313,Văn minh Nhật Bản,VANMINHNHAT.1,3,1-3,B510,2,Đặng Thị Minh(CNJ004)
+AJ313,Văn minh Nhật Bản,VANMINHNHAT.2,6,3-5,B702,2,Vũ Ngọc Anh(CNJ031)
+IS203,Vi tính tiếng Nhật,VITINHNHAT.1,2,6-10,B305,3,Vũ Thị Kim Chi(CNJ003)
+IS203,Vi tính tiếng Nhật,VITINHNHAT.2,4,6-10,B305,3,Trương Phương Thúy(CNJ007)
+IS203,Vi tính tiếng Nhật,VITINHNHAT.3,5,6-10,B305,3,Vũ Thị Kim Chi(CNJ003)
+IS203,Vi tính tiếng Nhật,VITINHNHAT.4,6,6-10,B305,3,Trương Phương Thúy(CNJ007)
+MA231,Xác suất thống kê ứng dụng,XSTKEUDUNG.3_LT,3,6-8,B503,4,Nguyễn Công Sứ(CTM021)
+MA231,Xác suất thống kê ứng dụng,XSTKEUDUNG.3.1_BT,4,6-8,A704,4,Nguyễn Lâm Tùng(CTM008)
+MA231,Xác suất thống kê ứng dụng,XSTKEUDUNG.3.2_BT,4,6-8,A305,4,Đỗ Thị Thuý Hằng(CTM009)
+MA231,Xác suất thống kê ứng dụng,XSTKEUDUNG.3_LT,5,6-7,B503,4,Nguyễn Công Sứ(CTM021)

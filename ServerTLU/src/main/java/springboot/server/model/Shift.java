@@ -8,9 +8,9 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Document(collection = "shift")
 public class Shift {
     @Id
-    private String id;
+    private String _id;
     private String startShift;
     private String endShift;
     private String dayOfWeek;
-    private String isDeleted;
+    private boolean isDeleted;
 }

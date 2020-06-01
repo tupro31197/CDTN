@@ -8,9 +8,11 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Document(collection = "registerCondition")
 public class RegisterCondition {
     @Id
-    private String id;
+    private String _id;
+    private String name;
     private String openTime;
     private String closeTime;
     private String credit;
     private String semesterId;
+    private boolean isDeleted;
 }

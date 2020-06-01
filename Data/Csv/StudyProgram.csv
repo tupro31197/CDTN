@@ -1,1130 +1,1129 @@
-"","STT","Mã môn","Tên môn","Học phần tiên quyết","TC tiên quyết","Số TC"
-"TM","Toán - Tin ứng dụng","AD204","Ẩm thực Việt nam","","","4"
-"TM","Toán - Tin ứng dụng","AD204A","Ẩm thực Việt Nam","","","3"
-"TM","Toán - Tin ứng dụng","AD206","Ẩm thực Việt Nam","","","3"
-"TM","Toán - Tin ứng dụng","AD212","Phương pháp hùng biện và các thủ thuật tranh biện","","36","3"
-"TM","Toán - Tin ứng dụng","AD213","Hát – Nhạc","","","3"
-"TM","Toán - Tin ứng dụng","AD213A","Hát – Nhạc","","","4"
-"TM","Toán - Tin ứng dụng","AD214","Nâng cao chất lượng giọng hát","AD213 (0), AD213A (1)","","3"
-"TM","Toán - Tin ứng dụng","AD215","Ứng dụng PowerPoint","IS206 (1), IM201 (0), IM202 (2)","36","3"
-"TM","Toán - Tin ứng dụng","AD216","Tâm lý và kỹ năng giao tiếp với người cao tuổi","","50","3"
-"TM","Toán - Tin ứng dụng","AD221","Kĩ năng giao lưu văn hóa","","","2"
-"TM","Toán - Tin ứng dụng","AD222","Thực hành giao lưu văn hoá","","","3"
-"TM","Toán - Tin ứng dụng","AD231","Thể thao","","","3"
-"TM","Toán - Tin ứng dụng","AD250","Dinh dưỡng và tiết chế","","","3"
-"TM","Toán - Tin ứng dụng","AD312","Bóng đá","","","4"
-"TM","Toán - Tin ứng dụng","AD313","Bóng đá nâng cao","AD312 (0)","","4"
-"TM","Toán - Tin ứng dụng","AD314","Nhảy hiện đại","","","4"
-"TM","Toán - Tin ứng dụng","AD315","Nhảy hiện đại nâng cao","AD314 (0)","","4"
-"TM","Toán - Tin ứng dụng","AD414","Toeic","GE305 (0)","","2"
-"TM","Toán - Tin ứng dụng","CF201","Lý thuyết thuật toán","MI201 (0)","","3"
-"TM","Toán - Tin ứng dụng","CF201A","Lý thuyết thuật toán 1","","","2"
-"TM","Toán - Tin ứng dụng","CF201B","Lý thuyết thuật toán 2","","","2"
-"TM","Toán - Tin ứng dụng","CF202A","Otomat","","","2"
-"TM","Toán - Tin ứng dụng","CF212","Cấu trúc dữ liệu","CS122 (0), CS122A (1), CS122B (2)","","3"
-"TM","Toán - Tin ứng dụng","CF212A","Cấu trúc dữ liệu 1","","","2"
-"TM","Toán - Tin ứng dụng","CF212B","Cấu trúc dữ liệu 2","","","2"
-"TM","Toán - Tin ứng dụng","CF300","Ngôn ngữ toán học","","","3"
-"TM","Toán - Tin ứng dụng","CF302","Văn phạm, ngôn ngữ hình thức, otomat và CT dịch","MI201 (0)","","3"
-"TM","Toán - Tin ứng dụng","CF302A","Otomat","","","2"
-"TM","Toán - Tin ứng dụng","CF302B","Chương trình dịch","","","2"
-"TM","Toán - Tin ứng dụng","CF303","Hệ thống TEX","CF302 (0), CF302B (1), CF302A (2)","","2"
-"TM","Toán - Tin ứng dụng","CF321","Xử lý tín hiệu số","MI201 (0)","","3"
-"TM","Toán - Tin ứng dụng","CF415","Chuyên đề cấu trúc dữ liệu và thuật toán 1","CF201A (1), CF201B (2), CF212 (0), CF212A (3), CF212B (4), MI201 (0)","","4"
-"TM","Toán - Tin ứng dụng","CF415A","CĐ cấu trúc dữ liệu và thuật toán 1A","","","3"
-"TM","Toán - Tin ứng dụng","CF416","Chuyên đề cấu trúc dữ liệu và thuật toán 2","CF415 (0), CF415A (1)","","3"
-"TM","Toán - Tin ứng dụng","CF425","Chuyên đề xử lý tín hiệu ảnh","MI321 (0), MI321A (1), MA340 (0), MA340 (1)","","4"
-"TM","Toán - Tin ứng dụng","CF425A","Chuyên đề xử lý ảnh","","","2"
-"TM","Toán - Tin ứng dụng","CF426","Chuyên đề xử lý tín hiệu âm thanh","CF425 (0), CF425A (1)","","3"
-"TM","Toán - Tin ứng dụng","CG251","Minh họa với Adobe Illustration","PE201 (0)","","2"
-"TM","Toán - Tin ứng dụng","CG253","Xử lý ảnh với Adobe Photoshop","PE201 (0)","","3"
-"TM","Toán - Tin ứng dụng","CG254","Thiết kế QC và XBTT với Adobe Indesign","PE201 (0)","","2"
-"TM","Toán - Tin ứng dụng","CG257","Thiết kế Web với Adobe Dream Weaver","PE201 (0)","","2"
-"TM","Toán - Tin ứng dụng","CG275","Thiết kế Web động với Adobe Flash","PE201 (0)","","3"
-"TM","Toán - Tin ứng dụng","CG277","Thiết kế Web động và HH với Adobe Flash","PE201 (0)","","5"
-"TM","Toán - Tin ứng dụng","CG283","Biên tập và Streaming Video","PE201 (0)","","3"
-"TM","Toán - Tin ứng dụng","CG285","Biên tập Audio - Video","PE201 (0)","","4"
-"TM","Toán - Tin ứng dụng","CG288","Visual Effects - After Effects","PE201 (0)","","2"
-"TM","Toán - Tin ứng dụng","CS100","Tin đại cương","","","2"
-"TM","Toán - Tin ứng dụng","CS100A","Nhập môn khoa học máy tính","","","2"
-"TM","Toán - Tin ứng dụng","CS101","Công dân số","","","2"
-"TM","Toán - Tin ứng dụng","CS110","Kỹ thuật số","MA102 (0), MA101A (1), MA101 (2)","","2"
-"TM","Toán - Tin ứng dụng","CS121","Ngôn ngữ lập trình","","","3"
-"TM","Toán - Tin ứng dụng","CS121A","Ngôn ngữ lập trình 1A","","","2"
-"TM","Toán - Tin ứng dụng","CS122","Lập trình hướng đối tượng","CS121 (0), CS121A (1)","","3"
-"TM","Toán - Tin ứng dụng","CS122A","Lập trình hướng đối tượng","","","2"
-"TM","Toán - Tin ứng dụng","CS122B","Lập trình hướng đối tượng nâng cao","","","2"
-"TM","Toán - Tin ứng dụng","CS212","Kiến trúc máy tính","CS110 (0), CS122 (0), CS122A (1), CS122B (2)","","3"
-"TM","Toán - Tin ứng dụng","CS212A","Kiến trúc máy tính 1","","","2"
-"TM","Toán - Tin ứng dụng","CS212B","Kiến trúc máy tính 2","CS212A (0)","","2"
-"TM","Toán - Tin ứng dụng","CS312","Lập trình hệ thống","CS212 (0), CS212A (1), CS212B (2)","","3"
-"TM","Toán - Tin ứng dụng","CS312A","Lập trình hệ thống","CS122 (0)","","2"
-"TM","Toán - Tin ứng dụng","CS315","Nguyên lý hệ điều hành","CS212 (0), CS212A (1)","","3"
-"TM","Toán - Tin ứng dụng","CS315A","Hệ điều hành Unix","CS121 (0), CS121A (1)","","3"
-"TM","Toán - Tin ứng dụng","CS316","Hệ điều hành Unix","CS212 (0), CS212A (1)","","3"
-"TM","Toán - Tin ứng dụng","CS320","Học máy","","","3"
-"TM","Toán - Tin ứng dụng","CS324","Kỹ thuật lập trình","CS122 (0), CS122A (1), CS122B (2)","","2"
-"TM","Toán - Tin ứng dụng","CS325","Lập trình PHP","IS222 (0)","","3"
-"TM","Toán - Tin ứng dụng","CS330","Bảo mật thông tin","","","3"
-"TM","Toán - Tin ứng dụng","EC101","Kinh tế học đại cương","","","3"
-"TM","Toán - Tin ứng dụng","EC102","Nhập môn kinh tế học","","","2"
-"TM","Toán - Tin ứng dụng","EC204","Kinh tế vi mô","EC102 (0), EC101 (1)","","3"
-"TM","Toán - Tin ứng dụng","EC205","Kinh tế vĩ mô","EC102 (0)","","3"
-"TM","Toán - Tin ứng dụng","EC206","Kinh tế học tăng trưởng","","","3"
-"TM","Toán - Tin ứng dụng","EC313","Mô hình hóa và ứng dụng","","","3"
-"TM","Toán - Tin ứng dụng","EC316","Mô hình hóa phân tích tài chính","","","3"
-"TM","Toán - Tin ứng dụng","ET220","Lý thuyết mạch","MA102 (0)","","3"
-"TM","Toán - Tin ứng dụng","FN317","Công cụ tài chính phái sinh","","","2"
-"TM","Toán - Tin ứng dụng","FN334","Đầu tư chứng khoán","","48","2"
-"TM","Toán - Tin ứng dụng","GE100","Tiếng Anh cho người mới bắt đầu","","","2"
-"TM","Toán - Tin ứng dụng","GE100A","Tiếng Anh cho người mới bắt đầu","","","0"
-"TM","Toán - Tin ứng dụng","GE101","Tiếng Anh sơ cấp 1","","","2"
-"TM","Toán - Tin ứng dụng","GE101A","Tiếng Anh sơ cấp 1","GE100A (0), GE100 (1)","","2"
-"TM","Toán - Tin ứng dụng","GE102","Tiếng Anh sơ cấp 2","GE101 (0), GE101A (1)","","2"
-"TM","Toán - Tin ứng dụng","GE102A","Tiếng Anh sơ cấp 2","GE100 (0), GE101 (0), GE100A (1), GE101 (1)","","2"
-"TM","Toán - Tin ứng dụng","GE103","Tiếng Anh sơ cấp 3","GE101 (0), GE102 (0), GE101 (1), GE102A (1), GE101A (2), GE102 (2), GE101A (3), GE102A (3)","","2"
-"TM","Toán - Tin ứng dụng","GE201","Tiếng Anh sơ trung cấp 1","GE102 (0), GE103 (0), GE102A (1), GE103 (1), GE101A (2), GE102A (2)","","2"
-"TM","Toán - Tin ứng dụng","GE201A","Tiếng Anh sơ trung cấp 1","","","2"
-"TM","Toán - Tin ứng dụng","GE202","Tiếng Anh sơ trung cấp 2","GE201 (0), GE201A (1), GE103 (0), GE103 (1), GE102A (2), GE201A (2), GE102A (3), GE201 (3)","","2"
-"TM","Toán - Tin ứng dụng","GE202A","Tiếng Anh sơ trung cấp 2","","","2"
-"TM","Toán - Tin ứng dụng","GE203","Kỹ năng giao tiếp tiếng Anh 1","GE201 (0), GE202 (0)","","2"
-"TM","Toán - Tin ứng dụng","GE203A","Kỹ năng giao tiếp tiếng anh 1","","","2"
-"TM","Toán - Tin ứng dụng","GE204","Kỹ năng giao tiếp tiếng Anh 2","GE203 (0), GE202 (0), GE202 (1), PE201 (1)","","2"
-"TM","Toán - Tin ứng dụng","GE205","Tiếng Anh sơ trung cấp 3","GE201 (0), GE201 (1), GE202A (1), GE201A (2), GE202 (2), GE201A (3), GE202A (3), GE202 (0)","","2"
-"TM","Toán - Tin ứng dụng","GE301","Tiếng Anh trung cấp 1","GE202 (0), GE205 (0), GE202A (1), GE205 (1), GE202A (2), GE201A (2)","","2"
-"TM","Toán - Tin ứng dụng","GE303","Tiếng Anh trung cấp 2","GE205 (0), GE301 (0), GE202A (1), GE301 (1), GE203 (2), GE202A (2), GE202A (3), PE303 (3)","","2"
-"TM","Toán - Tin ứng dụng","GE305","Tiếng Anh trung cấp 3","GE301 (0), GE303 (0), GE203 (2), GE303 (2), PE303 (3), PE404 (3), GE203 (1), GE204 (1), GE203 (4), PE404 (4)","","2"
-"TM","Toán - Tin ứng dụng","GE320A","TOEIC","","","2"
-"TM","Toán - Tin ứng dụng","GF101","Tiếng Pháp 1","","","2"
-"TM","Toán - Tin ứng dụng","GF102","Tiếng Pháp 2","GF101 (0)","","2"
-"TM","Toán - Tin ứng dụng","GF223","Tiếng Pháp 3","GF102 (0)","","2"
-"TM","Toán - Tin ứng dụng","GI101","Tiếng Ý 1","","","2"
-"TM","Toán - Tin ứng dụng","GI102","Tiếng Ý 2","GI101 (0)","","2"
-"TM","Toán - Tin ứng dụng","GJ101","Tiếng Nhật 1","","","2"
-"TM","Toán - Tin ứng dụng","GJ102","Tiếng Nhật 2","GJ101 (0)","","2"
-"TM","Toán - Tin ứng dụng","GK101","Tiếng Hàn 1","","","2"
-"TM","Toán - Tin ứng dụng","GK102","Tiếng Hàn 2","GK101 (0)","","2"
-"TM","Toán - Tin ứng dụng","GK505","PP nghiên cứu khoa học","","","3"
-"TM","Toán - Tin ứng dụng","GZ101","Tiếng Trung 1","","","2"
-"TM","Toán - Tin ứng dụng","GZ102","Tiếng Trung 2","GZ101 (0)","","2"
-"TM","Toán - Tin ứng dụng","GZ103","Tiếng Trung 3","GZ102 (0)","","2"
-"TM","Toán - Tin ứng dụng","IM001","Kỹ năng CNTT cơ bản","","","0"
-"TM","Toán - Tin ứng dụng","IM002","Kỹ năng soạn thảo VB(MS Office)","IM001 (0)","36","3"
-"TM","Toán - Tin ứng dụng","IM003","Kỹ năng soạn thảo VB(open Office)","IM001 (0)","36","3"
-"TM","Toán - Tin ứng dụng","IM004","Ứng dụng Excel","IM002 (0)","","3"
-"TM","Toán - Tin ứng dụng","IM201","Kỹ năng soạn thảo VB (MS office)","IM001 (0)","","3"
-"TM","Toán - Tin ứng dụng","IM202","Kỹ năng soạn thảo văn bản (Open Office)","IM001 (0)","","3"
-"TM","Toán - Tin ứng dụng","IM203","Ứng dụng Excel","IS206 (0), IM201 (1)","","3"
-"TM","Toán - Tin ứng dụng","IM204","Ứng dụng Cal","IM202 (0)","","3"
-"TM","Toán - Tin ứng dụng","IS009","Máy tính và Internet","","","1"
-"TM","Toán - Tin ứng dụng","IS206","Kĩ năng soạn thảo văn bản","IS009 (0)","72","3"
-"TM","Toán - Tin ứng dụng","IS207","Ứng dụng Exel","IS206 (0)","","3"
-"TM","Toán - Tin ứng dụng","IS222","Cơ sở dữ liệu","MA102 (0), CS121 (0), MA102 (1), CS121A (1), CS121 (2), MA101 (2), MA101A (3), CS121 (3)","","3"
-"TM","Toán - Tin ứng dụng","IS222A","Bài tập lớn về CSDL","","","2"
-"TM","Toán - Tin ứng dụng","IS223","Cơ sở dữ liệu và khai phá dữ liệu","","","3"
-"TM","Toán - Tin ứng dụng","IS223A","Cơ sở dữ liệu 2","","","2"
-"TM","Toán - Tin ứng dụng","IS224A","Cơ sở dữ liệu phân tán","","","2"
-"TM","Toán - Tin ứng dụng","IS301","Tin học văn phòng nâng cao","CS100 (0)","100","3"
-"TM","Toán - Tin ứng dụng","IS322","Hệ quản trị cơ sở dữ liệu","IS222 (0)","","3"
-"TM","Toán - Tin ứng dụng","IS329","Dữ liệu lớn","","","2"
-"TM","Toán - Tin ứng dụng","IS332","Phân tích thiết kế hướng đối tượng","IS222 (0), IS223A (1), CS122 (0), CS122A (2), CS122B (3)","","3"
-"TM","Toán - Tin ứng dụng","IS430","Công nghệ Blockchain","","","3"
-"TM","Toán - Tin ứng dụng","MA100A","Toán 1","","","2"
-"TM","Toán - Tin ứng dụng","MA101","Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)","GE103 (0), GE102A (1)","","3"
-"TM","Toán - Tin ứng dụng","MA101A","Logic, suy luận toán học và kỹ thuật đếm","","","3"
-"TM","Toán - Tin ứng dụng","MA102","Toán cơ sở","","","3"
-"TM","Toán - Tin ứng dụng","MA103","Số và cấu trúc đại số","","","3"
-"TM","Toán - Tin ứng dụng","MA104","Số và cấu trúc đại số","","","3"
-"TM","Toán - Tin ứng dụng","MA110","Giải tích 1","","","3"
-"TM","Toán - Tin ứng dụng","MA110A","Giải tích 1A","","","2"
-"TM","Toán - Tin ứng dụng","MA111","Giải tích 2","MA110 (0), MA110A (1)","","3"
-"TM","Toán - Tin ứng dụng","MA111A","Giải tích 2A","","","2"
-"TM","Toán - Tin ứng dụng","MA111B","Giải tích 2B","","","2"
-"TM","Toán - Tin ứng dụng","MA120","Đại số tuyến tính","","","3"
-"TM","Toán - Tin ứng dụng","MA120A","Đại số tuyến tính 1","","","2"
-"TM","Toán - Tin ứng dụng","MA120B","Đại số tuyến tính 2","","","2"
-"TM","Toán - Tin ứng dụng","MA212","Phương trình vi phân","MA111 (0), MA111A (1), MA111B (2)","","2"
-"TM","Toán - Tin ứng dụng","MA213","Phương trình vi phân","MA111 (0)","","3"
-"TM","Toán - Tin ứng dụng","MA215","Topology","","","2"
-"TM","Toán - Tin ứng dụng","MA216","Giải tích lồi","","","2"
-"TM","Toán - Tin ứng dụng","MA222","Đại số đại cương","MA120 (0), MA120A (1), MA120B (2)","","2"
-"TM","Toán - Tin ứng dụng","MA225","Các không gian hàm và phép tính sai phân","MA213 (0)","","3"
-"TM","Toán - Tin ứng dụng","MA230","Xác suất","MA111 (0)","","3"
-"TM","Toán - Tin ứng dụng","MA231","Xác suất thống kê ứng dụng","CS100A (2), MA120 (0), CS100 (0), MA120A (1), CS100 (1), MA120 (2), MA120A (3), CS100A (3)","","4"
-"TM","Toán - Tin ứng dụng","MA233A","Xác suất thống kê y học","","","3"
-"TM","Toán - Tin ứng dụng","MA234","Thống Kê","MA230 (0)","","2"
-"TM","Toán - Tin ứng dụng","MA313","Hàm biến phức","MA111 (0), MA111A (1)","","2"
-"TM","Toán - Tin ứng dụng","MA323","Số học thuật toán","MA102 (0), MA103 (2)","","2"
-"TM","Toán - Tin ứng dụng","MA340","Giải tích số","MA111 (0), MA111B (1)","","3"
-"TM","Toán - Tin ứng dụng","MA342","Giải tích lồi","MA111 (0)","","3"
-"TM","Toán - Tin ứng dụng","MI201","Toán rời rạc","CS122 (0)","","3"
-"TM","Toán - Tin ứng dụng","MI302","Tối ưu hóa","MA111 (0), MA111A (1), MA111B (2)","","2"
-"TM","Toán - Tin ứng dụng","MI311","Mã hóa và an toàn dữ liệu","MI201 (0)","","2"
-"TM","Toán - Tin ứng dụng","MI311A","Lý thuyết thông tin và mã hoá","","","2"
-"TM","Toán - Tin ứng dụng","MI312","Đồ họa","MA120 (0), CS122 (0), MA120 (1), CS122A (1), MA120A (2), CS122 (2)","","2"
-"TM","Toán - Tin ứng dụng","MI321","Trí tuệ nhân tạo","CF212A (1), MI201 (0), MI201 (1), MI201 (2), CF212B (2), CF212 (0)","","3"
-"TM","Toán - Tin ứng dụng","MI321A","Trí tuệ nhân tạo","","","2"
-"TM","Toán - Tin ứng dụng","MI330","Topologic","","","2"
-"TM","Toán - Tin ứng dụng","MI331","Hệ thống hỗ trợ tính toán","MI311 (0), MA111 (0), MA231 (0)","","2"
-"TM","Toán - Tin ứng dụng","MI332","Thực hành tính toán","MA111 (0), MA231 (0), MI311 (0), CF302 (0)","","3"
-"TM","Toán - Tin ứng dụng","MI333","Ngôn ngữ toán học","","","2"
-"TM","Toán - Tin ứng dụng","MI414","Giao diện người máy","MI312 (0)","","2"
-"TM","Toán - Tin ứng dụng","MI425","Chuyên đề cơ sở dữ liệu và trí tuệ nhân tạo 1","IS222 (0), MI321 (0)","","4"
-"TM","Toán - Tin ứng dụng","MI426","Chuyên đề cơ sở dữ liệu và trí tuệ nhân tạo 2","MI425 (0)","","3"
-"TM","Toán - Tin ứng dụng","MI489","KLTN: Toán ứng dụng","","117","6"
-"TM","Toán - Tin ứng dụng","ML101","Những NLCB của chủ nghĩa Mác - Lênin","","","5"
-"TM","Toán - Tin ứng dụng","ML111","Triết học Mác – Lênin","","","2"
-"TM","Toán - Tin ứng dụng","ML112","Kinh tế chính trị và CNXH khoa học","","","3"
-"TM","Toán - Tin ứng dụng","ML112A","Kinh tế chính trị","","","3"
-"TM","Toán - Tin ứng dụng","ML112B","Chủ nghĩa xã hội khoa học","","","2"
-"TM","Toán - Tin ứng dụng","ML202","Tư tưởng Hồ Chí Minh","ML112A (1), ML112B (2), ML111 (0), ML101 (3)","","2"
-"TM","Toán - Tin ứng dụng","ML203","Đường lối cách mạng của Đảng CS Việt Nam","ML202 (0)","","3"
-"TM","Toán - Tin ứng dụng","NA151","Khoa học môi trường","","","2"
-"TM","Toán - Tin ứng dụng","NW212","Mạng máy tính","CS212 (0), CS212A (1), CS212B (2)","","2"
-"TM","Toán - Tin ứng dụng","NW212A","Internet","","","2"
-"TM","Toán - Tin ứng dụng","PE201","Tiếng Anh trong tin học 1A","GE202 (0), GE201 (0)","","2"
-"TM","Toán - Tin ứng dụng","PE302","Tiếng Anh trong tin học 1B","PE201 (0), GE202 (0)","","2"
-"TM","Toán - Tin ứng dụng","PE303","Tiếng Anh trong tin học 2A","PE201 (0), PE302 (0)","","2"
-"TM","Toán - Tin ứng dụng","PE316","Tiếng Anh trong Toán 1","GE204 (0), GE203 (0), PE201 (1), GE204 (1)","","2"
-"TM","Toán - Tin ứng dụng","PE317","Tiếng Anh trong Toán 2","GE204 (0), PE316 (0)","","2"
-"TM","Toán - Tin ứng dụng","PE404","Tiếng Anh trong tin học 2B","PE303 (0), PE302 (0)","","2"
-"TM","Toán - Tin ứng dụng","PG100","Giáo dục thể chất","","","4"
-"TM","Toán - Tin ứng dụng","PG100A","Giáo dục thể chất","","","4"
-"TM","Toán - Tin ứng dụng","PG101","GDTC: Lý thuyết","","","1"
-"TM","Toán - Tin ứng dụng","PG102","GDTC: Thể dục cổ truyền cơ bản","","","1"
-"TM","Toán - Tin ứng dụng","PG103","GDTC: Thể dục cổ truyền nâng cao","PG102 (0)","","1"
-"TM","Toán - Tin ứng dụng","PG104","GDTC: Cầu lông cơ bản","","","1"
-"TM","Toán - Tin ứng dụng","PG105","GDTC: Cầu lông nâng cao","PG104 (0)","","1"
-"TM","Toán - Tin ứng dụng","PG106","GDTC: Bóng bàn cơ bản","","","1"
-"TM","Toán - Tin ứng dụng","PG107","GDTC: Bóng bàn nâng cao","PG106 (0)","","1"
-"TM","Toán - Tin ứng dụng","PG108","GDTC: Thể dục nhịp điệu cơ bản","","","1"
-"TM","Toán - Tin ứng dụng","PG109","GDTC: Thể dục nhịp điệu nâng cao","PG108 (0)","","1"
-"TM","Toán - Tin ứng dụng","PG110","GDTC: Bơi cơ bản","","","1"
-"TM","Toán - Tin ứng dụng","PG111","GDTC: Khiêu vũ thể thao cơ bản","","","1"
-"TM","Toán - Tin ứng dụng","PG112","GDTC: Khiêu vũ thể thao nâng cao","PG111 (0)","","1"
-"TM","Toán - Tin ứng dụng","PG113","GDTC: Bóng rổ cơ bản","","","1"
-"TM","Toán - Tin ứng dụng","PG114","GDTC: Bóng rổ nâng cao","PG113 (0)","","1"
-"TM","Toán - Tin ứng dụng","PG115","GDTC: Bóng chuyền cơ bản","","","1"
-"TM","Toán - Tin ứng dụng","PG116","GDTC: Bóng chuyền nâng cao","PG115 (0)","","1"
-"TM","Toán - Tin ứng dụng","PG117","GDTC: Thể dục dã ngoại","","","1"
-"TM","Toán - Tin ứng dụng","PG118","GDTC: Thể dục cơ bản","","","1"
-"TM","Toán - Tin ứng dụng","PG119","GDTC: Thể dục Erobic","","","1"
-"TM","Toán - Tin ứng dụng","PG120","Thể dục cơ bản nâng cao","PG118 (0)","","1"
-"TM","Toán - Tin ứng dụng","PG121","Giáo dục quốc phòng","","","4"
-"TM","Toán - Tin ứng dụng","PG121D","Đường lối quân sự của Đảng","","","2"
-"TM","Toán - Tin ứng dụng","PG121E","Công tác quốc phòng - an ninh","","","2"
-"TM","Toán - Tin ứng dụng","PG122","GDQP: Đường lối quân sự của Đảng","","","1"
-"TM","Toán - Tin ứng dụng","PG123","GDQP: Công tác quốc phòng - an ninh","","","1"
-"TM","Toán - Tin ứng dụng","PG124","GDQP: Quân sự chung","","","1"
-"TM","Toán - Tin ứng dụng","PG125","GDQP: Kỹ thuật bắn súng","","","1"
-"TM","Toán - Tin ứng dụng","PG131","GDTC: Bóng rổ nâng cao 1","","","1"
-"TM","Toán - Tin ứng dụng","PG132","GDTC: Bóng rổ nâng cao 2","","","1"
-"TM","Toán - Tin ứng dụng","PG133","GDTC: Bóng rổ nâng cao 3","","","1"
-"TM","Toán - Tin ứng dụng","PG134","GDTC: Bóng rổ nâng cao 4","","","1"
-"TM","Toán - Tin ứng dụng","PG141","GDTC: Bóng chuyền nâng cao 1","","","1"
-"TM","Toán - Tin ứng dụng","PG142","GDTC: Bóng chuyền nâng cao 2","","","1"
-"TM","Toán - Tin ứng dụng","PG143","GDTC: Bóng chuyền nâng cao 3","","","1"
-"TM","Toán - Tin ứng dụng","PG144","GDTC: Bóng chuyền nâng cao 4","","","1"
-"TM","Toán - Tin ứng dụng","PG150","Bóng đá","","","4"
-"TM","Toán - Tin ứng dụng","PG151","Bóng đá nâng cao","","","4"
-"TM","Toán - Tin ứng dụng","PG160","Nhảy hiện đại","","","4"
-"TM","Toán - Tin ứng dụng","PG161","Nhảy hiện đại nâng cao","","","4"
-"TM","Toán - Tin ứng dụng","PV101","Tiếng Việt thực hành","","","2"
-"TM","Toán - Tin ứng dụng","SE302","Công nghệ phần mềm","IS332 (0)","","2"
-"TM","Toán - Tin ứng dụng","SE487","CĐTN: Phát triển phần mềm","SE302 (0)","117","6"
-"TM","Toán - Tin ứng dụng","SH131","Pháp luật đại cương","","","2"
-"TM","Toán - Tin ứng dụng","SM201","Phương pháp luận nghiên cứu khoa học","","36","3"
-"TM","Toán - Tin ứng dụng","ST450","Toeic","","","3"
-"TM","Toán - Tin ứng dụng","VL101","Tiếng Việt thực hành","","","2"
-"TM","Toán - Tin ứng dụng","VR201","Ẩm thực Việt Nam","","","3"
-"TM","Toán - Tin ứng dụng","VR203","Ẩm thực Việt Nam","","","4"
-"TM","Toán - Tin ứng dụng","VR203A","Ẩm thực Việt Nam","","","3"
-"KT","Kế toán","AC201","Nguyên lý kế toán","","40","3"
-"KT","Kế toán","AC211","Kế toán tài chính 1","AC201 (0)","","3"
-"KT","Kế toán","AC212","Kế toán tài chính 2","AC211 (0)","","3"
-"KT","Kế toán","AC231","Kế toán Mỹ 1","AC211 (0)","","3"
-"KT","Kế toán","AC231A","Kế toán Mỹ 1","","","2"
-"KT","Kế toán","AC231B","Kế toán Mỹ 2","AC231A (0)","","2"
-"KT","Kế toán","AC232","Kế toán quốc tế 1","AC211 (0)","","3"
-"KT","Kế toán","AC314","Kế toán máy","AC212 (0)","","2"
-"KT","Kế toán","AC315","Kế toán công","AC211 (0)","","2"
-"KT","Kế toán","AC316","Kế toán tài chính 3","AC212 (0)","","3"
-"KT","Kế toán","AC316B","Nghiệp vụ kiểm toán","","","2"
-"KT","Kế toán","AC317","Tổ chức hạch toán kế toán","AC316 (0)","","3"
-"KT","Kế toán","AC321","Kế toán ngân hàng 1","AC212 (0), BK201 (0)","","2"
-"KT","Kế toán","AC332","Kế toán quốc tế 2","AC231 (0)","","3"
-"KT","Kế toán","AC333","Kế toán Mỹ 2","AC231 (0), AC231A (1), AC231B (2)","","3"
-"KT","Kế toán","AC335","Kế toán công ty","AC212 (0)","","2"
-"KT","Kế toán","AC341","Kế toán quản trị","AC212 (0)","","3"
-"KT","Kế toán","AC341A","Kế toán quản trị 1","","","2"
-"KT","Kế toán","AC341B","Kế toán quản trị 2","","","2"
-"KT","Kế toán","AC344","Phân tích hoạt động kinh doanh","AC212 (1)","","2"
-"KT","Kế toán","AC361","Kiểm toán","AC212 (0)","","3"
-"KT","Kế toán","AC361A","Lý thuyết kiểm toán","","","2"
-"KT","Kế toán","AC361B","Nghiệp vụ kiểm toán","","","2"
-"KT","Kế toán","AC362","Lý thuyết kiểm toán","AC212 (0)","","2"
-"KT","Kế toán","AC363","Kiểm toán báo cáo tài chính","AC362 (0)","","2"
-"KT","Kế toán","AC364","Kiểm toán báo cáo tài chính 1","AC362 (0), AC317 (0)","","3"
-"KT","Kế toán","AC365","Kiểm toán báo cáo tài chính 2","AC364 (0)","","3"
-"KT","Kế toán","AC368","Kiểm soát trong quản lý","AC364 (0)","","3"
-"KT","Kế toán","AC418","Lập và phân tích báo cáo tài chính","AC316 (0)","","3"
-"KT","Kế toán","AC419","CĐTN: Lập, đọc và phân tích báo cáo TC","AC316 (0)","","3"
-"KT","Kế toán","AC419A","CĐTN: Lập, đọc và phân tích báo cáo tài chính","AC212 (0)","","2"
-"KT","Kế toán","AC422","Kế toán ngân hàng 2","AC321 (0)","","3"
-"KT","Kế toán","AC481","CĐTN Kế toán tài chính","AC317 (0), TT499 (0)","129","3"
-"KT","Kế toán","AC482","CĐTN Kế toán quản trị","AC317 (0), TT499 (0)","129","3"
-"KT","Kế toán","AC490","CĐTN ngành Kế toán","AC317 (0), TT499 (0)","129","3"
-"KT","Kế toán","AC499","KLTN ngành Kế toán","AC317 (0), TT499 (0)","135","6"
-"KT","Kế toán","AD201","Kỹ năng giao tiếp và thuyết trình","","36","2"
-"KT","Kế toán","AD202","Văn hóa ứng xử trong kinh doanh","","36","2"
-"KT","Kế toán","AD203","Kỹ năng đàm phán trong kinh doanh","","50","2"
-"KT","Kế toán","AD204","Ẩm thực Việt nam","","","4"
-"KT","Kế toán","AD204A","Ẩm thực Việt Nam","","","3"
-"KT","Kế toán","AD206","Ẩm thực Việt Nam","","","3"
-"KT","Kế toán","AD211","Văn hóa Hà Nội","","36","2"
-"KT","Kế toán","AD212","Phương pháp hùng biện và các thủ thuật tranh biện","","36","3"
-"KT","Kế toán","AD213","Hát – Nhạc","","","3"
-"KT","Kế toán","AD213A","Hát – Nhạc","","","4"
-"KT","Kế toán","AD214","Nâng cao chất lượng giọng hát","AD213 (0), AD213A (1)","","3"
-"KT","Kế toán","AD215","Ứng dụng PowerPoint","IS206 (1), IM201 (0), IM202 (2)","","3"
-"KT","Kế toán","AD216","Tâm lý và kỹ năng giao tiếp với người cao tuổi","","50","3"
-"KT","Kế toán","AD221","Kĩ năng giao lưu văn hóa","","","2"
-"KT","Kế toán","AD222","Thực hành giao lưu văn hoá","","","3"
-"KT","Kế toán","AD231","Thể thao","","","3"
-"KT","Kế toán","AD250","Dinh dưỡng và tiết chế","","","3"
-"KT","Kế toán","AD312","Bóng đá","","","4"
-"KT","Kế toán","AD313","Bóng đá nâng cao","AD312 (0)","","4"
-"KT","Kế toán","AD314","Nhảy hiện đại","","","4"
-"KT","Kế toán","AD315","Nhảy hiện đại nâng cao","AD314 (0)","","4"
-"KT","Kế toán","AD412","Thực hành nghề ngân hàng","","","4"
-"KT","Kế toán","AD414","Toeic","GE305 (0)","","2"
-"KT","Kế toán","AD420","Khởi nghiệp","","100","3"
-"KT","Kế toán","BA101","Quản trị học","","","2"
-"KT","Kế toán","BA102","Quản trị học đại cương","EC101 (1)","","3"
-"KT","Kế toán","BA211","Quản trị sản xuất và tác nghiệp","BA101 (0), BA102 (1)","","3"
-"KT","Kế toán","BA211A","Quản lý sản xuất và tác nghiệp","","","2"
-"KT","Kế toán","BA212","Quản trị sản xuất và tác nghiệp","BA101 (0), BA102 (1)","","3"
-"KT","Kế toán","BA221","Phân tích và lập dự án đầu tư","FN211D (0), FN211 (1)","","2"
-"KT","Kế toán","BA222","Phân tích và lập dự án","FN211 (0), FN211D (1)","","3"
-"KT","Kế toán","BA312","Quản lý sản xuất và tác nghiệp 2","BA211 (0)","","2"
-"KT","Kế toán","BA313","Quản trị chiến lược","BA101 (0), BA102 (1)","","3"
-"KT","Kế toán","BA313A","Quản lý chiến lược","","","2"
-"KT","Kế toán","BA314","Quản trị nguồn nhân lực","BA101 (0)","","3"
-"KT","Kế toán","BA315","Văn hóa doanh nghiệp và đạo đức kinh doanh","BA101 (0), BA102 (1)","50","3"
-"KT","Kế toán","BA317","Quản trị nguồn nhân lực","BA101 (0), BA102 (1)","","3"
-"KT","Kế toán","BA318","Văn hóa doanh nghiệp và đạo đức kinh doanh","BA101 (0), BA102 (1)","50","3"
-"KT","Kế toán","BA322","Quản lý dự án","FN211 (0), FN211D (1)","","2"
-"KT","Kế toán","BA323","Quản lý chất lượng","BA211 (0)","","2"
-"KT","Kế toán","BA325","Nghiệp vụ xuất nhập khẩu","BK321A (0), BK321 (1), FN201 (2)","","2"
-"KT","Kế toán","BA326","Thương mại quốc tế","FN211 (0), FN211D (1)","50","3"
-"KT","Kế toán","BA327","Quản trị chất lượng","BA101 (0), BA102 (1)","","3"
-"KT","Kế toán","BA328","Hành vi tổ chức","BA101 (0), BA102 (1)","","3"
-"KT","Kế toán","BA414","Kỹ năng lãnh đạo","BA328 (0), BA315 (1), BA318 (2)","","2"
-"KT","Kế toán","BA418","CĐTN: Lãnh đạo doanh nghiệp","","110","3"
-"KT","Kế toán","BA418C","CĐTN: Quản lý dự án","","110","2"
-"KT","Kế toán","BA420","Quản trị rủi ro trong kinh doanh","BA102 (0)","","3"
-"KT","Kế toán","BK201","Ngân hàng thương mại 1","FN211 (1), FN211D (0), FN201A (3)","","3"
-"KT","Kế toán","BK302","Ngân hàng thương mại 2","BK201 (0)","","3"
-"KT","Kế toán","BK311","Ngân hàng trung ương","BK201 (0)","","2"
-"KT","Kế toán","BK321","Thanh toán quốc tế","FN201 (0), FN202 (1), FN201A (2)","","3"
-"KT","Kế toán","BK321A","Thanh toán quốc tế","FN201 (0)","","2"
-"KT","Kế toán","BK322","Công nghệ thông tin ngân hàng","BK302 (0)","","2"
-"KT","Kế toán","BK324","Tín dụng quốc tế","BK201 (0)","","2"
-"KT","Kế toán","BK409","CĐTN: Hoạt động tín dụng trong NHTM","BK302 (0)","110","3"
-"KT","Kế toán","BK409A","CĐTN: Hoạt động tín dụng trong NHTM","","","2"
-"KT","Kế toán","BK419","CĐTN: Tiền tệ và hoạt động ngân hàng","","110","3"
-"KT","Kế toán","BK419A","CĐTN: Tiền tệ và hoạt động ngân hàng","","","2"
-"KT","Kế toán","BK423","Tài trợ dự án","BK302 (0)","","2"
-"KT","Kế toán","CG251","Minh họa với Adobe Illustration","PE221 (0)","","2"
-"KT","Kế toán","CG253","Xử lý ảnh với Adobe Photoshop","PE221 (0)","","3"
-"KT","Kế toán","CG254","Thiết kế QC và XBTT với Adobe Indesign","PE221 (0)","","2"
-"KT","Kế toán","CG257","Thiết kế Web với Adobe Dream Weaver","PE221 (0)","","2"
-"KT","Kế toán","CG275","Thiết kế Web động với Adobe Flash","PE221 (0)","","3"
-"KT","Kế toán","CG277","Thiết kế Web động và HH với Adobe Flash","PE221 (0)","","5"
-"KT","Kế toán","CG283","Biên tập và Streaming Video","PE221 (0)","","3"
-"KT","Kế toán","CG285","Biên tập Audio - Video","PE221 (0)","","4"
-"KT","Kế toán","CG288","Visual Effects - After Effects","PE221 (0)","","2"
-"KT","Kế toán","CS101","Công dân số","","","2"
-"KT","Kế toán","EC101","Kinh tế học đại cương","","","3"
-"KT","Kế toán","EC103","Lịch sử các học thuyết kinh tế","","","2"
-"KT","Kế toán","EC202","Kinh tế vi mô","EC101 (0)","","2"
-"KT","Kế toán","EC203","Kinh tế vĩ mô","EC101 (0)","","2"
-"KT","Kế toán","EC203A","Kinh tế vĩ mô 1","","","2"
-"KT","Kế toán","EC203B","Kinh tế vĩ mô 2","","","2"
-"KT","Kế toán","EC204","Kinh tế vi mô","EC101 (1)","","3"
-"KT","Kế toán","EC205","Kinh tế vĩ mô","EC101 (1)","","3"
-"KT","Kế toán","EC221","Luật kinh tế","SH131 (0)","","2"
-"KT","Kế toán","EC221A","Luật kinh tế","","","3"
-"KT","Kế toán","EC305","Hệ thống tài khoản quốc gia","EC202 (0), EC203 (0), MEC10 (1), MEC18` (1)","","2"
-"KT","Kế toán","EC311","Mô hình kinh tế","EC202 (0), EC203 (0), MEC10 (1), MEC18` (1)","","2"
-"KT","Kế toán","EC312","Kinh tế lượng","MA231 (0), MA231A (1), MA230 (2), MA230A (3)","","3"
-"KT","Kế toán","EC312A","Kinh tế lượng","","","2"
-"KT","Kế toán","EC314","Kinh tế quốc tế","EC204 (0), EC205 (0)","","2"
-"KT","Kế toán","EC322","Luật kinh tế","SH131 (0)","","2"
-"KT","Kế toán","EC331","Thông tin Kinh tế cơ bản","","","3"
-"KT","Kế toán","EC332","Khởi nghiệp","","","0"
-"KT","Kế toán","EC490","CĐTN: Về Kinh tế học","TT499 (0)","129","3"
-"KT","Kế toán","FN201","Lý thuyết tài chính tiền tệ","","48","3"
-"KT","Kế toán","FN201A","Lý thuyết tài chính tiền tệ","","","2"
-"KT","Kế toán","FN202","Lý thuyết tài chính tiền tệ","","48","3"
-"KT","Kế toán","FN211","Tài chính doanh nghiệp","FN201 (0), AC201 (0), FN202 (1), AC201 (1), FN201A (2), AC201 (2)","","3"
-"KT","Kế toán","FN211D","Nhập môn tài chính doanh nghiệp","FN201 (0), AC201 (0), IFB10 (1), AC201 (1)","","2"
-"KT","Kế toán","FN212","Quản trị tài chính doanh nghiệp 1","FN211D (0), FN211 (1)","","3"
-"KT","Kế toán","FN212A","Quản trị tài chính doanh nghiệp 1","","","3"
-"KT","Kế toán","FN213","Quản trị tài chính doanh nghiệp 1","FN211 (0), FN211D (1)","","3"
-"KT","Kế toán","FN221","Tài chính công","FN201 (0), FN202 (1), FN201A (2)","","2"
-"KT","Kế toán","FN223","Nghiệp vụ thuế","FN221 (0)","","3"
-"KT","Kế toán","FN224","Thuế","FN221 (0)","","3"
-"KT","Kế toán","FN261","Tài chính quốc tế","FN202 (1), FN201 (0), FN201A (2)","","3"
-"KT","Kế toán","FN261A","Tài chính quốc tế","","","2"
-"KT","Kế toán","FN313","Quản trị tài chính doanh nghiệp 2","FN212 (0), FN213 (1), FN212A (2)","","3"
-"KT","Kế toán","FN313A","Quản lý tài chính doanh nghiệp 2","","","2"
-"KT","Kế toán","FN314","Quản trị tài chính doanh nghiệp 2","FN213 (0), FN212 (1)","","3"
-"KT","Kế toán","FN316","Phân tích và dự báo tài chính vi mô","FN313 (0)","","3"
-"KT","Kế toán","FN331","Thị trường chứng khoán","FN211D (0), FN211 (1)","","3"
-"KT","Kế toán","FN331A","Thị trường chứng khoán","","","2"
-"KT","Kế toán","FN332","Nghiệp vụ bảo hiểm","FN211D (0), FN211 (1)","","2"
-"KT","Kế toán","FN334","Đầu tư chứng khoán","FN211 (0), FN211D (1)","48","2"
-"KT","Kế toán","FN419","CĐTN: Phân tích tài chính doanh nghiệp","FN313 (0)","110","3"
-"KT","Kế toán","FN435","Kinh tế đầu tư","FN201 (0)","","3"
-"KT","Kế toán","FN436","Định giá tài sản","FN213 (1), FN212 (0), FN212A (2)","","3"
-"KT","Kế toán","FN437","Đấu thầu","FN313 (0)","","2"
-"KT","Kế toán","FN437A","CĐTN: Đấu thầu","","110","2"
-"KT","Kế toán","FN439","CĐTN: Đầu tư vốn","FN313 (0), FN331 (0)","110","3"
-"KT","Kế toán","FN439D","CĐTN: Đầu tư vốn","","","2"
-"KT","Kế toán","GE100","Tiếng Anh cho người mới bắt đầu","","","2"
-"KT","Kế toán","GE100A","Tiếng Anh cho người mới bắt đầu","","","0"
-"KT","Kế toán","GE101","Tiếng Anh sơ cấp 1","","","2"
-"KT","Kế toán","GE101A","Tiếng Anh sơ cấp 1","","","2"
-"KT","Kế toán","GE102","Tiếng Anh sơ cấp 2","GE101 (0), GE101A (1)","","2"
-"KT","Kế toán","GE102A","Tiếng Anh sơ cấp 2","","","2"
-"KT","Kế toán","GE103","Tiếng Anh sơ cấp 3","GE101 (0), GE102 (0), GE101 (1), GE102A (1), GE101A (2), GE102 (2), GE101A (3), GE102A (3)","","2"
-"KT","Kế toán","GE201","Tiếng Anh sơ trung cấp 1","GE102 (0), GE103 (0), GE102A (1), GE103 (1), GE101A (2), GE102A (2)","","2"
-"KT","Kế toán","GE201A","Tiếng Anh sơ trung cấp 1","","","2"
-"KT","Kế toán","GE202","Tiếng Anh sơ trung cấp 2","GE103 (0), GE201 (0), GE103 (1), GE201A (1), GE102A (2), GE201A (2), GE102A (3), GE201 (3)","","2"
-"KT","Kế toán","GE202A","Tiếng Anh sơ trung cấp 2","","","2"
-"KT","Kế toán","GE205","Tiếng Anh sơ trung cấp 3","GE201 (0), GE202 (0), GE201 (1), GE202A (1), GE201A (2), GE202 (2), GE201A (3), GE202A (3)","","2"
-"KT","Kế toán","GE212","Kỹ năng tiếng Anh thương mại 1","GE201 (0), GE202 (0)","","2"
-"KT","Kế toán","GE213","Kỹ năng tiếng Anh thương mại 2","GE212 (0), PE221 (1), GE202A (0), GE202A (1)","","2"
-"KT","Kế toán","GE301","Tiếng Anh trung cấp 1","GE205 (1), GE201A (2), GE202A (2), GE202 (0), GE205 (0), GE202A (1)","","2"
-"KT","Kế toán","GE303","Tiếng Anh trung cấp 2","GE205 (0), GE301 (0), GE202A (1), GE301 (1), GE202A (2), GE212 (2)","","2"
-"KT","Kế toán","GE305","Tiếng Anh trung cấp 3","GE212 (1), GE213 (1), GE301 (0), GE303 (0), GE213 (3), GE301 (3), GE212 (2), GE303 (2)","","2"
-"KT","Kế toán","GE320A","TOEIC","","","2"
-"KT","Kế toán","GF101","Tiếng Pháp 1","","","2"
-"KT","Kế toán","GF102","Tiếng Pháp 2","GF101 (0)","","2"
-"KT","Kế toán","GF223","Tiếng Pháp 3","GF102 (0)","","2"
-"KT","Kế toán","GI101","Tiếng Ý 1","","","2"
-"KT","Kế toán","GI102","Tiếng Ý 2","GI101 (0)","","2"
-"KT","Kế toán","GJ101","Tiếng Nhật 1","","","2"
-"KT","Kế toán","GJ102","Tiếng Nhật 2","GJ101 (0)","","2"
-"KT","Kế toán","GK101","Tiếng Hàn 1","","","2"
-"KT","Kế toán","GK102","Tiếng Hàn 2","GK101 (0)","","2"
-"KT","Kế toán","GZ101","Tiếng Trung 1","","","2"
-"KT","Kế toán","GZ102","Tiếng Trung 2","GZ101 (0)","","2"
-"KT","Kế toán","GZ103","Tiếng Trung 3","GZ102 (0)","","2"
-"KT","Kế toán","IFB10","Lý thuyết tài chính tiền tệ","","48","2"
-"KT","Kế toán","IM001","Kỹ năng CNTT cơ bản","","","0"
-"KT","Kế toán","IM002","Kỹ năng soạn thảo VB(MS Office)","IM001 (0)","36","3"
-"KT","Kế toán","IM003","Kỹ năng soạn thảo VB(open Office)","IM001 (0)","36","3"
-"KT","Kế toán","IM004","Ứng dụng Excel","IM002 (0), IS101 (1)","","3"
-"KT","Kế toán","IM201","Kỹ năng soạn thảo VB (MS office)","IS009 (1), IM001 (0), IS101 (3)","","3"
-"KT","Kế toán","IM202","Kỹ năng soạn thảo văn bản (Open Office)","IM001 (0), IS009 (1)","","3"
-"KT","Kế toán","IM203","Ứng dụng Excel","IS206 (1), IM201 (0), IS101 (3)","","3"
-"KT","Kế toán","IM204","Ứng dụng Cal","IM202 (0)","","3"
-"KT","Kế toán","IS009","Máy tính và Internet","","","1"
-"KT","Kế toán","IS101","Tin văn phòng","","","3"
-"KT","Kế toán","IS101A","Tin học văn phòng","","","2"
-"KT","Kế toán","IS101B","Tin học văn phòng nâng cao","","","2"
-"KT","Kế toán","IS201","Tin quản lý Access","IS101 (0), IS201A (1), IS101A (2), IS101B (3), IS206 (4)","","3"
-"KT","Kế toán","IS201A","Tin quản lý 1A","","","2"
-"KT","Kế toán","IS201B","Tin quản lý 2","","","2"
-"KT","Kế toán","IS202","Tin quản lý Foxpro","IS101 (0), IS201A (1), IS101A (2), IS101B (3), IS206 (4)","","3"
-"KT","Kế toán","IS202A","Lập trình quản lý 1","","","2"
-"KT","Kế toán","IS202B","Lập trình quản lý 2","","","2"
-"KT","Kế toán","IS202C","Lập trình quản lý","","","2"
-"KT","Kế toán","IS206","Kĩ năng soạn thảo văn bản","IS009 (0)","72","3"
-"KT","Kế toán","IS207","Ứng dụng Exel","IS206 (0), IS101 (1)","","3"
-"KT","Kế toán","IS301","Tin học văn phòng nâng cao","IS101 (0), IS101A (1), IS101B (2), IS201A (3), IS201B (4), IS202A (5), IS202B (6)","100","3"
-"KT","Kế toán","IS382","Công nghệ thông tin trong doanh nghiệp","MK202 (1), BA101 (2), MK202 (2), BA102 (3), BA101 (0), MK201 (0), MK201 (3), BA102 (1), MK202 (4)","100","2"
-"KT","Kế toán","MA100A","Toán 1","","","2"
-"KT","Kế toán","MA101","Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)","GE103 (0), GE102A (1)","","3"
-"KT","Kế toán","MA101A","Logic, suy luận toán học và kỹ thuật đếm","","","3"
-"KT","Kế toán","MA102","Toán cơ sở","","","3"
-"KT","Kế toán","MA142","Đại số tuyến tính, giải tích và ứng dụng trong kinh tế","MA100A (0), MA102 (3), EC101 (0), MA101A (4), EC101 (4), EC101 (2), EC101 (3)","","4"
-"KT","Kế toán","MA142A","Đại số tuyến tính","","","2"
-"KT","Kế toán","MA142B","Giải tích trong kinh tế","","","2"
-"KT","Kế toán","MA230","Xác suất","","","3"
-"KT","Kế toán","MA230A","Xác suất thống kê","","","3"
-"KT","Kế toán","MA231","Xác suất thống kê ứng dụng","IM001 (2), MA142 (3), IS009 (3), MA142 (1), MA142A (0), MA142B (0), IS101 (1), MA142 (6), IM201 (6), MA142 (4), IM202 (4), MA142 (2)","","4"
-"KT","Kế toán","MA231A","Thống kê 1","","","2"
-"KT","Kế toán","MA231B","Thống kê 2","","","2"
-"KT","Kế toán","MA241","Toán tài chính","MA142 (0), MA142A (1)","","2"
-"KT","Kế toán","MEC10","Kinh tế vi mô 2","","","2"
-"KT","Kế toán","MEC18`","Kinh tế vĩ mô 2","","","2"
-"KT","Kế toán","MK201","Nguyên lý marketing","EC101 (0)","","2"
-"KT","Kế toán","MK202","Marketing căn bản","EC101 (0)","","3"
-"KT","Kế toán","MK302","Nghiên cứu marketing","MK201 (0), MK202 (1)","","3"
-"KT","Kế toán","MK305","Tâm lý hành vi người tiêu dùng","MK201 (0), MK202 (1)","","3"
-"KT","Kế toán","MK306","Tâm lý hành vi người tiêu dùng","MK201 (0), MK202 (1)","","3"
-"KT","Kế toán","MK311","Quản trị Marketing","MK201 (0)","","3"
-"KT","Kế toán","MK311A","Quản trị marketing 1","","","2"
-"KT","Kế toán","MK311B","Quản trị marketing 2","","","2"
-"KT","Kế toán","MK312","Quản trị thương hiệu","MK201 (0)","","2"
-"KT","Kế toán","MK313","Quản trị thương hiệu","MK201 (0), MK202 (1)","","3"
-"KT","Kế toán","MK321","Quản trị kênh phân phối","MK311 (0), MK311A (1), MK311B (2)","","2"
-"KT","Kế toán","MK322","Quản trị chuỗi cung ứng","MK201 (0), MK202 (1)","","3"
-"KT","Kế toán","MK326","Đồ họa truyền thông","IS101 (0), IS206 (1)","","2"
-"KT","Kế toán","MK331","Marketing ngân hàng","MK201 (0), MK202 (1)","","2"
-"KT","Kế toán","MK333","Marketing dịch vụ","MK201 (0), MK202 (1)","","2"
-"KT","Kế toán","MK335","E - Marketing","MK201 (0), MK202 (1)","","3"
-"KT","Kế toán","MK418","Marketing quốc tế","MK201 (0), MK202 (1)","","2"
-"KT","Kế toán","MK419","CĐTN: Marketing Quốc tế","MK311 (0)","110","3"
-"KT","Kế toán","MK419A","CĐTN: Marketing quốc tế","","110","2"
-"KT","Kế toán","MK420","Marketing công nghiệp","MK202 (0)","","3"
-"KT","Kế toán","MK422","Quản trị quảng cáo","MK311 (0), MK311A (1), MK311B (2)","","3"
-"KT","Kế toán","MK423","Quan hệ cộng đồng","","50","2"
-"KT","Kế toán","MK424","Quản trị bán hàng","MK201 (0), MK202 (1)","","3"
-"KT","Kế toán","MK425","Quan hệ công chúng","MK201 (0), MK202 (1)","","3"
-"KT","Kế toán","MK426","Truyền thông marketing tích hợp","MK202 (0), MK201 (1)","","3"
-"KT","Kế toán","ML101","Những NLCB của chủ nghĩa Mác - Lênin","","","5"
-"KT","Kế toán","ML111","Triết học Mác – Lênin","","","2"
-"KT","Kế toán","ML112","Kinh tế chính trị và CNXH khoa học","","","3"
-"KT","Kế toán","ML112A","Kinh tế chính trị","","","3"
-"KT","Kế toán","ML112B","Chủ nghĩa xã hội khoa học","","","2"
-"KT","Kế toán","ML202","Tư tưởng Hồ Chí Minh","ML101 (0), ML111 (1), ML112A (2), ML112B (3)","","2"
-"KT","Kế toán","ML203","Đường lối cách mạng của Đảng CS Việt Nam","ML202 (0)","","3"
-"KT","Kế toán","MLE15A","Tiếng anh doanh nghiệp phần 1A","","","2"
-"KT","Kế toán","MLE15B","Tiếng anh doanh nghiệp phần 1B","","","2"
-"KT","Kế toán","MLE16A","Tiếng anh doanh nghiệp phần 2A","","","2"
-"KT","Kế toán","NA151","Khoa học môi trường","","","2"
-"KT","Kế toán","PE221","Tiếng Anh doanh nghiệp 1A","GE202 (0), GE201 (0)","","2"
-"KT","Kế toán","PE322","Tiếng Anh doanh nghiệp 1B","GE202 (0), PE221 (0)","","2"
-"KT","Kế toán","PE323","Tiếng Anh doanh nghiệp 2A","PE221 (0), PE322 (0)","","2"
-"KT","Kế toán","PE325","Tiếng Anh doanh nghiệp 1","PE322 (3), PE221 (3), PE221 (1), GE213 (1), GE213 (0), GE212 (0), GE212 (4), PE322 (4)","","2"
-"KT","Kế toán","PE326","Tiếng Anh doanh nghiệp 2","GE213 (0), PE325 (1), PE322 (2), PE325 (0), PE322 (1), PE323 (2), GE213 (3), PE323 (3)","","2"
-"KT","Kế toán","PE424","Tiếng Anh doanh nghiệp 2B","PE322 (0), PE323 (0)","","2"
-"KT","Kế toán","PE426","TOEIC","PE424 (0)","","2"
-"KT","Kế toán","PG100","Giáo dục thể chất","","","4"
-"KT","Kế toán","PG100A","Giáo dục thể chất","","","4"
-"KT","Kế toán","PG101","GDTC: Lý thuyết","","","1"
-"KT","Kế toán","PG102","GDTC: Thể dục cổ truyền cơ bản","","","1"
-"KT","Kế toán","PG103","GDTC: Thể dục cổ truyền nâng cao","PG102 (0)","","1"
-"KT","Kế toán","PG104","GDTC: Cầu lông cơ bản","","","1"
-"KT","Kế toán","PG105","GDTC: Cầu lông nâng cao","PG104 (0)","","1"
-"KT","Kế toán","PG106","GDTC: Bóng bàn cơ bản","","","1"
-"KT","Kế toán","PG107","GDTC: Bóng bàn nâng cao","PG106 (0)","","1"
-"KT","Kế toán","PG108","GDTC: Thể dục nhịp điệu cơ bản","","","1"
-"KT","Kế toán","PG109","GDTC: Thể dục nhịp điệu nâng cao","PG108 (0)","","1"
-"KT","Kế toán","PG110","GDTC: Bơi cơ bản","","","1"
-"KT","Kế toán","PG111","GDTC: Khiêu vũ thể thao cơ bản","","","1"
-"KT","Kế toán","PG112","GDTC: Khiêu vũ thể thao nâng cao","PG111 (0)","","1"
-"KT","Kế toán","PG113","GDTC: Bóng rổ cơ bản","","","1"
-"KT","Kế toán","PG114","GDTC: Bóng rổ nâng cao","PG113 (0)","","1"
-"KT","Kế toán","PG115","GDTC: Bóng chuyền cơ bản","","","1"
-"KT","Kế toán","PG116","GDTC: Bóng chuyền nâng cao","","","1"
-"KT","Kế toán","PG117","GDTC: Thể dục dã ngoại","","","1"
-"KT","Kế toán","PG118","GDTC: Thể dục cơ bản","","","1"
-"KT","Kế toán","PG119","GDTC: Thể dục Erobic","","","1"
-"KT","Kế toán","PG120","Thể dục cơ bản nâng cao","PG118 (0)","","1"
-"KT","Kế toán","PG121","Giáo dục quốc phòng","","","4"
-"KT","Kế toán","PG121D","Đường lối quân sự của Đảng","","","2"
-"KT","Kế toán","PG121E","Công tác quốc phòng - an ninh","","","2"
-"KT","Kế toán","PG122","GDQP: Đường lối quân sự của Đảng","","","1"
-"KT","Kế toán","PG123","GDQP: Công tác quốc phòng - an ninh","","","1"
-"KT","Kế toán","PG124","GDQP: Quân sự chung","","","1"
-"KT","Kế toán","PG125","GDQP: Kỹ thuật bắn súng","","","1"
-"KT","Kế toán","PG131","GDTC: Bóng rổ nâng cao 1","","","1"
-"KT","Kế toán","PG132","GDTC: Bóng rổ nâng cao 2","","","1"
-"KT","Kế toán","PG133","GDTC: Bóng rổ nâng cao 3","","","1"
-"KT","Kế toán","PG134","GDTC: Bóng rổ nâng cao 4","","","1"
-"KT","Kế toán","PG141","GDTC: Bóng chuyền nâng cao 1","","","1"
-"KT","Kế toán","PG142","GDTC: Bóng chuyền nâng cao 2","","","1"
-"KT","Kế toán","PG143","GDTC: Bóng chuyền nâng cao 3","","","1"
-"KT","Kế toán","PG144","GDTC: Bóng chuyền nâng cao 4","","","1"
-"KT","Kế toán","PG150","Bóng đá","","","4"
-"KT","Kế toán","PG151","Bóng đá nâng cao","","","4"
-"KT","Kế toán","PG160","Nhảy hiện đại","","","4"
-"KT","Kế toán","PG161","Nhảy hiện đại nâng cao","","","4"
-"KT","Kế toán","PV101","Tiếng Việt thực hành","","","2"
-"KT","Kế toán","SB203","Kỹ năng đàm phán trong kinh doanh","","50","2"
-"KT","Kế toán","SC201","Kỹ năng giao tiếp và thuyết trình","","36","2"
-"KT","Kế toán","SH121","Địa lý kinh tế","","","2"
-"KT","Kế toán","SH131","Pháp luật đại cương","","","2"
-"KT","Kế toán","SM201","Phương pháp luận nghiên cứu khoa học","","36","3"
-"KT","Kế toán","ST450","Toeic","","","3"
-"KT","Kế toán","TT499","Thực tập tốt nghiệp","","112","3"
-"KT","Kế toán","VL101","Tiếng Việt thực hành","","","2"
-"KT","Kế toán","VR201","Ẩm thực Việt Nam","","","3"
-"KT","Kế toán","VR203","Ẩm thực Việt Nam","","","4"
-"KT","Kế toán","VR203A","Ẩm thực Việt Nam","","","3"
-"TI","Khoa học máy tính","AD204","Ẩm thực Việt nam","","","4"
-"TI","Khoa học máy tính","AD204A","Ẩm thực Việt Nam","","","3"
-"TI","Khoa học máy tính","AD206","Ẩm thực Việt Nam","","","3"
-"TI","Khoa học máy tính","AD211","Văn hóa Hà Nội","","36","2"
-"TI","Khoa học máy tính","AD212","Phương pháp hùng biện và các thủ thuật tranh biện","","36","3"
-"TI","Khoa học máy tính","AD213","Hát – Nhạc","","","3"
-"TI","Khoa học máy tính","AD213A","Hát – Nhạc","","","4"
-"TI","Khoa học máy tính","AD214","Nâng cao chất lượng giọng hát","AD213 (0), AD213A (1)","","3"
-"TI","Khoa học máy tính","AD215","Ứng dụng PowerPoint","IS206 (1), IM201 (0), IM202 (2)","","3"
-"TI","Khoa học máy tính","AD216","Tâm lý và kỹ năng giao tiếp với người cao tuổi","","50","3"
-"TI","Khoa học máy tính","AD221","Kĩ năng giao lưu văn hóa","","","2"
-"TI","Khoa học máy tính","AD222","Thực hành giao lưu văn hoá","","","3"
-"TI","Khoa học máy tính","AD231","Thể thao","","","3"
-"TI","Khoa học máy tính","AD250","Dinh dưỡng và tiết chế","","","3"
-"TI","Khoa học máy tính","AD312","Bóng đá","","","4"
-"TI","Khoa học máy tính","AD313","Bóng đá nâng cao","AD312 (0)","","4"
-"TI","Khoa học máy tính","AD314","Nhảy hiện đại","","","4"
-"TI","Khoa học máy tính","AD315","Nhảy hiện đại nâng cao","AD314 (0)","","4"
-"TI","Khoa học máy tính","AD414","Toeic","GE305 (0)","","2"
-"TI","Khoa học máy tính","AD420","Khởi nghiệp","","","3"
-"TI","Khoa học máy tính","CF201","Lý thuyết thuật toán","MI201 (0)","","3"
-"TI","Khoa học máy tính","CF201A","Lý thuyết thuật toán 1","","","2"
-"TI","Khoa học máy tính","CF201B","Lý thuyết thuật toán 2","","","2"
-"TI","Khoa học máy tính","CF211","Phân tích và thiết kế thuật toán","CS121 (1)","","2"
-"TI","Khoa học máy tính","CF212","Cấu trúc dữ liệu","CS122 (0), CS122A (1), CS122B (2)","","3"
-"TI","Khoa học máy tính","CF212A","Cấu trúc dữ liệu 1","","","2"
-"TI","Khoa học máy tính","CF212B","Cấu trúc dữ liệu 2","","","2"
-"TI","Khoa học máy tính","CF231","Lý thuyết thông tin và mã hóa","MA231 (1)","","2"
-"TI","Khoa học máy tính","CF301","Ngôn ngữ hình thức và Otomat","MI201 (0)","","3"
-"TI","Khoa học máy tính","CF302","Văn phạm, ngôn ngữ hình thức, otomat và CT dịch","MI201 (0)","","3"
-"TI","Khoa học máy tính","CF302B","Chương trình dịch","","","2"
-"TI","Khoa học máy tính","CF321","Xử lý tín hiệu số","MI201 (0)","","3"
-"TI","Khoa học máy tính","CG101","Đồ họa căn bản","","","2"
-"TI","Khoa học máy tính","CG102","Đồ họa vector","CG101 (0)","","2"
-"TI","Khoa học máy tính","CG103","Xử lý ảnh phục vụ in ấn và Web","CG102 (0)","","3"
-"TI","Khoa học máy tính","CG104","Quảng cáo và xuất bản truyền thông","CG103 (0)","","3"
-"TI","Khoa học máy tính","CG201","Thiết kế Web","","","3"
-"TI","Khoa học máy tính","CG202","Web động và tương tác","CG201 (0)","","5"
-"TI","Khoa học máy tính","CG203","Adobe Dream Weave CS6","CG202 (0)","","2"
-"TI","Khoa học máy tính","CG251","Minh họa với Adobe Illustration","PE201 (0)","","2"
-"TI","Khoa học máy tính","CG253","Xử lý ảnh với Adobe Photoshop","PE201 (0)","","3"
-"TI","Khoa học máy tính","CG254","Thiết kế QC và XBTT với Adobe Indesign","PE201 (0)","","2"
-"TI","Khoa học máy tính","CG257","Thiết kế Web với Adobe Dream Weaver","PE201 (0)","","2"
-"TI","Khoa học máy tính","CG275","Thiết kế Web động với Adobe Flash","PE201 (0)","","3"
-"TI","Khoa học máy tính","CG277","Thiết kế Web động và HH với Adobe Flash","PE201 (0)","","5"
-"TI","Khoa học máy tính","CG283","Biên tập và Streaming Video","PE201 (0)","","3"
-"TI","Khoa học máy tính","CG285","Biên tập Audio - Video","PE201 (0)","","4"
-"TI","Khoa học máy tính","CG288","Visual Effects - After Effects","PE201 (0)","","2"
-"TI","Khoa học máy tính","CG428","CĐTN: Đồ họa QC và xuất bản TT","CG103 (0)","","3"
-"TI","Khoa học máy tính","CG429","CĐTN Thiết kế Web","CG203 (0)","","3"
-"TI","Khoa học máy tính","CS100","Tin đại cương","","","2"
-"TI","Khoa học máy tính","CS100A","Nhập môn khoa học máy tính","","","2"
-"TI","Khoa học máy tính","CS110","Kỹ thuật số","MA102 (0), MA101 (1)","","2"
-"TI","Khoa học máy tính","CS121","Ngôn ngữ lập trình","","","3"
-"TI","Khoa học máy tính","CS121A","Ngôn ngữ lập trình 1A","","","2"
-"TI","Khoa học máy tính","CS122","Lập trình hướng đối tượng","CS121 (0), CS121A (1)","","3"
-"TI","Khoa học máy tính","CS122A","Lập trình hướng đối tượng","","","2"
-"TI","Khoa học máy tính","CS122B","Lập trình hướng đối tượng nâng cao","","","2"
-"TI","Khoa học máy tính","CS211","Vi điều khiển và ứng dụng","CS110 (0)","","3"
-"TI","Khoa học máy tính","CS212","Kiến trúc máy tính","CS122A (0), CS122B (2), CS122 (1), CS110 (0), CS110 (1), CS110 (2)","","3"
-"TI","Khoa học máy tính","CS212A","Kiến trúc máy tính 1","","","2"
-"TI","Khoa học máy tính","CS212B","Kiến trúc máy tính 2","CS212A (0)","","2"
-"TI","Khoa học máy tính","CS223","Lập trình Java","CS122 (0), CS122A (1), CS122B (2)","","3"
-"TI","Khoa học máy tính","CS223B","Lập trình Java nâng cao","","","2"
-"TI","Khoa học máy tính","CS224","Lập trình .Net","CS122A (1), CS122B (2), IS222 (0)","","3"
-"TI","Khoa học máy tính","CS311","Lập trình ứng dụng di động","CS122 (0)","","2"
-"TI","Khoa học máy tính","CS311A","Hợp ngữ","CS212 (0), CS212A (1), CS212B (2)","","2"
-"TI","Khoa học máy tính","CS312","Lập trình hệ thống","CS212 (0), CS212A (1), CS212B (2)","","3"
-"TI","Khoa học máy tính","CS312A","Lập trình hệ thống","","","2"
-"TI","Khoa học máy tính","CS315","Nguyên lý hệ điều hành","CS212 (0), CS212A (1), CS212B (2)","","3"
-"TI","Khoa học máy tính","CS315A","Hệ điều hành Unix","","","3"
-"TI","Khoa học máy tính","CS316","Hệ điều hành Unix","CS212 (0), CS212A (2), CS212B (1)","","3"
-"TI","Khoa học máy tính","CS322","Chương trình dịch","CF301 (0)","","2"
-"TI","Khoa học máy tính","CS324","Kỹ thuật lập trình","CS122 (0)","","2"
-"TI","Khoa học máy tính","CS325","Lập trình PHP","IS222 (0), IS222A (1)","","3"
-"TI","Khoa học máy tính","CS411","Ứng dụng KT vi xử lý trong đo lường và điều khiển","CS122 (0)","","2"
-"TI","Khoa học máy tính","CS425","Một số vấn đề hiện đại trong khoa học máy tính","","90","2"
-"TI","Khoa học máy tính","CS428","CĐTN: Công nghệ .Net","CS223 (0), CS223B (1)","117","6"
-"TI","Khoa học máy tính","CS429","CĐTN: Công nghệ Java","CS224 (0)","117","6"
-"TI","Khoa học máy tính","CS499","KLTN ngành Khoa học máy tính","","127","6"
-"TI","Khoa học máy tính","EC101","Kinh tế học đại cương","","","3"
-"TI","Khoa học máy tính","EC102","Nhập môn kinh tế học","","","2"
-"TI","Khoa học máy tính","ET220","Lý thuyết mạch","MA102 (0), MA101A (1)","","3"
-"TI","Khoa học máy tính","FN334","Đầu tư chứng khoán","","48","2"
-"TI","Khoa học máy tính","GE100","Tiếng Anh cho người mới bắt đầu","","","2"
-"TI","Khoa học máy tính","GE100A","Tiếng Anh cho người mới bắt đầu","","","0"
-"TI","Khoa học máy tính","GE101","Tiếng Anh sơ cấp 1","","","2"
-"TI","Khoa học máy tính","GE101A","Tiếng Anh sơ cấp 1","","","2"
-"TI","Khoa học máy tính","GE102","Tiếng Anh sơ cấp 2","GE101 (0), GE101A (1)","","2"
-"TI","Khoa học máy tính","GE102A","Tiếng Anh sơ cấp 2","","","2"
-"TI","Khoa học máy tính","GE103","Tiếng Anh sơ cấp 3","GE101 (0), GE102 (0), GE101A (1), GE102 (1), GE101 (2), GE102A (2), GE101A (3), GE102A (3)","","2"
-"TI","Khoa học máy tính","GE201","Tiếng Anh sơ trung cấp 1","GE103 (0), GE102 (0), GE102A (1), GE103 (1), GE101A (2), GE102A (2)","","2"
-"TI","Khoa học máy tính","GE201A","Tiếng Anh sơ trung cấp 1","","","2"
-"TI","Khoa học máy tính","GE202","Tiếng Anh sơ trung cấp 2","GE103 (0), GE103 (1), GE201 (0), GE201A (1), GE201A (2), GE102A (2), GE102A (3), GE201 (3)","","2"
-"TI","Khoa học máy tính","GE202A","Tiếng Anh sơ trung cấp 2","","","2"
-"TI","Khoa học máy tính","GE203","Kỹ năng giao tiếp tiếng Anh 1","PE304 (0), PE305 (0), PE201 (1), PE302 (1), PE201 (2), PE305 (2), PE304 (3), PE302 (3)","","2"
-"TI","Khoa học máy tính","GE203A","Kỹ năng giao tiếp tiếng anh 1","","","2"
-"TI","Khoa học máy tính","GE204","Kỹ năng giao tiếp tiếng Anh 2","PE305 (0), GE203 (0), PE305 (1), PE303 (1), PE302 (2), GE203 (2), PE302 (3), PE303 (3)","","2"
-"TI","Khoa học máy tính","GE205","Tiếng Anh sơ trung cấp 3","GE201 (0), GE202 (0), GE201 (1), GE202A (1), GE201A (2), GE202 (2), GE201A (3), GE202A (3)","","2"
-"TI","Khoa học máy tính","GE301","Tiếng Anh trung cấp 1","GE202 (0), GE205 (0), GE202A (1), GE205 (1), GE202A (2), GE201A (2)","","2"
-"TI","Khoa học máy tính","GE303","Tiếng Anh trung cấp 2","GE205 (0), GE301 (0), GE202A (1), GE301 (1), GE202A (2), GE203 (2), GE202A (3), PE303 (3)","","2"
-"TI","Khoa học máy tính","GE305","Tiếng Anh trung cấp 3","GE301 (0), GE303 (0), GE203 (1), GE204 (1), PE303 (2), PE404 (2), GE203 (3), GE303 (3), GE203 (4), PE404 (4)","","2"
-"TI","Khoa học máy tính","GE320A","TOEIC","","","2"
-"TI","Khoa học máy tính","GF101","Tiếng Pháp 1","","","2"
-"TI","Khoa học máy tính","GF102","Tiếng Pháp 2","GF101 (0)","","2"
-"TI","Khoa học máy tính","GF223","Tiếng Pháp 3","GF102 (0)","","2"
-"TI","Khoa học máy tính","GI101","Tiếng Ý 1","","","2"
-"TI","Khoa học máy tính","GI102","Tiếng Ý 2","GI101 (0)","","2"
-"TI","Khoa học máy tính","GJ101","Tiếng Nhật 1","","","2"
-"TI","Khoa học máy tính","GJ102","Tiếng Nhật 2","GJ101 (0)","","2"
-"TI","Khoa học máy tính","GK101","Tiếng Hàn 1","","","2"
-"TI","Khoa học máy tính","GK102","Tiếng Hàn 2","GK101 (0)","","2"
-"TI","Khoa học máy tính","GZ101","Tiếng Trung 1","","","2"
-"TI","Khoa học máy tính","GZ102","Tiếng Trung 2","GZ101 (0)","","2"
-"TI","Khoa học máy tính","GZ103","Tiếng Trung 3","GZ102 (0)","","2"
-"TI","Khoa học máy tính","IM001","Kỹ năng CNTT cơ bản","","","0"
-"TI","Khoa học máy tính","IM002","Kỹ năng soạn thảo VB(MS Office)","IM001 (0)","36","3"
-"TI","Khoa học máy tính","IM003","Kỹ năng soạn thảo VB(open Office)","IM001 (0)","36","3"
-"TI","Khoa học máy tính","IM004","Ứng dụng Excel","IM002 (0)","","3"
-"TI","Khoa học máy tính","IM201","Kỹ năng soạn thảo VB (MS office)","IM001 (0)","","3"
-"TI","Khoa học máy tính","IM202","Kỹ năng soạn thảo văn bản (Open Office)","IM001 (0)","","3"
-"TI","Khoa học máy tính","IM203","Ứng dụng Excel","IS206 (0), IM201 (1)","","3"
-"TI","Khoa học máy tính","IM204","Ứng dụng Cal","IM202 (0)","","3"
-"TI","Khoa học máy tính","IP401","Thực tập ngành Khoa học máy tính","","107","2"
-"TI","Khoa học máy tính","IS009","Máy tính và Internet","","","1"
-"TI","Khoa học máy tính","IS101","Tin văn phòng","","","3"
-"TI","Khoa học máy tính","IS206","Kĩ năng soạn thảo văn bản","IS009 (0)","72","3"
-"TI","Khoa học máy tính","IS207","Ứng dụng Exel","IS206 (0)","","3"
-"TI","Khoa học máy tính","IS222","Cơ sở dữ liệu","CS121 (3), CS121A (2), CS121 (0), CS121A (1), MA102 (1), MA102 (0), MA101A (3), MA101A (2), CS121 (4), MA101 (4)","","3"
-"TI","Khoa học máy tính","IS222A","Bài tập lớn về CSDL","","","2"
-"TI","Khoa học máy tính","IS223A","Cơ sở dữ liệu 2","","","2"
-"TI","Khoa học máy tính","IS224A","Cơ sở dữ liệu phân tán","","","2"
-"TI","Khoa học máy tính","IS301","Tin học văn phòng nâng cao","CS100 (0)","100","3"
-"TI","Khoa học máy tính","IS314","Hệ thống thông tin","IS222 (0)","","3"
-"TI","Khoa học máy tính","IS316","Hạ tầng công nghệ thông tin","","70","2"
-"TI","Khoa học máy tính","IS317","Hạ tầng công nghệ thông tin","","","2"
-"TI","Khoa học máy tính","IS322","Hệ quản trị cơ sở dữ liệu","IS222 (0)","","3"
-"TI","Khoa học máy tính","IS322A","Hệ quản trị cơ sở dữ liệu 1","","","2"
-"TI","Khoa học máy tính","IS322B","Hệ quản trị cơ sở dữ liệu 2","","","2"
-"TI","Khoa học máy tính","IS322C","Hệ quản trị cơ sở dữ liệu 3","","","2"
-"TI","Khoa học máy tính","IS322D","Hệ quản trị cơ sở dữ liệu 4","","","2"
-"TI","Khoa học máy tính","IS322E","Hệ quản trị cơ sở dữ liệu","","","4"
-"TI","Khoa học máy tính","IS325","Cơ sở dữ liệu phân tán","IS222 (0), NW212 (0)","","2"
-"TI","Khoa học máy tính","IS329","Dữ liệu lớn","","","2"
-"TI","Khoa học máy tính","IS332","Phân tích thiết kế hướng đối tượng","IS222 (1), CS122 (0), IS222 (0), CS122A (1)","","3"
-"TI","Khoa học máy tính","IS333","Phân tích thiết kế hệ thống thông tin","IS222 (0)","","2"
-"TI","Khoa học máy tính","IS345","An toàn thông tin","CF231 (0)","","3"
-"TI","Khoa học máy tính","IS346","Pháp luật và chính sách an toàn thông tin","IS345 (0)","","2"
-"TI","Khoa học máy tính","IS381","Hệ thống thông tin quản lý","","90","3"
-"TI","Khoa học máy tính","IS383","Hệ thống thông tin nâng cao","IS314 (0)","","2"
-"TI","Khoa học máy tính","IS385","Cơ sở dữ liệu phân tán","IS222 (0), NW212 (0)","","2"
-"TI","Khoa học máy tính","IS424","Lập trình cơ sở dữ liệu","IS332 (0), IS222 (3), IS322 (1)","","3"
-"TI","Khoa học máy tính","IS424A","Lập trình cơ sở dữ liệu 1","","","4"
-"TI","Khoa học máy tính","IS424B","Lập trình cơ sở dữ liệu 2","","","4"
-"TI","Khoa học máy tính","IS424C","CĐTN: Phát triển ứng dụng trên Oracle","","","2"
-"TI","Khoa học máy tính","IS430","Công nghệ Blockchain","","100","3"
-"TI","Khoa học máy tính","IS480","Kiến trúc doanh nghiệp","","100","3"
-"TI","Khoa học máy tính","IS484","CĐTN: Cơ sở dữ liệu","IS222 (0)","117","6"
-"TI","Khoa học máy tính","IS487","CĐTN: Hệ thống thông tin quản lý","IS381 (0)","110","6"
-"TI","Khoa học máy tính","IS489","CĐTN: Hệ thống thông tin ngân hàng","IS332 (0), IS381 (1)","110","6"
-"TI","Khoa học máy tính","MA100A","Toán 1","","","2"
-"TI","Khoa học máy tính","MA101","Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)","GE103 (0)","","3"
-"TI","Khoa học máy tính","MA101A","Logic, suy luận toán học và kỹ thuật đếm","","","3"
-"TI","Khoa học máy tính","MA102","Toán cơ sở","","","3"
-"TI","Khoa học máy tính","MA103","Số và cấu trúc đại số","","","3"
-"TI","Khoa học máy tính","MA104","Số và cấu trúc đại số","","","3"
-"TI","Khoa học máy tính","MA110","Giải tích 1","","","3"
-"TI","Khoa học máy tính","MA110A","Giải tích 1A","","","2"
-"TI","Khoa học máy tính","MA111","Giải tích 2","MA110 (0), MA110A (1)","","3"
-"TI","Khoa học máy tính","MA111A","Giải tích 2A","","","2"
-"TI","Khoa học máy tính","MA111B","Giải tích 2B","","","2"
-"TI","Khoa học máy tính","MA120","Đại số tuyến tính","","","3"
-"TI","Khoa học máy tính","MA120A","Đại số tuyến tính 1","","","2"
-"TI","Khoa học máy tính","MA120B","Đại số tuyến tính 2","","","2"
-"TI","Khoa học máy tính","MA212","Phương trình vi phân","MA111 (0), MA111A (1), MA111B (2)","","2"
-"TI","Khoa học máy tính","MA222","Đại số đại cương","MA120 (0), MA120A (1), MA120B (2)","","2"
-"TI","Khoa học máy tính","MA230","Xác suất","MA111 (0), MA111A (1), MA111B (2)","","3"
-"TI","Khoa học máy tính","MA231","Xác suất thống kê ứng dụng","MA120 (0), MA120A (1), CS100 (1), CS100 (2), MA120A (3), MA120B (2), CS100A (3), CS100 (0), MA120 (4), CS100A (4)","","4"
-"TI","Khoa học máy tính","MA313","Hàm biến phức","MA111 (0), MA111B (1)","","2"
-"TI","Khoa học máy tính","MI201","Toán rời rạc","CS122 (0)","","3"
-"TI","Khoa học máy tính","MI311","Mã hóa và an toàn dữ liệu","MI201 (0)","","2"
-"TI","Khoa học máy tính","MI311A","Lý thuyết thông tin và mã hoá","","","2"
-"TI","Khoa học máy tính","MI312","Đồ họa","CS122 (0), MA120 (0), MA120 (1), CS122A (1), MA120A (2), CS122 (2)","","2"
-"TI","Khoa học máy tính","MI321","Trí tuệ nhân tạo","CF212 (0), CF212A (1), CF212B (2), MI201 (0), MI201 (1), MI201 (2)","","3"
-"TI","Khoa học máy tính","MI321A","Trí tuệ nhân tạo","","","2"
-"TI","Khoa học máy tính","MI322","Trí tuệ nhân tạo và công nghệ tri thức","","","3"
-"TI","Khoa học máy tính","MI414","Giao diện người máy","MI312 (0)","","2"
-"TI","Khoa học máy tính","ML101","Những NLCB của chủ nghĩa Mác - Lênin","","","5"
-"TI","Khoa học máy tính","ML111","Triết học Mác – Lênin","","","2"
-"TI","Khoa học máy tính","ML112","Kinh tế chính trị và CNXH khoa học","","","3"
-"TI","Khoa học máy tính","ML112A","Kinh tế chính trị","","","3"
-"TI","Khoa học máy tính","ML112B","Chủ nghĩa xã hội khoa học","","","2"
-"TI","Khoa học máy tính","ML202","Tư tưởng Hồ Chí Minh","ML111 (0), ML101 (1), ML112A (2), ML112B (3)","","2"
-"TI","Khoa học máy tính","ML203","Đường lối cách mạng của Đảng CS Việt Nam","ML202 (0)","","3"
-"TI","Khoa học máy tính","NA151","Khoa học môi trường","","","2"
-"TI","Khoa học máy tính","NW212","Mạng máy tính","CS212 (0), CS212A (1), CS212B (2)","","2"
-"TI","Khoa học máy tính","NW212A","Internet","","","2"
-"TI","Khoa học máy tính","NW312","Thiết kế và quản trị mạng","NW212 (0), NW212A (1)","","3"
-"TI","Khoa học máy tính","NW312A","Thiết kế quản trị mạng","","","4"
-"TI","Khoa học máy tính","NW322","Lập trình mạng","NW312 (0), NW312A (1)","","2"
-"TI","Khoa học máy tính","NW322A","Lập trình mạng","","","4"
-"TI","Khoa học máy tính","NW332","An toàn mạng","NW312 (0), NW312A (1)","","3"
-"TI","Khoa học máy tính","NW332A","An toàn mạng","","","4"
-"TI","Khoa học máy tính","NW439","CĐTN: An toàn mạng","NW312 (0)","117","6"
-"TI","Khoa học máy tính","NW439A","CĐTN: Quản trị mạng","","","2"
-"TI","Khoa học máy tính","NW439B","CĐTN: Lập trình mạng","","","2"
-"TI","Khoa học máy tính","PE201","Tiếng Anh trong tin học 1A","GE202 (0), GE201 (0)","","2"
-"TI","Khoa học máy tính","PE302","Tiếng Anh trong tin học 1B","GE202 (0), PE201 (0)","","2"
-"TI","Khoa học máy tính","PE303","Tiếng Anh trong tin học 2A","PE201 (0), PE302 (0)","","2"
-"TI","Khoa học máy tính","PE304","Tiếng Anh trong tin học 1","GE201 (3), GE202 (3), GE201 (1), GE202A (1), GE201A (2), GE202A (2)","","2"
-"TI","Khoa học máy tính","PE305","Tiếng Anh trong tin học 2","PE304 (0), GE202 (1), PE201 (1), GE202 (0), GE202A (2), PE304 (2), GE202A (3), PE201 (3)","","2"
-"TI","Khoa học máy tính","PE404","Tiếng Anh trong tin học 2B","PE302 (0), PE303 (0)","","2"
-"TI","Khoa học máy tính","PG100","Giáo dục thể chất","","","4"
-"TI","Khoa học máy tính","PG100A","Giáo dục thể chất","","","4"
-"TI","Khoa học máy tính","PG101","GDTC: Lý thuyết","","","1"
-"TI","Khoa học máy tính","PG102","GDTC: Thể dục cổ truyền cơ bản","","","1"
-"TI","Khoa học máy tính","PG103","GDTC: Thể dục cổ truyền nâng cao","PG102 (0)","","1"
-"TI","Khoa học máy tính","PG104","GDTC: Cầu lông cơ bản","","","1"
-"TI","Khoa học máy tính","PG105","GDTC: Cầu lông nâng cao","PG104 (0)","","1"
-"TI","Khoa học máy tính","PG106","GDTC: Bóng bàn cơ bản","","","1"
-"TI","Khoa học máy tính","PG107","GDTC: Bóng bàn nâng cao","PG106 (0)","","1"
-"TI","Khoa học máy tính","PG108","GDTC: Thể dục nhịp điệu cơ bản","","","1"
-"TI","Khoa học máy tính","PG109","GDTC: Thể dục nhịp điệu nâng cao","PG108 (0)","","1"
-"TI","Khoa học máy tính","PG110","GDTC: Bơi cơ bản","","","1"
-"TI","Khoa học máy tính","PG111","GDTC: Khiêu vũ thể thao cơ bản","","","1"
-"TI","Khoa học máy tính","PG112","GDTC: Khiêu vũ thể thao nâng cao","PG111 (0)","","1"
-"TI","Khoa học máy tính","PG113","GDTC: Bóng rổ cơ bản","","","1"
-"TI","Khoa học máy tính","PG114","GDTC: Bóng rổ nâng cao","PG113 (0)","","1"
-"TI","Khoa học máy tính","PG115","GDTC: Bóng chuyền cơ bản","","","1"
-"TI","Khoa học máy tính","PG116","GDTC: Bóng chuyền nâng cao","PG115 (0)","","1"
-"TI","Khoa học máy tính","PG117","GDTC: Thể dục dã ngoại","","","1"
-"TI","Khoa học máy tính","PG118","GDTC: Thể dục cơ bản","","","1"
-"TI","Khoa học máy tính","PG119","GDTC: Thể dục Erobic","","","1"
-"TI","Khoa học máy tính","PG120","Thể dục cơ bản nâng cao","PG118 (0)","","1"
-"TI","Khoa học máy tính","PG121","Giáo dục quốc phòng","","","4"
-"TI","Khoa học máy tính","PG121D","Đường lối quân sự của Đảng","","","2"
-"TI","Khoa học máy tính","PG121E","Công tác quốc phòng - an ninh","","","2"
-"TI","Khoa học máy tính","PG122","GDQP: Đường lối quân sự của Đảng","","","1"
-"TI","Khoa học máy tính","PG123","GDQP: Công tác quốc phòng - an ninh","","","1"
-"TI","Khoa học máy tính","PG124","GDQP: Quân sự chung","","","1"
-"TI","Khoa học máy tính","PG125","GDQP: Kỹ thuật bắn súng","","","1"
-"TI","Khoa học máy tính","PG131","GDTC: Bóng rổ nâng cao 1","","","1"
-"TI","Khoa học máy tính","PG132","GDTC: Bóng rổ nâng cao 2","","","1"
-"TI","Khoa học máy tính","PG133","GDTC: Bóng rổ nâng cao 3","","","1"
-"TI","Khoa học máy tính","PG134","GDTC: Bóng rổ nâng cao 4","","","1"
-"TI","Khoa học máy tính","PG141","GDTC: Bóng chuyền nâng cao 1","","","1"
-"TI","Khoa học máy tính","PG142","GDTC: Bóng chuyền nâng cao 2","","","1"
-"TI","Khoa học máy tính","PG143","GDTC: Bóng chuyền nâng cao 3","","","1"
-"TI","Khoa học máy tính","PG144","GDTC: Bóng chuyền nâng cao 4","","","1"
-"TI","Khoa học máy tính","PG150","Bóng đá","","","4"
-"TI","Khoa học máy tính","PG151","Bóng đá nâng cao","","","4"
-"TI","Khoa học máy tính","PG160","Nhảy hiện đại","","","4"
-"TI","Khoa học máy tính","PG161","Nhảy hiện đại nâng cao","","","4"
-"TI","Khoa học máy tính","PHTQT","Lớp quốc tế","","500","1"
-"TI","Khoa học máy tính","PV101","Tiếng Việt thực hành","","","2"
-"TI","Khoa học máy tính","SE302","Công nghệ phần mềm","IS332 (0)","","2"
-"TI","Khoa học máy tính","SE312","Kiểm thử và đảm bảo chất lượng phần mềm","SE302 (0)","","3"
-"TI","Khoa học máy tính","SE380","Project","SE302 (0)","","3"
-"TI","Khoa học máy tính","SE422","Quản lý dự án phần mềm","SE302 (0)","","3"
-"TI","Khoa học máy tính","SE487","CĐTN: Phát triển phần mềm","SE302 (0)","117","6"
-"TI","Khoa học máy tính","SH131","Pháp luật đại cương","","","2"
-"TI","Khoa học máy tính","SM201","Phương pháp luận nghiên cứu khoa học","","36","3"
-"TI","Khoa học máy tính","ST450","Toeic","","","3"
-"TI","Khoa học máy tính","VL101","Tiếng Việt thực hành","","","2"
-"TI","Khoa học máy tính","VR201","Ẩm thực Việt Nam","","","3"
-"TI","Khoa học máy tính","VR203","Ẩm thực Việt Nam","","","4"
-"TI","Khoa học máy tính","VR203A","Ẩm thực Việt Nam","","","3"
-"TE","Hệ thống thông tin","AC201","Nguyên lý kế toán","","40","3"
-"TE","Hệ thống thông tin","AC210","Kế toán doanh nghiệp","AC201 (0)","","3"
-"TE","Hệ thống thông tin","AC321","Kế toán ngân hàng 1","AC210 (0), BK201 (0)","","2"
-"TE","Hệ thống thông tin","AC341","Kế toán quản trị","AC210 (0)","","3"
-"TE","Hệ thống thông tin","AC422","Kế toán ngân hàng 2","AC321 (0)","","3"
-"TE","Hệ thống thông tin","AD201","Kỹ năng giao tiếp và thuyết trình","","36","2"
-"TE","Hệ thống thông tin","AD204","Ẩm thực Việt nam","","","4"
-"TE","Hệ thống thông tin","AD204A","Ẩm thực Việt Nam","","","3"
-"TE","Hệ thống thông tin","AD206","Ẩm thực Việt Nam","","","3"
-"TE","Hệ thống thông tin","AD211","Văn hóa Hà Nội","","36","2"
-"TE","Hệ thống thông tin","AD212","Phương pháp hùng biện và các thủ thuật tranh biện","","36","3"
-"TE","Hệ thống thông tin","AD213","Hát – Nhạc","","","3"
-"TE","Hệ thống thông tin","AD213A","Hát – Nhạc","","","4"
-"TE","Hệ thống thông tin","AD214","Nâng cao chất lượng giọng hát","AD213 (0), AD213A (1)","","3"
-"TE","Hệ thống thông tin","AD215","Ứng dụng PowerPoint","IS206 (1), IM201 (0), IM202 (2)","","3"
-"TE","Hệ thống thông tin","AD216","Tâm lý và kỹ năng giao tiếp với người cao tuổi","","50","3"
-"TE","Hệ thống thông tin","AD221","Kĩ năng giao lưu văn hóa","","","2"
-"TE","Hệ thống thông tin","AD222","Thực hành giao lưu văn hoá","","","3"
-"TE","Hệ thống thông tin","AD231","Thể thao","","","3"
-"TE","Hệ thống thông tin","AD250","Dinh dưỡng và tiết chế","","","3"
-"TE","Hệ thống thông tin","AD312","Bóng đá","","","4"
-"TE","Hệ thống thông tin","AD313","Bóng đá nâng cao","AD312 (0)","","4"
-"TE","Hệ thống thông tin","AD314","Nhảy hiện đại","","","4"
-"TE","Hệ thống thông tin","AD315","Nhảy hiện đại nâng cao","AD314 (0)","","4"
-"TE","Hệ thống thông tin","AD414","Toeic","GE305 (0)","","2"
-"TE","Hệ thống thông tin","AD420","Khởi nghiệp","","100","3"
-"TE","Hệ thống thông tin","BA101","Quản trị học","","","2"
-"TE","Hệ thống thông tin","BA102","Quản trị học đại cương","EC101 (1)","","3"
-"TE","Hệ thống thông tin","BA211A","Quản lý sản xuất và tác nghiệp","","","2"
-"TE","Hệ thống thông tin","BA221","Phân tích và lập dự án đầu tư","FN211 (0), FN211D (1)","","2"
-"TE","Hệ thống thông tin","BA222","Phân tích và lập dự án","FN211 (0), FN211D (1)","","3"
-"TE","Hệ thống thông tin","BA313","Quản trị chiến lược","BA101 (0), BA102 (1)","","3"
-"TE","Hệ thống thông tin","BA314","Quản trị nguồn nhân lực","BA101 (1)","","3"
-"TE","Hệ thống thông tin","BA314A","Quản trị nguồn nhân lực","","","2"
-"TE","Hệ thống thông tin","BA315","Văn hóa doanh nghiệp và đạo đức kinh doanh","","50","3"
-"TE","Hệ thống thông tin","BA317","Quản trị nguồn nhân lực","BA101 (0), BA102 (1)","","3"
-"TE","Hệ thống thông tin","BA325","Nghiệp vụ xuất nhập khẩu","BK321A (0), FN201 (1), BK321 (2), FN202 (3)","","2"
-"TE","Hệ thống thông tin","BK201","Ngân hàng thương mại 1","FN211 (1), FN211D (0), FN201A (2)","","3"
-"TE","Hệ thống thông tin","BK302","Ngân hàng thương mại 2","BK201 (0)","","3"
-"TE","Hệ thống thông tin","BK321","Thanh toán quốc tế","FN201 (0), FN202 (1)","","3"
-"TE","Hệ thống thông tin","BK321A","Thanh toán quốc tế","FN201 (0)","","2"
-"TE","Hệ thống thông tin","BK324","Tín dụng quốc tế","BK201 (0)","","2"
-"TE","Hệ thống thông tin","BK423","Tài trợ dự án","BK302 (0)","","2"
-"TE","Hệ thống thông tin","CF201","Lý thuyết thuật toán","MI201 (0)","","3"
-"TE","Hệ thống thông tin","CF201A","Lý thuyết thuật toán 1","","","2"
-"TE","Hệ thống thông tin","CF201B","Lý thuyết thuật toán 2","","","2"
-"TE","Hệ thống thông tin","CF212","Cấu trúc dữ liệu","CS122 (0), CS122A (1), CS122B (2)","","3"
-"TE","Hệ thống thông tin","CF212A","Cấu trúc dữ liệu 1","","","2"
-"TE","Hệ thống thông tin","CF212B","Cấu trúc dữ liệu 2","","","2"
-"TE","Hệ thống thông tin","CG251","Minh họa với Adobe Illustration","PE201 (0)","","2"
-"TE","Hệ thống thông tin","CG253","Xử lý ảnh với Adobe Photoshop","PE201 (0)","","3"
-"TE","Hệ thống thông tin","CG254","Thiết kế QC và XBTT với Adobe Indesign","PE201 (0)","","2"
-"TE","Hệ thống thông tin","CG257","Thiết kế Web với Adobe Dream Weaver","PE201 (0)","","2"
-"TE","Hệ thống thông tin","CG275","Thiết kế Web động với Adobe Flash","PE201 (0)","","3"
-"TE","Hệ thống thông tin","CG277","Thiết kế Web động và HH với Adobe Flash","PE201 (0)","","5"
-"TE","Hệ thống thông tin","CG283","Biên tập và Streaming Video","PE201 (0)","","3"
-"TE","Hệ thống thông tin","CG285","Biên tập Audio - Video","PE201 (0)","","4"
-"TE","Hệ thống thông tin","CG288","Visual Effects - After Effects","PE201 (0)","","2"
-"TE","Hệ thống thông tin","CS100","Tin đại cương","","","2"
-"TE","Hệ thống thông tin","CS100A","Nhập môn khoa học máy tính","","","2"
-"TE","Hệ thống thông tin","CS101","Công dân số","","","2"
-"TE","Hệ thống thông tin","CS110","Kỹ thuật số","MA102 (0), MA101 (1)","","2"
-"TE","Hệ thống thông tin","CS121","Ngôn ngữ lập trình","","","3"
-"TE","Hệ thống thông tin","CS121A","Ngôn ngữ lập trình 1A","","","2"
-"TE","Hệ thống thông tin","CS122","Lập trình hướng đối tượng","CS121 (0), CS121A (1)","","3"
-"TE","Hệ thống thông tin","CS122A","Lập trình hướng đối tượng","","","2"
-"TE","Hệ thống thông tin","CS122B","Lập trình hướng đối tượng nâng cao","","","2"
-"TE","Hệ thống thông tin","CS212","Kiến trúc máy tính","CS110 (0), CS122 (0), CS122A (1), CS122B (1)","","3"
-"TE","Hệ thống thông tin","CS212A","Kiến trúc máy tính 1","","","2"
-"TE","Hệ thống thông tin","CS212B","Kiến trúc máy tính 2","","","2"
-"TE","Hệ thống thông tin","CS223","Lập trình Java","CS122 (0), CS122A (1), CS122B (2)","","3"
-"TE","Hệ thống thông tin","CS223B","Lập trình Java nâng cao","","","2"
-"TE","Hệ thống thông tin","CS224","Lập trình .Net","IS222 (0)","","3"
-"TE","Hệ thống thông tin","CS315","Nguyên lý hệ điều hành","CS212 (0), CS212A (1), CS212B (2)","","3"
-"TE","Hệ thống thông tin","CS315A","Hệ điều hành Unix","CS121 (0), CS121A (1)","","3"
-"TE","Hệ thống thông tin","CS316","Hệ điều hành Unix","CS212 (0), CS212A (1), CS212B (2)","","3"
-"TE","Hệ thống thông tin","CS324","Kỹ thuật lập trình","CS122 (0), CS122A (1), CS122B (2)","","2"
-"TE","Hệ thống thông tin","CS325","Lập trình PHP","IS222 (0), IS222A (1), IS223A (2), IS224A (3)","","3"
-"TE","Hệ thống thông tin","CS428","CĐTN: Công nghệ .Net","CS223 (0), CS223B (1)","117","6"
-"TE","Hệ thống thông tin","CS429","CĐTN: Công nghệ Java","CS224 (0)","117","6"
-"TE","Hệ thống thông tin","EC101","Kinh tế học đại cương","","","3"
-"TE","Hệ thống thông tin","EC102","Nhập môn kinh tế học","","","2"
-"TE","Hệ thống thông tin","EC202","Kinh tế vi mô","EC101 (0), EC203A (1), EC203B (1)","","2"
-"TE","Hệ thống thông tin","EC203","Kinh tế vĩ mô","EC101 (0), EC203A (1), EC203B (1)","","2"
-"TE","Hệ thống thông tin","EC203A","Kinh tế vĩ mô 1","","","2"
-"TE","Hệ thống thông tin","EC203B","Kinh tế vĩ mô 2","","","2"
-"TE","Hệ thống thông tin","EC204","Kinh tế vi mô","EC101 (1)","","3"
-"TE","Hệ thống thông tin","EC205","Kinh tế vĩ mô","EC101 (1)","","3"
-"TE","Hệ thống thông tin","EC221A","Luật kinh tế","","","3"
-"TE","Hệ thống thông tin","ET220","Lý thuyết mạch","MA102 (0)","","3"
-"TE","Hệ thống thông tin","FN201","Lý thuyết tài chính tiền tệ","","48","3"
-"TE","Hệ thống thông tin","FN201A","Lý thuyết tài chính tiền tệ","","","2"
-"TE","Hệ thống thông tin","FN202","Lý thuyết tài chính tiền tệ","","48","3"
-"TE","Hệ thống thông tin","FN211","Tài chính doanh nghiệp","FN201 (0), AC201 (0), FN202 (1), AC201 (1)","","3"
-"TE","Hệ thống thông tin","FN211D","Nhập môn tài chính doanh nghiệp","FN201 (0), AC201 (0)","","2"
-"TE","Hệ thống thông tin","FN212","Quản trị tài chính doanh nghiệp 1","FN211 (0), FN211D (1)","","3"
-"TE","Hệ thống thông tin","FN212A","Quản trị tài chính doanh nghiệp 1","","","3"
-"TE","Hệ thống thông tin","FN213","Quản trị tài chính doanh nghiệp 1","FN211 (0)","","3"
-"TE","Hệ thống thông tin","FN221","Tài chính công","FN201 (0), FN202 (1), FN201A (2)","","2"
-"TE","Hệ thống thông tin","FN331","Thị trường chứng khoán","FN211 (0), FN211D (1)","","3"
-"TE","Hệ thống thông tin","FN331A","Thị trường chứng khoán","","","2"
-"TE","Hệ thống thông tin","FN334","Đầu tư chứng khoán","FN211 (0)","48","2"
-"TE","Hệ thống thông tin","GE100","Tiếng Anh cho người mới bắt đầu","","","2"
-"TE","Hệ thống thông tin","GE100A","Tiếng Anh cho người mới bắt đầu","","","0"
-"TE","Hệ thống thông tin","GE101","Tiếng Anh sơ cấp 1","","","2"
-"TE","Hệ thống thông tin","GE101A","Tiếng Anh sơ cấp 1","","","2"
-"TE","Hệ thống thông tin","GE102","Tiếng Anh sơ cấp 2","GE101A (1), GE101 (0)","","2"
-"TE","Hệ thống thông tin","GE102A","Tiếng Anh sơ cấp 2","","","2"
-"TE","Hệ thống thông tin","GE103","Tiếng Anh sơ cấp 3","GE101 (0), GE102 (0), GE101 (1), GE102A (1), GE101A (2), GE102 (2), GE101A (3), GE102A (3)","","2"
-"TE","Hệ thống thông tin","GE201","Tiếng Anh sơ trung cấp 1","GE101A (0), GE102A (0), GE102 (1), GE103 (1), GE102A (2), GE103 (2)","","2"
-"TE","Hệ thống thông tin","GE201A","Tiếng Anh sơ trung cấp 1","","","2"
-"TE","Hệ thống thông tin","GE202","Tiếng Anh sơ trung cấp 2","GE201A (0), GE102A (0), GE103 (1), GE201 (1), GE103 (2), GE201A (2), GE102A (3), GE201 (3)","","2"
-"TE","Hệ thống thông tin","GE202A","Tiếng Anh sơ trung cấp 2","","","2"
-"TE","Hệ thống thông tin","GE203","Kỹ năng giao tiếp tiếng Anh 1","PE304 (0), PE305 (0), PE201 (1), PE302 (1), PE201 (2), PE305 (2), PE304 (3), PE302 (3)","","2"
-"TE","Hệ thống thông tin","GE203A","Kỹ năng giao tiếp tiếng anh 1","","","2"
-"TE","Hệ thống thông tin","GE204","Kỹ năng giao tiếp tiếng Anh 2","PE305 (0), GE203 (0), PE305 (1), PE303 (1), PE302 (2), GE203 (2), PE302 (3), PE303 (3)","","2"
-"TE","Hệ thống thông tin","GE205","Tiếng Anh sơ trung cấp 3","GE201 (0), GE202 (0), GE201 (1), GE202A (1), GE201A (2), GE202 (2), GE201A (3), GE202A (3)","","2"
-"TE","Hệ thống thông tin","GE301","Tiếng Anh trung cấp 1","GE202A (0), GE202 (1), GE205 (1), GE202A (2), GE205 (2), GE201A (0)","","2"
-"TE","Hệ thống thông tin","GE303","Tiếng Anh trung cấp 2","GE205 (0), GE301 (0), GE301 (1), GE202A (1), GE202A (2), GE203 (2)","","2"
-"TE","Hệ thống thông tin","GE305","Tiếng Anh trung cấp 3","GE301 (0), GE303 (0), GE203 (1), GE204 (1), PE303 (2), PE404 (2)","","2"
-"TE","Hệ thống thông tin","GE320A","TOEIC","","","2"
-"TE","Hệ thống thông tin","GF101","Tiếng Pháp 1","","","2"
-"TE","Hệ thống thông tin","GF102","Tiếng Pháp 2","GF101 (0)","","2"
-"TE","Hệ thống thông tin","GF223","Tiếng Pháp 3","GF102 (0)","","2"
-"TE","Hệ thống thông tin","GI101","Tiếng Ý 1","","","2"
-"TE","Hệ thống thông tin","GI102","Tiếng Ý 2","GI101 (0)","","2"
-"TE","Hệ thống thông tin","GJ101","Tiếng Nhật 1","","","2"
-"TE","Hệ thống thông tin","GJ102","Tiếng Nhật 2","GJ101 (0)","","2"
-"TE","Hệ thống thông tin","GK101","Tiếng Hàn 1","","","2"
-"TE","Hệ thống thông tin","GK102","Tiếng Hàn 2","GK101 (0)","","2"
-"TE","Hệ thống thông tin","GZ101","Tiếng Trung 1","","","2"
-"TE","Hệ thống thông tin","GZ102","Tiếng Trung 2","GZ101 (0)","","2"
-"TE","Hệ thống thông tin","GZ103","Tiếng Trung 3","GZ102 (0)","","2"
-"TE","Hệ thống thông tin","IFB10","Lý thuyết tài chính tiền tệ","","48","2"
-"TE","Hệ thống thông tin","IM001","Kỹ năng CNTT cơ bản","","","0"
-"TE","Hệ thống thông tin","IM002","Kỹ năng soạn thảo VB(MS Office)","","36","3"
-"TE","Hệ thống thông tin","IM003","Kỹ năng soạn thảo VB(open Office)","","36","3"
-"TE","Hệ thống thông tin","IM004","Ứng dụng Excel","","","3"
-"TE","Hệ thống thông tin","IM201","Kỹ năng soạn thảo VB (MS office)","IM001 (0)","","3"
-"TE","Hệ thống thông tin","IM202","Kỹ năng soạn thảo văn bản (Open Office)","IM001 (0)","","3"
-"TE","Hệ thống thông tin","IM203","Ứng dụng Excel","IM201 (0), IS206 (1)","","3"
-"TE","Hệ thống thông tin","IM204","Ứng dụng Cal","IM202 (0)","","3"
-"TE","Hệ thống thông tin","IP403","Thực tập ngành Hệ thống thông tin","","107","2"
-"TE","Hệ thống thông tin","IS009","Máy tính và Internet","","","1"
-"TE","Hệ thống thông tin","IS101","Tin văn phòng","","","3"
-"TE","Hệ thống thông tin","IS201","Tin quản lý Access","IS206 (0), IS101 (1)","","3"
-"TE","Hệ thống thông tin","IS206","Kĩ năng soạn thảo văn bản","IS009 (0)","72","3"
-"TE","Hệ thống thông tin","IS207","Ứng dụng Exel","IS206 (0)","","3"
-"TE","Hệ thống thông tin","IS222","Cơ sở dữ liệu","CS121 (0), CS121 (1), MA102 (0), MA101 (1), MA101A (2), MA100A (2), CS121 (2), CS121 (3), MA103 (3)","","3"
-"TE","Hệ thống thông tin","IS222A","Bài tập lớn về CSDL","","","2"
-"TE","Hệ thống thông tin","IS223A","Cơ sở dữ liệu 2","","","2"
-"TE","Hệ thống thông tin","IS224A","Cơ sở dữ liệu phân tán","","","2"
-"TE","Hệ thống thông tin","IS301","Tin học văn phòng nâng cao","CS100 (0)","100","3"
-"TE","Hệ thống thông tin","IS314","Hệ thống thông tin","IS222 (0)","","3"
-"TE","Hệ thống thông tin","IS315","Mô hình hóa quy trình nghiệp vụ","IS314 (0)","","2"
-"TE","Hệ thống thông tin","IS316","Hạ tầng công nghệ thông tin","IS314 (0)","","2"
-"TE","Hệ thống thông tin","IS317","Hạ tầng công nghệ thông tin","","","2"
-"TE","Hệ thống thông tin","IS320","Thực hành quản lý dự án hệ thống thông tin","SE320 (0)","","3"
-"TE","Hệ thống thông tin","IS322","Hệ quản trị cơ sở dữ liệu","IS222 (0), IS222A (1), IS224A (2), IS223A (3)","","3"
-"TE","Hệ thống thông tin","IS322E","Hệ quản trị cơ sở dữ liệu","","","4"
-"TE","Hệ thống thông tin","IS325","Cơ sở dữ liệu phân tán","IS222 (0), NW212 (0)","","2"
-"TE","Hệ thống thông tin","IS326","Khai phá dữ liệu","IS322 (0)","","3"
-"TE","Hệ thống thông tin","IS327","Kho dữ liệu","IS322 (0)","","3"
-"TE","Hệ thống thông tin","IS328","Cơ sở dữ liệu nâng cao","IS322 (0)","","3"
-"TE","Hệ thống thông tin","IS332","Phân tích thiết kế hướng đối tượng","CS122 (0), IS222 (0), CS122A (1), CS122B (2), IS222A (3), IS223A (4), IS224A (5)","","3"
-"TE","Hệ thống thông tin","IS333","Phân tích thiết kế hệ thống thông tin","IS222 (0), IS222A (1), IS223A (2), IS224A (3)","","2"
-"TE","Hệ thống thông tin","IS333A","PT&TK hệ thống thông tin quản lý 1","","","2"
-"TE","Hệ thống thông tin","IS333B","PT&TK hệ thống thông tin quản lý 2","","","2"
-"TE","Hệ thống thông tin","IS334","Quản lý dự án hệ thống thông tin","IS332 (0), SE302 (1)","","3"
-"TE","Hệ thống thông tin","IS335","Phát triển ứng dụng doanh nghiệp","SE302 (0)","","3"
-"TE","Hệ thống thông tin","IS336","Triển khai và kiểm soát hệ thống thông tin doanh nghiệp","IS335 (0)","","3"
-"TE","Hệ thống thông tin","IS345","An toàn thông tin","","","3"
-"TE","Hệ thống thông tin","IS381","Hệ thống thông tin quản lý","","90","3"
-"TE","Hệ thống thông tin","IS382","Công nghệ thông tin trong doanh nghiệp","BA101 (0), MK202 (2), MK201 (0), BA101 (2), MK202 (1), BA102 (1), BA102 (3), MK201 (3)","100","2"
-"TE","Hệ thống thông tin","IS383","Hệ thống thông tin nâng cao","IS332 (0), IS314 (1)","","2"
-"TE","Hệ thống thông tin","IS384","Một số vấn đề hiện đại về hệ thống thông tin","IS383 (0)","","3"
-"TE","Hệ thống thông tin","IS424","Lập trình cơ sở dữ liệu","IS332 (0), IS322 (1)","","3"
-"TE","Hệ thống thông tin","IS480","Kiến trúc doanh nghiệp","IS383 (0)","","3"
-"TE","Hệ thống thông tin","IS481","Quản lý hệ thống thông tin chiến lược","IS383 (0)","","3"
-"TE","Hệ thống thông tin","IS484","CĐTN: Cơ sở dữ liệu","IS322 (0), IS322E (1)","117","6"
-"TE","Hệ thống thông tin","IS487","CĐTN: Hệ thống thông tin quản lý","IS381 (0), IS332 (1)","110","6"
-"TE","Hệ thống thông tin","IS487A","CĐTN: Công nghệ XML","","","6"
-"TE","Hệ thống thông tin","IS488","CĐTN: Hệ thống thông tin doanh nghiệp","IS381 (0)","110","6"
-"TE","Hệ thống thông tin","IS489","CĐTN: Hệ thống thông tin ngân hàng","IS381 (0), IS382 (1)","110","6"
-"TE","Hệ thống thông tin","IS499","KLTN ngành Hệ thống thông tin","","127","6"
-"TE","Hệ thống thông tin","MA100A","Toán 1","","","2"
-"TE","Hệ thống thông tin","MA101","Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)","GE103 (0)","","3"
-"TE","Hệ thống thông tin","MA101A","Logic, suy luận toán học và kỹ thuật đếm","","","3"
-"TE","Hệ thống thông tin","MA102","Toán cơ sở","","","3"
-"TE","Hệ thống thông tin","MA103","Số và cấu trúc đại số","","","3"
-"TE","Hệ thống thông tin","MA104","Số và cấu trúc đại số","","","3"
-"TE","Hệ thống thông tin","MA110","Giải tích 1","","","3"
-"TE","Hệ thống thông tin","MA110A","Giải tích 1A","","","2"
-"TE","Hệ thống thông tin","MA111","Giải tích 2","MA110 (0)","","3"
-"TE","Hệ thống thông tin","MA111A","Giải tích 2A","","","2"
-"TE","Hệ thống thông tin","MA111B","Giải tích 2B","","","2"
-"TE","Hệ thống thông tin","MA120","Đại số tuyến tính","","","3"
-"TE","Hệ thống thông tin","MA120A","Đại số tuyến tính 1","","","2"
-"TE","Hệ thống thông tin","MA120B","Đại số tuyến tính 2","","","2"
-"TE","Hệ thống thông tin","MA142","Đại số tuyến tính, giải tích và ứng dụng trong kinh tế","MA102 (1), MA100A (2), EC101 (0), EC101 (1), EC101 (2), MA101A (3), EC101 (3)","","4"
-"TE","Hệ thống thông tin","MA142A","Đại số tuyến tính","","","2"
-"TE","Hệ thống thông tin","MA142B","Giải tích trong kinh tế","MA101 (0), MA102 (1)","","2"
-"TE","Hệ thống thông tin","MA212","Phương trình vi phân","MA111 (0), MA111A (1), MA111B (2)","","2"
-"TE","Hệ thống thông tin","MA222","Đại số đại cương","MA120 (0), MA120A (1), MA120B (2)","","2"
-"TE","Hệ thống thông tin","MA230","Xác suất","MA111 (0), MA111A (1), MA111B (2)","","3"
-"TE","Hệ thống thông tin","MA231","Xác suất thống kê ứng dụng","MA120A (6), MA110 (6), IS101 (6), CS100 (0), MA120 (0), IS101 (1), MA142 (1), MA142 (2), CS100 (3), MA120A (3), CS100A (4), MA120A (5), CS100A (5), CS100A (7), MA142 (7), CS100 (8), MA142 (8), IS009 (9), MA120 (4), MA142 (9), IM201 (6), MA142 (6)","","4"
-"TE","Hệ thống thông tin","MA231A","Thống kê 1","","","2"
-"TE","Hệ thống thông tin","MA231B","Thống kê 2","","","2"
-"TE","Hệ thống thông tin","MA241","Toán tài chính","MA142 (0), MA142B (1), MA142A (1), MA110 (2), MA111 (2), MA120A (2)","","2"
-"TE","Hệ thống thông tin","MI201","Toán rời rạc","CS122 (0)","","3"
-"TE","Hệ thống thông tin","MI312","Đồ họa","CS122 (0), MA120 (0), CS122A (1), CS122B (2), MA120A (3), MA120B (4)","","2"
-"TE","Hệ thống thông tin","MI321","Trí tuệ nhân tạo","CF212 (0), CF212A (1), CF212B (2), MI201 (0), MI201 (1), MI201 (2)","","3"
-"TE","Hệ thống thông tin","MK201","Nguyên lý marketing","EC101 (0), EC203A (1), EC203B (1)","","2"
-"TE","Hệ thống thông tin","MK202","Marketing căn bản","EC101 (0)","","3"
-"TE","Hệ thống thông tin","MK311","Quản trị Marketing","MK201 (0)","","3"
-"TE","Hệ thống thông tin","MK312","Quản trị thương hiệu","MK201 (0)","","2"
-"TE","Hệ thống thông tin","MK313","Quản trị thương hiệu","MK201 (0), MK202 (1)","","3"
-"TE","Hệ thống thông tin","MK331","Marketing ngân hàng","MK201 (0), BK201 (0)","","2"
-"TE","Hệ thống thông tin","MK333","Marketing dịch vụ","MK201 (0), MK202 (1)","","2"
-"TE","Hệ thống thông tin","MK423","Quan hệ cộng đồng","","50","2"
-"TE","Hệ thống thông tin","MK424","Quản trị bán hàng","MK201 (0), MK202 (1)","","3"
-"TE","Hệ thống thông tin","ML101","Những NLCB của chủ nghĩa Mác - Lênin","","","5"
-"TE","Hệ thống thông tin","ML111","Triết học Mác – Lênin","","","2"
-"TE","Hệ thống thông tin","ML112","Kinh tế chính trị và CNXH khoa học","","","3"
-"TE","Hệ thống thông tin","ML112A","Kinh tế chính trị","","","3"
-"TE","Hệ thống thông tin","ML112B","Chủ nghĩa xã hội khoa học","","","2"
-"TE","Hệ thống thông tin","ML202","Tư tưởng Hồ Chí Minh","ML111 (0), ML101 (1), ML112A (2), ML112B (3)","","2"
-"TE","Hệ thống thông tin","ML203","Đường lối cách mạng của Đảng CS Việt Nam","ML202 (0)","","3"
-"TE","Hệ thống thông tin","NA151","Khoa học môi trường","","","2"
-"TE","Hệ thống thông tin","NW210","Hệ thống mạng máy tính","CS100 (0)","","3"
-"TE","Hệ thống thông tin","NW212","Mạng máy tính","CS212 (0), CS212A (1), CS212B (2)","","2"
-"TE","Hệ thống thông tin","NW212A","Internet","","","2"
-"TE","Hệ thống thông tin","NW312","Thiết kế và quản trị mạng","NW212 (0), NW212A (1)","","3"
-"TE","Hệ thống thông tin","NW312A","Thiết kế quản trị mạng","","","4"
-"TE","Hệ thống thông tin","NW322","Lập trình mạng","NW312 (0), NW312A (1)","","2"
-"TE","Hệ thống thông tin","NW332","An toàn mạng","NW312 (0), NW312A (1)","","3"
-"TE","Hệ thống thông tin","NW332A","An toàn mạng","","","4"
-"TE","Hệ thống thông tin","NW439","CĐTN: An toàn mạng","NW312 (0), NW312A (1)","117","6"
-"TE","Hệ thống thông tin","PE201","Tiếng Anh trong tin học 1A","GE202 (0), GE201 (0)","","2"
-"TE","Hệ thống thông tin","PE221","Tiếng Anh doanh nghiệp 1A","GE202 (0), GE201 (0)","","2"
-"TE","Hệ thống thông tin","PE302","Tiếng Anh trong tin học 1B","GE202 (0), PE201 (0)","","2"
-"TE","Hệ thống thông tin","PE303","Tiếng Anh trong tin học 2A","PE201 (0), PE302 (0)","","2"
-"TE","Hệ thống thông tin","PE304","Tiếng Anh trong tin học 1","GE201 (0), GE202 (0), GE201 (1), GE202A (1), GE201A (2), GE202A (2)","","2"
-"TE","Hệ thống thông tin","PE305","Tiếng Anh trong tin học 2","PE304 (0), GE202 (0), GE202 (1), PE201 (1), GE202A (2), PE304 (2), GE202A (3), PE201 (3)","","2"
-"TE","Hệ thống thông tin","PE322","Tiếng Anh doanh nghiệp 1B","PE221 (0), GE202 (0)","","2"
-"TE","Hệ thống thông tin","PE323","Tiếng Anh doanh nghiệp 2A","PE322 (0), PE221 (0)","","2"
-"TE","Hệ thống thông tin","PE404","Tiếng Anh trong tin học 2B","PE303 (0), PE302 (0)","","2"
-"TE","Hệ thống thông tin","PE424","Tiếng Anh doanh nghiệp 2B","PE323 (0), PE322 (0)","","2"
-"TE","Hệ thống thông tin","PG100","Giáo dục thể chất","","","4"
-"TE","Hệ thống thông tin","PG100A","Giáo dục thể chất","","","4"
-"TE","Hệ thống thông tin","PG101","GDTC: Lý thuyết","","","1"
-"TE","Hệ thống thông tin","PG102","GDTC: Thể dục cổ truyền cơ bản","","","1"
-"TE","Hệ thống thông tin","PG103","GDTC: Thể dục cổ truyền nâng cao","PG102 (0)","","1"
-"TE","Hệ thống thông tin","PG104","GDTC: Cầu lông cơ bản","","","1"
-"TE","Hệ thống thông tin","PG105","GDTC: Cầu lông nâng cao","PG104 (0)","","1"
-"TE","Hệ thống thông tin","PG106","GDTC: Bóng bàn cơ bản","","","1"
-"TE","Hệ thống thông tin","PG107","GDTC: Bóng bàn nâng cao","PG106 (0)","","1"
-"TE","Hệ thống thông tin","PG108","GDTC: Thể dục nhịp điệu cơ bản","","","1"
-"TE","Hệ thống thông tin","PG109","GDTC: Thể dục nhịp điệu nâng cao","PG108 (0)","","1"
-"TE","Hệ thống thông tin","PG110","GDTC: Bơi cơ bản","","","1"
-"TE","Hệ thống thông tin","PG111","GDTC: Khiêu vũ thể thao cơ bản","","","1"
-"TE","Hệ thống thông tin","PG112","GDTC: Khiêu vũ thể thao nâng cao","PG111 (0)","","1"
-"TE","Hệ thống thông tin","PG113","GDTC: Bóng rổ cơ bản","","","1"
-"TE","Hệ thống thông tin","PG114","GDTC: Bóng rổ nâng cao","PG113 (0)","","1"
-"TE","Hệ thống thông tin","PG115","GDTC: Bóng chuyền cơ bản","","","1"
-"TE","Hệ thống thông tin","PG116","GDTC: Bóng chuyền nâng cao","PG115 (0)","","1"
-"TE","Hệ thống thông tin","PG117","GDTC: Thể dục dã ngoại","","","1"
-"TE","Hệ thống thông tin","PG118","GDTC: Thể dục cơ bản","","","1"
-"TE","Hệ thống thông tin","PG119","GDTC: Thể dục Erobic","","","1"
-"TE","Hệ thống thông tin","PG120","Thể dục cơ bản nâng cao","PG118 (0)","","1"
-"TE","Hệ thống thông tin","PG121","Giáo dục quốc phòng","","","4"
-"TE","Hệ thống thông tin","PG121D","Đường lối quân sự của Đảng","","","2"
-"TE","Hệ thống thông tin","PG121E","Công tác quốc phòng - an ninh","","","2"
-"TE","Hệ thống thông tin","PG122","GDQP: Đường lối quân sự của Đảng","","","1"
-"TE","Hệ thống thông tin","PG123","GDQP: Công tác quốc phòng - an ninh","","","1"
-"TE","Hệ thống thông tin","PG124","GDQP: Quân sự chung","","","1"
-"TE","Hệ thống thông tin","PG125","GDQP: Kỹ thuật bắn súng","","","1"
-"TE","Hệ thống thông tin","PG131","GDTC: Bóng rổ nâng cao 1","","","1"
-"TE","Hệ thống thông tin","PG132","GDTC: Bóng rổ nâng cao 2","","","1"
-"TE","Hệ thống thông tin","PG133","GDTC: Bóng rổ nâng cao 3","","","1"
-"TE","Hệ thống thông tin","PG134","GDTC: Bóng rổ nâng cao 4","","","1"
-"TE","Hệ thống thông tin","PG141","GDTC: Bóng chuyền nâng cao 1","","","1"
-"TE","Hệ thống thông tin","PG142","GDTC: Bóng chuyền nâng cao 2","","","1"
-"TE","Hệ thống thông tin","PG143","GDTC: Bóng chuyền nâng cao 3","","","1"
-"TE","Hệ thống thông tin","PG144","GDTC: Bóng chuyền nâng cao 4","","","1"
-"TE","Hệ thống thông tin","PG150","Bóng đá","","","4"
-"TE","Hệ thống thông tin","PG151","Bóng đá nâng cao","","","4"
-"TE","Hệ thống thông tin","PG160","Nhảy hiện đại","","","4"
-"TE","Hệ thống thông tin","PG161","Nhảy hiện đại nâng cao","","","4"
-"TE","Hệ thống thông tin","PV101","Tiếng Việt thực hành","","","2"
-"TE","Hệ thống thông tin","SC201","Kỹ năng giao tiếp và thuyết trình","","36","2"
-"TE","Hệ thống thông tin","SE302","Công nghệ phần mềm","IS332 (0)","","2"
-"TE","Hệ thống thông tin","SE312","Kiểm thử và đảm bảo chất lượng phần mềm","SE302 (0)","","3"
-"TE","Hệ thống thông tin","SE320","Quản lý dự án công nghệ thông tin","SE302 (0)","","3"
-"TE","Hệ thống thông tin","SE422","Quản lý dự án phần mềm","SE302 (0)","","3"
-"TE","Hệ thống thông tin","SE487","CĐTN: Phát triển phần mềm","SE302 (0)","117","6"
-"TE","Hệ thống thông tin","SH131","Pháp luật đại cương","","","2"
-"TE","Hệ thống thông tin","SM201","Phương pháp luận nghiên cứu khoa học","","36","3"
-"TE","Hệ thống thông tin","ST450","Toeic","","","3"
-"TE","Hệ thống thông tin","TE499","KLTN Hệ thống thông tin quản lý","","120","6"
-"TE","Hệ thống thông tin","VL101","Tiếng Việt thực hành","","","2"
-"TE","Hệ thống thông tin","VR201","Ẩm thực Việt Nam","","","3"
-"TE","Hệ thống thông tin","VR203","Ẩm thực Việt Nam","","","4"
-"TE","Hệ thống thông tin","VR203A","Ẩm thực Việt Nam","","","3"
+TM,AD204,Ẩm thực Việt nam,,,4
+TM,AD204A,Ẩm thực Việt Nam,,,3
+TM,AD206,Ẩm thực Việt Nam,,,3
+TM,AD212,Phương pháp hùng biện và các thủ thuật tranh biện,,36,3
+TM,AD213,Hát – Nhạc,,,3
+TM,AD213A,Hát – Nhạc,,,4
+TM,AD214,Nâng cao chất lượng giọng hát,"AD213 (0), AD213A (1)",,3
+TM,AD215,Ứng dụng PowerPoint,"IS206 (1), IM201 (0), IM202 (2)",36,3
+TM,AD216,Tâm lý và kỹ năng giao tiếp với người cao tuổi,,50,3
+TM,AD221,Kĩ năng giao lưu văn hóa,,,2
+TM,AD222,Thực hành giao lưu văn hoá,,,3
+TM,AD231,Thể thao,,,3
+TM,AD250,Dinh dưỡng và tiết chế,,,3
+TM,AD312,Bóng đá,,,4
+TM,AD313,Bóng đá nâng cao,AD312 (0),,4
+TM,AD314,Nhảy hiện đại,,,4
+TM,AD315,Nhảy hiện đại nâng cao,AD314 (0),,4
+TM,AD414,Toeic,GE305 (0),,2
+TM,CF201,Lý thuyết thuật toán,MI201 (0),,3
+TM,CF201A,Lý thuyết thuật toán 1,,,2
+TM,CF201B,Lý thuyết thuật toán 2,,,2
+TM,CF202A,Otomat,,,2
+TM,CF212,Cấu trúc dữ liệu,"CS122 (0), CS122A (1), CS122B (2)",,3
+TM,CF212A,Cấu trúc dữ liệu 1,,,2
+TM,CF212B,Cấu trúc dữ liệu 2,,,2
+TM,CF300,Ngôn ngữ toán học,,,3
+TM,CF302,"Văn phạm, ngôn ngữ hình thức, otomat và CT dịch",MI201 (0),,3
+TM,CF302A,Otomat,,,2
+TM,CF302B,Chương trình dịch,,,2
+TM,CF303,Hệ thống TEX,"CF302 (0), CF302B (1), CF302A (2)",,2
+TM,CF321,Xử lý tín hiệu số,MI201 (0),,3
+TM,CF415,Chuyên đề cấu trúc dữ liệu và thuật toán 1,"CF201A (1), CF201B (2), CF212 (0), CF212A (3), CF212B (4), MI201 (0)",,4
+TM,CF415A,CĐ cấu trúc dữ liệu và thuật toán 1A,,,3
+TM,CF416,Chuyên đề cấu trúc dữ liệu và thuật toán 2,"CF415 (0), CF415A (1)",,3
+TM,CF425,Chuyên đề xử lý tín hiệu ảnh,"MI321 (0), MI321A (1), MA340 (0), MA340 (1)",,4
+TM,CF425A,Chuyên đề xử lý ảnh,,,2
+TM,CF426,Chuyên đề xử lý tín hiệu âm thanh,"CF425 (0), CF425A (1)",,3
+TM,CG251,Minh họa với Adobe Illustration,PE201 (0),,2
+TM,CG253,Xử lý ảnh với Adobe Photoshop,PE201 (0),,3
+TM,CG254,Thiết kế QC và XBTT với Adobe Indesign,PE201 (0),,2
+TM,CG257,Thiết kế Web với Adobe Dream Weaver,PE201 (0),,2
+TM,CG275,Thiết kế Web động với Adobe Flash,PE201 (0),,3
+TM,CG277,Thiết kế Web động và HH với Adobe Flash,PE201 (0),,5
+TM,CG283,Biên tập và Streaming Video,PE201 (0),,3
+TM,CG285,Biên tập Audio - Video,PE201 (0),,4
+TM,CG288,Visual Effects - After Effects,PE201 (0),,2
+TM,CS100,Tin đại cương,,,2
+TM,CS100A,Nhập môn khoa học máy tính,,,2
+TM,CS101,Công dân số,,,2
+TM,CS110,Kỹ thuật số,"MA102 (0), MA101A (1), MA101 (2)",,2
+TM,CS121,Ngôn ngữ lập trình,,,3
+TM,CS121A,Ngôn ngữ lập trình 1A,,,2
+TM,CS122,Lập trình hướng đối tượng,"CS121 (0), CS121A (1)",,3
+TM,CS122A,Lập trình hướng đối tượng,,,2
+TM,CS122B,Lập trình hướng đối tượng nâng cao,,,2
+TM,CS212,Kiến trúc máy tính,"CS110 (0), CS122 (0), CS122A (1), CS122B (2)",,3
+TM,CS212A,Kiến trúc máy tính 1,,,2
+TM,CS212B,Kiến trúc máy tính 2,CS212A (0),,2
+TM,CS312,Lập trình hệ thống,"CS212 (0), CS212A (1), CS212B (2)",,3
+TM,CS312A,Lập trình hệ thống,CS122 (0),,2
+TM,CS315,Nguyên lý hệ điều hành,"CS212 (0), CS212A (1)",,3
+TM,CS315A,Hệ điều hành Unix,"CS121 (0), CS121A (1)",,3
+TM,CS316,Hệ điều hành Unix,"CS212 (0), CS212A (1)",,3
+TM,CS320,Học máy,,,3
+TM,CS324,Kỹ thuật lập trình,"CS122 (0), CS122A (1), CS122B (2)",,2
+TM,CS325,Lập trình PHP,IS222 (0),,3
+TM,CS330,Bảo mật thông tin,,,3
+TM,EC101,Kinh tế học đại cương,,,3
+TM,EC102,Nhập môn kinh tế học,,,2
+TM,EC204,Kinh tế vi mô,"EC102 (0), EC101 (1)",,3
+TM,EC205,Kinh tế vĩ mô,EC102 (0),,3
+TM,EC206,Kinh tế học tăng trưởng,,,3
+TM,EC313,Mô hình hóa và ứng dụng,,,3
+TM,EC316,Mô hình hóa phân tích tài chính,,,3
+TM,ET220,Lý thuyết mạch,MA102 (0),,3
+TM,FN317,Công cụ tài chính phái sinh,,,2
+TM,FN334,Đầu tư chứng khoán,,48,2
+TM,GE100,Tiếng Anh cho người mới bắt đầu,,,2
+TM,GE100A,Tiếng Anh cho người mới bắt đầu,,,0
+TM,GE101,Tiếng Anh sơ cấp 1,,,2
+TM,GE101A,Tiếng Anh sơ cấp 1,"GE100A (0), GE100 (1)",,2
+TM,GE102,Tiếng Anh sơ cấp 2,"GE101 (0), GE101A (1)",,2
+TM,GE102A,Tiếng Anh sơ cấp 2,"GE100 (0), GE101 (0), GE100A (1), GE101 (1)",,2
+TM,GE103,Tiếng Anh sơ cấp 3,"GE101 (0), GE102 (0), GE101 (1), GE102A (1), GE101A (2), GE102 (2), GE101A (3), GE102A (3)",,2
+TM,GE201,Tiếng Anh sơ trung cấp 1,"GE102 (0), GE103 (0), GE102A (1), GE103 (1), GE101A (2), GE102A (2)",,2
+TM,GE201A,Tiếng Anh sơ trung cấp 1,,,2
+TM,GE202,Tiếng Anh sơ trung cấp 2,"GE201 (0), GE201A (1), GE103 (0), GE103 (1), GE102A (2), GE201A (2), GE102A (3), GE201 (3)",,2
+TM,GE202A,Tiếng Anh sơ trung cấp 2,,,2
+TM,GE203,Kỹ năng giao tiếp tiếng Anh 1,"GE201 (0), GE202 (0)",,2
+TM,GE203A,Kỹ năng giao tiếp tiếng anh 1,,,2
+TM,GE204,Kỹ năng giao tiếp tiếng Anh 2,"GE203 (0), GE202 (0), GE202 (1), PE201 (1)",,2
+TM,GE205,Tiếng Anh sơ trung cấp 3,"GE201 (0), GE201 (1), GE202A (1), GE201A (2), GE202 (2), GE201A (3), GE202A (3), GE202 (0)",,2
+TM,GE301,Tiếng Anh trung cấp 1,"GE202 (0), GE205 (0), GE202A (1), GE205 (1), GE202A (2), GE201A (2)",,2
+TM,GE303,Tiếng Anh trung cấp 2,"GE205 (0), GE301 (0), GE202A (1), GE301 (1), GE203 (2), GE202A (2), GE202A (3), PE303 (3)",,2
+TM,GE305,Tiếng Anh trung cấp 3,"GE301 (0), GE303 (0), GE203 (2), GE303 (2), PE303 (3), PE404 (3), GE203 (1), GE204 (1), GE203 (4), PE404 (4)",,2
+TM,GE320A,TOEIC,,,2
+TM,GF101,Tiếng Pháp 1,,,2
+TM,GF102,Tiếng Pháp 2,GF101 (0),,2
+TM,GF223,Tiếng Pháp 3,GF102 (0),,2
+TM,GI101,Tiếng Ý 1,,,2
+TM,GI102,Tiếng Ý 2,GI101 (0),,2
+TM,GJ101,Tiếng Nhật 1,,,2
+TM,GJ102,Tiếng Nhật 2,GJ101 (0),,2
+TM,GK101,Tiếng Hàn 1,,,2
+TM,GK102,Tiếng Hàn 2,GK101 (0),,2
+TM,GK505,PP nghiên cứu khoa học,,,3
+TM,GZ101,Tiếng Trung 1,,,2
+TM,GZ102,Tiếng Trung 2,GZ101 (0),,2
+TM,GZ103,Tiếng Trung 3,GZ102 (0),,2
+TM,IM001,Kỹ năng CNTT cơ bản,,,0
+TM,IM002,Kỹ năng soạn thảo VB(MS Office),IM001 (0),36,3
+TM,IM003,Kỹ năng soạn thảo VB(open Office),IM001 (0),36,3
+TM,IM004,Ứng dụng Excel,IM002 (0),,3
+TM,IM201,Kỹ năng soạn thảo VB (MS office),IM001 (0),,3
+TM,IM202,Kỹ năng soạn thảo văn bản (Open Office),IM001 (0),,3
+TM,IM203,Ứng dụng Excel,"IS206 (0), IM201 (1)",,3
+TM,IM204,Ứng dụng Cal,IM202 (0),,3
+TM,IS009,Máy tính và Internet,,,1
+TM,IS206,Kĩ năng soạn thảo văn bản,IS009 (0),72,3
+TM,IS207,Ứng dụng Exel,IS206 (0),,3
+TM,IS222,Cơ sở dữ liệu,"MA102 (0), CS121 (0), MA102 (1), CS121A (1), CS121 (2), MA101 (2), MA101A (3), CS121 (3)",,3
+TM,IS222A,Bài tập lớn về CSDL,,,2
+TM,IS223,Cơ sở dữ liệu và khai phá dữ liệu,,,3
+TM,IS223A,Cơ sở dữ liệu 2,,,2
+TM,IS224A,Cơ sở dữ liệu phân tán,,,2
+TM,IS301,Tin học văn phòng nâng cao,CS100 (0),100,3
+TM,IS322,Hệ quản trị cơ sở dữ liệu,IS222 (0),,3
+TM,IS329,Dữ liệu lớn,,,2
+TM,IS332,Phân tích thiết kế hướng đối tượng,"IS222 (0), IS223A (1), CS122 (0), CS122A (2), CS122B (3)",,3
+TM,IS430,Công nghệ Blockchain,,,3
+TM,MA100A,Toán 1,,,2
+TM,MA101,"Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)","GE103 (0), GE102A (1)",,3
+TM,MA101A,"Logic, suy luận toán học và kỹ thuật đếm",,,3
+TM,MA102,Toán cơ sở,,,3
+TM,MA103,Số và cấu trúc đại số,,,3
+TM,MA104,Số và cấu trúc đại số,,,3
+TM,MA110,Giải tích 1,,,3
+TM,MA110A,Giải tích 1A,,,2
+TM,MA111,Giải tích 2,"MA110 (0), MA110A (1)",,3
+TM,MA111A,Giải tích 2A,,,2
+TM,MA111B,Giải tích 2B,,,2
+TM,MA120,Đại số tuyến tính,,,3
+TM,MA120A,Đại số tuyến tính 1,,,2
+TM,MA120B,Đại số tuyến tính 2,,,2
+TM,MA212,Phương trình vi phân,"MA111 (0), MA111A (1), MA111B (2)",,2
+TM,MA213,Phương trình vi phân,MA111 (0),,3
+TM,MA215,Topology,,,2
+TM,MA216,Giải tích lồi,,,2
+TM,MA222,Đại số đại cương,"MA120 (0), MA120A (1), MA120B (2)",,2
+TM,MA225,Các không gian hàm và phép tính sai phân,MA213 (0),,3
+TM,MA230,Xác suất,MA111 (0),,3
+TM,MA231,Xác suất thống kê ứng dụng,"CS100A (2), MA120 (0), CS100 (0), MA120A (1), CS100 (1), MA120 (2), MA120A (3), CS100A (3)",,4
+TM,MA233A,Xác suất thống kê y học,,,3
+TM,MA234,Thống Kê,MA230 (0),,2
+TM,MA313,Hàm biến phức,"MA111 (0), MA111A (1)",,2
+TM,MA323,Số học thuật toán,"MA102 (0), MA103 (2)",,2
+TM,MA340,Giải tích số,"MA111 (0), MA111B (1)",,3
+TM,MA342,Giải tích lồi,MA111 (0),,3
+TM,MI201,Toán rời rạc,CS122 (0),,3
+TM,MI302,Tối ưu hóa,"MA111 (0), MA111A (1), MA111B (2)",,2
+TM,MI311,Mã hóa và an toàn dữ liệu,MI201 (0),,2
+TM,MI311A,Lý thuyết thông tin và mã hoá,,,2
+TM,MI312,Đồ họa,"MA120 (0), CS122 (0), MA120 (1), CS122A (1), MA120A (2), CS122 (2)",,2
+TM,MI321,Trí tuệ nhân tạo,"CF212A (1), MI201 (0), MI201 (1), MI201 (2), CF212B (2), CF212 (0)",,3
+TM,MI321A,Trí tuệ nhân tạo,,,2
+TM,MI330,Topologic,,,2
+TM,MI331,Hệ thống hỗ trợ tính toán,"MI311 (0), MA111 (0), MA231 (0)",,2
+TM,MI332,Thực hành tính toán,"MA111 (0), MA231 (0), MI311 (0), CF302 (0)",,3
+TM,MI333,Ngôn ngữ toán học,,,2
+TM,MI414,Giao diện người máy,MI312 (0),,2
+TM,MI425,Chuyên đề cơ sở dữ liệu và trí tuệ nhân tạo 1,"IS222 (0), MI321 (0)",,4
+TM,MI426,Chuyên đề cơ sở dữ liệu và trí tuệ nhân tạo 2,MI425 (0),,3
+TM,MI489,KLTN: Toán ứng dụng,,117,6
+TM,ML101,Những NLCB của chủ nghĩa Mác - Lênin,,,5
+TM,ML111,Triết học Mác – Lênin,,,2
+TM,ML112,Kinh tế chính trị và CNXH khoa học,,,3
+TM,ML112A,Kinh tế chính trị,,,3
+TM,ML112B,Chủ nghĩa xã hội khoa học,,,2
+TM,ML202,Tư tưởng Hồ Chí Minh,"ML112A (1), ML112B (2), ML111 (0), ML101 (3)",,2
+TM,ML203,Đường lối cách mạng của Đảng CS Việt Nam,ML202 (0),,3
+TM,NA151,Khoa học môi trường,,,2
+TM,NW212,Mạng máy tính,"CS212 (0), CS212A (1), CS212B (2)",,2
+TM,NW212A,Internet,,,2
+TM,PE201,Tiếng Anh trong tin học 1A,"GE202 (0), GE201 (0)",,2
+TM,PE302,Tiếng Anh trong tin học 1B,"PE201 (0), GE202 (0)",,2
+TM,PE303,Tiếng Anh trong tin học 2A,"PE201 (0), PE302 (0)",,2
+TM,PE316,Tiếng Anh trong Toán 1,"GE204 (0), GE203 (0), PE201 (1), GE204 (1)",,2
+TM,PE317,Tiếng Anh trong Toán 2,"GE204 (0), PE316 (0)",,2
+TM,PE404,Tiếng Anh trong tin học 2B,"PE303 (0), PE302 (0)",,2
+TM,PG100,Giáo dục thể chất,,,4
+TM,PG100A,Giáo dục thể chất,,,4
+TM,PG101,GDTC: Lý thuyết,,,1
+TM,PG102,GDTC: Thể dục cổ truyền cơ bản,,,1
+TM,PG103,GDTC: Thể dục cổ truyền nâng cao,PG102 (0),,1
+TM,PG104,GDTC: Cầu lông cơ bản,,,1
+TM,PG105,GDTC: Cầu lông nâng cao,PG104 (0),,1
+TM,PG106,GDTC: Bóng bàn cơ bản,,,1
+TM,PG107,GDTC: Bóng bàn nâng cao,PG106 (0),,1
+TM,PG108,GDTC: Thể dục nhịp điệu cơ bản,,,1
+TM,PG109,GDTC: Thể dục nhịp điệu nâng cao,PG108 (0),,1
+TM,PG110,GDTC: Bơi cơ bản,,,1
+TM,PG111,GDTC: Khiêu vũ thể thao cơ bản,,,1
+TM,PG112,GDTC: Khiêu vũ thể thao nâng cao,PG111 (0),,1
+TM,PG113,GDTC: Bóng rổ cơ bản,,,1
+TM,PG114,GDTC: Bóng rổ nâng cao,PG113 (0),,1
+TM,PG115,GDTC: Bóng chuyền cơ bản,,,1
+TM,PG116,GDTC: Bóng chuyền nâng cao,PG115 (0),,1
+TM,PG117,GDTC: Thể dục dã ngoại,,,1
+TM,PG118,GDTC: Thể dục cơ bản,,,1
+TM,PG119,GDTC: Thể dục Erobic,,,1
+TM,PG120,Thể dục cơ bản nâng cao,PG118 (0),,1
+TM,PG121,Giáo dục quốc phòng,,,4
+TM,PG121D,Đường lối quân sự của Đảng,,,2
+TM,PG121E,Công tác quốc phòng - an ninh,,,2
+TM,PG122,GDQP: Đường lối quân sự của Đảng,,,1
+TM,PG123,GDQP: Công tác quốc phòng - an ninh,,,1
+TM,PG124,GDQP: Quân sự chung,,,1
+TM,PG125,GDQP: Kỹ thuật bắn súng,,,1
+TM,PG131,GDTC: Bóng rổ nâng cao 1,,,1
+TM,PG132,GDTC: Bóng rổ nâng cao 2,,,1
+TM,PG133,GDTC: Bóng rổ nâng cao 3,,,1
+TM,PG134,GDTC: Bóng rổ nâng cao 4,,,1
+TM,PG141,GDTC: Bóng chuyền nâng cao 1,,,1
+TM,PG142,GDTC: Bóng chuyền nâng cao 2,,,1
+TM,PG143,GDTC: Bóng chuyền nâng cao 3,,,1
+TM,PG144,GDTC: Bóng chuyền nâng cao 4,,,1
+TM,PG150,Bóng đá,,,4
+TM,PG151,Bóng đá nâng cao,,,4
+TM,PG160,Nhảy hiện đại,,,4
+TM,PG161,Nhảy hiện đại nâng cao,,,4
+TM,PV101,Tiếng Việt thực hành,,,2
+TM,SE302,Công nghệ phần mềm,IS332 (0),,2
+TM,SE487,CĐTN: Phát triển phần mềm,SE302 (0),117,6
+TM,SH131,Pháp luật đại cương,,,2
+TM,SM201,Phương pháp luận nghiên cứu khoa học,,36,3
+TM,ST450,Toeic,,,3
+TM,VL101,Tiếng Việt thực hành,,,2
+TM,VR201,Ẩm thực Việt Nam,,,3
+TM,VR203,Ẩm thực Việt Nam,,,4
+TM,VR203A,Ẩm thực Việt Nam,,,3
+KT,AC201,Nguyên lý kế toán,,40,3
+KT,AC211,Kế toán tài chính 1,AC201 (0),,3
+KT,AC212,Kế toán tài chính 2,AC211 (0),,3
+KT,AC231,Kế toán Mỹ 1,AC211 (0),,3
+KT,AC231A,Kế toán Mỹ 1,,,2
+KT,AC231B,Kế toán Mỹ 2,AC231A (0),,2
+KT,AC232,Kế toán quốc tế 1,AC211 (0),,3
+KT,AC314,Kế toán máy,AC212 (0),,2
+KT,AC315,Kế toán công,AC211 (0),,2
+KT,AC316,Kế toán tài chính 3,AC212 (0),,3
+KT,AC316B,Nghiệp vụ kiểm toán,,,2
+KT,AC317,Tổ chức hạch toán kế toán,AC316 (0),,3
+KT,AC321,Kế toán ngân hàng 1,"AC212 (0), BK201 (0)",,2
+KT,AC332,Kế toán quốc tế 2,AC231 (0),,3
+KT,AC333,Kế toán Mỹ 2,"AC231 (0), AC231A (1), AC231B (2)",,3
+KT,AC335,Kế toán công ty,AC212 (0),,2
+KT,AC341,Kế toán quản trị,AC212 (0),,3
+KT,AC341A,Kế toán quản trị 1,,,2
+KT,AC341B,Kế toán quản trị 2,,,2
+KT,AC344,Phân tích hoạt động kinh doanh,AC212 (1),,2
+KT,AC361,Kiểm toán,AC212 (0),,3
+KT,AC361A,Lý thuyết kiểm toán,,,2
+KT,AC361B,Nghiệp vụ kiểm toán,,,2
+KT,AC362,Lý thuyết kiểm toán,AC212 (0),,2
+KT,AC363,Kiểm toán báo cáo tài chính,AC362 (0),,2
+KT,AC364,Kiểm toán báo cáo tài chính 1,"AC362 (0), AC317 (0)",,3
+KT,AC365,Kiểm toán báo cáo tài chính 2,AC364 (0),,3
+KT,AC368,Kiểm soát trong quản lý,AC364 (0),,3
+KT,AC418,Lập và phân tích báo cáo tài chính,AC316 (0),,3
+KT,AC419,"CĐTN: Lập, đọc và phân tích báo cáo TC",AC316 (0),,3
+KT,AC419A,"CĐTN: Lập, đọc và phân tích báo cáo tài chính",AC212 (0),,2
+KT,AC422,Kế toán ngân hàng 2,AC321 (0),,3
+KT,AC481,CĐTN Kế toán tài chính,"AC317 (0), TT499 (0)",129,3
+KT,AC482,CĐTN Kế toán quản trị,"AC317 (0), TT499 (0)",129,3
+KT,AC490,CĐTN ngành Kế toán,"AC317 (0), TT499 (0)",129,3
+KT,AC499,KLTN ngành Kế toán,"AC317 (0), TT499 (0)",135,6
+KT,AD201,Kỹ năng giao tiếp và thuyết trình,,36,2
+KT,AD202,Văn hóa ứng xử trong kinh doanh,,36,2
+KT,AD203,Kỹ năng đàm phán trong kinh doanh,,50,2
+KT,AD204,Ẩm thực Việt nam,,,4
+KT,AD204A,Ẩm thực Việt Nam,,,3
+KT,AD206,Ẩm thực Việt Nam,,,3
+KT,AD211,Văn hóa Hà Nội,,36,2
+KT,AD212,Phương pháp hùng biện và các thủ thuật tranh biện,,36,3
+KT,AD213,Hát – Nhạc,,,3
+KT,AD213A,Hát – Nhạc,,,4
+KT,AD214,Nâng cao chất lượng giọng hát,"AD213 (0), AD213A (1)",,3
+KT,AD215,Ứng dụng PowerPoint,"IS206 (1), IM201 (0), IM202 (2)",,3
+KT,AD216,Tâm lý và kỹ năng giao tiếp với người cao tuổi,,50,3
+KT,AD221,Kĩ năng giao lưu văn hóa,,,2
+KT,AD222,Thực hành giao lưu văn hoá,,,3
+KT,AD231,Thể thao,,,3
+KT,AD250,Dinh dưỡng và tiết chế,,,3
+KT,AD312,Bóng đá,,,4
+KT,AD313,Bóng đá nâng cao,AD312 (0),,4
+KT,AD314,Nhảy hiện đại,,,4
+KT,AD315,Nhảy hiện đại nâng cao,AD314 (0),,4
+KT,AD412,Thực hành nghề ngân hàng,,,4
+KT,AD414,Toeic,GE305 (0),,2
+KT,AD420,Khởi nghiệp,,100,3
+KT,BA101,Quản trị học,,,2
+KT,BA102,Quản trị học đại cương,EC101 (1),,3
+KT,BA211,Quản trị sản xuất và tác nghiệp,"BA101 (0), BA102 (1)",,3
+KT,BA211A,Quản lý sản xuất và tác nghiệp,,,2
+KT,BA212,Quản trị sản xuất và tác nghiệp,"BA101 (0), BA102 (1)",,3
+KT,BA221,Phân tích và lập dự án đầu tư,"FN211D (0), FN211 (1)",,2
+KT,BA222,Phân tích và lập dự án,"FN211 (0), FN211D (1)",,3
+KT,BA312,Quản lý sản xuất và tác nghiệp 2,BA211 (0),,2
+KT,BA313,Quản trị chiến lược,"BA101 (0), BA102 (1)",,3
+KT,BA313A,Quản lý chiến lược,,,2
+KT,BA314,Quản trị nguồn nhân lực,BA101 (0),,3
+KT,BA315,Văn hóa doanh nghiệp và đạo đức kinh doanh,"BA101 (0), BA102 (1)",50,3
+KT,BA317,Quản trị nguồn nhân lực,"BA101 (0), BA102 (1)",,3
+KT,BA318,Văn hóa doanh nghiệp và đạo đức kinh doanh,"BA101 (0), BA102 (1)",50,3
+KT,BA322,Quản lý dự án,"FN211 (0), FN211D (1)",,2
+KT,BA323,Quản lý chất lượng,BA211 (0),,2
+KT,BA325,Nghiệp vụ xuất nhập khẩu,"BK321A (0), BK321 (1), FN201 (2)",,2
+KT,BA326,Thương mại quốc tế,"FN211 (0), FN211D (1)",50,3
+KT,BA327,Quản trị chất lượng,"BA101 (0), BA102 (1)",,3
+KT,BA328,Hành vi tổ chức,"BA101 (0), BA102 (1)",,3
+KT,BA414,Kỹ năng lãnh đạo,"BA328 (0), BA315 (1), BA318 (2)",,2
+KT,BA418,CĐTN: Lãnh đạo doanh nghiệp,,110,3
+KT,BA418C,CĐTN: Quản lý dự án,,110,2
+KT,BA420,Quản trị rủi ro trong kinh doanh,BA102 (0),,3
+KT,BK201,Ngân hàng thương mại 1,"FN211 (1), FN211D (0), FN201A (3)",,3
+KT,BK302,Ngân hàng thương mại 2,BK201 (0),,3
+KT,BK311,Ngân hàng trung ương,BK201 (0),,2
+KT,BK321,Thanh toán quốc tế,"FN201 (0), FN202 (1), FN201A (2)",,3
+KT,BK321A,Thanh toán quốc tế,FN201 (0),,2
+KT,BK322,Công nghệ thông tin ngân hàng,BK302 (0),,2
+KT,BK324,Tín dụng quốc tế,BK201 (0),,2
+KT,BK409,CĐTN: Hoạt động tín dụng trong NHTM,BK302 (0),110,3
+KT,BK409A,CĐTN: Hoạt động tín dụng trong NHTM,,,2
+KT,BK419,CĐTN: Tiền tệ và hoạt động ngân hàng,,110,3
+KT,BK419A,CĐTN: Tiền tệ và hoạt động ngân hàng,,,2
+KT,BK423,Tài trợ dự án,BK302 (0),,2
+KT,CG251,Minh họa với Adobe Illustration,PE221 (0),,2
+KT,CG253,Xử lý ảnh với Adobe Photoshop,PE221 (0),,3
+KT,CG254,Thiết kế QC và XBTT với Adobe Indesign,PE221 (0),,2
+KT,CG257,Thiết kế Web với Adobe Dream Weaver,PE221 (0),,2
+KT,CG275,Thiết kế Web động với Adobe Flash,PE221 (0),,3
+KT,CG277,Thiết kế Web động và HH với Adobe Flash,PE221 (0),,5
+KT,CG283,Biên tập và Streaming Video,PE221 (0),,3
+KT,CG285,Biên tập Audio - Video,PE221 (0),,4
+KT,CG288,Visual Effects - After Effects,PE221 (0),,2
+KT,CS101,Công dân số,,,2
+KT,EC101,Kinh tế học đại cương,,,3
+KT,EC103,Lịch sử các học thuyết kinh tế,,,2
+KT,EC202,Kinh tế vi mô,EC101 (0),,2
+KT,EC203,Kinh tế vĩ mô,EC101 (0),,2
+KT,EC203A,Kinh tế vĩ mô 1,,,2
+KT,EC203B,Kinh tế vĩ mô 2,,,2
+KT,EC204,Kinh tế vi mô,EC101 (1),,3
+KT,EC205,Kinh tế vĩ mô,EC101 (1),,3
+KT,EC221,Luật kinh tế,SH131 (0),,2
+KT,EC221A,Luật kinh tế,,,3
+KT,EC305,Hệ thống tài khoản quốc gia,"EC202 (0), EC203 (0), MEC10 (1), MEC18` (1)",,2
+KT,EC311,Mô hình kinh tế,"EC202 (0), EC203 (0), MEC10 (1), MEC18` (1)",,2
+KT,EC312,Kinh tế lượng,"MA231 (0), MA231A (1), MA230 (2), MA230A (3)",,3
+KT,EC312A,Kinh tế lượng,,,2
+KT,EC314,Kinh tế quốc tế,"EC204 (0), EC205 (0)",,2
+KT,EC322,Luật kinh tế,SH131 (0),,2
+KT,EC331,Thông tin Kinh tế cơ bản,,,3
+KT,EC332,Khởi nghiệp,,,0
+KT,EC490,CĐTN: Về Kinh tế học,TT499 (0),129,3
+KT,FN201,Lý thuyết tài chính tiền tệ,,48,3
+KT,FN201A,Lý thuyết tài chính tiền tệ,,,2
+KT,FN202,Lý thuyết tài chính tiền tệ,,48,3
+KT,FN211,Tài chính doanh nghiệp,"FN201 (0), AC201 (0), FN202 (1), AC201 (1), FN201A (2), AC201 (2)",,3
+KT,FN211D,Nhập môn tài chính doanh nghiệp,"FN201 (0), AC201 (0), IFB10 (1), AC201 (1)",,2
+KT,FN212,Quản trị tài chính doanh nghiệp 1,"FN211D (0), FN211 (1)",,3
+KT,FN212A,Quản trị tài chính doanh nghiệp 1,,,3
+KT,FN213,Quản trị tài chính doanh nghiệp 1,"FN211 (0), FN211D (1)",,3
+KT,FN221,Tài chính công,"FN201 (0), FN202 (1), FN201A (2)",,2
+KT,FN223,Nghiệp vụ thuế,FN221 (0),,3
+KT,FN224,Thuế,FN221 (0),,3
+KT,FN261,Tài chính quốc tế,"FN202 (1), FN201 (0), FN201A (2)",,3
+KT,FN261A,Tài chính quốc tế,,,2
+KT,FN313,Quản trị tài chính doanh nghiệp 2,"FN212 (0), FN213 (1), FN212A (2)",,3
+KT,FN313A,Quản lý tài chính doanh nghiệp 2,,,2
+KT,FN314,Quản trị tài chính doanh nghiệp 2,"FN213 (0), FN212 (1)",,3
+KT,FN316,Phân tích và dự báo tài chính vi mô,FN313 (0),,3
+KT,FN331,Thị trường chứng khoán,"FN211D (0), FN211 (1)",,3
+KT,FN331A,Thị trường chứng khoán,,,2
+KT,FN332,Nghiệp vụ bảo hiểm,"FN211D (0), FN211 (1)",,2
+KT,FN334,Đầu tư chứng khoán,"FN211 (0), FN211D (1)",48,2
+KT,FN419,CĐTN: Phân tích tài chính doanh nghiệp,FN313 (0),110,3
+KT,FN435,Kinh tế đầu tư,FN201 (0),,3
+KT,FN436,Định giá tài sản,"FN213 (1), FN212 (0), FN212A (2)",,3
+KT,FN437,Đấu thầu,FN313 (0),,2
+KT,FN437A,CĐTN: Đấu thầu,,110,2
+KT,FN439,CĐTN: Đầu tư vốn,"FN313 (0), FN331 (0)",110,3
+KT,FN439D,CĐTN: Đầu tư vốn,,,2
+KT,GE100,Tiếng Anh cho người mới bắt đầu,,,2
+KT,GE100A,Tiếng Anh cho người mới bắt đầu,,,0
+KT,GE101,Tiếng Anh sơ cấp 1,,,2
+KT,GE101A,Tiếng Anh sơ cấp 1,,,2
+KT,GE102,Tiếng Anh sơ cấp 2,"GE101 (0), GE101A (1)",,2
+KT,GE102A,Tiếng Anh sơ cấp 2,,,2
+KT,GE103,Tiếng Anh sơ cấp 3,"GE101 (0), GE102 (0), GE101 (1), GE102A (1), GE101A (2), GE102 (2), GE101A (3), GE102A (3)",,2
+KT,GE201,Tiếng Anh sơ trung cấp 1,"GE102 (0), GE103 (0), GE102A (1), GE103 (1), GE101A (2), GE102A (2)",,2
+KT,GE201A,Tiếng Anh sơ trung cấp 1,,,2
+KT,GE202,Tiếng Anh sơ trung cấp 2,"GE103 (0), GE201 (0), GE103 (1), GE201A (1), GE102A (2), GE201A (2), GE102A (3), GE201 (3)",,2
+KT,GE202A,Tiếng Anh sơ trung cấp 2,,,2
+KT,GE205,Tiếng Anh sơ trung cấp 3,"GE201 (0), GE202 (0), GE201 (1), GE202A (1), GE201A (2), GE202 (2), GE201A (3), GE202A (3)",,2
+KT,GE212,Kỹ năng tiếng Anh thương mại 1,"GE201 (0), GE202 (0)",,2
+KT,GE213,Kỹ năng tiếng Anh thương mại 2,"GE212 (0), PE221 (1), GE202A (0), GE202A (1)",,2
+KT,GE301,Tiếng Anh trung cấp 1,"GE205 (1), GE201A (2), GE202A (2), GE202 (0), GE205 (0), GE202A (1)",,2
+KT,GE303,Tiếng Anh trung cấp 2,"GE205 (0), GE301 (0), GE202A (1), GE301 (1), GE202A (2), GE212 (2)",,2
+KT,GE305,Tiếng Anh trung cấp 3,"GE212 (1), GE213 (1), GE301 (0), GE303 (0), GE213 (3), GE301 (3), GE212 (2), GE303 (2)",,2
+KT,GE320A,TOEIC,,,2
+KT,GF101,Tiếng Pháp 1,,,2
+KT,GF102,Tiếng Pháp 2,GF101 (0),,2
+KT,GF223,Tiếng Pháp 3,GF102 (0),,2
+KT,GI101,Tiếng Ý 1,,,2
+KT,GI102,Tiếng Ý 2,GI101 (0),,2
+KT,GJ101,Tiếng Nhật 1,,,2
+KT,GJ102,Tiếng Nhật 2,GJ101 (0),,2
+KT,GK101,Tiếng Hàn 1,,,2
+KT,GK102,Tiếng Hàn 2,GK101 (0),,2
+KT,GZ101,Tiếng Trung 1,,,2
+KT,GZ102,Tiếng Trung 2,GZ101 (0),,2
+KT,GZ103,Tiếng Trung 3,GZ102 (0),,2
+KT,IFB10,Lý thuyết tài chính tiền tệ,,48,2
+KT,IM001,Kỹ năng CNTT cơ bản,,,0
+KT,IM002,Kỹ năng soạn thảo VB(MS Office),IM001 (0),36,3
+KT,IM003,Kỹ năng soạn thảo VB(open Office),IM001 (0),36,3
+KT,IM004,Ứng dụng Excel,"IM002 (0), IS101 (1)",,3
+KT,IM201,Kỹ năng soạn thảo VB (MS office),"IS009 (1), IM001 (0), IS101 (3)",,3
+KT,IM202,Kỹ năng soạn thảo văn bản (Open Office),"IM001 (0), IS009 (1)",,3
+KT,IM203,Ứng dụng Excel,"IS206 (1), IM201 (0), IS101 (3)",,3
+KT,IM204,Ứng dụng Cal,IM202 (0),,3
+KT,IS009,Máy tính và Internet,,,1
+KT,IS101,Tin văn phòng,,,3
+KT,IS101A,Tin học văn phòng,,,2
+KT,IS101B,Tin học văn phòng nâng cao,,,2
+KT,IS201,Tin quản lý Access,"IS101 (0), IS201A (1), IS101A (2), IS101B (3), IS206 (4)",,3
+KT,IS201A,Tin quản lý 1A,,,2
+KT,IS201B,Tin quản lý 2,,,2
+KT,IS202,Tin quản lý Foxpro,"IS101 (0), IS201A (1), IS101A (2), IS101B (3), IS206 (4)",,3
+KT,IS202A,Lập trình quản lý 1,,,2
+KT,IS202B,Lập trình quản lý 2,,,2
+KT,IS202C,Lập trình quản lý,,,2
+KT,IS206,Kĩ năng soạn thảo văn bản,IS009 (0),72,3
+KT,IS207,Ứng dụng Exel,"IS206 (0), IS101 (1)",,3
+KT,IS301,Tin học văn phòng nâng cao,"IS101 (0), IS101A (1), IS101B (2), IS201A (3), IS201B (4), IS202A (5), IS202B (6)",100,3
+KT,IS382,Công nghệ thông tin trong doanh nghiệp,"MK202 (1), BA101 (2), MK202 (2), BA102 (3), BA101 (0), MK201 (0), MK201 (3), BA102 (1), MK202 (4)",100,2
+KT,MA100A,Toán 1,,,2
+KT,MA101,"Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)","GE103 (0), GE102A (1)",,3
+KT,MA101A,"Logic, suy luận toán học và kỹ thuật đếm",,,3
+KT,MA102,Toán cơ sở,,,3
+KT,MA142,"Đại số tuyến tính, giải tích và ứng dụng trong kinh tế","MA100A (0), MA102 (3), EC101 (0), MA101A (4), EC101 (4), EC101 (2), EC101 (3)",,4
+KT,MA142A,Đại số tuyến tính,,,2
+KT,MA142B,Giải tích trong kinh tế,,,2
+KT,MA230,Xác suất,,,3
+KT,MA230A,Xác suất thống kê,,,3
+KT,MA231,Xác suất thống kê ứng dụng,"IM001 (2), MA142 (3), IS009 (3), MA142 (1), MA142A (0), MA142B (0), IS101 (1), MA142 (6), IM201 (6), MA142 (4), IM202 (4), MA142 (2)",,4
+KT,MA231A,Thống kê 1,,,2
+KT,MA231B,Thống kê 2,,,2
+KT,MA241,Toán tài chính,"MA142 (0), MA142A (1)",,2
+KT,MEC10,Kinh tế vi mô 2,,,2
+KT,MEC18`,Kinh tế vĩ mô 2,,,2
+KT,MK201,Nguyên lý marketing,EC101 (0),,2
+KT,MK202,Marketing căn bản,EC101 (0),,3
+KT,MK302,Nghiên cứu marketing,"MK201 (0), MK202 (1)",,3
+KT,MK305,Tâm lý hành vi người tiêu dùng,"MK201 (0), MK202 (1)",,3
+KT,MK306,Tâm lý hành vi người tiêu dùng,"MK201 (0), MK202 (1)",,3
+KT,MK311,Quản trị Marketing,MK201 (0),,3
+KT,MK311A,Quản trị marketing 1,,,2
+KT,MK311B,Quản trị marketing 2,,,2
+KT,MK312,Quản trị thương hiệu,MK201 (0),,2
+KT,MK313,Quản trị thương hiệu,"MK201 (0), MK202 (1)",,3
+KT,MK321,Quản trị kênh phân phối,"MK311 (0), MK311A (1), MK311B (2)",,2
+KT,MK322,Quản trị chuỗi cung ứng,"MK201 (0), MK202 (1)",,3
+KT,MK326,Đồ họa truyền thông,"IS101 (0), IS206 (1)",,2
+KT,MK331,Marketing ngân hàng,"MK201 (0), MK202 (1)",,2
+KT,MK333,Marketing dịch vụ,"MK201 (0), MK202 (1)",,2
+KT,MK335,E - Marketing,"MK201 (0), MK202 (1)",,3
+KT,MK418,Marketing quốc tế,"MK201 (0), MK202 (1)",,2
+KT,MK419,CĐTN: Marketing Quốc tế,MK311 (0),110,3
+KT,MK419A,CĐTN: Marketing quốc tế,,110,2
+KT,MK420,Marketing công nghiệp,MK202 (0),,3
+KT,MK422,Quản trị quảng cáo,"MK311 (0), MK311A (1), MK311B (2)",,3
+KT,MK423,Quan hệ cộng đồng,,50,2
+KT,MK424,Quản trị bán hàng,"MK201 (0), MK202 (1)",,3
+KT,MK425,Quan hệ công chúng,"MK201 (0), MK202 (1)",,3
+KT,MK426,Truyền thông marketing tích hợp,"MK202 (0), MK201 (1)",,3
+KT,ML101,Những NLCB của chủ nghĩa Mác - Lênin,,,5
+KT,ML111,Triết học Mác – Lênin,,,2
+KT,ML112,Kinh tế chính trị và CNXH khoa học,,,3
+KT,ML112A,Kinh tế chính trị,,,3
+KT,ML112B,Chủ nghĩa xã hội khoa học,,,2
+KT,ML202,Tư tưởng Hồ Chí Minh,"ML101 (0), ML111 (1), ML112A (2), ML112B (3)",,2
+KT,ML203,Đường lối cách mạng của Đảng CS Việt Nam,ML202 (0),,3
+KT,MLE15A,Tiếng anh doanh nghiệp phần 1A,,,2
+KT,MLE15B,Tiếng anh doanh nghiệp phần 1B,,,2
+KT,MLE16A,Tiếng anh doanh nghiệp phần 2A,,,2
+KT,NA151,Khoa học môi trường,,,2
+KT,PE221,Tiếng Anh doanh nghiệp 1A,"GE202 (0), GE201 (0)",,2
+KT,PE322,Tiếng Anh doanh nghiệp 1B,"GE202 (0), PE221 (0)",,2
+KT,PE323,Tiếng Anh doanh nghiệp 2A,"PE221 (0), PE322 (0)",,2
+KT,PE325,Tiếng Anh doanh nghiệp 1,"PE322 (3), PE221 (3), PE221 (1), GE213 (1), GE213 (0), GE212 (0), GE212 (4), PE322 (4)",,2
+KT,PE326,Tiếng Anh doanh nghiệp 2,"GE213 (0), PE325 (1), PE322 (2), PE325 (0), PE322 (1), PE323 (2), GE213 (3), PE323 (3)",,2
+KT,PE424,Tiếng Anh doanh nghiệp 2B,"PE322 (0), PE323 (0)",,2
+KT,PE426,TOEIC,PE424 (0),,2
+KT,PG100,Giáo dục thể chất,,,4
+KT,PG100A,Giáo dục thể chất,,,4
+KT,PG101,GDTC: Lý thuyết,,,1
+KT,PG102,GDTC: Thể dục cổ truyền cơ bản,,,1
+KT,PG103,GDTC: Thể dục cổ truyền nâng cao,PG102 (0),,1
+KT,PG104,GDTC: Cầu lông cơ bản,,,1
+KT,PG105,GDTC: Cầu lông nâng cao,PG104 (0),,1
+KT,PG106,GDTC: Bóng bàn cơ bản,,,1
+KT,PG107,GDTC: Bóng bàn nâng cao,PG106 (0),,1
+KT,PG108,GDTC: Thể dục nhịp điệu cơ bản,,,1
+KT,PG109,GDTC: Thể dục nhịp điệu nâng cao,PG108 (0),,1
+KT,PG110,GDTC: Bơi cơ bản,,,1
+KT,PG111,GDTC: Khiêu vũ thể thao cơ bản,,,1
+KT,PG112,GDTC: Khiêu vũ thể thao nâng cao,PG111 (0),,1
+KT,PG113,GDTC: Bóng rổ cơ bản,,,1
+KT,PG114,GDTC: Bóng rổ nâng cao,PG113 (0),,1
+KT,PG115,GDTC: Bóng chuyền cơ bản,,,1
+KT,PG116,GDTC: Bóng chuyền nâng cao,,,1
+KT,PG117,GDTC: Thể dục dã ngoại,,,1
+KT,PG118,GDTC: Thể dục cơ bản,,,1
+KT,PG119,GDTC: Thể dục Erobic,,,1
+KT,PG120,Thể dục cơ bản nâng cao,PG118 (0),,1
+KT,PG121,Giáo dục quốc phòng,,,4
+KT,PG121D,Đường lối quân sự của Đảng,,,2
+KT,PG121E,Công tác quốc phòng - an ninh,,,2
+KT,PG122,GDQP: Đường lối quân sự của Đảng,,,1
+KT,PG123,GDQP: Công tác quốc phòng - an ninh,,,1
+KT,PG124,GDQP: Quân sự chung,,,1
+KT,PG125,GDQP: Kỹ thuật bắn súng,,,1
+KT,PG131,GDTC: Bóng rổ nâng cao 1,,,1
+KT,PG132,GDTC: Bóng rổ nâng cao 2,,,1
+KT,PG133,GDTC: Bóng rổ nâng cao 3,,,1
+KT,PG134,GDTC: Bóng rổ nâng cao 4,,,1
+KT,PG141,GDTC: Bóng chuyền nâng cao 1,,,1
+KT,PG142,GDTC: Bóng chuyền nâng cao 2,,,1
+KT,PG143,GDTC: Bóng chuyền nâng cao 3,,,1
+KT,PG144,GDTC: Bóng chuyền nâng cao 4,,,1
+KT,PG150,Bóng đá,,,4
+KT,PG151,Bóng đá nâng cao,,,4
+KT,PG160,Nhảy hiện đại,,,4
+KT,PG161,Nhảy hiện đại nâng cao,,,4
+KT,PV101,Tiếng Việt thực hành,,,2
+KT,SB203,Kỹ năng đàm phán trong kinh doanh,,50,2
+KT,SC201,Kỹ năng giao tiếp và thuyết trình,,36,2
+KT,SH121,Địa lý kinh tế,,,2
+KT,SH131,Pháp luật đại cương,,,2
+KT,SM201,Phương pháp luận nghiên cứu khoa học,,36,3
+KT,ST450,Toeic,,,3
+KT,TT499,Thực tập tốt nghiệp,,112,3
+KT,VL101,Tiếng Việt thực hành,,,2
+KT,VR201,Ẩm thực Việt Nam,,,3
+KT,VR203,Ẩm thực Việt Nam,,,4
+KT,VR203A,Ẩm thực Việt Nam,,,3
+TI,AD204,Ẩm thực Việt nam,,,4
+TI,AD204A,Ẩm thực Việt Nam,,,3
+TI,AD206,Ẩm thực Việt Nam,,,3
+TI,AD211,Văn hóa Hà Nội,,36,2
+TI,AD212,Phương pháp hùng biện và các thủ thuật tranh biện,,36,3
+TI,AD213,Hát – Nhạc,,,3
+TI,AD213A,Hát – Nhạc,,,4
+TI,AD214,Nâng cao chất lượng giọng hát,"AD213 (0), AD213A (1)",,3
+TI,AD215,Ứng dụng PowerPoint,"IS206 (1), IM201 (0), IM202 (2)",,3
+TI,AD216,Tâm lý và kỹ năng giao tiếp với người cao tuổi,,50,3
+TI,AD221,Kĩ năng giao lưu văn hóa,,,2
+TI,AD222,Thực hành giao lưu văn hoá,,,3
+TI,AD231,Thể thao,,,3
+TI,AD250,Dinh dưỡng và tiết chế,,,3
+TI,AD312,Bóng đá,,,4
+TI,AD313,Bóng đá nâng cao,AD312 (0),,4
+TI,AD314,Nhảy hiện đại,,,4
+TI,AD315,Nhảy hiện đại nâng cao,AD314 (0),,4
+TI,AD414,Toeic,GE305 (0),,2
+TI,AD420,Khởi nghiệp,,,3
+TI,CF201,Lý thuyết thuật toán,MI201 (0),,3
+TI,CF201A,Lý thuyết thuật toán 1,,,2
+TI,CF201B,Lý thuyết thuật toán 2,,,2
+TI,CF211,Phân tích và thiết kế thuật toán,CS121 (1),,2
+TI,CF212,Cấu trúc dữ liệu,"CS122 (0), CS122A (1), CS122B (2)",,3
+TI,CF212A,Cấu trúc dữ liệu 1,,,2
+TI,CF212B,Cấu trúc dữ liệu 2,,,2
+TI,CF231,Lý thuyết thông tin và mã hóa,MA231 (1),,2
+TI,CF301,Ngôn ngữ hình thức và Otomat,MI201 (0),,3
+TI,CF302,"Văn phạm, ngôn ngữ hình thức, otomat và CT dịch",MI201 (0),,3
+TI,CF302B,Chương trình dịch,,,2
+TI,CF321,Xử lý tín hiệu số,MI201 (0),,3
+TI,CG101,Đồ họa căn bản,,,2
+TI,CG102,Đồ họa vector,CG101 (0),,2
+TI,CG103,Xử lý ảnh phục vụ in ấn và Web,CG102 (0),,3
+TI,CG104,Quảng cáo và xuất bản truyền thông,CG103 (0),,3
+TI,CG201,Thiết kế Web,,,3
+TI,CG202,Web động và tương tác,CG201 (0),,5
+TI,CG203,Adobe Dream Weave CS6,CG202 (0),,2
+TI,CG251,Minh họa với Adobe Illustration,PE201 (0),,2
+TI,CG253,Xử lý ảnh với Adobe Photoshop,PE201 (0),,3
+TI,CG254,Thiết kế QC và XBTT với Adobe Indesign,PE201 (0),,2
+TI,CG257,Thiết kế Web với Adobe Dream Weaver,PE201 (0),,2
+TI,CG275,Thiết kế Web động với Adobe Flash,PE201 (0),,3
+TI,CG277,Thiết kế Web động và HH với Adobe Flash,PE201 (0),,5
+TI,CG283,Biên tập và Streaming Video,PE201 (0),,3
+TI,CG285,Biên tập Audio - Video,PE201 (0),,4
+TI,CG288,Visual Effects - After Effects,PE201 (0),,2
+TI,CG428,CĐTN: Đồ họa QC và xuất bản TT,CG103 (0),,3
+TI,CG429,CĐTN Thiết kế Web,CG203 (0),,3
+TI,CS100,Tin đại cương,,,2
+TI,CS100A,Nhập môn khoa học máy tính,,,2
+TI,CS110,Kỹ thuật số,"MA102 (0), MA101 (1)",,2
+TI,CS121,Ngôn ngữ lập trình,,,3
+TI,CS121A,Ngôn ngữ lập trình 1A,,,2
+TI,CS122,Lập trình hướng đối tượng,"CS121 (0), CS121A (1)",,3
+TI,CS122A,Lập trình hướng đối tượng,,,2
+TI,CS122B,Lập trình hướng đối tượng nâng cao,,,2
+TI,CS211,Vi điều khiển và ứng dụng,CS110 (0),,3
+TI,CS212,Kiến trúc máy tính,"CS122A (0), CS122B (2), CS122 (1), CS110 (0), CS110 (1), CS110 (2)",,3
+TI,CS212A,Kiến trúc máy tính 1,,,2
+TI,CS212B,Kiến trúc máy tính 2,CS212A (0),,2
+TI,CS223,Lập trình Java,"CS122 (0), CS122A (1), CS122B (2)",,3
+TI,CS223B,Lập trình Java nâng cao,,,2
+TI,CS224,Lập trình .Net,"CS122A (1), CS122B (2), IS222 (0)",,3
+TI,CS311,Lập trình ứng dụng di động,CS122 (0),,2
+TI,CS311A,Hợp ngữ,"CS212 (0), CS212A (1), CS212B (2)",,2
+TI,CS312,Lập trình hệ thống,"CS212 (0), CS212A (1), CS212B (2)",,3
+TI,CS312A,Lập trình hệ thống,,,2
+TI,CS315,Nguyên lý hệ điều hành,"CS212 (0), CS212A (1), CS212B (2)",,3
+TI,CS315A,Hệ điều hành Unix,,,3
+TI,CS316,Hệ điều hành Unix,"CS212 (0), CS212A (2), CS212B (1)",,3
+TI,CS322,Chương trình dịch,CF301 (0),,2
+TI,CS324,Kỹ thuật lập trình,CS122 (0),,2
+TI,CS325,Lập trình PHP,"IS222 (0), IS222A (1)",,3
+TI,CS411,Ứng dụng KT vi xử lý trong đo lường và điều khiển,CS122 (0),,2
+TI,CS425,Một số vấn đề hiện đại trong khoa học máy tính,,90,2
+TI,CS428,CĐTN: Công nghệ .Net,"CS223 (0), CS223B (1)",117,6
+TI,CS429,CĐTN: Công nghệ Java,CS224 (0),117,6
+TI,CS499,KLTN ngành Khoa học máy tính,,127,6
+TI,EC101,Kinh tế học đại cương,,,3
+TI,EC102,Nhập môn kinh tế học,,,2
+TI,ET220,Lý thuyết mạch,"MA102 (0), MA101A (1)",,3
+TI,FN334,Đầu tư chứng khoán,,48,2
+TI,GE100,Tiếng Anh cho người mới bắt đầu,,,2
+TI,GE100A,Tiếng Anh cho người mới bắt đầu,,,0
+TI,GE101,Tiếng Anh sơ cấp 1,,,2
+TI,GE101A,Tiếng Anh sơ cấp 1,,,2
+TI,GE102,Tiếng Anh sơ cấp 2,"GE101 (0), GE101A (1)",,2
+TI,GE102A,Tiếng Anh sơ cấp 2,,,2
+TI,GE103,Tiếng Anh sơ cấp 3,"GE101 (0), GE102 (0), GE101A (1), GE102 (1), GE101 (2), GE102A (2), GE101A (3), GE102A (3)",,2
+TI,GE201,Tiếng Anh sơ trung cấp 1,"GE103 (0), GE102 (0), GE102A (1), GE103 (1), GE101A (2), GE102A (2)",,2
+TI,GE201A,Tiếng Anh sơ trung cấp 1,,,2
+TI,GE202,Tiếng Anh sơ trung cấp 2,"GE103 (0), GE103 (1), GE201 (0), GE201A (1), GE201A (2), GE102A (2), GE102A (3), GE201 (3)",,2
+TI,GE202A,Tiếng Anh sơ trung cấp 2,,,2
+TI,GE203,Kỹ năng giao tiếp tiếng Anh 1,"PE304 (0), PE305 (0), PE201 (1), PE302 (1), PE201 (2), PE305 (2), PE304 (3), PE302 (3)",,2
+TI,GE203A,Kỹ năng giao tiếp tiếng anh 1,,,2
+TI,GE204,Kỹ năng giao tiếp tiếng Anh 2,"PE305 (0), GE203 (0), PE305 (1), PE303 (1), PE302 (2), GE203 (2), PE302 (3), PE303 (3)",,2
+TI,GE205,Tiếng Anh sơ trung cấp 3,"GE201 (0), GE202 (0), GE201 (1), GE202A (1), GE201A (2), GE202 (2), GE201A (3), GE202A (3)",,2
+TI,GE301,Tiếng Anh trung cấp 1,"GE202 (0), GE205 (0), GE202A (1), GE205 (1), GE202A (2), GE201A (2)",,2
+TI,GE303,Tiếng Anh trung cấp 2,"GE205 (0), GE301 (0), GE202A (1), GE301 (1), GE202A (2), GE203 (2), GE202A (3), PE303 (3)",,2
+TI,GE305,Tiếng Anh trung cấp 3,"GE301 (0), GE303 (0), GE203 (1), GE204 (1), PE303 (2), PE404 (2), GE203 (3), GE303 (3), GE203 (4), PE404 (4)",,2
+TI,GE320A,TOEIC,,,2
+TI,GF101,Tiếng Pháp 1,,,2
+TI,GF102,Tiếng Pháp 2,GF101 (0),,2
+TI,GF223,Tiếng Pháp 3,GF102 (0),,2
+TI,GI101,Tiếng Ý 1,,,2
+TI,GI102,Tiếng Ý 2,GI101 (0),,2
+TI,GJ101,Tiếng Nhật 1,,,2
+TI,GJ102,Tiếng Nhật 2,GJ101 (0),,2
+TI,GK101,Tiếng Hàn 1,,,2
+TI,GK102,Tiếng Hàn 2,GK101 (0),,2
+TI,GZ101,Tiếng Trung 1,,,2
+TI,GZ102,Tiếng Trung 2,GZ101 (0),,2
+TI,GZ103,Tiếng Trung 3,GZ102 (0),,2
+TI,IM001,Kỹ năng CNTT cơ bản,,,0
+TI,IM002,Kỹ năng soạn thảo VB(MS Office),IM001 (0),36,3
+TI,IM003,Kỹ năng soạn thảo VB(open Office),IM001 (0),36,3
+TI,IM004,Ứng dụng Excel,IM002 (0),,3
+TI,IM201,Kỹ năng soạn thảo VB (MS office),IM001 (0),,3
+TI,IM202,Kỹ năng soạn thảo văn bản (Open Office),IM001 (0),,3
+TI,IM203,Ứng dụng Excel,"IS206 (0), IM201 (1)",,3
+TI,IM204,Ứng dụng Cal,IM202 (0),,3
+TI,IP401,Thực tập ngành Khoa học máy tính,,107,2
+TI,IS009,Máy tính và Internet,,,1
+TI,IS101,Tin văn phòng,,,3
+TI,IS206,Kĩ năng soạn thảo văn bản,IS009 (0),72,3
+TI,IS207,Ứng dụng Exel,IS206 (0),,3
+TI,IS222,Cơ sở dữ liệu,"CS121 (3), CS121A (2), CS121 (0), CS121A (1), MA102 (1), MA102 (0), MA101A (3), MA101A (2), CS121 (4), MA101 (4)",,3
+TI,IS222A,Bài tập lớn về CSDL,,,2
+TI,IS223A,Cơ sở dữ liệu 2,,,2
+TI,IS224A,Cơ sở dữ liệu phân tán,,,2
+TI,IS301,Tin học văn phòng nâng cao,CS100 (0),100,3
+TI,IS314,Hệ thống thông tin,IS222 (0),,3
+TI,IS316,Hạ tầng công nghệ thông tin,,70,2
+TI,IS317,Hạ tầng công nghệ thông tin,,,2
+TI,IS322,Hệ quản trị cơ sở dữ liệu,IS222 (0),,3
+TI,IS322A,Hệ quản trị cơ sở dữ liệu 1,,,2
+TI,IS322B,Hệ quản trị cơ sở dữ liệu 2,,,2
+TI,IS322C,Hệ quản trị cơ sở dữ liệu 3,,,2
+TI,IS322D,Hệ quản trị cơ sở dữ liệu 4,,,2
+TI,IS322E,Hệ quản trị cơ sở dữ liệu,,,4
+TI,IS325,Cơ sở dữ liệu phân tán,"IS222 (0), NW212 (0)",,2
+TI,IS329,Dữ liệu lớn,,,2
+TI,IS332,Phân tích thiết kế hướng đối tượng,"IS222 (1), CS122 (0), IS222 (0), CS122A (1)",,3
+TI,IS333,Phân tích thiết kế hệ thống thông tin,IS222 (0),,2
+TI,IS345,An toàn thông tin,CF231 (0),,3
+TI,IS346,Pháp luật và chính sách an toàn thông tin,IS345 (0),,2
+TI,IS381,Hệ thống thông tin quản lý,,90,3
+TI,IS383,Hệ thống thông tin nâng cao,IS314 (0),,2
+TI,IS385,Cơ sở dữ liệu phân tán,"IS222 (0), NW212 (0)",,2
+TI,IS424,Lập trình cơ sở dữ liệu,"IS332 (0), IS222 (3), IS322 (1)",,3
+TI,IS424A,Lập trình cơ sở dữ liệu 1,,,4
+TI,IS424B,Lập trình cơ sở dữ liệu 2,,,4
+TI,IS424C,CĐTN: Phát triển ứng dụng trên Oracle,,,2
+TI,IS430,Công nghệ Blockchain,,100,3
+TI,IS480,Kiến trúc doanh nghiệp,,100,3
+TI,IS484,CĐTN: Cơ sở dữ liệu,IS222 (0),117,6
+TI,IS487,CĐTN: Hệ thống thông tin quản lý,IS381 (0),110,6
+TI,IS489,CĐTN: Hệ thống thông tin ngân hàng,"IS332 (0), IS381 (1)",110,6
+TI,MA100A,Toán 1,,,2
+TI,MA101,"Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)",GE103 (0),,3
+TI,MA101A,"Logic, suy luận toán học và kỹ thuật đếm",,,3
+TI,MA102,Toán cơ sở,,,3
+TI,MA103,Số và cấu trúc đại số,,,3
+TI,MA104,Số và cấu trúc đại số,,,3
+TI,MA110,Giải tích 1,,,3
+TI,MA110A,Giải tích 1A,,,2
+TI,MA111,Giải tích 2,"MA110 (0), MA110A (1)",,3
+TI,MA111A,Giải tích 2A,,,2
+TI,MA111B,Giải tích 2B,,,2
+TI,MA120,Đại số tuyến tính,,,3
+TI,MA120A,Đại số tuyến tính 1,,,2
+TI,MA120B,Đại số tuyến tính 2,,,2
+TI,MA212,Phương trình vi phân,"MA111 (0), MA111A (1), MA111B (2)",,2
+TI,MA222,Đại số đại cương,"MA120 (0), MA120A (1), MA120B (2)",,2
+TI,MA230,Xác suất,"MA111 (0), MA111A (1), MA111B (2)",,3
+TI,MA231,Xác suất thống kê ứng dụng,"MA120 (0), MA120A (1), CS100 (1), CS100 (2), MA120A (3), MA120B (2), CS100A (3), CS100 (0), MA120 (4), CS100A (4)",,4
+TI,MA313,Hàm biến phức,"MA111 (0), MA111B (1)",,2
+TI,MI201,Toán rời rạc,CS122 (0),,3
+TI,MI311,Mã hóa và an toàn dữ liệu,MI201 (0),,2
+TI,MI311A,Lý thuyết thông tin và mã hoá,,,2
+TI,MI312,Đồ họa,"CS122 (0), MA120 (0), MA120 (1), CS122A (1), MA120A (2), CS122 (2)",,2
+TI,MI321,Trí tuệ nhân tạo,"CF212 (0), CF212A (1), CF212B (2), MI201 (0), MI201 (1), MI201 (2)",,3
+TI,MI321A,Trí tuệ nhân tạo,,,2
+TI,MI322,Trí tuệ nhân tạo và công nghệ tri thức,,,3
+TI,MI414,Giao diện người máy,MI312 (0),,2
+TI,ML101,Những NLCB của chủ nghĩa Mác - Lênin,,,5
+TI,ML111,Triết học Mác – Lênin,,,2
+TI,ML112,Kinh tế chính trị và CNXH khoa học,,,3
+TI,ML112A,Kinh tế chính trị,,,3
+TI,ML112B,Chủ nghĩa xã hội khoa học,,,2
+TI,ML202,Tư tưởng Hồ Chí Minh,"ML111 (0), ML101 (1), ML112A (2), ML112B (3)",,2
+TI,ML203,Đường lối cách mạng của Đảng CS Việt Nam,ML202 (0),,3
+TI,NA151,Khoa học môi trường,,,2
+TI,NW212,Mạng máy tính,"CS212 (0), CS212A (1), CS212B (2)",,2
+TI,NW212A,Internet,,,2
+TI,NW312,Thiết kế và quản trị mạng,"NW212 (0), NW212A (1)",,3
+TI,NW312A,Thiết kế quản trị mạng,,,4
+TI,NW322,Lập trình mạng,"NW312 (0), NW312A (1)",,2
+TI,NW322A,Lập trình mạng,,,4
+TI,NW332,An toàn mạng,"NW312 (0), NW312A (1)",,3
+TI,NW332A,An toàn mạng,,,4
+TI,NW439,CĐTN: An toàn mạng,NW312 (0),117,6
+TI,NW439A,CĐTN: Quản trị mạng,,,2
+TI,NW439B,CĐTN: Lập trình mạng,,,2
+TI,PE201,Tiếng Anh trong tin học 1A,"GE202 (0), GE201 (0)",,2
+TI,PE302,Tiếng Anh trong tin học 1B,"GE202 (0), PE201 (0)",,2
+TI,PE303,Tiếng Anh trong tin học 2A,"PE201 (0), PE302 (0)",,2
+TI,PE304,Tiếng Anh trong tin học 1,"GE201 (3), GE202 (3), GE201 (1), GE202A (1), GE201A (2), GE202A (2)",,2
+TI,PE305,Tiếng Anh trong tin học 2,"PE304 (0), GE202 (1), PE201 (1), GE202 (0), GE202A (2), PE304 (2), GE202A (3), PE201 (3)",,2
+TI,PE404,Tiếng Anh trong tin học 2B,"PE302 (0), PE303 (0)",,2
+TI,PG100,Giáo dục thể chất,,,4
+TI,PG100A,Giáo dục thể chất,,,4
+TI,PG101,GDTC: Lý thuyết,,,1
+TI,PG102,GDTC: Thể dục cổ truyền cơ bản,,,1
+TI,PG103,GDTC: Thể dục cổ truyền nâng cao,PG102 (0),,1
+TI,PG104,GDTC: Cầu lông cơ bản,,,1
+TI,PG105,GDTC: Cầu lông nâng cao,PG104 (0),,1
+TI,PG106,GDTC: Bóng bàn cơ bản,,,1
+TI,PG107,GDTC: Bóng bàn nâng cao,PG106 (0),,1
+TI,PG108,GDTC: Thể dục nhịp điệu cơ bản,,,1
+TI,PG109,GDTC: Thể dục nhịp điệu nâng cao,PG108 (0),,1
+TI,PG110,GDTC: Bơi cơ bản,,,1
+TI,PG111,GDTC: Khiêu vũ thể thao cơ bản,,,1
+TI,PG112,GDTC: Khiêu vũ thể thao nâng cao,PG111 (0),,1
+TI,PG113,GDTC: Bóng rổ cơ bản,,,1
+TI,PG114,GDTC: Bóng rổ nâng cao,PG113 (0),,1
+TI,PG115,GDTC: Bóng chuyền cơ bản,,,1
+TI,PG116,GDTC: Bóng chuyền nâng cao,PG115 (0),,1
+TI,PG117,GDTC: Thể dục dã ngoại,,,1
+TI,PG118,GDTC: Thể dục cơ bản,,,1
+TI,PG119,GDTC: Thể dục Erobic,,,1
+TI,PG120,Thể dục cơ bản nâng cao,PG118 (0),,1
+TI,PG121,Giáo dục quốc phòng,,,4
+TI,PG121D,Đường lối quân sự của Đảng,,,2
+TI,PG121E,Công tác quốc phòng - an ninh,,,2
+TI,PG122,GDQP: Đường lối quân sự của Đảng,,,1
+TI,PG123,GDQP: Công tác quốc phòng - an ninh,,,1
+TI,PG124,GDQP: Quân sự chung,,,1
+TI,PG125,GDQP: Kỹ thuật bắn súng,,,1
+TI,PG131,GDTC: Bóng rổ nâng cao 1,,,1
+TI,PG132,GDTC: Bóng rổ nâng cao 2,,,1
+TI,PG133,GDTC: Bóng rổ nâng cao 3,,,1
+TI,PG134,GDTC: Bóng rổ nâng cao 4,,,1
+TI,PG141,GDTC: Bóng chuyền nâng cao 1,,,1
+TI,PG142,GDTC: Bóng chuyền nâng cao 2,,,1
+TI,PG143,GDTC: Bóng chuyền nâng cao 3,,,1
+TI,PG144,GDTC: Bóng chuyền nâng cao 4,,,1
+TI,PG150,Bóng đá,,,4
+TI,PG151,Bóng đá nâng cao,,,4
+TI,PG160,Nhảy hiện đại,,,4
+TI,PG161,Nhảy hiện đại nâng cao,,,4
+TI,PHTQT,Lớp quốc tế,,500,1
+TI,PV101,Tiếng Việt thực hành,,,2
+TI,SE302,Công nghệ phần mềm,IS332 (0),,2
+TI,SE312,Kiểm thử và đảm bảo chất lượng phần mềm,SE302 (0),,3
+TI,SE380,Project,SE302 (0),,3
+TI,SE422,Quản lý dự án phần mềm,SE302 (0),,3
+TI,SE487,CĐTN: Phát triển phần mềm,SE302 (0),117,6
+TI,SH131,Pháp luật đại cương,,,2
+TI,SM201,Phương pháp luận nghiên cứu khoa học,,36,3
+TI,ST450,Toeic,,,3
+TI,VL101,Tiếng Việt thực hành,,,2
+TI,VR201,Ẩm thực Việt Nam,,,3
+TI,VR203,Ẩm thực Việt Nam,,,4
+TI,VR203A,Ẩm thực Việt Nam,,,3
+TE,AC201,Nguyên lý kế toán,,40,3
+TE,AC210,Kế toán doanh nghiệp,AC201 (0),,3
+TE,AC321,Kế toán ngân hàng 1,"AC210 (0), BK201 (0)",,2
+TE,AC341,Kế toán quản trị,AC210 (0),,3
+TE,AC422,Kế toán ngân hàng 2,AC321 (0),,3
+TE,AD201,Kỹ năng giao tiếp và thuyết trình,,36,2
+TE,AD204,Ẩm thực Việt nam,,,4
+TE,AD204A,Ẩm thực Việt Nam,,,3
+TE,AD206,Ẩm thực Việt Nam,,,3
+TE,AD211,Văn hóa Hà Nội,,36,2
+TE,AD212,Phương pháp hùng biện và các thủ thuật tranh biện,,36,3
+TE,AD213,Hát – Nhạc,,,3
+TE,AD213A,Hát – Nhạc,,,4
+TE,AD214,Nâng cao chất lượng giọng hát,"AD213 (0), AD213A (1)",,3
+TE,AD215,Ứng dụng PowerPoint,"IS206 (1), IM201 (0), IM202 (2)",,3
+TE,AD216,Tâm lý và kỹ năng giao tiếp với người cao tuổi,,50,3
+TE,AD221,Kĩ năng giao lưu văn hóa,,,2
+TE,AD222,Thực hành giao lưu văn hoá,,,3
+TE,AD231,Thể thao,,,3
+TE,AD250,Dinh dưỡng và tiết chế,,,3
+TE,AD312,Bóng đá,,,4
+TE,AD313,Bóng đá nâng cao,AD312 (0),,4
+TE,AD314,Nhảy hiện đại,,,4
+TE,AD315,Nhảy hiện đại nâng cao,AD314 (0),,4
+TE,AD414,Toeic,GE305 (0),,2
+TE,AD420,Khởi nghiệp,,100,3
+TE,BA101,Quản trị học,,,2
+TE,BA102,Quản trị học đại cương,EC101 (1),,3
+TE,BA211A,Quản lý sản xuất và tác nghiệp,,,2
+TE,BA221,Phân tích và lập dự án đầu tư,"FN211 (0), FN211D (1)",,2
+TE,BA222,Phân tích và lập dự án,"FN211 (0), FN211D (1)",,3
+TE,BA313,Quản trị chiến lược,"BA101 (0), BA102 (1)",,3
+TE,BA314,Quản trị nguồn nhân lực,BA101 (1),,3
+TE,BA314A,Quản trị nguồn nhân lực,,,2
+TE,BA315,Văn hóa doanh nghiệp và đạo đức kinh doanh,,50,3
+TE,BA317,Quản trị nguồn nhân lực,"BA101 (0), BA102 (1)",,3
+TE,BA325,Nghiệp vụ xuất nhập khẩu,"BK321A (0), FN201 (1), BK321 (2), FN202 (3)",,2
+TE,BK201,Ngân hàng thương mại 1,"FN211 (1), FN211D (0), FN201A (2)",,3
+TE,BK302,Ngân hàng thương mại 2,BK201 (0),,3
+TE,BK321,Thanh toán quốc tế,"FN201 (0), FN202 (1)",,3
+TE,BK321A,Thanh toán quốc tế,FN201 (0),,2
+TE,BK324,Tín dụng quốc tế,BK201 (0),,2
+TE,BK423,Tài trợ dự án,BK302 (0),,2
+TE,CF201,Lý thuyết thuật toán,MI201 (0),,3
+TE,CF201A,Lý thuyết thuật toán 1,,,2
+TE,CF201B,Lý thuyết thuật toán 2,,,2
+TE,CF212,Cấu trúc dữ liệu,"CS122 (0), CS122A (1), CS122B (2)",,3
+TE,CF212A,Cấu trúc dữ liệu 1,,,2
+TE,CF212B,Cấu trúc dữ liệu 2,,,2
+TE,CG251,Minh họa với Adobe Illustration,PE201 (0),,2
+TE,CG253,Xử lý ảnh với Adobe Photoshop,PE201 (0),,3
+TE,CG254,Thiết kế QC và XBTT với Adobe Indesign,PE201 (0),,2
+TE,CG257,Thiết kế Web với Adobe Dream Weaver,PE201 (0),,2
+TE,CG275,Thiết kế Web động với Adobe Flash,PE201 (0),,3
+TE,CG277,Thiết kế Web động và HH với Adobe Flash,PE201 (0),,5
+TE,CG283,Biên tập và Streaming Video,PE201 (0),,3
+TE,CG285,Biên tập Audio - Video,PE201 (0),,4
+TE,CG288,Visual Effects - After Effects,PE201 (0),,2
+TE,CS100,Tin đại cương,,,2
+TE,CS100A,Nhập môn khoa học máy tính,,,2
+TE,CS101,Công dân số,,,2
+TE,CS110,Kỹ thuật số,"MA102 (0), MA101 (1)",,2
+TE,CS121,Ngôn ngữ lập trình,,,3
+TE,CS121A,Ngôn ngữ lập trình 1A,,,2
+TE,CS122,Lập trình hướng đối tượng,"CS121 (0), CS121A (1)",,3
+TE,CS122A,Lập trình hướng đối tượng,,,2
+TE,CS122B,Lập trình hướng đối tượng nâng cao,,,2
+TE,CS212,Kiến trúc máy tính,"CS110 (0), CS122 (0), CS122A (1), CS122B (1)",,3
+TE,CS212A,Kiến trúc máy tính 1,,,2
+TE,CS212B,Kiến trúc máy tính 2,,,2
+TE,CS223,Lập trình Java,"CS122 (0), CS122A (1), CS122B (2)",,3
+TE,CS223B,Lập trình Java nâng cao,,,2
+TE,CS224,Lập trình .Net,IS222 (0),,3
+TE,CS315,Nguyên lý hệ điều hành,"CS212 (0), CS212A (1), CS212B (2)",,3
+TE,CS315A,Hệ điều hành Unix,"CS121 (0), CS121A (1)",,3
+TE,CS316,Hệ điều hành Unix,"CS212 (0), CS212A (1), CS212B (2)",,3
+TE,CS324,Kỹ thuật lập trình,"CS122 (0), CS122A (1), CS122B (2)",,2
+TE,CS325,Lập trình PHP,"IS222 (0), IS222A (1), IS223A (2), IS224A (3)",,3
+TE,CS428,CĐTN: Công nghệ .Net,"CS223 (0), CS223B (1)",117,6
+TE,CS429,CĐTN: Công nghệ Java,CS224 (0),117,6
+TE,EC101,Kinh tế học đại cương,,,3
+TE,EC102,Nhập môn kinh tế học,,,2
+TE,EC202,Kinh tế vi mô,"EC101 (0), EC203A (1), EC203B (1)",,2
+TE,EC203,Kinh tế vĩ mô,"EC101 (0), EC203A (1), EC203B (1)",,2
+TE,EC203A,Kinh tế vĩ mô 1,,,2
+TE,EC203B,Kinh tế vĩ mô 2,,,2
+TE,EC204,Kinh tế vi mô,EC101 (1),,3
+TE,EC205,Kinh tế vĩ mô,EC101 (1),,3
+TE,EC221A,Luật kinh tế,,,3
+TE,ET220,Lý thuyết mạch,MA102 (0),,3
+TE,FN201,Lý thuyết tài chính tiền tệ,,48,3
+TE,FN201A,Lý thuyết tài chính tiền tệ,,,2
+TE,FN202,Lý thuyết tài chính tiền tệ,,48,3
+TE,FN211,Tài chính doanh nghiệp,"FN201 (0), AC201 (0), FN202 (1), AC201 (1)",,3
+TE,FN211D,Nhập môn tài chính doanh nghiệp,"FN201 (0), AC201 (0)",,2
+TE,FN212,Quản trị tài chính doanh nghiệp 1,"FN211 (0), FN211D (1)",,3
+TE,FN212A,Quản trị tài chính doanh nghiệp 1,,,3
+TE,FN213,Quản trị tài chính doanh nghiệp 1,FN211 (0),,3
+TE,FN221,Tài chính công,"FN201 (0), FN202 (1), FN201A (2)",,2
+TE,FN331,Thị trường chứng khoán,"FN211 (0), FN211D (1)",,3
+TE,FN331A,Thị trường chứng khoán,,,2
+TE,FN334,Đầu tư chứng khoán,FN211 (0),48,2
+TE,GE100,Tiếng Anh cho người mới bắt đầu,,,2
+TE,GE100A,Tiếng Anh cho người mới bắt đầu,,,0
+TE,GE101,Tiếng Anh sơ cấp 1,,,2
+TE,GE101A,Tiếng Anh sơ cấp 1,,,2
+TE,GE102,Tiếng Anh sơ cấp 2,"GE101A (1), GE101 (0)",,2
+TE,GE102A,Tiếng Anh sơ cấp 2,,,2
+TE,GE103,Tiếng Anh sơ cấp 3,"GE101 (0), GE102 (0), GE101 (1), GE102A (1), GE101A (2), GE102 (2), GE101A (3), GE102A (3)",,2
+TE,GE201,Tiếng Anh sơ trung cấp 1,"GE101A (0), GE102A (0), GE102 (1), GE103 (1), GE102A (2), GE103 (2)",,2
+TE,GE201A,Tiếng Anh sơ trung cấp 1,,,2
+TE,GE202,Tiếng Anh sơ trung cấp 2,"GE201A (0), GE102A (0), GE103 (1), GE201 (1), GE103 (2), GE201A (2), GE102A (3), GE201 (3)",,2
+TE,GE202A,Tiếng Anh sơ trung cấp 2,,,2
+TE,GE203,Kỹ năng giao tiếp tiếng Anh 1,"PE304 (0), PE305 (0), PE201 (1), PE302 (1), PE201 (2), PE305 (2), PE304 (3), PE302 (3)",,2
+TE,GE203A,Kỹ năng giao tiếp tiếng anh 1,,,2
+TE,GE204,Kỹ năng giao tiếp tiếng Anh 2,"PE305 (0), GE203 (0), PE305 (1), PE303 (1), PE302 (2), GE203 (2), PE302 (3), PE303 (3)",,2
+TE,GE205,Tiếng Anh sơ trung cấp 3,"GE201 (0), GE202 (0), GE201 (1), GE202A (1), GE201A (2), GE202 (2), GE201A (3), GE202A (3)",,2
+TE,GE301,Tiếng Anh trung cấp 1,"GE202A (0), GE202 (1), GE205 (1), GE202A (2), GE205 (2), GE201A (0)",,2
+TE,GE303,Tiếng Anh trung cấp 2,"GE205 (0), GE301 (0), GE301 (1), GE202A (1), GE202A (2), GE203 (2)",,2
+TE,GE305,Tiếng Anh trung cấp 3,"GE301 (0), GE303 (0), GE203 (1), GE204 (1), PE303 (2), PE404 (2)",,2
+TE,GE320A,TOEIC,,,2
+TE,GF101,Tiếng Pháp 1,,,2
+TE,GF102,Tiếng Pháp 2,GF101 (0),,2
+TE,GF223,Tiếng Pháp 3,GF102 (0),,2
+TE,GI101,Tiếng Ý 1,,,2
+TE,GI102,Tiếng Ý 2,GI101 (0),,2
+TE,GJ101,Tiếng Nhật 1,,,2
+TE,GJ102,Tiếng Nhật 2,GJ101 (0),,2
+TE,GK101,Tiếng Hàn 1,,,2
+TE,GK102,Tiếng Hàn 2,GK101 (0),,2
+TE,GZ101,Tiếng Trung 1,,,2
+TE,GZ102,Tiếng Trung 2,GZ101 (0),,2
+TE,GZ103,Tiếng Trung 3,GZ102 (0),,2
+TE,IFB10,Lý thuyết tài chính tiền tệ,,48,2
+TE,IM001,Kỹ năng CNTT cơ bản,,,0
+TE,IM002,Kỹ năng soạn thảo VB(MS Office),,36,3
+TE,IM003,Kỹ năng soạn thảo VB(open Office),,36,3
+TE,IM004,Ứng dụng Excel,,,3
+TE,IM201,Kỹ năng soạn thảo VB (MS office),IM001 (0),,3
+TE,IM202,Kỹ năng soạn thảo văn bản (Open Office),IM001 (0),,3
+TE,IM203,Ứng dụng Excel,"IM201 (0), IS206 (1)",,3
+TE,IM204,Ứng dụng Cal,IM202 (0),,3
+TE,IP403,Thực tập ngành Hệ thống thông tin,,107,2
+TE,IS009,Máy tính và Internet,,,1
+TE,IS101,Tin văn phòng,,,3
+TE,IS201,Tin quản lý Access,"IS206 (0), IS101 (1)",,3
+TE,IS206,Kĩ năng soạn thảo văn bản,IS009 (0),72,3
+TE,IS207,Ứng dụng Exel,IS206 (0),,3
+TE,IS222,Cơ sở dữ liệu,"CS121 (0), CS121 (1), MA102 (0), MA101 (1), MA101A (2), MA100A (2), CS121 (2), CS121 (3), MA103 (3)",,3
+TE,IS222A,Bài tập lớn về CSDL,,,2
+TE,IS223A,Cơ sở dữ liệu 2,,,2
+TE,IS224A,Cơ sở dữ liệu phân tán,,,2
+TE,IS301,Tin học văn phòng nâng cao,CS100 (0),100,3
+TE,IS314,Hệ thống thông tin,IS222 (0),,3
+TE,IS315,Mô hình hóa quy trình nghiệp vụ,IS314 (0),,2
+TE,IS316,Hạ tầng công nghệ thông tin,IS314 (0),,2
+TE,IS317,Hạ tầng công nghệ thông tin,,,2
+TE,IS320,Thực hành quản lý dự án hệ thống thông tin,SE320 (0),,3
+TE,IS322,Hệ quản trị cơ sở dữ liệu,"IS222 (0), IS222A (1), IS224A (2), IS223A (3)",,3
+TE,IS322E,Hệ quản trị cơ sở dữ liệu,,,4
+TE,IS325,Cơ sở dữ liệu phân tán,"IS222 (0), NW212 (0)",,2
+TE,IS326,Khai phá dữ liệu,IS322 (0),,3
+TE,IS327,Kho dữ liệu,IS322 (0),,3
+TE,IS328,Cơ sở dữ liệu nâng cao,IS322 (0),,3
+TE,IS332,Phân tích thiết kế hướng đối tượng,"CS122 (0), IS222 (0), CS122A (1), CS122B (2), IS222A (3), IS223A (4), IS224A (5)",,3
+TE,IS333,Phân tích thiết kế hệ thống thông tin,"IS222 (0), IS222A (1), IS223A (2), IS224A (3)",,2
+TE,IS333A,PT&TK hệ thống thông tin quản lý 1,,,2
+TE,IS333B,PT&TK hệ thống thông tin quản lý 2,,,2
+TE,IS334,Quản lý dự án hệ thống thông tin,"IS332 (0), SE302 (1)",,3
+TE,IS335,Phát triển ứng dụng doanh nghiệp,SE302 (0),,3
+TE,IS336,Triển khai và kiểm soát hệ thống thông tin doanh nghiệp,IS335 (0),,3
+TE,IS345,An toàn thông tin,,,3
+TE,IS381,Hệ thống thông tin quản lý,,90,3
+TE,IS382,Công nghệ thông tin trong doanh nghiệp,"BA101 (0), MK202 (2), MK201 (0), BA101 (2), MK202 (1), BA102 (1), BA102 (3), MK201 (3)",100,2
+TE,IS383,Hệ thống thông tin nâng cao,"IS332 (0), IS314 (1)",,2
+TE,IS384,Một số vấn đề hiện đại về hệ thống thông tin,IS383 (0),,3
+TE,IS424,Lập trình cơ sở dữ liệu,"IS332 (0), IS322 (1)",,3
+TE,IS480,Kiến trúc doanh nghiệp,IS383 (0),,3
+TE,IS481,Quản lý hệ thống thông tin chiến lược,IS383 (0),,3
+TE,IS484,CĐTN: Cơ sở dữ liệu,"IS322 (0), IS322E (1)",117,6
+TE,IS487,CĐTN: Hệ thống thông tin quản lý,"IS381 (0), IS332 (1)",110,6
+TE,IS487A,CĐTN: Công nghệ XML,,,6
+TE,IS488,CĐTN: Hệ thống thông tin doanh nghiệp,IS381 (0),110,6
+TE,IS489,CĐTN: Hệ thống thông tin ngân hàng,"IS381 (0), IS382 (1)",110,6
+TE,IS499,KLTN ngành Hệ thống thông tin,,127,6
+TE,MA100A,Toán 1,,,2
+TE,MA101,"Logic, suy luận toán học và kỹ thuật đếm (Tiếng Anh)",GE103 (0),,3
+TE,MA101A,"Logic, suy luận toán học và kỹ thuật đếm",,,3
+TE,MA102,Toán cơ sở,,,3
+TE,MA103,Số và cấu trúc đại số,,,3
+TE,MA104,Số và cấu trúc đại số,,,3
+TE,MA110,Giải tích 1,,,3
+TE,MA110A,Giải tích 1A,,,2
+TE,MA111,Giải tích 2,MA110 (0),,3
+TE,MA111A,Giải tích 2A,,,2
+TE,MA111B,Giải tích 2B,,,2
+TE,MA120,Đại số tuyến tính,,,3
+TE,MA120A,Đại số tuyến tính 1,,,2
+TE,MA120B,Đại số tuyến tính 2,,,2
+TE,MA142,"Đại số tuyến tính, giải tích và ứng dụng trong kinh tế","MA102 (1), MA100A (2), EC101 (0), EC101 (1), EC101 (2), MA101A (3), EC101 (3)",,4
+TE,MA142A,Đại số tuyến tính,,,2
+TE,MA142B,Giải tích trong kinh tế,"MA101 (0), MA102 (1)",,2
+TE,MA212,Phương trình vi phân,"MA111 (0), MA111A (1), MA111B (2)",,2
+TE,MA222,Đại số đại cương,"MA120 (0), MA120A (1), MA120B (2)",,2
+TE,MA230,Xác suất,"MA111 (0), MA111A (1), MA111B (2)",,3
+TE,MA231,Xác suất thống kê ứng dụng,"MA120A (6), MA110 (6), IS101 (6), CS100 (0), MA120 (0), IS101 (1), MA142 (1), MA142 (2), CS100 (3), MA120A (3), CS100A (4), MA120A (5), CS100A (5), CS100A (7), MA142 (7), CS100 (8), MA142 (8), IS009 (9), MA120 (4), MA142 (9), IM201 (6), MA142 (6)",,4
+TE,MA231A,Thống kê 1,,,2
+TE,MA231B,Thống kê 2,,,2
+TE,MA241,Toán tài chính,"MA142 (0), MA142B (1), MA142A (1), MA110 (2), MA111 (2), MA120A (2)",,2
+TE,MI201,Toán rời rạc,CS122 (0),,3
+TE,MI312,Đồ họa,"CS122 (0), MA120 (0), CS122A (1), CS122B (2), MA120A (3), MA120B (4)",,2
+TE,MI321,Trí tuệ nhân tạo,"CF212 (0), CF212A (1), CF212B (2), MI201 (0), MI201 (1), MI201 (2)",,3
+TE,MK201,Nguyên lý marketing,"EC101 (0), EC203A (1), EC203B (1)",,2
+TE,MK202,Marketing căn bản,EC101 (0),,3
+TE,MK311,Quản trị Marketing,MK201 (0),,3
+TE,MK312,Quản trị thương hiệu,MK201 (0),,2
+TE,MK313,Quản trị thương hiệu,"MK201 (0), MK202 (1)",,3
+TE,MK331,Marketing ngân hàng,"MK201 (0), BK201 (0)",,2
+TE,MK333,Marketing dịch vụ,"MK201 (0), MK202 (1)",,2
+TE,MK423,Quan hệ cộng đồng,,50,2
+TE,MK424,Quản trị bán hàng,"MK201 (0), MK202 (1)",,3
+TE,ML101,Những NLCB của chủ nghĩa Mác - Lênin,,,5
+TE,ML111,Triết học Mác – Lênin,,,2
+TE,ML112,Kinh tế chính trị và CNXH khoa học,,,3
+TE,ML112A,Kinh tế chính trị,,,3
+TE,ML112B,Chủ nghĩa xã hội khoa học,,,2
+TE,ML202,Tư tưởng Hồ Chí Minh,"ML111 (0), ML101 (1), ML112A (2), ML112B (3)",,2
+TE,ML203,Đường lối cách mạng của Đảng CS Việt Nam,ML202 (0),,3
+TE,NA151,Khoa học môi trường,,,2
+TE,NW210,Hệ thống mạng máy tính,CS100 (0),,3
+TE,NW212,Mạng máy tính,"CS212 (0), CS212A (1), CS212B (2)",,2
+TE,NW212A,Internet,,,2
+TE,NW312,Thiết kế và quản trị mạng,"NW212 (0), NW212A (1)",,3
+TE,NW312A,Thiết kế quản trị mạng,,,4
+TE,NW322,Lập trình mạng,"NW312 (0), NW312A (1)",,2
+TE,NW332,An toàn mạng,"NW312 (0), NW312A (1)",,3
+TE,NW332A,An toàn mạng,,,4
+TE,NW439,CĐTN: An toàn mạng,"NW312 (0), NW312A (1)",117,6
+TE,PE201,Tiếng Anh trong tin học 1A,"GE202 (0), GE201 (0)",,2
+TE,PE221,Tiếng Anh doanh nghiệp 1A,"GE202 (0), GE201 (0)",,2
+TE,PE302,Tiếng Anh trong tin học 1B,"GE202 (0), PE201 (0)",,2
+TE,PE303,Tiếng Anh trong tin học 2A,"PE201 (0), PE302 (0)",,2
+TE,PE304,Tiếng Anh trong tin học 1,"GE201 (0), GE202 (0), GE201 (1), GE202A (1), GE201A (2), GE202A (2)",,2
+TE,PE305,Tiếng Anh trong tin học 2,"PE304 (0), GE202 (0), GE202 (1), PE201 (1), GE202A (2), PE304 (2), GE202A (3), PE201 (3)",,2
+TE,PE322,Tiếng Anh doanh nghiệp 1B,"PE221 (0), GE202 (0)",,2
+TE,PE323,Tiếng Anh doanh nghiệp 2A,"PE322 (0), PE221 (0)",,2
+TE,PE404,Tiếng Anh trong tin học 2B,"PE303 (0), PE302 (0)",,2
+TE,PE424,Tiếng Anh doanh nghiệp 2B,"PE323 (0), PE322 (0)",,2
+TE,PG100,Giáo dục thể chất,,,4
+TE,PG100A,Giáo dục thể chất,,,4
+TE,PG101,GDTC: Lý thuyết,,,1
+TE,PG102,GDTC: Thể dục cổ truyền cơ bản,,,1
+TE,PG103,GDTC: Thể dục cổ truyền nâng cao,PG102 (0),,1
+TE,PG104,GDTC: Cầu lông cơ bản,,,1
+TE,PG105,GDTC: Cầu lông nâng cao,PG104 (0),,1
+TE,PG106,GDTC: Bóng bàn cơ bản,,,1
+TE,PG107,GDTC: Bóng bàn nâng cao,PG106 (0),,1
+TE,PG108,GDTC: Thể dục nhịp điệu cơ bản,,,1
+TE,PG109,GDTC: Thể dục nhịp điệu nâng cao,PG108 (0),,1
+TE,PG110,GDTC: Bơi cơ bản,,,1
+TE,PG111,GDTC: Khiêu vũ thể thao cơ bản,,,1
+TE,PG112,GDTC: Khiêu vũ thể thao nâng cao,PG111 (0),,1
+TE,PG113,GDTC: Bóng rổ cơ bản,,,1
+TE,PG114,GDTC: Bóng rổ nâng cao,PG113 (0),,1
+TE,PG115,GDTC: Bóng chuyền cơ bản,,,1
+TE,PG116,GDTC: Bóng chuyền nâng cao,PG115 (0),,1
+TE,PG117,GDTC: Thể dục dã ngoại,,,1
+TE,PG118,GDTC: Thể dục cơ bản,,,1
+TE,PG119,GDTC: Thể dục Erobic,,,1
+TE,PG120,Thể dục cơ bản nâng cao,PG118 (0),,1
+TE,PG121,Giáo dục quốc phòng,,,4
+TE,PG121D,Đường lối quân sự của Đảng,,,2
+TE,PG121E,Công tác quốc phòng - an ninh,,,2
+TE,PG122,GDQP: Đường lối quân sự của Đảng,,,1
+TE,PG123,GDQP: Công tác quốc phòng - an ninh,,,1
+TE,PG124,GDQP: Quân sự chung,,,1
+TE,PG125,GDQP: Kỹ thuật bắn súng,,,1
+TE,PG131,GDTC: Bóng rổ nâng cao 1,,,1
+TE,PG132,GDTC: Bóng rổ nâng cao 2,,,1
+TE,PG133,GDTC: Bóng rổ nâng cao 3,,,1
+TE,PG134,GDTC: Bóng rổ nâng cao 4,,,1
+TE,PG141,GDTC: Bóng chuyền nâng cao 1,,,1
+TE,PG142,GDTC: Bóng chuyền nâng cao 2,,,1
+TE,PG143,GDTC: Bóng chuyền nâng cao 3,,,1
+TE,PG144,GDTC: Bóng chuyền nâng cao 4,,,1
+TE,PG150,Bóng đá,,,4
+TE,PG151,Bóng đá nâng cao,,,4
+TE,PG160,Nhảy hiện đại,,,4
+TE,PG161,Nhảy hiện đại nâng cao,,,4
+TE,PV101,Tiếng Việt thực hành,,,2
+TE,SC201,Kỹ năng giao tiếp và thuyết trình,,36,2
+TE,SE302,Công nghệ phần mềm,IS332 (0),,2
+TE,SE312,Kiểm thử và đảm bảo chất lượng phần mềm,SE302 (0),,3
+TE,SE320,Quản lý dự án công nghệ thông tin,SE302 (0),,3
+TE,SE422,Quản lý dự án phần mềm,SE302 (0),,3
+TE,SE487,CĐTN: Phát triển phần mềm,SE302 (0),117,6
+TE,SH131,Pháp luật đại cương,,,2
+TE,SM201,Phương pháp luận nghiên cứu khoa học,,36,3
+TE,ST450,Toeic,,,3
+TE,TE499,KLTN Hệ thống thông tin quản lý,,120,6
+TE,VL101,Tiếng Việt thực hành,,,2
+TE,VR201,Ẩm thực Việt Nam,,,3
+TE,VR203,Ẩm thực Việt Nam,,,4
+TE,VR203A,Ẩm thực Việt Nam,,,3

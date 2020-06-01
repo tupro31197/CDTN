@@ -8,8 +8,8 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Document(collection = "department")
 public class Department {
     @Id
-    private String id;
+    private String _id;
     private String departmentId;
     private String departmentName;
-    private String isDeleted;
+    private boolean isDeleted;
 }

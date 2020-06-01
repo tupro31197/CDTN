@@ -8,7 +8,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Document(collection = "finalGrade")
 public class FinalGrade {
     @Id
-    private String id;
+    private String _id;
     private String studentId;
     private String subjectId;
     private String grade;

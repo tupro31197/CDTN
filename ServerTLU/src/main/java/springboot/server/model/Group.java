@@ -8,6 +8,6 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Document(collection = "group")
 public class Group {
     @Id
-    private String id;
+    private String _id;
     private String name;
 }

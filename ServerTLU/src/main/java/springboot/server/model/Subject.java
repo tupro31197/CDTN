@@ -8,11 +8,12 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Document(collection = "subject")
 public class Subject {
     @Id
-    private String id;
+    private String _id;
     private String subjectId;
+    private String name;
     private String groupSubjectId;
     private String credit;
     private String theory;
     private String practice;
-    private String isDeleted;
+    private boolean isDeleted;
 }
